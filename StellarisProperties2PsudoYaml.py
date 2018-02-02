@@ -1,8 +1,5 @@
-## Programmed by WovNyx
-## uses MIT Lisence
+## Programmed by Github/WovNyx
 
-from yaml import Loader, Dumper
-from yaml import load, dump
 import os
 
 ## actually this thing is not real yml file..
