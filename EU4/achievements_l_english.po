@@ -1,0 +1,2057 @@
+# Jeff Kang <topbla@naver.com>, 2017. #zanata
+# bjrj <asap1993@naver.com>, 2017. #zanata
+# daniel choi <dani5540@naver.com>, 2017. #zanata
+# fmman8 <fmman8@gmail.com>, 2017. #zanata
+# muelleri2075 <sukjinkim321@naver.com>, 2017. #zanata
+# 프리드 <msktktk@naver.com>, 2017. #zanata
+# muelleri2075 <sukjinkim321@naver.com>, 2018. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-02 06:38-0500\n"
+"Last-Translator: muelleri2075 <sukjinkim321@naver.com>\n"
+"Language-Team: Korean (South Korea)\n"
+"Language: ko\n"
+"X-Generator: Zanata 3.9.6\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgctxt "NEW_ACHIEVEMENT_1_2_NAME코0"
+msgid "For the Glory"
+msgstr "영광을 위해"
+
+msgctxt "NEW_ACHIEVEMENT_1_2_DESC코0"
+msgid "Diplo-annex a vassal."
+msgstr "속국을 외교적으로 합병하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_1_3_NAME코0"
+msgid "That's a Grand Army"
+msgstr "이것이 대육군이다"
+
+msgctxt "NEW_ACHIEVEMENT_1_3_DESC코0"
+msgid "Build up your army to your country's maximum army forcelimit."
+msgstr "육군 병력의 한계치까지 병력을 증강하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_1_4_NAME코0"
+msgid "That's a Grand Navy"
+msgstr "이것이 대해군이다"
+
+msgctxt "NEW_ACHIEVEMENT_1_4_DESC코0"
+msgid "Build up your navy to your country's maximum navy forcelimit."
+msgstr "해군 병력 한계치까지 해군을 증강하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_1_5_NAME코0"
+msgid "Defender of the Faith"
+msgstr "신앙의 수호자"
+
+msgctxt "NEW_ACHIEVEMENT_1_5_DESC코0"
+msgid "Become Defender of the Faith."
+msgstr "신앙의 수호자가 되십시오."
+
+msgctxt "NEW_ACHIEVEMENT_1_6_NAME코0"
+msgid "Until death do us apart"
+msgstr "죽음이 우리를 갈라놓을 때까지"
+
+msgctxt "NEW_ACHIEVEMENT_1_6_DESC코0"
+msgid "Secure a Royal Marriage with another country."
+msgstr "다른 국가와 왕실 결혼관계를 맺으십시오."
+
+msgctxt "NEW_ACHIEVEMENT_1_7_NAME코0"
+msgid "That is mine!"
+msgstr "그건 내 거야!"
+
+msgctxt "NEW_ACHIEVEMENT_1_7_DESC코0"
+msgid "Conquer a province."
+msgstr "한 지역을 정복하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_1_8_NAME코0"
+msgid "Victorious!"
+msgstr "승리를 거두다!"
+
+msgctxt "NEW_ACHIEVEMENT_1_8_DESC코0"
+msgid "Win a war."
+msgstr "전쟁에 승리하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_1_9_NAME코0"
+msgid "The Emperors new clothes"
+msgstr "벌거벗은 임금님"
+
+msgctxt "NEW_ACHIEVEMENT_1_9_DESC코0"
+msgid "Overthrow Austria and become the Emperor of the Holy Roman Empire."
+msgstr "오스트리아를 끌어내리고 신성로마제국의 황제가 되십시오."
+
+msgctxt "NEW_ACHIEVEMENT_1_10_NAME코0"
+msgid "Down Under"
+msgstr "지구의 반대편"
+
+msgctxt "NEW_ACHIEVEMENT_1_10_DESC코0"
+msgid "Have a colony in Australia."
+msgstr "오스트레일리아에 식민지를 건설하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_1_11_NAME코0"
+msgid "Isn't this the way to India?"
+msgstr "이게 인도로 가는 길인가요?"
+
+msgctxt "NEW_ACHIEVEMENT_1_11_DESC코0"
+msgid "Discover the Americas as Castile or Spain."
+msgstr "카스티야 또는 스페인으로 아메리카 대륙을 발견하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_1_12_NAME코0"
+msgid "Azur semé de lis or"
+msgstr "쪽빛 방패에 수놓은 금색 백합"
+
+msgctxt "NEW_ACHIEVEMENT_1_12_DESC코0"
+msgid "Get all the French Cores as France."
+msgstr "프랑스로 모든 프랑스 지역의 코어를 획득하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_1_13_NAME코0"
+msgid "Not so sad a state..."
+msgstr "그렇게 많이 슬프지는 않아요..."
+
+msgctxt "NEW_ACHIEVEMENT_1_13_DESC코0"
+msgid "As Portugal, have a colony in Brazil and in Africa."
+msgstr "포르투갈로 브라질과 아프리카에 식민지를 건설하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_1_14_NAME코0"
+msgid "Seriously?!"
+msgstr "진심이야?!"
+
+msgctxt "NEW_ACHIEVEMENT_1_14_DESC코0"
+msgid "Kill 10,000 men in one battle."
+msgstr "한 번의 전투에서 10,000명을 죽이십시오."
+
+msgctxt "NEW_ACHIEVEMENT_1_15_NAME코0"
+msgid "It's all about the money"
+msgstr "돈이 최고야"
+
+msgctxt "NEW_ACHIEVEMENT_1_15_DESC코0"
+msgid "Accumulate 3000 gold."
+msgstr "3,000골드를 모으십시오."
+
+msgctxt "NEW_ACHIEVEMENT_1_16_NAME코0"
+msgid "Respected"
+msgstr "존경받는 자"
+
+msgctxt "NEW_ACHIEVEMENT_1_16_DESC코0"
+msgid "Have 100 prestige, 100 legitimacy and three stability."
+msgstr "100의 위신, 100의 정통성, +3의 안정도를 동시에 획득하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_1_17_NAME코0"
+msgid "True Catholic"
+msgstr "진정한 가톨릭신자"
+
+msgctxt "NEW_ACHIEVEMENT_1_17_DESC코0"
+msgid "Control three Cardinals."
+msgstr "세 명의 추기경들을 통제하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_1_18_NAME코0"
+msgid "Truly Divine Ruler"
+msgstr "진정 하늘이 내린 통치자"
+
+msgctxt "NEW_ACHIEVEMENT_1_18_DESC코0"
+msgid "Get a 5/5/5 Ruler."
+msgstr "5/5/5의 통치자를 얻으십시오."
+
+msgctxt "NEW_ACHIEVEMENT_1_19_NAME코0"
+msgid "Italian Ambition"
+msgstr "이탈리아에서의 야망"
+
+msgctxt "NEW_ACHIEVEMENT_1_19_DESC코0"
+msgid "Form Italy."
+msgstr "이탈리아(Italy)를 건국하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_1_20_NAME코0"
+msgid "Cold War"
+msgstr "냉전"
+
+msgctxt "NEW_ACHIEVEMENT_1_20_DESC코0"
+msgid "Win a war without fighting a single battle."
+msgstr "단 한 차례의 전투도 벌이지 않고 전쟁에서 이기십시오."
+
+msgctxt "NEW_ACHIEVEMENT_1_21_NAME코0"
+msgid "Royal Authority"
+msgstr "왕권"
+
+msgctxt "NEW_ACHIEVEMENT_1_21_DESC코0"
+msgid "Install an union through a succession war."
+msgstr "계승 전쟁을 통해 연합을 결성하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_1_22_NAME코0"
+msgid "Viva la Revolución!"
+msgstr "혁명 만세!"
+
+msgctxt "NEW_ACHIEVEMENT_1_22_DESC코0"
+msgid "Have rebels you support in another country enforce their demands."
+msgstr "당신이 지원하고 있는 타국내의 반란군의 요구사항을 관철시키십시오."
+
+msgctxt "NEW_ACHIEVEMENT_1_23_NAME코0"
+msgid "Brothers in Arms"
+msgstr "군사적 형제"
+
+msgctxt "NEW_ACHIEVEMENT_1_23_DESC코0"
+msgid "Win a war as a secondary participant."
+msgstr "보조 참전국으로서 전쟁에서 이기십시오."
+
+msgctxt "NEW_ACHIEVEMENT_1_24_NAME코0"
+msgid "No Pirates in my Caribbean"
+msgstr "내 카리브 해에 해적이란 없다"
+
+msgctxt "NEW_ACHIEVEMENT_1_24_DESC코0"
+msgid "Own or have a subject own the entire Caribbean."
+msgstr "카리브 해 권역 전체를 소유하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_1_25_NAME코0"
+msgid "Master of India"
+msgstr "인도의 주인"
+
+msgctxt "NEW_ACHIEVEMENT_1_25_DESC코0"
+msgid "Own and have cores on all of India as a European nation."
+msgstr "유럽 국가로 인도 권역 전체를 소유하고 코어를 생성하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_1_26_NAME코0"
+msgid "Sweden is not overpowered!"
+msgstr "스웨덴이 미쳐 날뛰고 있습니다!"
+
+msgctxt "NEW_ACHIEVEMENT_1_26_DESC코0"
+msgid "Own and have cores on the entire Baltic coastline as Sweden."
+msgstr "스웨덴(Sweden)으로 발트 해 권역의 해안선 전체를 소유하고 코어를 생성하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_1_27_NAME코0"
+msgid "My armies are invincible!"
+msgstr "우리 육군은 천하무적!"
+
+msgctxt "NEW_ACHIEVEMENT_1_27_DESC코0"
+msgid "Gain at least 7.0 land morale."
+msgstr "7.0 이상의 육군 사기를 획득하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_1_28_NAME코0"
+msgid "This navy can take it all"
+msgstr "이런 해군이라면 모든 것을 가질 수 있어"
+
+msgctxt "NEW_ACHIEVEMENT_1_28_DESC코0"
+msgid "Gain at least 7.0 naval morale."
+msgstr "7.0 이상의 해군 사기를 획득하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_1_29_NAME코0"
+msgid "The pen is mightier than the sword"
+msgstr "펜은 칼보다 강하다"
+
+msgctxt "NEW_ACHIEVEMENT_1_29_DESC코0"
+msgid "Have three unions at the same time as Austria."
+msgstr "오스트리아(Austria)로 동시에 3개의 연합을 결성하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_1_30_NAME코0"
+msgid "Traditional Player"
+msgstr "전통적인 플레이어"
+
+msgctxt "NEW_ACHIEVEMENT_1_30_DESC코0"
+msgid "More than 90 percent Naval and Army Tradition."
+msgstr "90% 이상의 해군 전통과 육군 전통을 획득하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_1_31_NAME코0"
+msgid "It's all about luck"
+msgstr "행운이 최고야"
+
+msgctxt "NEW_ACHIEVEMENT_1_31_DESC코0"
+msgid "Win a battle against a great leader, without a leader."
+msgstr "지휘관이 없는 상태로 위대한 지휘관을 상대로 한 전투에서 이기십시오."
+
+msgctxt "NEW_ACHIEVEMENT_6_0_NAME코0"
+msgid "All belongs to Mother Russia"
+msgstr "모든 것은 어머니 러시아에게로"
+
+msgctxt "NEW_ACHIEVEMENT_6_0_DESC코0"
+msgid "Start as a country of Russian culture and form Russia."
+msgstr "러시아 문화권 국가로 시작하여 러시아(Russia)를 형성하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_6_1_NAME코0"
+msgid "At every continent"
+msgstr "모든 대륙에서"
+
+msgctxt "NEW_ACHIEVEMENT_6_1_DESC코0"
+msgid "Own one province on each continent."
+msgstr "각 대륙마다 적어도 하나의 지역을 소유하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_6_2_NAME코0"
+msgid "Spain is the Emperor"
+msgstr "스페인이 황제랍니다"
+
+msgctxt "NEW_ACHIEVEMENT_6_2_DESC코0"
+msgid "Become the Emperor of the Holy Roman Empire as Spain."
+msgstr "스페인(Spain)으로 신성로마제국의 황제가 되십시오."
+
+msgctxt "NEW_ACHIEVEMENT_6_3_NAME코0"
+msgid "An early Reich"
+msgstr "좀 이른 제국"
+
+msgctxt "NEW_ACHIEVEMENT_6_3_DESC코0"
+msgid "Form Germany."
+msgstr "독일(Germany)을 형성하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_6_4_NAME코0"
+msgid "Poland can into space"
+msgstr "폴란드는 우주로 갈 수 있어"
+
+msgctxt "NEW_ACHIEVEMENT_6_4_DESC코0"
+msgid "As Poland, reach the maximum level in all technologies (32)."
+msgstr "폴란드(Poland)로 모든 기술의 최대 레벨(32)에 도달하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_6_5_NAME코0"
+msgid "World Discoverer"
+msgstr "세계의 발견자"
+
+msgctxt "NEW_ACHIEVEMENT_6_5_DESC코0"
+msgid "Discover all non-wasteland land provinces."
+msgstr "모든 비-황무지 육지 프로빈스들을 발견하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_6_6_NAME코0"
+msgid "The Chrysanthemum Throne"
+msgstr "국화 왕좌"
+
+msgctxt "NEW_ACHIEVEMENT_6_6_DESC코0"
+msgid "Unite Japan as a Daimyo."
+msgstr "다이묘로 일본 권역을 통합하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_6_7_NAME코0"
+msgid "Basileus"
+msgstr "바실레우스"
+
+msgctxt "NEW_ACHIEVEMENT_6_7_DESC코0"
+msgid "As Byzantium, restore the Roman Empire."
+msgstr "비잔티움으로, 로마 제국을 복원하십시오"
+
+msgctxt "NEW_ACHIEVEMENT_6_8_NAME코0"
+msgid "Agressive Expander"
+msgstr "공격적인 영토 확장자"
+
+msgctxt "NEW_ACHIEVEMENT_6_8_DESC코0"
+msgid "Own 200 provinces."
+msgstr "200개의 지역을 소유하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_6_9_NAME코0"
+msgid "A Kaiser not just in name"
+msgstr "명불허전 카이저"
+
+msgctxt "NEW_ACHIEVEMENT_6_9_DESC코0"
+msgid "Enact all reforms in the Holy Roman Empire."
+msgstr "신성로마제국 내의 모든 개혁 법안을 제정하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_6_10_NAME코0"
+msgid "Norwegian Wood"
+msgstr "노르웨이의 숲"
+
+msgctxt "NEW_ACHIEVEMENT_6_10_DESC코0"
+msgid "Own or have a subject own all naval supplies provinces as Norway."
+msgstr "노르웨이(Norway)로 해군 보급품을 생산하는 모든 지역을 직접, 혹은 속국을 통해 소유하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_6_11_NAME코0"
+msgid "African Power"
+msgstr "아프리카의 강대국"
+
+msgctxt "NEW_ACHIEVEMENT_6_11_DESC코0"
+msgid "Own and have cores on all provinces in Africa as Kongo."
+msgstr "콩고(Kongo)로 아프리카의 모든 지역을 소유하고 코어를 생성하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_6_12_NAME코0"
+msgid "No Trail of Tears"
+msgstr "눈물의 길은 이제 없어"
+
+msgctxt "NEW_ACHIEVEMENT_6_12_DESC코0"
+msgid ""
+"Own and have cores on the Thirteen Colonies as Cherokee with all "
+"institutions embraced."
+msgstr "체로키(Cherokee)로 7개의 시대관을 모두 수용하고 13개 식민지 지역을 소유하고 코어를 생성하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_6_13_NAME코0"
+msgid "One Night in Paris"
+msgstr "파리에서의 하룻밤"
+
+msgctxt "NEW_ACHIEVEMENT_6_13_DESC코0"
+msgid ""
+"Start as England, own and have a core on Paris (do not form another country "
+"unless it's Great Britain)."
+msgstr ""
+"잉글랜드(England)로 시작하여 파리(Paris)를 소유하고 코어를 생성하십시오 (대영제국(Great Britain)이 아닌 다른 "
+"국가를 형성하면 안됩니다)."
+
+msgctxt "NEW_ACHIEVEMENT_6_14_NAME코0"
+msgid "Definitely the Sultan of Rum"
+msgstr "틀림없는 룸의 술탄"
+
+msgctxt "NEW_ACHIEVEMENT_6_14_DESC코0"
+msgid "Own and have cores on Rome, Moscow and Istanbul as Ottomans."
+msgstr ""
+"오스만(Ottomans)으로 로마(Rome), 모스크바(Moscow), 이스탄불(Istanbul)을 소유하고 코어를 생성하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_6_15_NAME코0"
+msgid "Market Control"
+msgstr "시장 지배"
+
+msgctxt "NEW_ACHIEVEMENT_6_15_DESC코0"
+msgid "Be trade leader of seven different goods."
+msgstr "서로 다른 7개 상품의 무역 주도국이 되십시오."
+
+msgctxt "NEW_ACHIEVEMENT_6_16_NAME코0"
+msgid "Ruina Imperii"
+msgstr "제국의 붕괴"
+
+msgctxt "NEW_ACHIEVEMENT_6_16_DESC코0"
+msgid "Dismantle the Holy Roman Empire."
+msgstr "신성로마제국을 해체하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_6_17_NAME코0"
+msgid "World Conqueror"
+msgstr "세계 정복자"
+
+msgctxt "NEW_ACHIEVEMENT_6_17_DESC코0"
+msgid "Own or have a subject own the entire world."
+msgstr "전세계를 소유하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_6_18_NAME코0"
+msgid "The Three Mountains"
+msgstr "삼산시대"
+
+msgctxt "NEW_ACHIEVEMENT_6_18_DESC코0"
+msgid "Own or have a subject own the entire world as Ryukyu."
+msgstr "류큐(Ryukyu)로 전세계를 직접 혹은 속국으로 소유하십시오"
+
+msgctxt "NEW_ACHIEVEMENT_6_19_NAME코0"
+msgid "Jihad"
+msgstr "지하드"
+
+msgctxt "NEW_ACHIEVEMENT_6_19_DESC코0"
+msgid "As Najd, own 500 Sunni provinces."
+msgstr "네지드(Najd)로 500개의 수니(Sunni)지역을 소유하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_6_21_NAME코0"
+msgid "Sunset Invasion"
+msgstr " 석양의 침략"
+
+msgctxt "NEW_ACHIEVEMENT_6_21_DESC코0"
+msgid ""
+"Own and have cores on Lisbon, Madrid, Paris, London, Amsterdam and Rome as "
+"the Aztecs."
+msgstr ""
+"아즈텍(Aztec)으로 리스본(Lisbon), 마드리드(Madrid), 파리(Paris), 런던(London), "
+"암스테르담(Amsterdam), 로마(Rome)를 소유하고 코어를 생성하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_6_22_NAME코0"
+msgid "Luck of the Irish"
+msgstr "운수 좋은 날"
+
+msgctxt "NEW_ACHIEVEMENT_6_22_DESC코0"
+msgid "Own and have cores on the British Isles as an Irish nation."
+msgstr "아일랜드 문화권 국가로 영국 제도를 정복하고 코어를 생성하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_6_23_NAME코0"
+msgid "Trade Hegemon"
+msgstr "무역 패권국"
+
+msgctxt "NEW_ACHIEVEMENT_6_23_DESC코0"
+msgid ""
+"Starting as any European country, conquer and have cores on Aden, Hormoz and "
+"Malacca."
+msgstr "유럽 국가로 시작하여 아덴(Aden), 호메즈(Hormez), 말라카(Malacca)를 정복하고 코어를 생성하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_6_24_NAME코0"
+msgid "Winged Hussars"
+msgstr "윙드 후사르"
+
+msgctxt "NEW_ACHIEVEMENT_6_24_DESC코0"
+msgid ""
+"Have Winged Hussars as your active unit with more than +50% cavalry combat "
+"ability."
+msgstr "+50% 이상의 기병 전투력과 함께 윙드 후사르를 당신의 유닛으로 소유하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_6_25_NAME코0"
+msgid "Grand Coalition"
+msgstr "대연정"
+
+msgctxt "NEW_ACHIEVEMENT_6_25_DESC코0"
+msgid "Join a coalition of more than 5 nations."
+msgstr "다섯 국가 이상으로 구성된 반국가동맹에 참여하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_6_26_NAME코0"
+msgid "Double the Love"
+msgstr "사랑을 두배로"
+
+msgctxt "NEW_ACHIEVEMENT_6_26_DESC코0"
+msgid "Start with no unions and get two at the same time."
+msgstr "동군연합 없이 시작하여 둘 이상의 동군연합을 동시에 유지하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_6_27_NAME코0"
+msgid "Just a Little Patience"
+msgstr "약간의 인내"
+
+msgctxt "NEW_ACHIEVEMENT_6_27_DESC코0"
+msgid "Play a campaign from 1444 until 1820."
+msgstr "1444년부터 1820년까지 캠페인을 플레이 하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_6_28_NAME코0"
+msgid "Liberty or Death"
+msgstr "자유가 아니면 죽음을"
+
+msgctxt "NEW_ACHIEVEMENT_6_28_DESC코0"
+msgid ""
+"Start as USA in 1776 bookmark and own all your cores while being at peace."
+msgstr "1776년 북마크에서 미국(USA)으로 시작하여 평화 중인 상태로 당신의 코어를 모두 소유하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_6_29_NAME코0"
+msgid "Nobody wants to die"
+msgstr "죽고 싶은 사람은 없다"
+
+msgctxt "NEW_ACHIEVEMENT_6_29_DESC코0"
+msgid "Own Timbuktu as Songhai"
+msgstr "송가이(Songhai)로 팀북투(Timbuktu)를 소유하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_6_30_NAME코0"
+msgid "Turning the Tide"
+msgstr "조류를 바꾸다"
+
+msgctxt "NEW_ACHIEVEMENT_6_30_DESC코0"
+msgid "Start as a Steppe Horde in 1444 and embrace all institutions."
+msgstr "Steppe Horde로 1444년에 시작하여  모든 시대관을 수용하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_6_31_NAME코0"
+msgid "In the Name of the Father"
+msgstr "성부의 이름으로"
+
+msgctxt "NEW_ACHIEVEMENT_6_31_DESC코0"
+msgid "As an Orthodox country, have 100 Patriarch Authority."
+msgstr "정교회(Orthodox) 국가로, 대주교 권위를 100 이상 가지십시오."
+
+msgctxt "NEW_ACHIEVEMENT_7_0_NAME코0"
+msgid "The Rising Sun"
+msgstr "떠오르는 태양"
+
+msgctxt "NEW_ACHIEVEMENT_7_0_DESC코0"
+msgid "Own and have cores on all of Japan as a European nation."
+msgstr "유럽 국가로 일본(Japan) 전역과 그 코어를 소유하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_7_1_NAME코0"
+msgid "The Five Colonies"
+msgstr "다섯 식민지"
+
+msgctxt "NEW_ACHIEVEMENT_7_1_DESC코0"
+msgid "Have five colonial nations."
+msgstr "다섯 개의 식민지 국가를 소유하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_7_2_NAME코0"
+msgid "The Re-Reconquista"
+msgstr "다시 한번 레콩키스타"
+
+msgctxt "NEW_ACHIEVEMENT_7_2_DESC코0"
+msgid "As Granada, form Andalusia and reconquer all of Iberia."
+msgstr "그라나다(Granada)로 안달루시아(Andalusia)를 형성하고 이베리아 전역을 재정복하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_7_3_NAME코0"
+msgid "Turn the Table"
+msgstr "형세 역전"
+
+msgctxt "NEW_ACHIEVEMENT_7_3_DESC코0"
+msgid ""
+"As a colony, break free and vassalize your former overlord without forming "
+"any other nation."
+msgstr "식민지 국가로 다른 나라를 형성하지 않고 해방되어 당신의 이전 종주국을 속국화하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_7_4_NAME코0"
+msgid "The Great Khan"
+msgstr "위대한 칸"
+
+msgctxt "NEW_ACHIEVEMENT_7_4_DESC코0"
+msgid ""
+"Starting as Mongolia or Great Horde, own or have a subject own the Chinese, "
+"Russian and Persian regions."
+msgstr ""
+"몽골(Mongolia) 또는 대 올다(Great Horde)로 시작하여 중국, 러시아, 페르시아 지역을 소유하거나 이를 소유하는 속국을 "
+"가지십시오. "
+
+msgctxt "NEW_ACHIEVEMENT_7_5_NAME코0"
+msgid "Four For Trade"
+msgstr "무역을 위한 4가지"
+
+msgctxt "NEW_ACHIEVEMENT_7_5_DESC코0"
+msgid "Form four Trade Companies and get bonus merchants from all of them."
+msgstr "4개의 무역회사를 형성하고 그들 모두에서 보너스 상인을 얻으십시오."
+
+msgctxt "NEW_ACHIEVEMENT_7_6_NAME코0"
+msgid "The Grand Armada"
+msgstr "무적함대(Grand Armada)"
+
+msgctxt "NEW_ACHIEVEMENT_7_6_DESC코0"
+msgid "Have 500 heavy ships and no loans."
+msgstr "대출 없이 500척의 대형선을 보유하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_7_7_NAME코0"
+msgid "Je maintiendrai"
+msgstr "나는 유지할 것이다(Je maintiendrai)"
+
+msgctxt "NEW_ACHIEVEMENT_7_7_DESC코0"
+msgid "Form the Netherlands as a minor nation starting with Dutch culture."
+msgstr "네덜란드 문화권(Dutch) 소국으로 시작하여 네덜란드(Netherlands)를 형성하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_7_8_NAME코0"
+msgid "A Protected Market"
+msgstr "보호 받는 시장"
+
+msgctxt "NEW_ACHIEVEMENT_7_8_DESC코0"
+msgid "Have 100% Mercantilism."
+msgstr "중상주의 100%를 달성하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_7_9_NAME코0"
+msgid "Queen of Mercury"
+msgstr "수성의 여왕"
+
+msgctxt "NEW_ACHIEVEMENT_7_9_DESC코0"
+msgid "As Kilwa, own and have cores on Zanzibar and Bombay (North Konkan)."
+msgstr "킬와(Kilwa)로 잔지바르(Zanzibar)와 북부 콩칸(North Konkan)의 봄베이(Bombay)를 소유하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_7_10_NAME코0"
+msgid "A Pile of Gold"
+msgstr "황금 더미"
+
+msgctxt "NEW_ACHIEVEMENT_7_10_DESC코0"
+msgid "Own 10 provinces which produce gold."
+msgstr "황금을 생산하는 지역 열 곳을 소유하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_7_11_NAME코0"
+msgid "Sons of Carthage"
+msgstr "카르타고의 후예"
+
+msgctxt "NEW_ACHIEVEMENT_7_11_DESC코0"
+msgid ""
+"As Tunisia, own and have cores on Sicily, Sardinia, the Balearic Islands, "
+"the coast of Algiers and the southern coast of Spain."
+msgstr ""
+"튀니스(Tunis)로 시칠리아(Sicily), 사르데냐(Sardinia), 발레아레스 제도(the Balearic Islands), "
+"알제(Algiers) 해안, 스페인(Spain) 남부 해안과 그 코어를 소유하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_7_12_NAME코0"
+msgid "The Princess is in this Castle"
+msgstr "공주님께서 성 안에 계십니다"
+
+msgctxt "NEW_ACHIEVEMENT_7_12_DESC코0"
+msgid ""
+"As a country that does not start with a female heir, have a female heir "
+"while having a Castle in your capital (more advanced fort buildings do not "
+"count)."
+msgstr ""
+"여성 후계자가 없는 나라로 시작하여, 수도에 성(Castle)이 지어진 상태로 여성 후계자를 가지십시오(더 발전된 건물은 인정되지 않음)."
+""
+
+msgctxt "NEW_ACHIEVEMENT_7_13_NAME코0"
+msgid "Electable!"
+msgstr "선거권을 갖다!"
+
+msgctxt "NEW_ACHIEVEMENT_7_13_DESC코0"
+msgid ""
+"Become an elector in the HRE as a country which does not start as elector."
+msgstr "선제후로 시작하지 않는 국가로 신성로마제국의 선제후가 되십시오."
+
+msgctxt "NEW_ACHIEVEMENT_7_14_NAME코0"
+msgid "Vasa or Wettin?"
+msgstr "바사가문이냐, 베틴가문이냐?"
+
+msgctxt "NEW_ACHIEVEMENT_7_14_DESC코0"
+msgid ""
+"Get a ruler of your dynasty on the throne of Poland or the Commonwealth "
+"while they are an elective monarchy."
+msgstr ""
+"선거 군주제를 채택하고 있는 폴란드(Poland)나 폴란드-리투아니아 연방(the Commonwealth)의 왕좌에 당신 왕조의 통치자를 "
+"등극시키십시오."
+
+msgctxt "NEW_ACHIEVEMENT_7_15_NAME코0"
+msgid "Sinaasappel!"
+msgstr "오렌지!"
+
+msgctxt "NEW_ACHIEVEMENT_7_15_DESC코0"
+msgid ""
+"Get Orangists in power with 100% Republican Tradition, and owning a province "
+"in China."
+msgstr "공화적 전통 100%를 가진 왕당파를 얻으시고 중국에서 지역 하나를 소유하세요."
+
+msgctxt "NEW_ACHIEVEMENT_7_16_NAME코0"
+msgid "One King to Rule!"
+msgstr "한명의 왕만 있으면 돼!"
+
+msgctxt "NEW_ACHIEVEMENT_7_16_DESC코0"
+msgid "As Poland, become an absolutist monarchy, abolishing the Sejm."
+msgstr "폴란드로 절대 군주정을 수립하고 세임을 없애버리세요."
+
+msgctxt "NEW_ACHIEVEMENT_7_17_NAME코0"
+msgid "Venetian Sea"
+msgstr "베네치아인의 바다"
+
+msgctxt "NEW_ACHIEVEMENT_7_17_DESC코0"
+msgid ""
+"Have a 90% Trade share in both the Alexandria and Constantinople nodes as "
+"Venice, owning less than 10 cities."
+msgstr "베네치아로 알렉산드리아와 콘스탄티노플 노드에서 90%의 지분을 가지면서 지역은 10개 이하를 소유하세요."
+
+msgctxt "NEW_ACHIEVEMENT_7_18_NAME코0"
+msgid "The Iron Price"
+msgstr "철의 값"
+
+msgctxt "NEW_ACHIEVEMENT_7_18_DESC코0"
+msgid "Restore the Danelaw region to Danish rule, and make it Danish culture."
+msgstr "덴마크로 데인로(Danelaw) 지역을 되찾고 덴마크 문화로 만드세요."
+
+msgctxt "NEW_ACHIEVEMENT_7_19_NAME코0"
+msgid "A Manchurian Candidate"
+msgstr "만주의 후보자"
+
+msgctxt "NEW_ACHIEVEMENT_7_19_DESC코0"
+msgid "Start as one of the Jurchen tribes and form Qing."
+msgstr "여진족 부족국가중 하나로 시작해 청나라를 수립하세요."
+
+msgctxt "NEW_ACHIEVEMENT_7_20_NAME코0"
+msgid "Center of Attention"
+msgstr "이목이 집중되는 자"
+
+msgctxt "NEW_ACHIEVEMENT_7_20_DESC코0"
+msgid "Own both a Protestant and a Reformed Center of Reformation."
+msgstr "개신교와 개혁교회의 개혁 중심지 둘 다를 소유하세요."
+
+msgctxt "NEW_ACHIEVEMENT_7_21_NAME코0"
+msgid "Total Control"
+msgstr "완벽한 직할통치"
+
+msgctxt "NEW_ACHIEVEMENT_7_21_DESC코0"
+msgid "Own 100 or more provinces with no local autonomy or unrest."
+msgstr "자치권 또는 불만이 없는 지역을 100개 이상 소유하십시오"
+
+msgctxt "NEW_ACHIEVEMENT_7_22_NAME코0"
+msgid "This Revolution Was Crushed"
+msgstr "이 반란군 놈의…"
+
+msgctxt "NEW_ACHIEVEMENT_7_22_DESC코0"
+msgid ""
+"In a war against the target of the Revolution, control their capital and "
+"have at least 99% war score."
+msgstr "혁명 국가를 대상으로 한 국가와의 전쟁에서 그들의 수도를 통제하고 최소 99%의 전쟁 점수를 확보하세요."
+
+msgctxt "NEW_ACHIEVEMENT_7_23_NAME코0"
+msgid "Land of Eastern Jade"
+msgstr "동방의 비취가 나는 땅"
+
+msgctxt "NEW_ACHIEVEMENT_7_23_DESC코0"
+msgid "Own a core province in Central America as a Buddhist country."
+msgstr "중앙아메리카에 불교국가 코어를 소유하십시오"
+
+msgctxt "NEW_ACHIEVEMENT_7_24_NAME코0"
+msgid "That's a Silk Road"
+msgstr "저게 실크로드야!"
+
+msgctxt "NEW_ACHIEVEMENT_7_24_DESC코0"
+msgid "Own or have a subject own all provinces in the world producing silk."
+msgstr "모든 비단 생산지역을 속국으로 두거나 점유하십시오"
+
+msgctxt "NEW_ACHIEVEMENT_7_25_NAME코0"
+msgid "My True Friend"
+msgstr "진정한 내 친구"
+
+msgctxt "NEW_ACHIEVEMENT_7_25_DESC코0"
+msgid ""
+"Go to war in support of a rebel faction and win, enforcing their demands."
+msgstr "반군을 지원하기 위해 전쟁을 시작한 후 승리함으로써 그들의 요구를 들어주세요."
+
+msgctxt "NEW_ACHIEVEMENT_7_26_NAME코0"
+msgid "Marshy March"
+msgstr "'변'경국이라서 지저분해 축축하다는 건…?"
+
+msgctxt "NEW_ACHIEVEMENT_7_26_DESC코0"
+msgid "Have a march with at least two marsh provinces."
+msgstr "두개 이상의 습지 지역을 가진 변경국을 거느리세요."
+
+msgctxt "NEW_ACHIEVEMENT_7_27_NAME코0"
+msgid "Shahanshah"
+msgstr "왕중왕"
+
+msgctxt "NEW_ACHIEVEMENT_7_27_DESC코0"
+msgid "Start as Tabarestan and form Persia."
+msgstr "Tabarestan으로 시작해서 페르시아를 만드십시오"
+
+msgctxt "NEW_ACHIEVEMENT_7_28_NAME코0"
+msgid "Die Please Die"
+msgstr "제발 나좀 죽여줘..."
+
+msgctxt "NEW_ACHIEVEMENT_7_28_DESC코0"
+msgid ""
+"Have a ruler with 1 or lower in all three categories who is over the age of "
+"70."
+msgstr "70세가 넘고 3가지 능력치 모두 1보다 낮은 통치자를 보유하십시오"
+
+msgctxt "NEW_ACHIEVEMENT_7_29_NAME코0"
+msgid "Holy Trinity"
+msgstr "신성한 삼위일체"
+
+msgctxt "NEW_ACHIEVEMENT_7_29_DESC코0"
+msgid ""
+"As the Papacy, own Jerusalem and have Livonian Order, Teutonic Order and The "
+"Knights as Marches."
+msgstr "교황령으로, 예루살렘을 소유하고 리보니아 기사단, 튜튼 기사단, 구호 기사단을 변경국으로 거느리세요."
+
+msgctxt "NEW_ACHIEVEMENT_7_30_NAME코0"
+msgid "Switzerlake"
+msgstr "스위스의 호수"
+
+msgctxt "NEW_ACHIEVEMENT_7_30_DESC코0"
+msgid "Own 99 provinces as Switzerland while owning no ports."
+msgstr "스위스로 항구를 보유하지 않은 상태로  99개의 지역을 획득하십시오"
+
+msgctxt "NEW_ACHIEVEMENT_7_31_NAME코0"
+msgid "King of Jerusalem"
+msgstr "예루살렘의 왕"
+
+msgctxt "NEW_ACHIEVEMENT_7_31_DESC코0"
+msgid "Form the Kingdom of Jerusalem as Cyprus or The Knights."
+msgstr "키프로스 또는 기사단 세력으로 예루살렘 왕국을 건설하십시오"
+
+msgctxt "NEW_ACHIEVEMENT_8_0_NAME코0"
+msgid "Krabater"
+msgstr "크라바테르"
+
+msgctxt "NEW_ACHIEVEMENT_8_0_DESC코0"
+msgid "Form the nation of Croatia and station a unit of cavalry in Stockholm."
+msgstr "크로아티아를 성립하고 스톡홀름에 기병 유닛을 주둔시키십시오"
+
+msgctxt "NEW_ACHIEVEMENT_8_1_NAME코0"
+msgid "Lion of the North"
+msgstr "북방의 사자"
+
+msgctxt "NEW_ACHIEVEMENT_8_1_DESC코0"
+msgid ""
+"Start as Sweden and lead the Protestant League to victory against the "
+"Emperor."
+msgstr "신성로마제국황제와의 전쟁해서 승리하기 위하여 스웨덴으로 시작해 신교도연합을 이끄십시오"
+
+msgctxt "NEW_ACHIEVEMENT_8_2_NAME코0"
+msgid "Guarantor of Peace"
+msgstr "평화의 보증인"
+
+msgctxt "NEW_ACHIEVEMENT_8_2_DESC코0"
+msgid "Guarantee the Independence of France, The Ottoman Empire and Russia."
+msgstr "오스만 제국과 러시아,프랑스의 독립을 보장하십시오"
+
+msgctxt "NEW_ACHIEVEMENT_8_3_NAME코0"
+msgid "Foremost Servitor of Jagannath"
+msgstr "자간나트의 최측근"
+
+msgctxt "NEW_ACHIEVEMENT_8_3_DESC코0"
+msgid ""
+"Start as Orissa and own or have a subject own all tropical wood provinces."
+msgstr "Orissa로 시작해서 모든 열대우림지방을 소유하거나 속국으로 거느리십시오"
+
+msgctxt "NEW_ACHIEVEMENT_8_4_NAME코0"
+msgid "Bengal Tiger"
+msgstr "벵갈호랑이"
+
+msgctxt "NEW_ACHIEVEMENT_8_4_DESC코0"
+msgid "Start as Bengal and own Samarkand as a core province."
+msgstr "벵갈로 시작해서 사마르칸트를 코어지역으로 만들어 보유하십시오"
+
+msgctxt "NEW_ACHIEVEMENT_8_5_NAME코0"
+msgid "Prester John"
+msgstr "프레스터존"
+
+msgctxt "NEW_ACHIEVEMENT_8_5_DESC코0"
+msgid ""
+"Own and have cores on Alexandria, Antioch and Constantinople as Coptic "
+"Ethiopia."
+msgstr ""
+"콥트교 에티오피아로 알렉산드리아, 안티오크, 콘스탄티노플 (Alexandria, Antioch, Constantinople)을 소유하고 "
+"코어를 만드십시오."
+
+msgctxt "NEW_ACHIEVEMENT_8_6_NAME코0"
+msgid "Auld Alliance Reversed"
+msgstr "알루드 동맹의 성립"
+
+msgctxt "NEW_ACHIEVEMENT_8_6_DESC코0"
+msgid "As Scotland, have France as a vassal (do not form Great Britain)."
+msgstr "스코틀랜드로 프랑스를 속국으로 만드십시오 (대영제국(Great Britain)은 형성하지 마십시오). "
+
+msgctxt "NEW_ACHIEVEMENT_8_7_NAME코0"
+msgid "Gothic Invasion"
+msgstr "고트족의 침공"
+
+msgctxt "NEW_ACHIEVEMENT_8_7_DESC코0"
+msgid ""
+"Start as Theodoro and conquer all Germanic culture provinces in Europe."
+msgstr "테오도르로 시작하여 유럽 안의 모든 독일 문화권 지역을 정복하십시오"
+
+msgctxt "NEW_ACHIEVEMENT_8_8_NAME코0"
+msgid "Kow-Tow"
+msgstr "고두"
+
+msgctxt "NEW_ACHIEVEMENT_8_8_DESC코0"
+msgid "As Ming, have a subject from each religion group."
+msgstr "명나라로 모든 다른 종교를 믿는 종속국을 보유하십시오"
+
+msgctxt "NEW_ACHIEVEMENT_8_9_NAME코0"
+msgid "Barbarossa"
+msgstr "바르바로사"
+
+msgctxt "NEW_ACHIEVEMENT_8_9_DESC코0"
+msgid ""
+"As a Maghrebi nation, have 500 light ships privateering at the same time."
+msgstr "마그레브 계열 국가로 나포한 배를 포함한 총 500척의 소형선을 소유하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_8_10_NAME코0"
+msgid "Georgia on my Mind"
+msgstr "내 마음속의 조지아"
+
+msgctxt "NEW_ACHIEVEMENT_8_10_DESC코0"
+msgid "Fully own all three Georgias."
+msgstr "세가지의 조지아국가를 모두 소유하십시오"
+
+msgctxt "NEW_ACHIEVEMENT_8_11_NAME코0"
+msgid "Albania or Iberia"
+msgstr "알바니아 또는 이베리아"
+
+msgctxt "NEW_ACHIEVEMENT_8_11_DESC코0"
+msgid "As Albania, own or have a subject own Iberia and the Caucasus."
+msgstr "알바니아로 이베리아와 코카서스를 점유하거나 종속국으로 만드십시오 "
+
+msgctxt "NEW_ACHIEVEMENT_8_12_NAME코0"
+msgid "The Spice Must Flow"
+msgstr "향료는 계속 공급되어야 한다."
+
+msgctxt "NEW_ACHIEVEMENT_8_12_DESC코0"
+msgid "Form the nation of Malaya."
+msgstr "말라야를 성립하십시오"
+
+msgctxt "NEW_ACHIEVEMENT_8_13_NAME코0"
+msgid "Raja of the Rajput Reich"
+msgstr "라지푸트 라이히의 라자"
+
+msgctxt "NEW_ACHIEVEMENT_8_13_DESC코0"
+msgid "Conquer all of Germany as Nagaur."
+msgstr "나가우르로 모든 독일 지역을 점령하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_8_14_NAME코0"
+msgid "The Sun Never Sets on the Indian Empire"
+msgstr "해가 지지않는 인도제국"
+
+msgctxt "NEW_ACHIEVEMENT_8_14_DESC코0"
+msgid ""
+"Form Hindustan or Bharat and own or have a subject own Cape, London, Hong "
+"Kong (Canton) and Ottawa (Kichesipi)."
+msgstr ""
+"힌두스탄이나 바라트를 형성하고 케이프, 런던, 홍콩(Canton 지역의) 그리고 오타와 (Kichesipi 지역의)를 소유하거나 속국이 "
+"소유하도록 하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_8_15_NAME코0"
+msgid "Over a Thousand!"
+msgstr "천개가 넘었어!!"
+
+msgctxt "NEW_ACHIEVEMENT_8_15_DESC코0"
+msgid "Own 1001 provinces directly."
+msgstr "정확히 1001개의 지역을 보유하십시오"
+
+msgctxt "NEW_ACHIEVEMENT_8_16_NAME코0"
+msgid "Dracula's Revenge"
+msgstr "드라큘라의 복수"
+
+msgctxt "NEW_ACHIEVEMENT_8_16_DESC코0"
+msgid ""
+"Start as Wallachia or Moldavia, form Romania and own or have a subject own "
+"all of the Balkans."
+msgstr "왈라키아 또는 몰다비아로 시작해서 루마니아를 형성하고 모든 발칸지역을 속국으로 만들거나 점유하십시오"
+
+msgctxt "NEW_ACHIEVEMENT_8_17_NAME코0"
+msgid "Arabian Coffee"
+msgstr "아라비아커피"
+
+msgctxt "NEW_ACHIEVEMENT_8_17_DESC코0"
+msgid "Form Arabia and be the nation producing the most coffee in the world."
+msgstr "아라비아를 형성하고 세계제일의 커피산지가 되십시오"
+
+msgctxt "NEW_ACHIEVEMENT_8_18_NAME코0"
+msgid "Even Better than Piet Heyn"
+msgstr "  Piet Heyn(네덜란드의 제독)보다 훌륭한"
+
+msgctxt "NEW_ACHIEVEMENT_8_18_DESC코0"
+msgid "Gain over 100 gold from privateering a single treasure fleet."
+msgstr "1개의 보물선단을 나포해서 100골드를 얻으십시오"
+
+msgctxt "NEW_ACHIEVEMENT_8_19_NAME코0"
+msgid "A Sun God"
+msgstr "태양신"
+
+msgctxt "NEW_ACHIEVEMENT_8_19_DESC코0"
+msgid ""
+"Form Inca, embrace all Institutions and own all of South America as core "
+"provinces."
+msgstr "잉카를 형성하고, 모든 시대관을 수용하고 모든 남아메리카 지역을 코어 지역으로 소유하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_8_20_NAME코0"
+msgid "On the Edge of Madness"
+msgstr "광기의 가장자리"
+
+msgctxt "NEW_ACHIEVEMENT_8_20_DESC코0"
+msgid "As Aztecs, reach 95 Doom, then go 20 years without Doom hitting 100."
+msgstr "아즈텍으로, 종말(Doom)을 95까지 올린 뒤, 20년 동안 종말이 100에 이르지 않게 하기."
+
+msgctxt "NEW_ACHIEVEMENT_8_21_NAME코0"
+msgid "Magellan’s Voyage"
+msgstr "마젤란의 항해"
+
+msgctxt "NEW_ACHIEVEMENT_8_21_DESC코0"
+msgid "Make the first circumnavigation."
+msgstr "첫 번째로 세계일주를 하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_8_22_NAME코0"
+msgid "Imperio español"
+msgstr "스페인 제국"
+
+msgctxt "NEW_ACHIEVEMENT_8_22_DESC코0"
+msgid ""
+"As Spain have Mexico, Panama, Havana, Cuzco in colonial Nations under you."
+msgstr ""
+"스페인으로 멕시코, 파나마, 하바나, 쿠즈코 (Mexico, Panama, Havana, Cuzco)에 당신의 지배 하의 식민정부를 "
+"가집시오."
+
+msgctxt "NEW_ACHIEVEMENT_8_23_NAME코0"
+msgid "Blockader"
+msgstr "봉쇄자"
+
+msgctxt "NEW_ACHIEVEMENT_8_23_DESC코0"
+msgid "Blockade at least 10 ports of one enemy."
+msgstr "최소 10개의 적국 항구를 봉쇄하십시오"
+
+msgctxt "NEW_ACHIEVEMENT_8_24_NAME코0"
+msgid "This is Persia!"
+msgstr "디쓰 이즈 페르시아!!"
+
+msgctxt "NEW_ACHIEVEMENT_8_24_DESC코0"
+msgid "Form Persia and own Egypt, Anatolia and Greece as core provinces."
+msgstr "페르시아를 형성하고 이집트, 아나톨리아, 그리스를 코어지역으로 소유하십시오"
+
+msgctxt "NEW_ACHIEVEMENT_8_25_NAME코0"
+msgid "Kirishitan Japan"
+msgstr "키리시탄 일본"
+
+msgctxt "NEW_ACHIEVEMENT_8_25_DESC코0"
+msgid ""
+"Start as a Japanese Daimyo, convert yourself and all of Japan to "
+"Christianity."
+msgstr "일본의 다이묘로 시작하여 당신 포함, 전일본을 기독교화 하십시오"
+
+msgctxt "NEW_ACHIEVEMENT_8_26_NAME코0"
+msgid "Hessian Mercenaries"
+msgstr "헤센 용병대"
+
+msgctxt "NEW_ACHIEVEMENT_8_26_DESC코0"
+msgid "As Hesse, have at least 50 regiments of mercenaries and no loans."
+msgstr "헤세(Hesee)로 최소 50개의 용병 연대를 가지고 빚을 지지 마십시오."
+
+msgctxt "NEW_ACHIEVEMENT_8_27_NAME코0"
+msgid "Baltic Crusader"
+msgstr "발트 십자군"
+
+msgctxt "NEW_ACHIEVEMENT_8_27_DESC코0"
+msgid ""
+"As Teutonic Order or Livonian Order, own all of Russia as core provinces and "
+"convert it to Catholic."
+msgstr "튜튼 기사단이나 리보니아 기사단으로 전 러시아 지역을 코어 지역으로 소유하고 카톨릭으로 개종하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_8_28_NAME코0"
+msgid "Neither Holy, Nor German"
+msgstr "신성하지도 않고, 독일도 아닌"
+
+msgctxt "NEW_ACHIEVEMENT_8_28_DESC코0"
+msgid ""
+"Have 7 Free Cities in the Empire, none of which is of a Germanic culture."
+msgstr "독일 문화가 아닌 7개의 자유도시가 신성 로마 제국에 있도록 하기"
+
+msgctxt "NEW_ACHIEVEMENT_8_29_NAME코0"
+msgid "Colonial Management"
+msgstr "식민지 관리"
+
+msgctxt "NEW_ACHIEVEMENT_8_29_DESC코0"
+msgid ""
+"Have 3 colonial governors that were directly appointed by you at the same "
+"time."
+msgstr "적어도 3개 이상의 식민지 총독이 당신에 의해 임명되도록 하기."
+
+msgctxt "NEW_ACHIEVEMENT_8_30_NAME코0"
+msgid "Voting Streak"
+msgstr "연속 투표"
+
+msgctxt "NEW_ACHIEVEMENT_8_30_DESC코0"
+msgid "Successfully pass 11 issues in a row in Parliament."
+msgstr "의회에서 11건의 안건을 성공적으로 통과하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_8_31_NAME코0"
+msgid "An Industrial Evolution"
+msgstr "산업혁명"
+
+msgctxt "NEW_ACHIEVEMENT_8_31_DESC코0"
+msgid ""
+"As Great Britain, own all of England as core provinces and have at least 25 "
+"development in each province there."
+msgstr "영국으로 시작해서 잉글랜드 전 지역을 최소 25의 개발도를 가진 코어지역으로 소유하십시오"
+
+msgctxt "NEW_ACHIEVEMENT_9_0_NAME코0"
+msgid "City of Cities"
+msgstr "최고의 도시"
+
+msgctxt "NEW_ACHIEVEMENT_9_0_DESC코0"
+msgid "Own a core province with at least 60 development."
+msgstr "최소 60이상의 개발도를 가진 코어지역 1곳을 소유하십시오"
+
+msgctxt "NEW_ACHIEVEMENT_9_1_NAME코0"
+msgid "One Family to Rule them All"
+msgstr "모두를 다스리는 단 하나의 가문"
+
+msgctxt "NEW_ACHIEVEMENT_9_1_DESC코0"
+msgid ""
+"Have your dynasty on 8 thrones at the same time. Client states do not count."
+msgstr "당신의 가문이 동시에 8개의 국가를 지배하도록 하십시오. 위성국은 포함하지 않습니다."
+
+msgctxt "NEW_ACHIEVEMENT_9_2_NAME코0"
+msgid "This is My Faith"
+msgstr "이게 내 신앙이다"
+
+msgctxt "NEW_ACHIEVEMENT_9_2_DESC코0"
+msgid "Convert to Protestantism and unlock 3 Aspects of Faith."
+msgstr "개신교(Protestantism)로 개종하고 교회 특성 3개를 해제하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_9_3_NAME코0"
+msgid "Bleed Them Dry"
+msgstr "피 빨아먹기"
+
+msgctxt "NEW_ACHIEVEMENT_9_3_DESC코0"
+msgid "Have 10 different War Reparations being paid to you at the same time."
+msgstr "동시에 10개의 전쟁 배상금을 각각 다른 국가들로부터 받으십시오."
+
+msgctxt "NEW_ACHIEVEMENT_9_4_NAME코0"
+msgid "Subsidize my Love"
+msgstr "내 사랑을 받아줘"
+
+msgctxt "NEW_ACHIEVEMENT_9_4_DESC코0"
+msgid ""
+"Subsidize 3 different allies at least 50% of their monthly income without "
+"running a deficit."
+msgstr "빚을 지지 않고 3개의 다른 동맹국들에게 그들의 월간 수입의 50%이상을 보조금 지원해주십시오."
+
+msgctxt "NEW_ACHIEVEMENT_9_5_NAME코0"
+msgid "Take that, von Habsburgs!"
+msgstr "이거나 먹어라, 합스부르크!"
+
+msgctxt "NEW_ACHIEVEMENT_9_5_DESC코0"
+msgid "As Hungary, own all of Austria as core provinces."
+msgstr "헝가리로 모든 오스트리아 지역을 코어 지역으로 가지십시오."
+
+msgctxt "NEW_ACHIEVEMENT_9_6_NAME코0"
+msgid "The White Elephant"
+msgstr "하얀 코끼리"
+
+msgctxt "NEW_ACHIEVEMENT_9_6_DESC코0"
+msgid "As Ayutthaya, own all of Indochina as core provinces."
+msgstr "아유타야로 모든 인도차이나 지역에 코어를 획득하십시오"
+
+msgctxt "NEW_ACHIEVEMENT_9_7_NAME코0"
+msgid "The Buddhists Strike Back"
+msgstr "불교의 반격"
+
+msgctxt "NEW_ACHIEVEMENT_9_7_DESC코0"
+msgid ""
+"As Ceylon, own all of India and convert it to Theravada Buddhism (do not "
+"form another nation)."
+msgstr ""
+"실론(Celyon)으로 모든 인도를 소유하고 소승 불교(Theravada Buddhism)로 개종시키십시오(다른 국가를 형성하면 "
+"안됩니다)."
+
+msgctxt "NEW_ACHIEVEMENT_9_8_NAME코0"
+msgid "Better than Napoleon"
+msgstr "나폴레옹보다 더 훌륭한"
+
+msgctxt "NEW_ACHIEVEMENT_9_8_DESC코0"
+msgid "As France, own Vienna, Berlin and Moscow as core provinces."
+msgstr "프랑스로 비엔나, 베를린, 모스크바에 코어를 획득하십시오"
+
+msgctxt "NEW_ACHIEVEMENT_9_9_NAME코0"
+msgid "Big Blue Blob"
+msgstr "크고 파란 거"
+
+msgctxt "NEW_ACHIEVEMENT_9_9_DESC코0"
+msgid "As France, hold 100 European core provinces before 1500."
+msgstr "1500년전에 프랑스로 100개의 유럽지역 코어를 획득하십시오"
+
+msgctxt "NEW_ACHIEVEMENT_9_10_NAME코0"
+msgid "Full House"
+msgstr "풀 하우스"
+
+msgctxt "NEW_ACHIEVEMENT_9_10_DESC코0"
+msgid "Have 3 Vassals and 2 Marches at the same time."
+msgstr "3개의 속국과 2개의 변경국을 동시에 가지십시오."
+
+msgctxt "NEW_ACHIEVEMENT_9_11_NAME코0"
+msgid "Black Jack"
+msgstr "블랙잭"
+
+msgctxt "NEW_ACHIEVEMENT_9_11_DESC코0"
+msgid ""
+"Have at least 21 different subjects with 5 cities each and without any "
+"subject having 50% or more Liberty Desire. Trade Companies do not count."
+msgstr ""
+"5개의 도시를 가진 속국을 21개 가지고 모든 속국들이 50% 이하의 독립열망을 가지게 하십시오. 무역회사는 포함하지 않습니다."
+
+msgctxt "NEW_ACHIEVEMENT_9_12_NAME코0"
+msgid "A Decent Reserve"
+msgstr "충분한 예비군"
+
+msgctxt "NEW_ACHIEVEMENT_9_12_DESC코0"
+msgid "Have a maximum manpower of at least 1 million."
+msgstr "최소 1백만의 인력을 가지십시오."
+
+msgctxt "NEW_ACHIEVEMENT_9_13_NAME코0"
+msgid "The Six Nations"
+msgstr "여섯 국가들"
+
+msgctxt "NEW_ACHIEVEMENT_9_13_DESC코0"
+msgid "Form a Federation of at least six nations as the Iroquois."
+msgstr "이로쿼이로 최소 6개 이상의 국가와 연합을 결성하십시오"
+
+msgctxt "NEW_ACHIEVEMENT_9_14_NAME코0"
+msgid "The Bohemians"
+msgstr "보헤미안"
+
+msgctxt "NEW_ACHIEVEMENT_9_14_DESC코0"
+msgid "As Bohemia, own Dublin as a core province."
+msgstr "보헤미아로 더블린(Dublin)을 소유하고 코어 지역으로 가지십시오."
+
+msgctxt "NEW_ACHIEVEMENT_9_15_NAME코0"
+msgid "Komnenoi Empire"
+msgstr "콤네노스 제국"
+
+msgctxt "NEW_ACHIEVEMENT_9_15_DESC코0"
+msgid "As Trebizond, have the Empire government rank."
+msgstr "트레비존드로 제국 정부 등급을 가지십시오."
+
+msgctxt "NEW_ACHIEVEMENT_9_16_NAME코0"
+msgid "Lucky Lucca"
+msgstr "럭키 루카"
+
+msgctxt "NEW_ACHIEVEMENT_9_16_DESC코0"
+msgid "As Lucca, own Lucknow!"
+msgstr "루카로 럭나우(Lucknow)를 소유하십시오!"
+
+msgctxt "NEW_ACHIEVEMENT_9_17_NAME코0"
+msgid "A Fine Goosestep"
+msgstr "훌륭한 거위걸음"
+
+msgctxt "NEW_ACHIEVEMENT_9_17_DESC코0"
+msgid "Form Prussia and have at least 125% Discipline."
+msgstr "프로이센을 형성하고 최소 125%의 규율을 가지십시오."
+
+msgctxt "NEW_ACHIEVEMENT_9_18_NAME코0"
+msgid "Meissner Porcelain"
+msgstr "마이센 도자기"
+
+msgctxt "NEW_ACHIEVEMENT_9_18_DESC코0"
+msgid ""
+"As Saxony, own or have a subject own all Chinaware provinces in the world."
+msgstr "작센(Saxony)로 전세계의 모든 도자기 지역들을 소유하거나 속국이 소유하도록 하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_9_19_NAME코0"
+msgid "All Your Trade Are Belong to Us"
+msgstr "니 무역 다 내꺼다요"
+
+msgctxt "NEW_ACHIEVEMENT_9_19_DESC코0"
+msgid ""
+"Have the highest trade power in Genoa, Venice and English Channel while "
+"having an income of at least 300 ducats per month."
+msgstr ""
+"제노아, 베니스, 영국 해협(Genoa, Venice, English Channel)에서 최고의 무역력을 가지고 월간 수입이 최소 "
+"300두캇이 되게 하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_9_20_NAME코0"
+msgid "Grand Duchy"
+msgstr "대공국"
+
+msgctxt "NEW_ACHIEVEMENT_9_20_DESC코0"
+msgid ""
+"Starting as a Duchy, have 1000 development without upgrading your government "
+"rank."
+msgstr "공국으로 시작해, 당신의 정부 등급을 올리지말고 1000의 개발도를 가지십시오."
+
+msgctxt "NEW_ACHIEVEMENT_9_21_NAME코0"
+msgid "Rags and Riches"
+msgstr "거지와 부자"
+
+msgctxt "NEW_ACHIEVEMENT_9_21_DESC코0"
+msgid ""
+"Have the highest income in the world while owning no province with a "
+"development level higher than 10."
+msgstr "당신이 소유한 모든 지역들이 각각 개발도 10이 넘지않는 동시에 당신이 전 세계에서 최고의 수입을 가진 국가가 되십시오."
+
+msgctxt "NEW_ACHIEVEMENT_9_22_NAME코0"
+msgid "Strait Talk"
+msgstr "스트레이트 토크"
+
+msgctxt "NEW_ACHIEVEMENT_9_22_DESC코0"
+msgid "As Hormuz, have at least 10 diplomatic reputation"
+msgstr "호르무즈로 최소 10의 외교 평판을 가지십시오."
+
+msgctxt "NEW_ACHIEVEMENT_9_23_NAME코0"
+msgid "Academical"
+msgstr "학구파"
+
+msgctxt "NEW_ACHIEVEMENT_9_23_DESC코0"
+msgid "As Athens, own 50 universities."
+msgstr "아테네로, 50개의 대학을 소유하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_9_24_NAME코0"
+msgid "One Faith"
+msgstr "하나의 신앙"
+
+msgctxt "NEW_ACHIEVEMENT_9_24_DESC코0"
+msgid ""
+"Have all non-wasteland land provinces in the world be of your religion."
+msgstr "전세계의 모든 비-황무지 지역들을 당신이 종교를 개종시키십시오."
+
+msgctxt "NEW_ACHIEVEMENT_9_25_NAME코0"
+msgid "Dar al-Islam"
+msgstr "이슬람 세계의 수호자"
+
+msgctxt "NEW_ACHIEVEMENT_9_25_DESC코0"
+msgid "Unify Islam under your rule."
+msgstr "이슬람을 당신의 지배 아랭에 통합하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_9_26_NAME코0"
+msgid "The Uncommonwealth"
+msgstr "언커먼웰스"
+
+msgctxt "NEW_ACHIEVEMENT_9_26_DESC코0"
+msgid "As Lithuania, become The Commonwealth."
+msgstr "리투아니아로 폴란드-리투아니아 연방(Commonwealth)이 되십시오."
+
+msgctxt "NEW_ACHIEVEMENT_9_27_NAME코0"
+msgid "The Burgundian Conquest"
+msgstr "부르고뉴의 정복"
+
+msgctxt "NEW_ACHIEVEMENT_9_27_DESC코0"
+msgid ""
+"As Burgundy, own the Low Countries region as core provinces and have France "
+"and Austria as your subjects."
+msgstr "부르고뉴로 저지대 국가들을 코어 지역으로 소유하고 프랑스와 오스트리아를 속국으로 가지십시오."
+
+msgctxt "NEW_ACHIEVEMENT_9_28_NAME코0"
+msgid "The Third Way"
+msgstr "제 3의 길"
+
+msgctxt "NEW_ACHIEVEMENT_9_28_DESC코0"
+msgid ""
+"Start as an Ibadi nation and eliminate all rival schools of Islam (do not "
+"convert to another religion)."
+msgstr "이바디(Ibadi) 국가로 시작해 모든 이슬람 경쟁 학파들을 제거하십시오 (다른 종교를 개종하면 안됩니다)."
+
+msgctxt "NEW_ACHIEVEMENT_9_29_NAME코0"
+msgid "Back to the Piast"
+msgstr "피아스트로 회귀"
+
+msgctxt "NEW_ACHIEVEMENT_9_29_DESC코0"
+msgid "As Mazovia or Silesia, form the nation of Poland."
+msgstr "마조비아나 실레지아로 폴란드를 형성하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_9_30_NAME코0"
+msgid "Great Perm"
+msgstr "대 페름"
+
+msgctxt "NEW_ACHIEVEMENT_9_30_DESC코0"
+msgid ""
+"As Perm, own or have a subject own the Russian, Siberian, Scandinavian, "
+"Canadian, Hudson Bay and Cascadian Regions."
+msgstr ""
+"페름으로 러시아, 시베리아, 스칸디나비아, 캐나다, 허드슨만, 카스카이다 (Russian, Siberian, Scandinavian, "
+"Canadian, Hudson Bay, Cascadian) 권역을 소유하거나 속국이 소유하도록 하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_9_31_NAME코0"
+msgid "Lazarus"
+msgstr "라자루스"
+
+msgctxt "NEW_ACHIEVEMENT_9_31_DESC코0"
+msgid "As Serbia, own the entire Balkans as core provinces."
+msgstr "세르비아로 전 발칸을 코어 지역으로 소유하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_10_0_NAME코0"
+msgid "Frozen Assets"
+msgstr "동결 자산"
+
+msgctxt "NEW_ACHIEVEMENT_10_0_DESC코0"
+msgid ""
+"Start as Novgorod and control 90% of the trade power in the White Sea trade "
+"node while it is the highest valued trade node in the world."
+msgstr ""
+"노브고로드로 시작해 백해(White Sea)노드에서 90% 이상의 무역력을 가지고 백해 노드가 세계에서 가장 가치있는 무역 노드가 되도록 "
+"하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_10_1_NAME코0"
+msgid "Tatarstan"
+msgstr "타타르스탄"
+
+msgctxt "NEW_ACHIEVEMENT_10_1_DESC코0"
+msgid "As Kazan or Nogai, own all Tatar culture group lands."
+msgstr "카잔이나 노가이로 모든 타타르 문화 지역들을 소유하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_10_2_NAME코0"
+msgid "Terra Mariana"
+msgstr "테라 마리아나"
+
+msgctxt "NEW_ACHIEVEMENT_10_2_DESC코0"
+msgid "As Riga, own the Baltic region as core provinces."
+msgstr "리가로, 발트해(Baltic) 지역을 코어 지역으로 소유하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_10_3_NAME코0"
+msgid "Blood for the Sky God!"
+msgstr "하늘의 신을 위한 피!"
+
+msgctxt "NEW_ACHIEVEMENT_10_3_DESC코0"
+msgid "As a Tengri nation, have Nahuatl as your syncretic faith."
+msgstr "텡그리 국가로 나후아틀(Nahuatl)을 혼교하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_10_4_NAME코0"
+msgid "Pyramid of Skulls"
+msgstr "해골의 피라미드"
+
+msgctxt "NEW_ACHIEVEMENT_10_4_DESC코0"
+msgid "As a Steppe Horde, raze a province with at least 30 development."
+msgstr "대초원 유목민으로 최소 30개발도의 지역을 초토화하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_10_5_NAME코0"
+msgid "Trustworthy"
+msgstr "믿음직"
+
+msgctxt "NEW_ACHIEVEMENT_10_5_DESC코0"
+msgid "Have five allies with 100 trust towards you each."
+msgstr "5개의 동맹국이 당신에 대해 100의 신뢰도를 가지도록 하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_10_6_NAME코0"
+msgid "The Continuation of Diplomacy"
+msgstr "외교의 연장선"
+
+msgctxt "NEW_ACHIEVEMENT_10_6_DESC코0"
+msgid "Successfully use Threaten War to gain a province from another nation."
+msgstr "다른 국가에게 전쟁 위협을 통해 지역을 획득하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_10_7_NAME코0"
+msgid "Factionalism"
+msgstr "파벌주의"
+
+msgctxt "NEW_ACHIEVEMENT_10_7_DESC코0"
+msgid ""
+"Have 3 different estates in your country with at least 70% influence each."
+msgstr "당신의 국가에서 3개의 다른 계층이 모두 70% 이상의 영향력을 가지도록 하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_10_8_NAME코0"
+msgid "From Humble Origins"
+msgstr "천한 태생"
+
+msgctxt "NEW_ACHIEVEMENT_10_8_DESC코0"
+msgid ""
+"Starting as a custom nation with no more than 50 points, have at least 2000 "
+"total development."
+msgstr "50포인트 이하의 커스텀 국가로 시작해 최소 2000의 개발도를 가지십시오."
+
+msgctxt "NEW_ACHIEVEMENT_10_9_NAME코0"
+msgid "Ideas Guy"
+msgstr "아이디어 가이"
+
+msgctxt "NEW_ACHIEVEMENT_10_9_DESC코0"
+msgid ""
+"Starting as a custom nation with the full 800 points but no more than 3 "
+"total development, have a monthly income of at least 500 ducats."
+msgstr "총 개발도가 3이하인 800 포인트의 커스텀 국가로 시작해 월간 수입이 500 두캇 이상이 되도록 하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_10_10_NAME코0"
+msgid "For Odin!"
+msgstr "오딘을 위하여!"
+
+msgctxt "NEW_ACHIEVEMENT_10_10_DESC코0"
+msgid ""
+"Starting as a Norse custom nation with no more than 200 points and a maximum "
+"of 5 provinces, own & core Scandinavia and the British Isles and convert it "
+"all to Norse."
+msgstr ""
+"북유럽 신화 (Norse) 종교의 최대 200 포인트, 최대 5개 프로빈스를 가진 커스텀 국가로 시작해 스칸디나비아와 영국 제도를 코어 "
+"지역으로 소유하고 북유럽 신화로 개종시키십시오."
+
+msgctxt "NEW_ACHIEVEMENT_10_11_NAME코0"
+msgid "Rekindling the Flames"
+msgstr "불꽃 재점화"
+
+msgctxt "NEW_ACHIEVEMENT_10_11_DESC코0"
+msgid ""
+"Starting as a Zoroastrian custom nation with no more than 200 points and a "
+"maximum of 5 provinces, rekindle the royal fires."
+msgstr "최대 200 포인트, 최대 5개 프로빈스의 조로아스터 커스텀 국가로 시작해 왕의 불꽃 재점화를 하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_10_12_NAME코0"
+msgid "First Come, First Serve"
+msgstr "선착순"
+
+msgctxt "NEW_ACHIEVEMENT_10_12_DESC코0"
+msgid ""
+"Starting as a Western technology custom nation in North America or South "
+"America with no more than 200 points, unite the two continents."
+msgstr "북아메리카나 남아메리카에서 서유럽 기술을 가진 최대 200포인트 커스텀 국가로 시작해 두 아메리카 대륙을 통일하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_10_13_NAME코0"
+msgid "Mare Nostrum"
+msgstr "우리들의 바다"
+
+msgctxt "NEW_ACHIEVEMENT_10_13_DESC코0"
+msgid ""
+"Restore the Roman Empire and own the entire Mediterranean and Black Sea "
+"coast lines."
+msgstr "로마 제국을 복원하고 모든 지중해와 흑해 해안 지역들을 소유하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_10_14_NAME코0"
+msgid "Kuban Cigars"
+msgstr "쿠바산 시가"
+
+msgctxt "NEW_ACHIEVEMENT_10_14_DESC코0"
+msgid ""
+"As Kuba, own or have a subject own Havana and be the world’s leading "
+"producer of Tobacco."
+msgstr "쿠바(Kuba)로 하바나(Havana)를 소유하거나 속국이 소유하도록 하고 담배의 생산 주도국이 되십시오."
+
+msgctxt "NEW_ACHIEVEMENT_10_15_NAME코0"
+msgid "Kushite Restoration"
+msgstr "쿠시 수복"
+
+msgctxt "NEW_ACHIEVEMENT_10_15_DESC코0"
+msgid ""
+"As a Nubian culture nation, own the entire Egyptian region as core provinces."
+""
+msgstr "누비아 문화 국가로 시작해 전 이집트 권역을 코어 지역으로 소유하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_10_16_NAME코0"
+msgid "The Fezzan Corridors"
+msgstr "페잔 회랑"
+
+msgctxt "NEW_ACHIEVEMENT_10_16_DESC코0"
+msgid ""
+"As Fezzan, control at least 90% of the trade power in Tunis, Katsina, Safi "
+"and Timbuktu."
+msgstr ""
+"페잔으로 튀니스, 카치나, 사피, 팀북투(Tunis, Katsina, Safi and Timbuktu) 무역 노드에서 90% 이상의 "
+"무역력을 가지십시오."
+
+msgctxt "NEW_ACHIEVEMENT_10_17_NAME코0"
+msgid "Victorian Three"
+msgstr "빅토리안 3"
+
+msgctxt "NEW_ACHIEVEMENT_10_17_DESC코0"
+msgid ""
+"As Busoga, Buganda or Karagwe, reach administrative, diplomatic and military "
+"technology level 32."
+msgstr "Busoga, Buganda 혹은 Karagwe 로 행정, 외교, 군사 기술 레벨 32에 도달하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_10_18_NAME코0"
+msgid "The Animal Kingdom"
+msgstr "동물의 왕국"
+
+msgctxt "NEW_ACHIEVEMENT_10_18_DESC코0"
+msgid "As Manipur, unite the Bengal region and convert it to Animism."
+msgstr "Manipur로 벵갈 지역을 통일하고 Animism으로 개종시키십시오."
+
+msgctxt "NEW_ACHIEVEMENT_10_19_NAME코0"
+msgid "Golden Horn"
+msgstr "황금 뿔"
+
+msgctxt "NEW_ACHIEVEMENT_10_19_DESC코0"
+msgid ""
+"As a Somali nation, fully own the Horn of Africa region and have a monthly "
+"gold income of at least 10 ducats."
+msgstr ""
+"소말리 국가로 아프리카의 뿔 (Horn of Africa) 지역을 완전히 소유하고 월간 금 수입이 최소 10 두캇이 되도록 하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_10_20_NAME코0"
+msgid "Kinslayer"
+msgstr "친족살해자"
+
+msgctxt "NEW_ACHIEVEMENT_10_20_DESC코0"
+msgid ""
+"As Tver, Yaroslavl, Ryazan or Odoyev, eliminate all other Rurikovich nations "
+"without changing your ruling dynasty."
+msgstr ""
+"Tver, Yaroslavl, Ryazan 혹은 Odoyev 로 지배 가문을 유지한채 다른 모든 Rurikovich 국가들을 제거하십시오."
+""
+
+msgctxt "NEW_ACHIEVEMENT_10_21_NAME코0"
+msgid "Choson One"
+msgstr "선택받은 자"
+
+msgctxt "NEW_ACHIEVEMENT_10_21_DESC코0"
+msgid ""
+"As Korea, own or have a subject own all Shinto, Confucian and Buddhist "
+"provinces in the world."
+msgstr "조선(Korea)으로 전세계의 모든 신토, 유교, 불교 지역들을 소유하거나 속국들이 소유하도록 하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_10_22_NAME코0"
+msgid "Sailor Mon"
+msgstr "세일러몬(Sailor Mon)"
+
+msgctxt "NEW_ACHIEVEMENT_10_22_DESC코0"
+msgid "As Pegu, have at least 100,000 sailors."
+msgstr "몬족의 나라인 Pegu로 최소 10만명의 선원을 확보하십시오"
+
+msgctxt "NEW_ACHIEVEMENT_10_23_NAME코0"
+msgid "Networking"
+msgstr "네트워킹"
+
+msgctxt "NEW_ACHIEVEMENT_10_23_DESC코0"
+msgid "Have 100 point spy networks in 3 Rival nations."
+msgstr "3개의 경쟁국에 100의 첩보망 포인트를 가지십시오."
+
+msgctxt "NEW_ACHIEVEMENT_10_24_NAME코0"
+msgid "The White Company"
+msgstr "화이트 컴퍼니"
+
+msgctxt "NEW_ACHIEVEMENT_10_24_DESC코0"
+msgid ""
+"Join a war on the other side of someone to whom you have rented condottieri."
+msgstr "당신이 콘도티에리를 빌려준 국가에 대한 전쟁에 참여하기."
+
+msgctxt "NEW_ACHIEVEMENT_10_25_NAME코0"
+msgid "Time Bandit"
+msgstr "시간 도둑"
+
+msgctxt "NEW_ACHIEVEMENT_10_25_DESC코0"
+msgid "Successfully steal a map from another nation."
+msgstr "다른 국가로부터 지도 훔치기"
+
+msgctxt "NEW_ACHIEVEMENT_10_26_NAME코0"
+msgid "With a little help.."
+msgstr "약간의 도움"
+
+msgctxt "NEW_ACHIEVEMENT_10_26_DESC코0"
+msgid ""
+"As Ragusa, lead a Trade League of at least 5 nations and guarantee the "
+"Ottomans’ independence."
+msgstr "라구사로 최소 5개의 국가가 있는 무역 연합을 이끌고 오스만을 독립 보장하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_10_27_NAME코0"
+msgid "Just Resting In My Account"
+msgstr "내 지갑에서 안식을"
+
+msgctxt "NEW_ACHIEVEMENT_10_27_DESC코0"
+msgid "Corrupt the officials in a Rival country."
+msgstr "경쟁국의 관리를 부패시키십시오."
+
+msgctxt "NEW_ACHIEVEMENT_10_28_NAME코0"
+msgid "We bled for this"
+msgstr "이를 위해 피흘렸다."
+
+msgctxt "NEW_ACHIEVEMENT_10_28_DESC코0"
+msgid "Win a war with at least one million dead on both sides."
+msgstr "양측 희생자가 1백만 이상인 전투에서 승리하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_10_29_NAME코0"
+msgid "Pick Your Poison"
+msgstr "당신의 독을 선택하라"
+
+msgctxt "NEW_ACHIEVEMENT_10_29_DESC코0"
+msgid "As Kaffa, develop in Cafa while a subject of yours owns it."
+msgstr "Kaffa로 Cafa 지역을 당신의 속국이 소유하도록 하고 Cafa를 개발하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_10_30_NAME코0"
+msgid "Not just Pizza"
+msgstr "피자만 있는게 아냐"
+
+msgctxt "NEW_ACHIEVEMENT_10_30_DESC코0"
+msgid "Become a Great Power as Naples."
+msgstr "나폴리로 열강의 반열에 오르십시오"
+
+msgctxt "NEW_ACHIEVEMENT_10_31_NAME코0"
+msgid "All That's Thine Shall Be Mine"
+msgstr "네 것이 곧 내 것이다"
+
+msgctxt "NEW_ACHIEVEMENT_10_31_DESC코0"
+msgid "As a Greedy ruler, take all of a nation’s ducats in a peace deal."
+msgstr "탐욕 특성을 가진 통치자로 평화 협상에서 국가의 모든 두캇을 얻어내십시오."
+
+msgctxt "NEW_ACHIEVEMENT_11_0_NAME코0"
+msgid "A Blessed Nation"
+msgstr "축복받은 국가"
+
+msgctxt "NEW_ACHIEVEMENT_11_0_DESC코0"
+msgid "As a Coptic Nation, gain all 5 Blessings."
+msgstr "콥트교 국가로 모든 5개의 축복을 가지십시오."
+
+msgctxt "NEW_ACHIEVEMENT_11_1_NAME코0"
+msgid "Queen of Conquest"
+msgstr "정복의 왕비"
+
+msgctxt "NEW_ACHIEVEMENT_11_1_DESC코0"
+msgid "Conquer land while in a Queen Regency."
+msgstr "왕비 섭정 중에 지역을 정복하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_11_2_NAME코0"
+msgid "AAA Credit"
+msgstr "신용등급 AAA"
+
+msgctxt "NEW_ACHIEVEMENT_11_2_DESC코0"
+msgid "As a Great Power, take on over 1,000 ducats of another nation’s debt."
+msgstr "열강으로 다른 국가의 부채를 1000 두캇 지기."
+
+msgctxt "NEW_ACHIEVEMENT_11_3_NAME코0"
+msgid "Hoarder"
+msgstr "비축물"
+
+msgctxt "NEW_ACHIEVEMENT_11_3_DESC코0"
+msgid "As a Fetishist nation, have 13 available Cults."
+msgstr "Fetishist 종교 국가로 13 의 사용가능한 숭배대상을 얻으십시오."
+
+msgctxt "NEW_ACHIEVEMENT_11_4_NAME코0"
+msgid "Gentle Persuasion"
+msgstr "유화책"
+
+msgctxt "NEW_ACHIEVEMENT_11_4_DESC코0"
+msgid "Have a Siege Specialist general win a siege in a province with a fort."
+msgstr "공성 전문 트레잇을 가진 지휘관으로 요새가 있는 지역의 공성을 성공하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_11_5_NAME코0"
+msgid "Combined Arms"
+msgstr "제병연합 부대"
+
+msgctxt "NEW_ACHIEVEMENT_11_5_DESC코0"
+msgid "Have both an Admiral and a General with a trait."
+msgstr "특성이 있는 제독과 장군을 동시에 가지십시오."
+
+msgctxt "NEW_ACHIEVEMENT_11_6_NAME코0"
+msgid "Cities of Cibola"
+msgstr "시볼라의 도시들"
+
+msgctxt "NEW_ACHIEVEMENT_11_6_DESC코0"
+msgid "As Pueblo, own at least seven provinces with 10 development each."
+msgstr "Pueblo로  10 개발도를 가진 지역을 최소 7개 가지십시오."
+
+msgctxt "NEW_ACHIEVEMENT_11_7_NAME코0"
+msgid "Turkish Delight"
+msgstr "터키의 기쁨"
+
+msgctxt "NEW_ACHIEVEMENT_11_7_DESC코0"
+msgid ""
+"Start as Candar and own 20 Sugar provinces between you and your subjects."
+msgstr " Candar로 시작해 20개의 설탕 지역을 소유하거나 속국이 소유하도록 하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_11_8_NAME코0"
+msgid "Baa Baa Black Sheep"
+msgstr "흑 흑 흑양조"
+
+msgctxt "NEW_ACHIEVEMENT_11_8_DESC코0"
+msgid "As Qara Qoyunlu become the leading producer of wool."
+msgstr "카라 코윤루로 양모 생산 주도국이 되십시오."
+
+msgctxt "NEW_ACHIEVEMENT_11_9_NAME코0"
+msgid "Fanatic Collectivist"
+msgstr "광적인 수집가"
+
+msgctxt "NEW_ACHIEVEMENT_11_9_DESC코0"
+msgid "Own all Institution Origin provinces."
+msgstr "모든 시대관의 발원지를 소유하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_11_10_NAME코0"
+msgid "Core-fu"
+msgstr "코어-푸"
+
+msgctxt "NEW_ACHIEVEMENT_11_10_DESC코0"
+msgid "Force a nation to revoke 5 cores in one peace deal as Corfu."
+msgstr " Corfu로 한 평화 협상에서 패전국에 코어 5개 포기 요구 강요하기."
+
+msgctxt "NEW_ACHIEVEMENT_11_11_NAME코0"
+msgid "Rozwi Empire"
+msgstr "로즈위(Rozwi) 제국"
+
+msgctxt "NEW_ACHIEVEMENT_11_11_DESC코0"
+msgid "Starting as Butua, conquer Mutapa (Zimbabwe and Lower Zambezi areas)."
+msgstr "Butua로 시작해 Mutapa 를 정복하십시오(Zimbabwe and Lower Zambezi 지역). "
+
+msgctxt "NEW_ACHIEVEMENT_11_12_NAME코0"
+msgid "The Sudanese Expedition"
+msgstr "수단 원정"
+
+msgctxt "NEW_ACHIEVEMENT_11_12_DESC코0"
+msgid "Starting as Morocco, conquer the Niger and Sahel Regions."
+msgstr "모로코로 시작해,  Niger과 Sahel 권역을 정복하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_11_13_NAME코0"
+msgid "A tale of two Families"
+msgstr "두 가문의 이야기"
+
+msgctxt "NEW_ACHIEVEMENT_11_13_DESC코0"
+msgid ""
+"Starting as Vijayanagar or Bahmanis conquer the other’s capital and have "
+"them not exist."
+msgstr "Vijayanagar 혹은 Bahmanis 로 시작해 상대방의 수도를 정복하고 멸망시키십시오."
+
+msgctxt "NEW_ACHIEVEMENT_11_14_NAME코0"
+msgid "Abu Bakr II’s Ambition"
+msgstr "아부 바르크 2세의 야망"
+
+msgctxt "NEW_ACHIEVEMENT_11_14_DESC코0"
+msgid "Start as Mali and have 4 Colonial Subjects in South America."
+msgstr "Mali로 시작해 남아메리카에 4개의 식민 정부를 가지십시오."
+
+msgctxt "NEW_ACHIEVEMENT_11_15_NAME코0"
+msgid "Consulate of the Sea"
+msgstr "바다의 영사관"
+
+msgctxt "NEW_ACHIEVEMENT_11_15_DESC코0"
+msgid "As Aragon conquer all Mediterranean Centers of Trade."
+msgstr " Aragon으로 지중해의 모든 무역 중심지를 정복하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_11_16_NAME코0"
+msgid "Live Long and Prosper"
+msgstr "장수와 번영을"
+
+msgctxt "NEW_ACHIEVEMENT_11_16_DESC코0"
+msgid ""
+"Have 30 states with prosperity at the same time as you have a 70 year old "
+"ruler."
+msgstr "70세의 통치자를 가지고 30개의 주가 번영하도록 하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_11_17_NAME코0"
+msgid "Tear Down This Wall"
+msgstr "이 장벽에 눈물을 떨구다"
+
+msgctxt "NEW_ACHIEVEMENT_11_17_DESC코0"
+msgid "Use artillery Barrage on Berlin."
+msgstr "베를린에 포격을 가하십시오"
+
+msgctxt "NEW_ACHIEVEMENT_11_18_NAME코0"
+msgid "A Golden Empire"
+msgstr "황금 제국"
+
+msgctxt "NEW_ACHIEVEMENT_11_18_DESC코0"
+msgid "Enact a Golden Age as an Empire."
+msgstr "신성로마제국으로 황금기를 여십시오"
+
+msgctxt "NEW_ACHIEVEMENT_11_19_NAME코0"
+msgid "Cherrypicking"
+msgstr "체리피킹"
+
+msgctxt "NEW_ACHIEVEMENT_11_19_DESC코0"
+msgid "Conscript a 3 star general from a Daimyo Subject."
+msgstr "다이묘 속국으로부터 3성 지휘관을 획득하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_11_20_NAME코0"
+msgid "These Banners need a Saga"
+msgstr "이 팔기군들은 전설이 필요하다."
+
+msgctxt "NEW_ACHIEVEMENT_11_20_DESC코0"
+msgid "Have 100 regiments as Banners raised at the same time."
+msgstr "동시에 100개의 팔기군 연대를 가지십시오."
+
+msgctxt "NEW_ACHIEVEMENT_11_21_NAME코0"
+msgid "Sweet Harmony"
+msgstr "달콤한 조화"
+
+msgctxt "NEW_ACHIEVEMENT_11_21_DESC코0"
+msgid "Harmonize 7 religions as Confucian."
+msgstr "유교로 7개의 종교를 조화하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_11_22_NAME코0"
+msgid "Sakoku Law"
+msgstr "쇄국정책"
+
+msgctxt "NEW_ACHIEVEMENT_11_22_DESC코0"
+msgid "Go full isolationist in 6 Incidents."
+msgstr "6개의 사건으로 완전한 고립주의가 되십시오."
+
+msgctxt "NEW_ACHIEVEMENT_11_23_NAME코0"
+msgid "Absolutely"
+msgstr "절대적으로"
+
+msgctxt "NEW_ACHIEVEMENT_11_23_DESC코0"
+msgid "Gain 100 Absolutism."
+msgstr "100의 절대주의를 가지십시오."
+
+msgctxt "NEW_ACHIEVEMENT_11_24_NAME코0"
+msgid "Carthago Delenda Est"
+msgstr "카르타고는 멸망해야 한다"
+
+msgctxt "NEW_ACHIEVEMENT_11_24_DESC코0"
+msgid ""
+"As an Italian culture nation, make sure entire Tunis Area is at 100 "
+"devastation."
+msgstr "이탈리아 문화권의 국가로  Tunis의 영역 전체의 황폐화도를 100으로 만드십시오 "
+
+msgctxt "NEW_ACHIEVEMENT_11_25_NAME코0"
+msgid "Qing of China"
+msgstr "청나라의 천하"
+
+msgctxt "NEW_ACHIEVEMENT_11_25_DESC코0"
+msgid "Become Chinese Emperor as Qing."
+msgstr "중국에 청나라를 세우십시오"
+
+msgctxt "NEW_ACHIEVEMENT_11_26_NAME코0"
+msgid "Three Trivial Tributary Tribes"
+msgstr ""
+
+msgctxt "NEW_ACHIEVEMENT_11_26_DESC코0"
+msgid "Have 3 Tribal States as Tributaries."
+msgstr "3개 종류의 부족국가를 조공국으로 가지십시오."
+
+msgctxt "NEW_ACHIEVEMENT_11_27_NAME코0"
+msgid "Made in Japan"
+msgstr "일본제"
+
+msgctxt "NEW_ACHIEVEMENT_11_27_DESC코0"
+msgid "Embrace \"manufacturies\" institution as Japan by 1655."
+msgstr "1655년까지 일본으로 \"공장\" 시대관을 수용하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_11_28_NAME코0"
+msgid "The First Toungoo Empire"
+msgstr "첫번째 타옹우(Toungoo) 제국"
+
+msgctxt "NEW_ACHIEVEMENT_11_28_DESC코0"
+msgid "As Taungu, unite the Burman culture group by 1500."
+msgstr "Taungu로 Burman 문화 그룹 지역을 1500년까지 통일하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_11_29_NAME코0"
+msgid "Disciples of Enlightenment"
+msgstr "개몽주의의 사도들"
+
+msgctxt "NEW_ACHIEVEMENT_11_29_DESC코0"
+msgid ""
+"Starting as Dai Viet, have 10 nations follow the Mahayana Faith by 1500."
+msgstr "Dai Viet으로 1500년까지 10개의 국가가 Mahayana 를 따르게 하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_11_30_NAME코0"
+msgid "Where the heart is"
+msgstr ""
+
+msgctxt "NEW_ACHIEVEMENT_11_30_DESC코0"
+msgid ""
+"As Dahomey, force all non-Fetishist nations out of Niger and Sahel by 1500."
+msgstr "Dahomey로 1500년 까지 Niger 와 Sahel 에서 모든 Fetishist가 아닌 국가들을 몰아내십시오."
+
+msgctxt "NEW_ACHIEVEMENT_11_31_NAME코0"
+msgid "Rise of the White Sheep"
+msgstr "흰 양의 발흥"
+
+msgctxt "NEW_ACHIEVEMENT_11_31_DESC코0"
+msgid "As Aq Qoyunlu, own Tabriz and have Qara Qoyunlu not exist by 1478."
+msgstr "아크 코윤루로 1478년까지 Tabriz를 소유하고 Qara Qoyunlu를 존재하지 않게 하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_12_0_NAME코0"
+msgid "I'll graze my horse here.. And here…"
+msgstr ""
+
+msgctxt "NEW_ACHIEVEMENT_12_0_DESC코0"
+msgid "As a Horde, own over 200 provinces producing grain."
+msgstr "유목민으로 200개의 곡물 생산 지역들을 소유하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_12_1_NAME코0"
+msgid "Gold Rush"
+msgstr "골드러쉬"
+
+msgctxt "NEW_ACHIEVEMENT_12_1_DESC코0"
+msgid "Reform the Golden Horde before 1500."
+msgstr "1500년 전까지 킵차크 칸국 개혁을 하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_12_2_NAME코0"
+msgid "The Navigator"
+msgstr "항해사"
+
+msgctxt "NEW_ACHIEVEMENT_12_2_DESC코0"
+msgid ""
+"As Portugal, get owned provinces in Africa, India and Indonesia before 1500."
+msgstr "포르투갈로 1500년 전까지 아프리카, 인도, 인도네시아에 지역을 소유하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_12_3_NAME코0"
+msgid "Turtles all the way down"
+msgstr ""
+
+msgctxt "NEW_ACHIEVEMENT_12_3_DESC코0"
+msgid "As Korea get 135% Ship Durability."
+msgstr "조선(Korea)으로 135%의 함선 내구성을 가지십시오."
+
+msgctxt "NEW_ACHIEVEMENT_13_1_NAME코0"
+msgid "Dovmont's Own"
+msgstr "다우만타스(Dovmont)의 것"
+
+msgctxt "NEW_ACHIEVEMENT_13_1_DESC코0"
+msgid "Starting as Pskov, have 100 standing Streltsy units"
+msgstr "Pskov로 100개의 스트렐치 연대를 가지십시오."
+
+msgctxt "NEW_ACHIEVEMENT_13_2_NAME코0"
+msgid "Redecorating"
+msgstr "개조중"
+
+msgctxt "NEW_ACHIEVEMENT_13_2_DESC코0"
+msgid "Starting as an Orthodox Nation, Consecrate Metropolitan in Roma"
+msgstr "정교회 국가로 시작해 로마에 대주교를 임명하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_13_3_NAME코0"
+msgid "Breaking the Yoke"
+msgstr "멍에를 벗기"
+
+msgctxt "NEW_ACHIEVEMENT_13_3_DESC코0"
+msgid "As Ryazan, own Saratov, Crimea and Kazan while being independent"
+msgstr "Ryazan으로 독립한 상태로 Saratov, Crimea, Kazan 을 소유하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_13_4_NAME코0"
+msgid "Back in Control"
+msgstr "복권"
+
+msgctxt "NEW_ACHIEVEMENT_13_4_DESC코0"
+msgid "Form Yuan and be the only nation holding land in China."
+msgstr "대원을 형성하고 중국에서 영토를 가지고 있는 유일한 국가가 되십시오."
+
+msgctxt "NEW_ACHIEVEMENT_13_5_NAME코0"
+msgid "Mass Production"
+msgstr "대량생산"
+
+msgctxt "NEW_ACHIEVEMENT_13_5_DESC코0"
+msgid "Starting as Odoyev, own one of every manufactury"
+msgstr "Odoyev로 시작해 모든 종류의 공장을 소유하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_13_6_NAME코0"
+msgid "Relentless Push East"
+msgstr "끊임없이 동쪽으로"
+
+msgctxt "NEW_ACHIEVEMENT_13_6_DESC코0"
+msgid "Starting as a Russian nation, By 1600 own the East Siberian Coastline."
+msgstr "러시아 왕국으로 시작해서, 1600년 까지 동부 시베리아 해안지역을 소유하십시오"
+
+msgctxt "NEW_ACHIEVEMENT_13_7_NAME코0"
+msgid "Laughingstock"
+msgstr "우스운 자"
+
+msgctxt "NEW_ACHIEVEMENT_13_7_DESC코0"
+msgid "Own the provinces of Haha, Hehe and Lolland."
+msgstr "Haha, Hehe 및 Lolland 지역을 소유하십시오"
+
+msgctxt "NEW_ACHIEVEMENT_13_8_NAME코0"
+msgid "Lessons of Hemmingstedt"
+msgstr "Hemmingstedt의 교훈"
+
+msgctxt "NEW_ACHIEVEMENT_13_8_DESC코0"
+msgid ""
+"As Dithmarschen, hold the provinces of Sjaelland and Holland while Denmark "
+"do not exist."
+msgstr "덴마크가 성립되지 않은 동안 Dithmarschen으로 Sjaelland 및 Holland 지역을 소유하십시오."
+
+msgctxt "NEW_ACHIEVEMENT_13_9_NAME코0"
+msgid "It's All Greek To Me"
+msgstr "나에게는 그리스 밖에 없어."
+
+msgctxt "NEW_ACHIEVEMENT_13_9_DESC코0"
+msgid "Form Greece and own and have cores on Zeta, Thatta, Lamba, and Roh."
+msgstr "그리스를 형성하고 Zeta, Thatta, Lamba, Roh를 점유하거나, 그곳에 코어를 획득하십시오  "
+
+msgctxt "NEW_ACHIEVEMENT_13_10_NAME코0"
+msgid "The 52 Garhs"
+msgstr "52번째 성채"
+
+msgctxt "NEW_ACHIEVEMENT_13_10_DESC코0"
+msgid "As Garhwal own and maintain 52 forts without going into debt"
+msgstr "Garhwal로  대출없이 52개의 요새를 유지하고 소유하십시오"
+

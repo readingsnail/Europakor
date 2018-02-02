@@ -1,0 +1,25 @@
+# bjrj <asap1993@naver.com>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2017-06-14 09:45-0400\n"
+"Last-Translator: bjrj <asap1993@naver.com>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"X-Generator: Zanata 3.9.6\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgctxt "ruamp_a_russian_heart코0"
+msgid "A Russian Heart"
+msgstr "러시아의 심장"
+
+msgctxt "ruamp_following_the_volga코0"
+msgid "Following the Volga"
+msgstr "볼가 강을 따라"
+
+msgctxt "ruamp_iwans_dream코0"
+msgid "Ivan's Dream"
+msgstr "이반의 꿈"
+

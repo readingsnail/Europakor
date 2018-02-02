@@ -1,0 +1,23 @@
+# badaim <imbada@outlook.com>, 2016. #zanata
+# bjrj <asap1993@naver.com>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2017-06-15 11:37-0400\n"
+"Last-Translator: bjrj <asap1993@naver.com>\n"
+"Language-Team: Korean (South Korea)\n"
+"Language: ko\n"
+"X-Generator: Zanata 3.9.6\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgctxt "enclave_artist_festival_desc코0"
+msgid ""
+"A festival organized by the Artisan Troupe, spreading joy across the empire."
+msgstr "장인 극단이 조직한 축제가 제국에 즐거움을 선사하고 있습니다."
+
+msgctxt "horror_energy_object코0"
+msgid "$energy_uninhabitable_category$"
+msgstr "$energy_uninhabitable_category$"
+

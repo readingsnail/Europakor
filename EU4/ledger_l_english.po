@@ -1,0 +1,845 @@
+# badaim <imbada@outlook.com>, 2017. #zanata
+# bjrj <asap1993@naver.com>, 2017. #zanata
+# muelleri2075 <sukjinkim321@naver.com>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2017-04-21 08:50-0400\n"
+"Last-Translator: bjrj <asap1993@naver.com>\n"
+"Language-Team: Korean (South Korea)\n"
+"Language: ko\n"
+"X-Generator: Zanata 3.9.6\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgctxt "LEDGER_COUNTRY코0"
+msgid "Country"
+msgstr "국가"
+
+msgctxt "LEDGER_STABILITY코0"
+msgid "Stability"
+msgstr "안정도"
+
+msgctxt "LEDGER_INCOME코0"
+msgid "Income"
+msgstr "수입"
+
+msgctxt "LEDGER_INCOMING코0"
+msgid "Incoming"
+msgstr "수입"
+
+msgctxt "LEDGER_MANPOWER코0"
+msgid "Manpower"
+msgstr "인력"
+
+msgctxt "LEDGER_MAXMANPOWER코0"
+msgid "Max Manpower"
+msgstr "최대 인력"
+
+msgctxt "LEDGER_MONTHLY_INCOME코0"
+msgid "Monthly Income: §Y$VAL$§W¤"
+msgstr "월간 수입: §Y$VAL$§W¤"
+
+msgctxt "LEDGER_TREASURY_TIP코0"
+msgid "Money in the treasury: §Y$VAL$§W¤"
+msgstr "금고의 재정: §Y$VAL$§W¤"
+
+msgctxt "LEDGER_TECHLEVELS코0"
+msgid "Total number of technology levels: §Y$VAL$§W"
+msgstr "총 기술 레벨: §Y$VAL$§W"
+
+msgctxt "LEDGER_IDEASUNLOCKED코0"
+msgid "Total number of ideas unlocked: §Y$VAL$§W"
+msgstr "개방된 모든 이념들: §Y$VAL$§W"
+
+msgctxt "LEDGER_TECH코1"
+msgid "Techs"
+msgstr "기술"
+
+msgctxt "LEDGER_PREVIOUS코0"
+msgid "Previous"
+msgstr "이전"
+
+msgctxt "LEDGER_NEXT코0"
+msgid "Next"
+msgstr "다음"
+
+msgctxt "LEDGER_CLOSE코0"
+msgid "Close"
+msgstr "닫기"
+
+msgctxt "LEDGER_NATION_TECHNOLOGY코0"
+msgid "Nations' Technologies"
+msgstr "국가 기술"
+
+msgctxt "LEDGER_INCOME_OVERVIEW코0"
+msgid "Income Overview"
+msgstr "수입 개요"
+
+msgctxt "LEDGER_CATEGORY코0"
+msgid "Category"
+msgstr "분류"
+
+msgctxt "LEDGER_LAST_YEAR코0"
+msgid "Last Year"
+msgstr "지난해"
+
+msgctxt "LEDGER_THIS_YEAR코0"
+msgid "This Year"
+msgstr "올해"
+
+msgctxt "LEDGER_PRECENT_OF_TOTAL코0"
+msgid "Percent of total"
+msgstr "전체의 비율"
+
+msgctxt "LEDGER_COST_OVERVIEW코0"
+msgid "Cost Overview"
+msgstr "비용 개요"
+
+msgctxt "LEDGER_COT코0"
+msgid "COT"
+msgstr "무역 중심지"
+
+msgctxt "LEDGER_OWNER코0"
+msgid "Owner"
+msgstr "소유자"
+
+msgctxt "LEDGER_LOCATION코0"
+msgid "Location"
+msgstr "위치"
+
+msgctxt "LEDGER_VALUE코0"
+msgid "Value"
+msgstr "가치"
+
+msgctxt "LEDGER_OUR_INCOME코0"
+msgid "Our Income"
+msgstr "우리의 수입"
+
+msgctxt "LEDGER_OUR_NUM_OF_MERCHANTS코0"
+msgid "Our number of merchants"
+msgstr "상인수"
+
+msgctxt "LEDGER_MONOPOLY코0"
+msgid "Monopoly"
+msgstr "독점"
+
+msgctxt "LEDGER_PLACEMENT_COST코0"
+msgid "Placement cost"
+msgstr "배치 비용"
+
+msgctxt "LEDGER_CHANCE코0"
+msgid "Chance"
+msgstr "기회"
+
+msgctxt "LEDGER_ENROUTES코0"
+msgid "En route"
+msgstr "도중에"
+
+msgctxt "LEDGER_LOANS코0"
+msgid "Loans"
+msgstr "대출"
+
+msgctxt "LEDGER_LENDER코0"
+msgid "Lender"
+msgstr "대여"
+
+msgctxt "LEDGER_BORROWER코0"
+msgid "Borrower"
+msgstr "대출자"
+
+msgctxt "LEDGER_EXPIRY_DATE코0"
+msgid "Expiry Date"
+msgstr "만기일"
+
+msgctxt "LEDGER_AMOUNT코0"
+msgid "Amount"
+msgstr "총액"
+
+msgctxt "LEDGER_INTREST코0"
+msgid "Interest"
+msgstr "이자"
+
+msgctxt "LEDGER_YEARLY_COST코0"
+msgid "Yearly Cost"
+msgstr "연간 가격"
+
+msgctxt "LEDGER_TRADE_GOODS코0"
+msgid "Trade Goods"
+msgstr "무역 상품"
+
+msgctxt "LEDGER_NAME코0"
+msgid "Name"
+msgstr "이름"
+
+msgctxt "LEDGER_BASE_PRICE코0"
+msgid "Base Price"
+msgstr "기본 가격"
+
+msgctxt "LEDGER_SUPPLY코0"
+msgid "Supply"
+msgstr "보급"
+
+msgctxt "LEDGER_DEMAND코0"
+msgid "Demand"
+msgstr "요구"
+
+msgctxt "LEDGER_CURRENT_PRICE코0"
+msgid "Current Price"
+msgstr "현재 가격"
+
+msgctxt "LEDGER_CURRENT_PRICE_WITH_BASE코0"
+msgid "Current Price: $PRICE$ (Base: $BASE$)"
+msgstr "현재 가격: $PRICE$ (기본: $BASE$)"
+
+msgctxt "LEDGER_PREVIOUS_RULERS코0"
+msgid "Previous Rulers"
+msgstr "이전의 통치자"
+
+msgctxt "LEDGER_ADM코0"
+msgid "ADM"
+msgstr "행정"
+
+msgctxt "LEDGER_DIP코0"
+msgid "DIP"
+msgstr "외교"
+
+msgctxt "LEDGER_MIL코0"
+msgid "MIL"
+msgstr "군사"
+
+msgctxt "LEDGER_FROM코0"
+msgid "From"
+msgstr "즉위"
+
+msgctxt "LEDGER_UNTIL코0"
+msgid "Until"
+msgstr "퇴위"
+
+msgctxt "LEDGER_COUNTRY_OVERVIEW코0"
+msgid "Country Overview"
+msgstr "국가 개요"
+
+msgctxt "LEDGER_PROVINCE코0"
+msgid "Province"
+msgstr "지역"
+
+msgctxt "LEDGER_TAX코0"
+msgid "Tax"
+msgstr "세금"
+
+msgctxt "LEDGER_DEVELOPMENT코0"
+msgid "Development"
+msgstr "개발도"
+
+msgctxt "LEDGER_PRODUCTION코0"
+msgid "Production"
+msgstr "생산"
+
+msgctxt "LEDGER_CULTURE코0"
+msgid "Culture"
+msgstr "문화"
+
+msgctxt "LEDGER_RELIGION코0"
+msgid "Religion"
+msgstr "종교"
+
+msgctxt "LEDGER_GOODS코0"
+msgid "Goods"
+msgstr "상품"
+
+msgctxt "LEDGER_FORT코0"
+msgid "Fort"
+msgstr "요새"
+
+msgctxt "LEDGER_MANUFATORY코0"
+msgid "Manufactory"
+msgstr "제조소"
+
+msgctxt "LEDGER_BUILDINGS_OVERVIEW코0"
+msgid "Buildings Overview"
+msgstr "건물 개요"
+
+msgctxt "LEDGER_TECHNOLOGY코0"
+msgid "Technology"
+msgstr "기술"
+
+msgctxt "LEDGER_GOODS_LOCATIONS코0"
+msgid "Goods Locations"
+msgstr "상품 생산지"
+
+msgctxt "LEDGER_MILITARYPOWER코0"
+msgid "Military Power"
+msgstr "군사력"
+
+msgctxt "LEDGER_PRESTIGE코0"
+msgid "Prestige"
+msgstr "위신"
+
+msgctxt "LEDGER_ALLIANCE코0"
+msgid "Alliance"
+msgstr "동맹"
+
+msgctxt "LEDGER_RM코0"
+msgid "RM"
+msgstr "왕실 결혼"
+
+msgctxt "LEDGER_SUBJECT코0"
+msgid "Subject"
+msgstr "속국"
+
+msgctxt "LEDGER_UNION코0"
+msgid "Union"
+msgstr "동군연합"
+
+msgctxt "LEDGER_GUARANTEE코0"
+msgid "Guarantee"
+msgstr "보장"
+
+msgctxt "LEDGER_ACCESS코0"
+msgid "Access"
+msgstr "통행"
+
+msgctxt "LEDGER_FRIENDLY_RELATION코0"
+msgid "Friendly Relations"
+msgstr "우호 관계"
+
+msgctxt "LEDGER_HOSTILE_RELATION코0"
+msgid "Hostile Relations"
+msgstr "적대 관계"
+
+msgctxt "LEDGER_COALITIONS코0"
+msgid "Coalitions"
+msgstr "반국가동맹"
+
+msgctxt "LEDGER_CB코0"
+msgid "CB"
+msgstr "전쟁 명분"
+
+msgctxt "LEDGER_EMBARGO코0"
+msgid "Embargo"
+msgstr "무역 금지령"
+
+msgctxt "LEDGER_CURRENT_WARS코0"
+msgid "Current Wars"
+msgstr "진행중인 전쟁"
+
+msgctxt "LEDGER_WAR코0"
+msgid "Wars"
+msgstr "전쟁"
+
+msgctxt "LEDGER_ATTACKER코0"
+msgid "Attacker"
+msgstr "공격자"
+
+msgctxt "LEDGER_DEFENDER코0"
+msgid "Defender"
+msgstr "방어자"
+
+msgctxt "LEDGER_SCORE코0"
+msgid "Score"
+msgstr "점수"
+
+msgctxt "LEDGER_ADVISORS코0"
+msgid "Advisors"
+msgstr "조언자"
+
+msgctxt "LEDGER_EMPLOYER코0"
+msgid "Employer"
+msgstr "고용 국가"
+
+msgctxt "LEDGER_HOME코0"
+msgid "Home"
+msgstr "고향"
+
+msgctxt "LEDGER_TECH_GROUP코0"
+msgid "Tech group"
+msgstr "기술 그룹"
+
+msgctxt "LEDGER_SKILL코0"
+msgid "Skill"
+msgstr "기술"
+
+msgctxt "LEDGER_TYPE코0"
+msgid "Type"
+msgstr "종류"
+
+msgctxt "LEDGER_NATION_ARMIES코0"
+msgid "National Armies"
+msgstr "국가의 육군"
+
+msgctxt "LEDGER_REGION_CONTINENT코0"
+msgid "Region/Continent"
+msgstr "지방/대륙"
+
+msgctxt "LEDGER_INF코0"
+msgid "Inf"
+msgstr "보병"
+
+msgctxt "LEDGER_ART코0"
+msgid "Art"
+msgstr "포병"
+
+msgctxt "LEDGER_CAV코0"
+msgid "Cav"
+msgstr "기병"
+
+msgctxt "LEDGER_NATION_NAVIES코0"
+msgid "National Navies"
+msgstr "국가의 해군"
+
+msgctxt "LEDGER_BIG코0"
+msgid "Big"
+msgstr "대형선"
+
+msgctxt "LEDGER_LIGHT코0"
+msgid "Light"
+msgstr "소형선"
+
+msgctxt "LEDGER_CAL코0"
+msgid "Gal"
+msgstr "갤리선"
+
+msgctxt "LEDGER_TRA코0"
+msgid "Tra"
+msgstr "수송선"
+
+msgctxt "LEDGER_UNIT코0"
+msgid "Unit"
+msgstr "유닛"
+
+msgctxt "LEDGER_ARMY_REGIMENTS코0"
+msgid "Army Regiments"
+msgstr "연대"
+
+msgctxt "LEDGER_GUNS코0"
+msgid "Guns"
+msgstr "총"
+
+msgctxt "LEDGER_SPEED코0"
+msgid "Speed"
+msgstr "속도"
+
+msgctxt "LEDGER_HULLSIZE코0"
+msgid "Hullsize"
+msgstr "선체크기"
+
+msgctxt "LEDGER_SHIPS코0"
+msgid "Ships"
+msgstr "함선"
+
+msgctxt "LEDGER_INFLATION코0"
+msgid "Inflation"
+msgstr "인플레이션"
+
+msgctxt "LEDGER_TE코0"
+msgid "Tr.Eff."
+msgstr "무역 효율"
+
+msgctxt "LEDGER_PE코0"
+msgid "Pr.Eff."
+msgstr "생산 효율"
+
+msgctxt "LEDGER_NATION_STATISTICS코0"
+msgid "Nation Statistics"
+msgstr "국가 통계"
+
+msgctxt "LEDGER_GOVERNMENT코0"
+msgid "Government"
+msgstr "정부"
+
+msgctxt "LEDGER_TRADE코0"
+msgid "Trade"
+msgstr "무역"
+
+msgctxt "LEDGER_NAVAL코0"
+msgid "Naval"
+msgstr "해군"
+
+msgctxt "LEDGER_LAND코0"
+msgid "Land"
+msgstr "육군"
+
+msgctxt "LEDGER_PIE_RELIGON코0"
+msgid "Religion"
+msgstr "종교"
+
+msgctxt "LEDGER_PIE_PRODUCTION코0"
+msgid "Production"
+msgstr "생산"
+
+msgctxt "LEDGER_OTHER코0"
+msgid "Other"
+msgstr "다른"
+
+msgctxt "LEDGER_PIE_CULTURES코0"
+msgid "Cultures"
+msgstr "문화"
+
+msgctxt "LEDGER_PIE_PROVINCES코0"
+msgid "Provinces"
+msgstr "지역"
+
+msgctxt "LEDGER_PIE_CHARTS코0"
+msgid "Charts"
+msgstr "차트"
+
+msgctxt "LEDGER_TECHNOLOGY_OVERVIEW코0"
+msgid "Technology Overview"
+msgstr "기술 개요"
+
+msgctxt "LEDGER_LAND_TECH코0"
+msgid "Land Tech"
+msgstr "육군 기술"
+
+msgctxt "LEDGER_LAND_MORALE코0"
+msgid "Land Morale"
+msgstr "육군 사기"
+
+msgctxt "LEDGER_INFANTRY_FIRE코0"
+msgid "Infantry Fire"
+msgstr "보병 사격"
+
+msgctxt "LEDGER_CAVALRY_FIRE코0"
+msgid "Cavalry Fire"
+msgstr "기병 사격"
+
+msgctxt "LEDGER_ARTILLERY_FIRE코0"
+msgid "Artillery Fire"
+msgstr "포병 사격"
+
+msgctxt "LEDGER_INFANTRY_SHOCK코0"
+msgid "Infantry Shock"
+msgstr "보병 충격"
+
+msgctxt "LEDGER_CAVALRY_SHOCK코0"
+msgid "Cavalry Shock"
+msgstr "기병 충격"
+
+msgctxt "LEDGER_ARTILLERY_SHOCK코0"
+msgid "Artillery Shock"
+msgstr "포병 충격"
+
+msgctxt "LEDGER_TRADE_TECH코0"
+msgid "Trade"
+msgstr "무역"
+
+msgctxt "LEDGER_TRADE_EFFICIENCY코0"
+msgid "Trade efficiency"
+msgstr "무역효율성"
+
+msgctxt "LEDGER_CAN_HAVE_MONOPLOY코0"
+msgid "Can have monopoly"
+msgstr "독점 가능"
+
+msgctxt "LEDGER_CAN_PLACE_MERCHANTS코0"
+msgid "Can place merchants"
+msgstr "상인 배치 가능"
+
+msgctxt "LEDGER_CAN_BLOCKADE코0"
+msgid "Can blockade"
+msgstr "봉쇄 수"
+
+msgctxt "LEDGER_NAVAL_TECH코0"
+msgid "Naval"
+msgstr "해군"
+
+msgctxt "LEDGER_NAVAL_MORALE코0"
+msgid "Naval Morale"
+msgstr "해군 사기"
+
+msgctxt "LEDGER_BIGSHIP_FIRE코0"
+msgid "Heavy Ship Fire"
+msgstr "대형선 사격"
+
+msgctxt "LEDGER_LIGHTSHIP_FIRE코0"
+msgid "Light Ship Fire"
+msgstr "소형선 사격"
+
+msgctxt "LEDGER_GALLEY_FIRE코0"
+msgid "Galley Fire"
+msgstr "갤리선 사격"
+
+msgctxt "LEDGER_TRANSPORT_FIRE코0"
+msgid "Transport fire"
+msgstr "수송선 사격"
+
+msgctxt "LEDGER_BIGSHIP_SHOCK코0"
+msgid "Heavy Ship Shock"
+msgstr "대형선 충격"
+
+msgctxt "LEDGER_LIGHTSHIP_SHOCK코0"
+msgid "Light Ship Shock"
+msgstr "소형선 충격"
+
+msgctxt "LEDGER_GALLEY_SHOCK코0"
+msgid "Galley Shock"
+msgstr "갤리선 충격"
+
+msgctxt "LEDGER_TRANSPORT_SHOCK코0"
+msgid "Transport Shock"
+msgstr "수송선 충격"
+
+msgctxt "LEDGER_PRODUCTION_TECH코0"
+msgid "Production"
+msgstr "생산"
+
+msgctxt "LEDGER_PRODUCTION_EFFICIENCY코0"
+msgid "Efficiency"
+msgstr "효울성"
+
+msgctxt "LEDGER_GOVERNMENT_TECH코0"
+msgid "Government"
+msgstr "정부"
+
+msgctxt "LEDGER_CAN_HAVE_IDEAS코0"
+msgid "Can have ideas"
+msgstr "이념을 가질 수 있습니다"
+
+msgctxt "LEDGER_NO코0"
+msgid "No"
+msgstr "아니오"
+
+msgctxt "LEDGER_YES코0"
+msgid "Yes"
+msgstr "예"
+
+msgctxt "LEDGER_NATION_STATISTICS_SHILEDS_S코0"
+msgid ""
+"Left clicking here will close the ledger and the map will be centered on the "
+"capital of this country"
+msgstr "이곳을 왼쪽 마우스버튼 클릭하면 장부(ledger)가 닫히고 맵이 국가의 수도를 중심으로 갈 것입니다."
+
+msgctxt "LEDGER_NATION_STATISTICS_SHILEDS_L코0"
+msgid "This is a handy way to quickly do diplomatic deals with countries"
+msgstr "이것은 다른나라들과 외교거래를 하는 가장 편리한 방법입니다."
+
+msgctxt "LEDGER_PROVINCE_OVERVIEW코0"
+msgid "Province Overview"
+msgstr "지역 개요"
+
+msgctxt "LEDGER_GLOBAL_PROVINCE_OVERVIEW코0"
+msgid "Province Development"
+msgstr "지역 개발도"
+
+msgctxt "LEDGER_POSSIBLE_COLONIES코0"
+msgid "Possible Colonies"
+msgstr "가능한 식민지"
+
+msgctxt "LEDGER_TRADE_RANGE코0"
+msgid "Trade Range"
+msgstr "무역 범위"
+
+msgctxt "LEDGER_TRADE_NODES코0"
+msgid "Trade Nodes"
+msgstr "무역 노드"
+
+msgctxt "LEDGER_POWER코0"
+msgid "Power"
+msgstr "파워"
+
+msgctxt "LEDGER_STEER_TO_US코0"
+msgid "Steer to us"
+msgstr "우리를 향해 "
+
+msgctxt "LEDGER_OUTGOING코0"
+msgid "Outgoing"
+msgstr "팽창하는"
+
+msgctxt "LEDGER_COLLECTORS코0"
+msgid "Collectors"
+msgstr "지방행정관"
+
+msgctxt "LEDGER_CAN_PULL_TRADE코0"
+msgid "Can pull trade"
+msgstr "무역력 보내기 가능"
+
+msgctxt "LEDGER_CAN_SEND_OFFICE코0"
+msgid "Can create office"
+msgstr "무역소 건설 가능"
+
+msgctxt "LEDGER_CAN_STEER_TRADE코0"
+msgid "Can steer trade"
+msgstr "무역 흐름을 조종하다"
+
+msgctxt "LEDGER_RELIGIONS코0"
+msgid "Religions"
+msgstr "종교"
+
+msgctxt "LEDGER_DEFENDER_OF_FAITH코0"
+msgid "Defender of the Faith"
+msgstr "신앙의 수호자"
+
+msgctxt "LEDGER_COUNTRIES코0"
+msgid "Countries"
+msgstr "국가"
+
+msgctxt "LEDGER_BUILDINGS코0"
+msgid "Buildings"
+msgstr "건물"
+
+msgctxt "LEDGER_INDEX코0"
+msgid "Ledger Index"
+msgstr "목차"
+
+msgctxt "LEDGER_ECONOMY코0"
+msgid "Economy"
+msgstr "경제"
+
+msgctxt "LEDGER_WORLD코0"
+msgid "World"
+msgstr "세계"
+
+msgctxt "LEDGER_RELATIONS코0"
+msgid "Relations"
+msgstr "관계"
+
+msgctxt "LEDGER_MILITARY코0"
+msgid "Military"
+msgstr "군사"
+
+msgctxt "LEDGER_PAGE코0"
+msgid "Page"
+msgstr "페이지"
+
+msgctxt "LEDGER_SORT_DELAYED코0"
+msgid "Sort this column"
+msgstr "이 열로 정렬"
+
+msgctxt "LEDGER_BUILDING_NEXT코0"
+msgid "Next Building"
+msgstr "다음 건물"
+
+msgctxt "LEDGER_BUILDING_CAN_BUILD_NEXT코0"
+msgid "Can build next"
+msgstr "다음 건설 가능"
+
+msgctxt "LEDGER_TRADE_GOODS_SUPPLY_DESC코0"
+msgid "Supply of §Y'$TYPE$'§! is provided from §Y$NUM$§! provinces."
+msgstr "§Y'$TYPE$'§!을 공급은 §Y$NUM$§!지역에서 제공합니다"
+
+msgctxt "LEDGER_TRADE_GOODS_DEMAND_DESC코0"
+msgid "Demand for §Y'$TYPE$'§! comes from §Y$NUM$§! provinces."
+msgstr "§Y$NUM$§! 지역에서 §Y'$TYPE$'§! 을 요구하라"
+
+msgctxt "LEDGER_TOTAL코0"
+msgid "Total"
+msgstr "종합"
+
+msgctxt "EXPENSEHARBORFEES코0"
+msgid "Harbor Fees"
+msgstr "항만 수수료"
+
+msgctxt "EXPENSECOURTMAINTENANCE코0"
+msgid "Advisors maintenance"
+msgstr "조언자 유지비"
+
+msgctxt "INCOMEGIFT코0"
+msgid "Gift"
+msgstr "선물"
+
+msgctxt "EXPENSEGIFT코0"
+msgid "Gift"
+msgstr "선물"
+
+msgctxt "LEDGER_CB_WE코0"
+msgid "We have CB"
+msgstr "우리는 전쟁 명분을 가지고 있습니다"
+
+msgctxt "LEDGER_CB_THEM코0"
+msgid "They have CB"
+msgstr "그들은 전쟁 명분을 가지고 있습니다"
+
+msgctxt "LEDGER_EMBARGOED_WE코0"
+msgid "We embargoed"
+msgstr "우리는 무역 금지령을 내렸습니다"
+
+msgctxt "LEDGER_EMBARGOED_THEM코0"
+msgid "They embargoed"
+msgstr "그들은 무역 금지령을 내렸습니다"
+
+msgctxt "LEDGER_TRUCE코0"
+msgid "Truce"
+msgstr "휴전"
+
+msgctxt "LEDGER_CLEAR코0"
+msgid "Clear"
+msgstr "클리어"
+
+msgctxt "LEDGER_TRADE_GOODS_TOP_SUPPLY코0"
+msgid "Top 15 supplying provinces"
+msgstr "톱 15위 공급 지방\""
+
+msgctxt "LEDGER_TRADE_GOODS_DEMAND_CAPITAL코0"
+msgid "Demand in capital $CAPITAL|Y$"
+msgstr "자본 수요 $CAPITAL|Y$"
+
+msgctxt "LEDGER_COUNTRY_DESC코0"
+msgid "$WHO$ is a '$GOV|Y$' in $CONTINENT$."
+msgstr "$WHO$는 $CONTINENT$안의 '$GOV|Y$'이다."
+
+msgctxt "LEDGER_COUNTRY_DESC2코0"
+msgid "$WHO$ is a '$GOV|Y$'."
+msgstr "$WHO$ 는'$GOV|Y$'이다."
+
+msgctxt "LEDGER_LOCAL_TRADE코0"
+msgid "Local"
+msgstr "지역"
+
+msgctxt "LEDGER_COALITION_MEMBERS코0"
+msgid "Coalition Members"
+msgstr "반국가동맹 회원"
+
+msgctxt "LEDGER_ATTITUDE코0"
+msgid "Attitude"
+msgstr "태도"
+
+msgctxt "LEDGER_CONTINENT코0"
+msgid "Continent"
+msgstr "대륙"
+
+msgctxt "LEDGER_TRADENODE코0"
+msgid "Trade node"
+msgstr "무역 노드"
+
+msgctxt "LEDGER_SCORE_PLACEMENT코0"
+msgid "Placement"
+msgstr "배치"
+
+msgctxt "LEDGER_GREAT_POWERS코0"
+msgid "Great Powers"
+msgstr "열강"
+
+msgctxt "LEDGER_GREAT_POWER_RANK코0"
+msgid "Rank"
+msgstr "순위"
+
+msgctxt "LEDGER_GREAT_POWER_SCORE코0"
+msgid "Great Power Rating"
+msgstr "열강 점수"
+
+msgctxt "LEDGER_TECH_COST코0"
+msgid "Technology Cost"
+msgstr "기술 비용"
+
+msgctxt "LEDGER_GREAT_POWER_RANK_DETERMINED_BY코0"
+msgid "The Country with highest Great Power Rating gets the lowest Rank."
+msgstr "가장 높은 열강 점수를 가진 국가가 가장 높은 등수를 차지합니다."
+
+msgctxt "LEDGER_GREAT_POWER_SCORE_DETERMINED_BY코0"
+msgid "Great Power Rating is Development divided by Technology Cost"
+msgstr "열강 점수는 개발도를 기술 비용으로 나눈 값입니다."
+
+msgctxt "OWN_DEVELOPMENT코0"
+msgid "Own Development: $VAL|Y$\n"
+msgstr "자신의 개발도: $VAL|Y$\n"
+
+msgctxt "HALF_OF_SUBJECTS_DEVELOPMENT코0"
+msgid "Half of Subjects' Development: $VAL|Y$\n"
+msgstr "속국의 개발도의 반값: $VAL|Y$\n"
+
+msgctxt "LEDGER_GREAT_POWER_TECH_COST_TT코0"
+msgid ""
+msgstr ""
+

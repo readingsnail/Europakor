@@ -1,0 +1,4275 @@
+# badaim <imbada@outlook.com>, 2017. #zanata
+# bjrj <asap1993@naver.com>, 2017. #zanata
+# loveyj10 <kimyj5871@naver.com>, 2017. #zanata
+# muelleri2075 <sukjinkim321@naver.com>, 2017. #zanata
+# snowfall <deluxe2k2@naver.com>, 2017. #zanata
+# Κωνσταντίνος ΙΑ' Δραγάσης Παλαιολόγος <joel92@snu.ac.kr>, 2017. #zanata
+# muelleri2075 <sukjinkim321@naver.com>, 2018. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-06 04:09-0500\n"
+"Last-Translator: muelleri2075 <sukjinkim321@naver.com>\n"
+"Language-Team: Korean (South Korea)\n"
+"Language: ko\n"
+"X-Generator: Zanata 3.9.6\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgctxt "MENU_MESSAGES_DISABLE_ALL코0"
+msgid "Disable all"
+msgstr "전부 비활성화"
+
+msgctxt "ai_handicap코0"
+msgid "AI Bonuses"
+msgstr "인공지능 보너스들"
+
+msgctxt "player_handicap코0"
+msgid "Player Bonuses"
+msgstr "플레이어 보너스들"
+
+msgctxt "FILTER코0"
+msgid "Filter"
+msgstr "필터"
+
+msgctxt "TO_ME코0"
+msgid "To me"
+msgstr "나에게"
+
+msgctxt "FROM_ME코0"
+msgid "From me"
+msgstr "나로부터"
+
+msgctxt "INTERESTING코0"
+msgid "Interesting"
+msgstr "흥미로운"
+
+msgctxt "OTHERS코0"
+msgid "Others"
+msgstr "다른 사람들"
+
+msgctxt "DECAY코0"
+msgid "Decay"
+msgstr "자연 감소"
+
+msgctxt "SM_LANGUAGE코0"
+msgid "Language"
+msgstr "언어"
+
+msgctxt "ENGLISH_SUPPORTED코0"
+msgid "Yes"
+msgstr "예"
+
+msgctxt "SPANISH_SUPPORTED코0"
+msgid "Yes"
+msgstr "예"
+
+msgctxt "GERMAN_SUPPORTED코0"
+msgid "Yes"
+msgstr "예"
+
+msgctxt "FRENCH_SUPPORTED코0"
+msgid "Yes"
+msgstr "예"
+
+msgctxt "ENGLISH코0"
+msgid "English"
+msgstr "한국어"
+
+msgctxt "SPANISH코0"
+msgid "Spanish"
+msgstr "스페인어"
+
+msgctxt "GERMAN코0"
+msgid "German"
+msgstr "독일어"
+
+msgctxt "FRENCH코0"
+msgid "French"
+msgstr "프랑스어"
+
+msgctxt "NO_WINTER코0"
+msgid "No Winters"
+msgstr "겨울 없음"
+
+msgctxt "custom_setup코0"
+msgid "Custom Setup"
+msgstr "사용자 정의 설정"
+
+msgctxt "desc_arctic코0"
+msgid "The arctic climate is harsh, where there is not much large vegetation."
+msgstr "극지방은 매우 혹독해서, 그리 많지 않은 채소만 날 뿐이다."
+
+msgctxt "desc_arid코0"
+msgid ""
+"The arid climate has a severe lack of rainfall, making it very hard to keep "
+"a large army supplied."
+msgstr "건조한 기후는 강수량이 너무 부족하여, 많은 군대의 보급을 유지할 수 없다."
+
+msgctxt "desc_tropical코0"
+msgid ""
+"The tropical climate makes it very hard for new cities to grow, as diseases "
+"and heat are large obstacles."
+msgstr "열대기후는 새로운 도시들이 성장하기가 어렵다. 질병과 더위가 큰 장애가 되기 때문이다."
+
+msgctxt "desc_mild_winter코0"
+msgid ""
+"There is a small amount of snow on the ground, and the temperature is just "
+"below freezing."
+msgstr "땅에는 적은 눈만 쌓여있고, 온도는 어는점보다 살짝 낮다."
+
+msgctxt "desc_normal_winter코0"
+msgid ""
+"The ground is covered by snow, and the temperature is solidly below freezing."
+""
+msgstr "땅이 눈에 덮여있고, 온도는 어는점보다 낮다."
+
+msgctxt "desc_severe_winter코0"
+msgid ""
+"The snow has piled up quite severely, and the temperatures are far below "
+"freezing."
+msgstr "많은 양의 눈이 쌓여있고 온도는 어는점보다 매우 낮다."
+
+msgctxt "WINTERS_WILL_BE코0"
+msgid "Mostly experiencing '§Y$KEY$§!'."
+msgstr "'§Y$KEY$§!'를 확실히 경험하고 있다."
+
+msgctxt "MOVE_CAPITAL_AT_WAR코0"
+msgid "You cannot move the capital to this province while at war."
+msgstr "당신은 전쟁동안 이 지역으로 수도를 옮길 수 없습니다."
+
+msgctxt "MOVE_CAPITAL_TO_FIXED코0"
+msgid "You can only move the $WHO$ capital to §Y$PROV$§!."
+msgstr "$WHO$의 수도만 §Y$PROV$§!로 옮길 수 있다."
+
+msgctxt "MOVE_CAPITAL_FIXED코0"
+msgid "You cannot move the $WHO$ capital out of §Y$PROV$§!."
+msgstr "$WHO$의 수도는 §Y$PROV$§! 밖으로 옮길 수 없다."
+
+msgctxt "MAPMODE코0"
+msgid "Mapmode"
+msgstr "지도 모드"
+
+msgctxt "MAPMODE_PLAYERS코0"
+msgid "Players"
+msgstr "플레이어 맵모드"
+
+msgctxt "MAPMODE_ACCEPTEDCULTURES코0"
+msgid "Accepted Cultures"
+msgstr "수용 문화"
+
+msgctxt "MAPMODE_CLIMATE코0"
+msgid "Climate"
+msgstr "기후 맵모드"
+
+msgctxt "MAPMODE_WINTER코0"
+msgid "Winters"
+msgstr "겨울 맵모드"
+
+msgctxt "MAPMODE_FEDERATIONS코0"
+msgid "Federations"
+msgstr "연맹 지도"
+
+msgctxt "MAPMODE_LOCAL_AUTONOMY코0"
+msgid "Local Autonomy"
+msgstr "지역 자치도 맵모드"
+
+msgctxt "MAPMODE_SIMPLE_TERRAIN코0"
+msgid "Simple Terrain"
+msgstr "간단한 지형 맵모드"
+
+msgctxt "REGION코0"
+msgid "Region"
+msgstr "권역"
+
+msgctxt "CONTINENT코0"
+msgid "Continent"
+msgstr "대륙"
+
+msgctxt "SUBCONTINENT코0"
+msgid "Subcontinent"
+msgstr "아대륙"
+
+msgctxt "AREA코0"
+msgid "Area"
+msgstr "지방"
+
+msgctxt "PROVINCEGROUP코0"
+msgid "Province Group"
+msgstr "지역 그룹"
+
+msgctxt "PROVINCEGROUPS코0"
+msgid "Province Groups"
+msgstr "지역 그룹"
+
+msgctxt "COLONIALREGION코0"
+msgid "Colonial Region"
+msgstr "식민지 권역"
+
+msgctxt "TRADE_COMPANY코0"
+msgid "Trade Company"
+msgstr "무역회사"
+
+msgctxt "THE_NAME_AREATYPE코0"
+msgid "§W§Y$NAME$§! $AREATYPE$§!"
+msgstr "§Y$NAME$§!은 $AREATYPE$ 입니다."
+
+msgctxt "IS_ATPEACE코0"
+msgid "At Peace"
+msgstr "평화 상태"
+
+msgctxt "IS_IN_DEFICIT코0"
+msgid "Is running a deficit"
+msgstr "은(는) 적자를 내고 있다."
+
+msgctxt "IS_NOT_IN_DEFICIT코0"
+msgid "Is NOT running a deficit"
+msgstr "은(는) 적자를 내지 않고 있다."
+
+msgctxt "IS_FEDERATION_LEADER코0"
+msgid "Is Federation Leader"
+msgstr "은(는) 연맹 지도자이다."
+
+msgctxt "IS_NOT_FEDERATION_LEADER코0"
+msgid "Is NOT Federation Leader"
+msgstr "은(는) 연맹 지도자가 아니다."
+
+msgctxt "IS_ATWAR코0"
+msgid "At War"
+msgstr "전쟁 중의"
+
+msgctxt "IS_NOT_GREAT_POWER코0"
+msgid "Is not a Great Power"
+msgstr "열강이 아닙니다"
+
+msgctxt "IS_GREAT_POWER코0"
+msgid "Is a Great Power"
+msgstr "열강입니다"
+
+msgctxt "WHO_IS_GREAT_POWER코0"
+msgid "$WHO|Y$ is a Great Power."
+msgstr "$WHO|Y$ 은 열강입니다."
+
+msgctxt "HAVE_LESS_GP_RANK코0"
+msgid "Has a better Great Power rank than"
+msgstr "은 다음 보다 높은 열강 순위를 가집니다:"
+
+msgctxt "HAVE_MORE_GP_RANK코0"
+msgid "Has a worse Great Power rank than"
+msgstr "은 다음보다 낮은 열강 순위를 가집니다:"
+
+msgctxt "TECHNOLOGY_COST코0"
+msgid "Technology Cost: §Y$VAL$%§!\n"
+msgstr "기술 비용: §Y$VAL$%§!\n"
+
+msgctxt "IS_NOT_PROTECTORATE코0"
+msgid "Is not a protectorate"
+msgstr "보호국이 아닙니다"
+
+msgctxt "IS_PROTECTORATE코0"
+msgid "Is a protectorate"
+msgstr "보호국입니다"
+
+msgctxt "IS_NOT_COUNTRY_CHRISTIAN코0"
+msgid "$WHO$ is NOT Christian"
+msgstr "$WHO$(은)는 기독교도가 아니다"
+
+msgctxt "REFORM_DESIRE_TOOLTIP코0"
+msgid ""
+"§YReform Desire§!\n"
+"This is how much reform is desired in the Church. If it goes too high we may "
+"see large scale heresies forcing reformation upon the Church. This level is "
+"common through the entire Catholic world, and actions by any Catholic "
+"monarch may increase it."
+msgstr ""
+"§Y개혁의 욕구§!\n"
+"이것은 교회내에서 얼마나 많은 개혁을 바라는지를 보여줍니다. 만약 그것이 너무 높아지면 우리는 대규모의 이단자들이 교회에 대한 개혁을 "
+"요구하는 것을 보게 될 것입니다. 이 등급은 전 카톨릭 세계에 통용되며, 어떤 카톨릭 군주에 의한 행위라도 그것을 높일 것입니다."
+
+msgctxt "WAIT_FOR_HOTJOIN코0"
+msgid ""
+"Please wait while the host sets up the game for you. Once you got a saved "
+"game transferred to you, you can choose a country and join the game."
+msgstr ""
+"호스트가 당신을 위해 게임을 개설할 동안 기다려주십시오. 일단 당신에게 보내진 저장된 게임을 받으면 당신은 국가를 선택하고 게임에 참가할 "
+"수 있습니다."
+
+msgctxt "HOST_PREPARING_GAME코0"
+msgid "Please wait while the host\n"
+"prepares the game for you."
+msgstr "호스트가 게임을 준비할 동안\n"
+" 기다려주십시오."
+
+msgctxt "HOTJOIN_CONFIRM코0"
+msgid "Confirm"
+msgstr "확인"
+
+msgctxt "READY코0"
+msgid "Ready"
+msgstr "준비된"
+
+msgctxt "UNREADY코0"
+msgid "Unready"
+msgstr "준비되지 않은"
+
+msgctxt "READY_TO_PLAY_MP코0"
+msgid "$PLAYER|Y$ is ready"
+msgstr "$PLAYER|Y$(은)는 준비되었습니다"
+
+msgctxt "NOT_READY_TO_PLAY_MP코0"
+msgid "$PLAYER$ is not ready."
+msgstr "$PLAYER$는 준비되지 않았습니다"
+
+msgctxt "MP_EDITING_CUSTOM_NATION코0"
+msgid "$PLAYER$ is editing a Custom Nation."
+msgstr "$PLAYER$(이)가 사용자 정의 국가를 편집하고 있습니다."
+
+msgctxt "PLAYER_NOW_IN_GAME코0"
+msgid "$PLAYER|Y$ is now in the game."
+msgstr "$PLAYER|Y$(은)는 지금 게임 안에 있습니다."
+
+msgctxt "CONDENSED_PROV_MOD_PAPAL코0"
+msgid "Base Tax and buildings: $VAL$"
+msgstr "기본세금과 건물: $VAL$"
+
+msgctxt "CONDENSED_PROV_MOD코0"
+msgid "Buildings in $NUM$ Provinces: $VAL$"
+msgstr "$NUM$개 지역들의 건물들: $VAL$"
+
+msgctxt "ADMINISTRATIVE_EFFICIENCY코0"
+msgid "Administrative Efficiency"
+msgstr "행정 효율"
+
+msgctxt "April코0"
+msgid "April"
+msgstr "4월"
+
+msgctxt "August코0"
+msgid "August"
+msgstr "8월"
+
+msgctxt "December코0"
+msgid "December"
+msgstr "12월"
+
+msgctxt "February코0"
+msgid "February"
+msgstr "2월"
+
+msgctxt "Friday코0"
+msgid "Friday"
+msgstr "금요일"
+
+msgctxt "January코0"
+msgid "January"
+msgstr "1월"
+
+msgctxt "July코0"
+msgid "July"
+msgstr "7월"
+
+msgctxt "June코0"
+msgid "June"
+msgstr "6월"
+
+msgctxt "March코0"
+msgid "March"
+msgstr "3월"
+
+msgctxt "May코0"
+msgid "May"
+msgstr "5월"
+
+msgctxt "Monday코0"
+msgid "Monday"
+msgstr "월요일"
+
+msgctxt "November코0"
+msgid "November"
+msgstr "11월"
+
+msgctxt "October코0"
+msgid "October"
+msgstr "10월"
+
+msgctxt "Saturday코0"
+msgid "Saturday"
+msgstr "토요일"
+
+msgctxt "September코0"
+msgid "September"
+msgstr "9월"
+
+msgctxt "Sunday코0"
+msgid "Sunday"
+msgstr "일요일"
+
+msgctxt "Thursday코0"
+msgid "Thursday"
+msgstr "목요일"
+
+msgctxt "Tuesday코0"
+msgid "Tuesday"
+msgstr "화요일"
+
+msgctxt "Wednesday코0"
+msgid "Wednesday"
+msgstr "수요일"
+
+msgctxt "INCOMETAX코0"
+msgid "Taxation"
+msgstr "조세"
+
+msgctxt "INCOMETRADE코0"
+msgid "Trade"
+msgstr "교역"
+
+msgctxt "INCOMEGOLD코0"
+msgid "Gold"
+msgstr "황금"
+
+msgctxt "INCOMEVASSAL코0"
+msgid "Vassals"
+msgstr "봉신들"
+
+msgctxt "INCOMEVASSALTAXEFF코0"
+msgid "Vassals Tax Efficiency"
+msgstr "봉신들의 세금 효율"
+
+msgctxt "INCOMELOAN코0"
+msgid "Interest"
+msgstr "이자"
+
+msgctxt "INCOMESOW코0"
+msgid "Peace"
+msgstr "평화"
+
+msgctxt "INCOMEDTAX코0"
+msgid "Census taxes"
+msgstr "과세 조사"
+
+msgctxt "INCOMEEXPORTDUTIES코0"
+msgid "Tolls"
+msgstr "통행료"
+
+msgctxt "INCOMEHARBORFEES코0"
+msgid "Harbor Fees"
+msgstr "항만 수수료"
+
+msgctxt "INCOMEMANUFAC코0"
+msgid "Manufactory"
+msgstr "제조소"
+
+msgctxt "INCOME_WAR_REPARATION코0"
+msgid "War Reparations"
+msgstr "전쟁 배상금"
+
+msgctxt "EXPENSEAM코1"
+msgid "Army Maintenance"
+msgstr "육군 유지비"
+
+msgctxt "EXPENSEFM코1"
+msgid "Fleet Maintenance"
+msgstr "해군 유지비"
+
+msgctxt "EXPENSEINTEREST코0"
+msgid "Interest"
+msgstr "이자"
+
+msgctxt "EXPENSELOAN코0"
+msgid "Repaid Loans"
+msgstr "대출 상환"
+
+msgctxt "EXPENSEFLEET코0"
+msgid "Building Fleets"
+msgstr "함대 건설"
+
+msgctxt "EXPENSEARMY코0"
+msgid "Raising Armies"
+msgstr "육군 증강"
+
+msgctxt "EXPENSEMAN코0"
+msgid "Building Buildings"
+msgstr "건물 건축"
+
+msgctxt "EXPENSEFORT코0"
+msgid "Building Fortress"
+msgstr "요새 건축"
+
+msgctxt "EXPENSERSR코0"
+msgid "Technology"
+msgstr "기술"
+
+msgctxt "EXPENSEPE코0"
+msgid "Trade & Infrastructure"
+msgstr "무역 & 사회 기반 시설"
+
+msgctxt "EXPENSESTAB코0"
+msgid "Stability"
+msgstr "안정성"
+
+msgctxt "EXPENSEMER코0"
+msgid "Merchants"
+msgstr "상인"
+
+msgctxt "EXPENSECOL코0"
+msgid "Building Colonies"
+msgstr "식민지 건설"
+
+msgctxt "EXPENSETRA코0"
+msgid "Building Trading Posts"
+msgstr "교역소 건설"
+
+msgctxt "EXPENSEMIS코0"
+msgid "Missionaries"
+msgstr "선교사들"
+
+msgctxt "EXPENSELEADERS코0"
+msgid "Leaders"
+msgstr "지휘관들"
+
+msgctxt "EXPENSESPIES코0"
+msgid "Spies"
+msgstr "첩자들"
+
+msgctxt "EXPENSECOURT코0"
+msgid "Advisors"
+msgstr "조언자들"
+
+msgctxt "EXPENSE_TECHNOLOGY코0"
+msgid "Embracing Institutions"
+msgstr "시대관 수용"
+
+msgctxt "ADVISOR코0"
+msgid "Advisor"
+msgstr "조언자"
+
+msgctxt "ADVISOR_CATEGORY코0"
+msgid "$CATEGORY$ Advisor"
+msgstr "$CATEGORY$ 조언자"
+
+msgctxt "EXPENSE_WAR_REPARATIONS코0"
+msgid "War Reparations"
+msgstr "전쟁 배상금"
+
+msgctxt "spanish_region코0"
+msgid "Spanish Region"
+msgstr "스페인 권역"
+
+msgctxt "INFANTRY코0"
+msgid "Infantry"
+msgstr "보병"
+
+msgctxt "CAVALRY코0"
+msgid "Cavalry"
+msgstr "기병"
+
+msgctxt "ARTILLERY코0"
+msgid "Artillery"
+msgstr "포병"
+
+msgctxt "HEAVY_SHIP코0"
+msgid "Heavy Ship"
+msgstr "대형선"
+
+msgctxt "LIGHT_SHIP코0"
+msgid "Light Ship"
+msgstr "소형선"
+
+msgctxt "GALLEY코0"
+msgid "Galley"
+msgstr "갤리선"
+
+msgctxt "TRANSPORT코0"
+msgid "Transport"
+msgstr "수송선"
+
+msgctxt "CONVREL_PAPACY코0"
+msgid "The Papacy cannot convert to another religion."
+msgstr "교황제 하에선 다른 종교로의 전환이 불가능합니다."
+
+msgctxt "AND_MONTHLY_THE_FOLLOWING코0"
+msgid "And changes each month $VAL|Y1%$ due to:\n"
+"$DESC$"
+msgstr "그리고 다음과 같은 이유로 매월 $VAL|Y1%$만큼 변동합니다:\n"
+"$DESC$"
+
+msgctxt "PIETY_DESCRIPTION코1"
+msgid ""
+"Piety represents the type of religious devotion that your ruler promotes "
+"within your nation. It is measured on a scale between -100 (§YMysticism§!) "
+"and 100 (§YLegalism§!).\n"
+"The piety of your ruler is affected by various actions you can take. Event "
+"options will move your position on the scale as will declaring war on "
+"infidels (Increase), brothers in faith (Decrease) or succesfully converting "
+"provinces (Increase)."
+msgstr ""
+"신앙심은 당신의 통치자가 당신의 국가 내에서 장려하는 종교적 헌신을 나타냅니다. 이것은 -100 (§Y신비주의§!)과 100 "
+"(§Y율법주의§!) 사이의 수치로 측정됩니다.\n"
+"당신의 통치자의 신앙심은 당신이 행한 다양한 행동에 영향받습니다. 이벤트 선택이 당신의 신앙심 수치에 영향을 주며, 또한 이교도에 대한 "
+"선전포고 (증가), 신앙의 동료에 대한 선전포고 (감소) 혹은 프로빈스 개종 (증가) 역시 수치에 영향을 줍니다 . "
+
+msgctxt "PIETY_DESCRIPTION_ESTATES코1"
+msgid ""
+"\n"
+"The type of piety of your ruler will influence the loyalty of your Estates."
+msgstr "\n"
+"당신의 통치자의 신앙심의 형태는 당신의 계층의 충성도에 영향을 끼칩니다."
+
+msgctxt "KARMA_DESC2코0"
+msgid ""
+"Karma represents the divinity of your past actions in the eyes of the "
+"Buddhist faith and will rise or fall depending on the morality of actions "
+"you take. A ruler with too extreme Karma will become detached from the world."
+" Too high Karma means losing the trust of the common soldier while too low "
+"Karma will make you ineffective on the diplomatic arena. Countries with "
+"Karma do not pay any diplomatic power cost for returning cores and releasing "
+"countries and vassals in peace deals."
+msgstr ""
+"카르마란 불교의 입장에서 선한 행동의 척도이며, 어떤 도덕적인 선택을 하느냐에 따라 수치가 증감됩니다. 카르마 수치가 너무 높은 지도자는 "
+"폐쇄적인 경향이 강하고 반대로 너무 낮다면 군사를 소집하기 어려워집니다. 카르마 시스템을 가진 국가를 플레이할 시 종전협상에서 코어 "
+"반환이나 국가/속국 해방에 외교력을 소모하지 않습니다."
+
+msgctxt "KARMA_DESC코0"
+msgid ""
+"Karma increases from:\n"
+"- §YHaving a war declared on you§!\n"
+"- §YHonoring alliances§!\n"
+"- §YReleasing vassals§!\n"
+"- §YReleasing nations in peace deals§!\n"
+"- §YReturning cores§!\n"
+"- §YConverting Provinces§!\n"
+"\n"
+"Karma decreases from:\n"
+"- §YStarting wars§!\n"
+"- §YTaking provinces in peace deals§!"
+msgstr ""
+"카르마 증가 조건:\n"
+"- §Y다른 국가로부터 선전포고를 당할 경우§!\n"
+"- §Y동맹의 편에서 전쟁을 수행할 경우§!\n"
+"- §Y속국을 해방할 경우§!\n"
+"- §Y평화 협상에서 국가를 해방할 경우§!\n"
+"- §Y코어 반환 시§!\n"
+"- §Y프로빈스 개종 시§!\n"
+"\n"
+"카르마 감소 조건:\n"
+"- §Y다른 국가에 선전포고를 할 경우§!\n"
+"- §Y평화 협상에서 영토를 빼앗을 경우§!"
+
+msgctxt "PATRIARCH_DESCRIPTION코1"
+msgid ""
+"Patriarch Authority represents the level of influence that the Orthodox "
+"Church has on the nation. In Orthodox provinces, high Patriarch Authority "
+"will decrease local unrest and increase the number of recruits joining the "
+"army."
+msgstr ""
+"총대주교 권위는 정교회가 얼마나 높은 영향력을 가지고 있는지를 상징합니다. 정교회가 주류인 지역에서는, 높은 총대주교 권위는 지역의 "
+"불만도를 감소시키고 군에 입대하는 자원병들의 수를 늘려줄 것입니다."
+
+msgctxt "EFFECTIVE_INCOME_EXPL코0"
+msgid "This will increase the monthly income from this province by §Y$VAL$§!¤"
+msgstr "§Y$VAL$§!¤에 의해 이 지역에서의 월별 수입이 증가될 것입니다"
+
+msgctxt "EFFECTIVE_INCOME_EXPL_YEARLY코0"
+msgid "This will increase the yearly income from this province by §Y$VAL$§!¤"
+msgstr "§Y$VAL$§!¤에 의해 이 지역에서의 연간 수입이 증가될 것입니다"
+
+msgctxt "EFFECTIVE_MANPOWER_EXPL코0"
+msgid "This will increase the manpower from this province by §Y$VAL$§!."
+msgstr "§Y$VAL$§!에 의해 이 지역에서의 인력이 증가될 것입니다."
+
+msgctxt "EFFECTIVE_MANPOWER_NOGAIN코0"
+msgid ""
+"§RCurrently, this building does not increase manpower, as the manpower "
+"efficiency is too low.§!"
+msgstr "§R현재 이 건물은 인력 효율이 너무 낮으로, 인력을 증가시키지 않습니다.§!"
+
+msgctxt "OTHER_KNOWN_PATROL코0"
+msgid "There are at least §Y$NUM$§! other fleets in range."
+msgstr "범위 내에 최소한 §Y$NUM$§! 의 다른 함대들이 있습니다."
+
+msgctxt "SIEGE_TO_FEW_MEN코0"
+msgid "Too few men to siege the province"
+msgstr "공성전을 펼치기엔 병력이 매우 적습니다"
+
+msgctxt "CANCEL_MISSION_DESC코0"
+msgid ""
+"If you cancel your current mission you won't be able to choose a new one "
+"until §Y$DATE$§W."
+msgstr "만약 당신의 현재 임무를 취소한다면 당신은 §Y$DATE$§W 까지 새로운 임무를 선택할 수 없습니다."
+
+msgctxt "CONFIRMCANCELMISSION코0"
+msgid "Cancel Mission"
+msgstr "임무 취소"
+
+msgctxt "CONFIRMCANCELMISSION_TEXT코0"
+msgid "Are you sure you want to cancel this mission?"
+msgstr "정말로 이 임무를 취소하기를 원하십니까?"
+
+msgctxt "WAR_SCORE_99_DESC코0"
+msgid ""
+"It is only possible to get 100% war score (complete victory) if the winning "
+"side controls all of the losing side's provinces, and the losing side "
+"controls no city provinces."
+msgstr ""
+"만약 이기는 진영이 패하는 진영의 모든 지역들을 점령하고, 패하는 진영이 더 이상 통제 중인 도시 지역들이 없을 때만 비로소 100% "
+"승점 (완벽한 승리) 획득이 가능합니다."
+
+msgctxt "WAR_OVERVIEW_ENEMY_TROOPS_LOST코1"
+msgid "The enemy has lost $NUM|Y$ troops in total."
+msgstr "적군은 전투로 $NUM|Y$ 명의 전사자를 냈습니다."
+
+msgctxt "WAR_OVERVIEW_ENEMY_TROOPS_ATTRIT코0"
+msgid "The enemy had $NUM|Y$ casualties due to attrition."
+msgstr "적군은 소모로 $NUM|Y$ 명의 희생자를 냈습니다."
+
+msgctxt "WAR_OVERVIEW_ENEMY_SHIPS_LOST코0"
+msgid "The enemy has lost $NUM|Y$ ships."
+msgstr "적군은 $NUM|Y$ 척의 함선을 잃었습니다."
+
+msgctxt "WAR_OVERVIEW_OUR_TROOPS_LOST코1"
+msgid "Our side has lost $NUM|Y$ troops in total."
+msgstr "아군은 전투로 $NUM|Y$ 명의 전사자를 냈습니다."
+
+msgctxt "WAR_OVERVIEW_OUR_TROOPS_ATTRIT코0"
+msgid "Our side had $NUM|Y$ casualties due to attrition."
+msgstr "아군은 소모로 $NUM|Y$ 명의 희생자를 냈습니다."
+
+msgctxt "WAR_OVERVIEW_OUR_SHIPS_LOST코0"
+msgid "Our side has lost $NUM|Y$ ships."
+msgstr "아군은 $NUM|Y$ 척의 함선을 잃었습니다."
+
+msgctxt "WAR_OVERVIEW_ENEMY_CAVALRY코0"
+msgid "The enemy has $NUM|Y$ cavalry."
+msgstr "적이 $NUM|Y$ 명의 기병을 보유하고 있습니다."
+
+msgctxt "WAR_OVERVIEW_WE_CAVALRY코0"
+msgid "Our side has $NUM|Y$ cavalry."
+msgstr "아군이 $NUM|Y$ 명의 기병을 보유하고 있습니다."
+
+msgctxt "WAR_OVERVIEW_ENEMY_INFANTRY코0"
+msgid "The enemy has $NUM|Y$ infantry."
+msgstr "적이 $NUM|Y$ 명의 보병을 보유하고 있습니다."
+
+msgctxt "WAR_OVERVIEW_WE_INFANTRY코0"
+msgid "Our side has $NUM|Y$ infantry."
+msgstr "아군이 $NUM|Y$ 명의 보병을 보유하고 있습니다."
+
+msgctxt "WAR_OVERVIEW_ENEMY_ARTILLERY코0"
+msgid "The enemy has $NUM|Y$ artillery."
+msgstr "적이 $NUM|Y$ 문의 대포를 보유하고 있습니다."
+
+msgctxt "WAR_OVERVIEW_WE_ARTILLERY코0"
+msgid "Our side has $NUM|Y$ artillery."
+msgstr "아군이 $NUM|Y$ 문의 대포를 보유하고 있습니다."
+
+msgctxt "WAR_OVERVIEW_ENEMY_TRANSPORT코0"
+msgid "The enemy has $NUM|Y$ transport ships."
+msgstr "적이 $NUM|Y$ 척의 수송선을 보유하고 있습니다."
+
+msgctxt "WAR_OVERVIEW_WE_TRANSPORT코0"
+msgid "Our side has $NUM|Y$ transport ships."
+msgstr "아군이 $NUM|Y$ 척의 수송선을 보유하고 있습니다."
+
+msgctxt "WAR_OVERVIEW_ENEMY_GALLEY코0"
+msgid "The enemy has $NUM|Y$ galleys."
+msgstr "적이 $NUM|Y$ 척의 갤리선을 보유하고 있습니다."
+
+msgctxt "WAR_OVERVIEW_WE_GALLEY코0"
+msgid "Our side has $NUM|Y$ galleys."
+msgstr "아군이 $NUM|Y$ 척의 갤리선을 보유하고 있습니다."
+
+msgctxt "WAR_OVERVIEW_ENEMY_LIGHTSHIPS코0"
+msgid "The enemy has $NUM|Y$ light ships."
+msgstr "적이 $NUM|Y$ 척의 소형선을 보유하고 있습니다."
+
+msgctxt "WAR_OVERVIEW_WE_LIGHTSHIPS코0"
+msgid "Our side has $NUM|Y$ light ships."
+msgstr "아군이 $NUM|Y$ 척의 소형선을 보유하고 있습니다.\""
+
+msgctxt "WAR_OVERVIEW_ENEMY_BIGSHIPS코0"
+msgid "The enemy has $NUM|Y$ heavy ships."
+msgstr "적이 $NUM|Y$ 척의 대형선을 보유하고 있습니다."
+
+msgctxt "WAR_OVERVIEW_WE_BIGSHIPS코0"
+msgid "Our side has $NUM|Y$ heavy ships."
+msgstr "아군이 $NUM|Y$ 척의 대형선을 보유하고 있습니다.\""
+
+msgctxt "WAR_OVERVIEW_BATTLESCORE코0"
+msgid "The battle had $SCORE$ impact on the war score."
+msgstr "전투가 승점에 대해 $SCORE$ 점의 영향을 미쳤습니다."
+
+msgctxt "WAR_SCORE_BATTLE_OF코0"
+msgid "Battle of §Y$NAME$:§! $VAL$"
+msgstr "§Y$NAME$:§! 의 전투: $VAL$"
+
+msgctxt "WAR_OVERVIEW_BATTLE_VS코0"
+msgid "@$TAG1$Attacked with $NUM1|Y$ units against @$TAG2$$NUM2|Y$ units."
+msgstr "@$TAG2$$NUM2|Y$ 명의 병력에 대항하여 @$TAG1$이 $NUM1|Y$ 명의 병력으로 공격했습니다."
+
+msgctxt "WAR_OVERVIEW_BATTLE_VS_N코0"
+msgid ""
+"A $ATT$ fleet with $NUM1|Y$ ships engaged a $DEF2$ fleet with $NUM2|Y$ ships."
+""
+msgstr "$NUM1|Y$ 척의 $ATT$ 함대가 $NUM2|Y$ 척의 $DEF2$ 함대와 교전했습니다."
+
+msgctxt "WAR_OVERVIEW_BATTLE_VS_L코0"
+msgid "$NUM1|Y$ $TAG1$ soldiers attacked $NUM2|Y$ $TAG2$ soldiers "
+msgstr "$NUM1|Y$ $TAG1$ 병사들이 $NUM2|Y$ $TAG2$ 병사들을 공격했습니다"
+
+msgctxt "WAR_OVERVIEW_WARENTHUSIASM코1"
+msgid "The §YWar Enthusiasm§! is at $VAL$ ($DESC$)."
+msgstr "§Y전쟁 열정도§!가 $VAL$ 입니다.($DESC$)"
+
+msgctxt "WAR_OVERVIEW_WAREXHAUSTION코1"
+msgid "The §YWar Exhaustion§! is at $NUM$."
+msgstr "§Y전쟁 열정도§!가 $NUM$ 입니다."
+
+msgctxt "WAR_OVERVIEW_STABILITY코1"
+msgid "The §YCountry§!'s §YStability§! is $NUM$."
+msgstr "§Y국가§!의 §Y안정도§!가 $NUM$입니다."
+
+msgctxt "WAR_OVERVIEW_BLOCKADEPERCENT코1"
+msgid "The §YBlockade§! percent is $NUM$."
+msgstr "§Y봉쇄§! 수준이 $NUM$ 퍼센트입니다."
+
+msgctxt "WAR_OVERVIEW_PARTICIPATION코1"
+msgid "Their §YParticipation§! score is $NUM$ ($NUM2$)."
+msgstr "그들의 §Y전쟁 기여도§!는 $NUM$입니다. ($NUM2$)"
+
+msgctxt "WAR_OVERVIEW_MP_HIDDEN코0"
+msgid "This information is hidden in multiplayer!"
+msgstr "이 정보는 멀티플레이에서는 숨겨져있습니다!"
+
+msgctxt "PARTICIPATION_DESC코1"
+msgid ""
+"§YParticipation§! score measures how active a §YCountry§! has been in the "
+"war. It is gained by participating in §YBattles§!, §YSieges§! and "
+"§Yblockades§!."
+msgstr ""
+"§Y전쟁 기여도§!는 그 §Y국가§!가 얼마나 전쟁을 능동적으로 치뤘는 지를 평가합니다. 이는 §Y전투§!나 §Y공성§!, §Y봉쇄§!에 "
+"참여함으로써 얻을 수 있습니다.\""
+
+msgctxt "BLOCKADE_DESC코1"
+msgid "§YBlockading§! ports reduces income for the blockaded §YCountry§!."
+msgstr "항구가 §Y봉쇄§!된 §Y국가§!의 수입은 줄어들 것입니다.\""
+
+msgctxt "WARENTHUSIASM_DESC코1"
+msgid ""
+"Their desire to continue the war. Lower §YWar Enthusiasm§! means that they "
+"are more willing to accept §YPeace Offers§!."
+msgstr "전쟁을 계속하고 싶은 그들의 열정입니다. §Y전쟁 열정도§!가 낮을수록 §Y평화협정§!을 더 맺고자 할 것입니다."
+
+msgctxt "PROVINCE_VIEW_TRADEGOODS_PRODUCTION코0"
+msgid "Produces $NUM|Y$ of the $TOTAL|Y$ totally produced."
+msgstr "세계 총 생산량 $TOTAL|Y$ 중 $NUM|Y$만큼이 이 지역에서 생산됩니다."
+
+msgctxt "CONFIRMDOF코0"
+msgid "Claim the title Defender of the Faith!"
+msgstr "신앙의 수호자 칭호를 주장하다!"
+
+msgctxt "CONFIRMDOFDESC코0"
+msgid "Are you sure you want to claim the title Defender of the Faith?"
+msgstr "당신은 정말로 신앙의 수호자 칭호를 주장하기를 원하십니까?"
+
+msgctxt "SUPPORTED_RELATIONS코0"
+msgid "Diplomatic Relations"
+msgstr "외교 관계"
+
+msgctxt "SUPPORTED_RELATIONS_NONE코0"
+msgid "Does not have any Diplomatic Relations."
+msgstr "어떠한 외교 관계도 가지고 있지 않습니다."
+
+msgctxt "MAX_RELATIONS코0"
+msgid "You can have $VALUE$ Diplomatic Relations without a penalty, due to:"
+msgstr "다음과 같은 이유 때문에, $VALUE$ 개의 외교 관계를 페널티 없이 유지할 수 있습니다. :"
+
+msgctxt "GUARANTEEING코0"
+msgid "Guaranteeing"
+msgstr "독립 보장"
+
+msgctxt "LEADING_UNION코0"
+msgid "Leading Union"
+msgstr "주된 연합"
+
+msgctxt "LEADING_VASSAL코0"
+msgid "Leading vassal"
+msgstr "주된 봉신"
+
+msgctxt "LEADING_SUBJECTTYPE코0"
+msgid "Leading $SUBJECTTYPE$"
+msgstr "$SUBJECTTYPE$ 을 봉신으로 둠"
+
+msgctxt "LEADING_MARCH코0"
+msgid "Leading march"
+msgstr "주된 행군"
+
+msgctxt "TRANSFERS_TRADE_POWER코0"
+msgid "Transfers trade power to"
+msgstr "다음 국가에 무역력을 보내는 중"
+
+msgctxt "RECEIVING_TRADE_POWER코0"
+msgid "Receiving trade power from"
+msgstr "다음 국가로부터 무역력을 받는 중"
+
+msgctxt "MERCENARY_CANT_BUILD_COLONY코0"
+msgid "Can't hire mercenaries in colonial provinces."
+msgstr "식민지 지역에서 용병을 고용할 수 없습니다."
+
+msgctxt "MERCENARY_CANT_BUILD_NO_FREE_MERC코0"
+msgid "There are no available mercenaries to hire."
+msgstr "용병을 고용할 여유가 없습니다."
+
+msgctxt "MERCENARY_CANT_BUILD_OVERSEAS코0"
+msgid "§RCan't hire mercenaries in overseas provinces.§!"
+msgstr "§R해외 지역에서는 용병을 고용할 수 없습니다.§!"
+
+msgctxt "MERCENARIES_BUILD_TIME_REDUCTION코0"
+msgid "Mercenaries have their recruitment time reduced by $NUM|Y%1$."
+msgstr "용병 신규모집 시간이 $NUM|Y%1$ 감소하였습니다."
+
+msgctxt "BUILD_COST_MILTACTICS코0"
+msgid "Military tactics value increases recruitment cost by $NUM|Y$"
+msgstr "군사 전술 값이 모집 비용을 $NUM|Y$ 증가시킴"
+
+msgctxt "BUILD_COST_NAVAL_OVERFORCELIMIT코0"
+msgid "Being over the Force Limit increases the cost by $NUM|Y$"
+msgstr "영향력 한도를 초과하여 $NUM|Y$ 비용 증가"
+
+msgctxt "NAVY_COMBAT_TOOLTIP코0"
+msgid ""
+"$NAME|Y$ is a §Y'$TYPE$'§!.\n"
+"The morale is at §Y$MORALE|1$%§! of max and they are at $STRENGTH|Y$ "
+"strength."
+msgstr ""
+"$NAME|Y$(은)는 §Y'$TYPE$'§!입니다.\n"
+"사기는 §Y$MORALE|1$%§! 최대의 그리고 그들에게 $STRENGTH|Y$의 힘이 있습니다."
+
+msgctxt "NAVY_COMBAT_TOOLTIP_LASTENGAGED코0"
+msgid "Last engaged enemy ship was $ENEMY|R$."
+msgstr "마지막으로 적선 $ENEMY|R$가 참여했습니다."
+
+msgctxt "NAVY_COMBAT_TOOLTIP_NOENGAGED코0"
+msgid "This ship did not engage any enemy last round."
+msgstr "이 함선은 지난 라운드에서 적과 교전하지 않았습니다."
+
+msgctxt "LAND_COMBAT_TOOLTIP_LASTENGAGED코0"
+msgid "Last engaged enemy unit was $ENEMY|R$."
+msgstr "마지막으로 적군 $ENEMY|R$가 참여했습니다."
+
+msgctxt "HOTJOIN_LABEL코0"
+msgid "Hotjoin: "
+msgstr "핫조인: "
+
+msgctxt "PREPARING_AFTER_HOTJOIN코0"
+msgid "Preparing the game after a hotjoin."
+msgstr "핫조인 후에 게임을 준비합니다."
+
+msgctxt "GAME_RESUME_IN코0"
+msgid "Game will resume in $VALUE$ seconds."
+msgstr "게임이 $VALUE$ 초 후에 재개됩니다."
+
+msgctxt "SERVER_HOTJOIN코0"
+msgid "server due to hotjoin."
+msgstr "핫조인에 기인한 서버입니다."
+
+msgctxt "WAITING_FOR_HOTJOINING_PLAYER코0"
+msgid "Waiting for a hotjoining player(s)..."
+msgstr "핫조인 플레이어를 기다립니다..."
+
+msgctxt "CREATING_SAVEGAME코0"
+msgid "Creating savegame to send."
+msgstr "보낼 수 있는 게임저장을 만드는 중."
+
+msgctxt "PLAYER_ENTERING_GAME코0"
+msgid "Hotjoining player(s) is now entering the game."
+msgstr "핫조인 플레이어가 지금 게임에 접속했습니다."
+
+msgctxt "SENDING_SAVEGAME코0"
+msgid "Sending savegame to $NAME|Y$."
+msgstr "저장된 게임을 $NAME|Y$에게 보내기."
+
+msgctxt "SAVE_TRANSFER_COMPLETE코0"
+msgid "$NAME|Y$ received savegame."
+msgstr "$NAME|Y$(은)는 저장된 게임을 받았습니다."
+
+msgctxt "CURRENTLY_ASSIGNED_TO코0"
+msgid "Currently assigned to $NAME|Y$ in $WHERE|Y$."
+msgstr "현재 $WHERE|Y$에서 $NAME|Y$에 배치합니다."
+
+msgctxt "NOT_CURRENTLY_ASSIGNED코0"
+msgid "This leader is currently unassigned."
+msgstr "이 지휘관은 현재 미배치 상태입니다."
+
+msgctxt "UNIT_VIEW_CHOOSE_LEADER_RETREAT코0"
+msgid "Can't choose a new leader because the unit is retreating!"
+msgstr "부대가 후퇴중이기 때문에 새 지휘관을 선택할 수 없습니다!"
+
+msgctxt "UNIT_VIEW_CHOOSE_LEADER_COMBAT코0"
+msgid "Can't choose a new leader because the unit is in combat!"
+msgstr "부대가 전투중이기 때문에 새 지휘관을 선택할 수 없습니다!"
+
+msgctxt "UNIT_VIEW_CHOOSE_LEADER_PORT코0"
+msgid "Can't choose a new leader because the fleet is not in port!"
+msgstr "함대가 항구에 없기 때문에 새 지휘관을 선택할 수 없습니다!\""
+
+msgctxt "UNIT_VIEW_CHOOSE_LEADER_LOADED코0"
+msgid "Can't choose a new leader because the unit is loaded on a ship!"
+msgstr "부대가 승선했기 때문에 새 지휘관을 선택할 수 없습니다!"
+
+msgctxt "UNIT_VIEW_CHOOSE_LEADER_ENEMY코0"
+msgid "Can't choose a new leader because the unit is in enemy land!"
+msgstr "부대가 적의 영토에 있기 때문에 새 지휘관을 선택할 수 없습니다!"
+
+msgctxt "UNIT_VIEW_CHOOSE_LEADER_CONDOTTIERI코0"
+msgid ""
+"Can't choose a new leader because this unit is currently rented out as "
+"Condottieri!"
+msgstr "이 부대는 현재 콘도티에리로서 고용되었고, 장군을 교체할 수 없습니다."
+
+msgctxt "CANNOT_ASSIGN_MONARCH_CONDOTTIERI코0"
+msgid ""
+"You cannot assign a Monarch or an Heir as a leader of a Condottieri unit."
+msgstr "콘도티에리 부대의 장군으로 군주나 후계자를 임명할 수는 없습니다."
+
+msgctxt "COMBATEND_UNIT_START코0"
+msgid "Started with $NUM|Y$."
+msgstr "$NUM|Y$.(으)로 시작했습니다."
+
+msgctxt "COMBATEND_UNIT_LOST코0"
+msgid "Lost $NUM|Y$."
+msgstr "$NUM|Y$(이)가 지다."
+
+msgctxt "COMBATEND_UNIT_END코0"
+msgid "$NUM|Y$ alive at the end of the battle."
+msgstr "$NUM|Y$(이)가 사투 끝에 살아 남았습니다."
+
+msgctxt "COMBATEND_CAPTURED_SHIPS코0"
+msgid "$NUM|Y$ ships were captured from the losing side!"
+msgstr "$NUM|Y$(은)는 패한 팀으로부터 함선을 나포하였다!"
+
+msgctxt "NOCOLONISENONCITYADJACENT코0"
+msgid ""
+"You can only colonize provinces that are adjacent to one of your own "
+"provinces (not colonies) or is a coastal province."
+msgstr "당신은 오직 식민지가 아닌 당신의 지역 중 하나와 인접하거나, 혹은 해안인 지역만 개척할 수 있습니다."
+
+msgctxt "ADMIRAL_NO_NAVAL_FORCE_LIMIT코0"
+msgid ""
+"The naval force limit is §Y0§!, you need to have a positive force limit to "
+"be able to recruit an admiral!"
+msgstr "해군 한계는 §Y0§! 입니다, 당신은 새로운 제독을 모집하기 위해 해군 한계를 0보다 높여야 합니다!"
+
+msgctxt "LAG_BEHIND_HEADER코0"
+msgid "$NAME$ is lagging behind!"
+msgstr "$NAME$(은)는 뒤쳐지고 있습니다!"
+
+msgctxt "LAG_BEHIND_TEXT코0"
+msgid "The game speed has been lowered to let him/her catch up."
+msgstr "게임 속도는 그/그녀가 따라잡을 수 있도록 하향 조정되었습니다."
+
+msgctxt "ECONOMY_ADVISOR_COST코0"
+msgid "($SKILL|Y$) $NAME$ $COST|Y2$¤"
+msgstr "($SKILL|Y$) $NAME$ $COST|Y2$¤"
+
+msgctxt "ECONOMY_ADVISOR_NO_COST코0"
+msgid "Have not hired any advisors!"
+msgstr "어떤 조언자도 고용하지 않았습니다!"
+
+msgctxt "ECONOMY_ADVISOR_COST_MODIFIER코0"
+msgid "The salaries to advisors are modified by:"
+msgstr "조언자 급여가 수정됨:"
+
+msgctxt "ECONOMY_ADVISOR_COST_MODIFIER_YEAR코0"
+msgid "Current Year: +$VAL|%1Y$ (yearly +$YEARLY|Y2$)"
+msgstr "현재 년도: +$VAL|%1Y$ (연간 +$YEARLY|Y2$)"
+
+msgctxt "ECONOMY_ADVISOR_COST_CULTURE코0"
+msgid "For any advisors of the ruler's culture:\n"
+msgstr "통치자와 같은 문화를 가진 모든 조언자:\n"
+
+msgctxt "SEND_GIFT_NOAMOUNT코0"
+msgid "The gift amount cannot be $VAL|Y0$¤!"
+msgstr "선물 총액은 $VAL|Y0$¤!할 수 없습니다!"
+
+msgctxt "ECONOMY_LOAN_DESC코0"
+msgid ""
+"We have $AMOUNT|Y$ amount of loans, paying $INTEREST|Y$¤ monthly of interest."
+" Next loan due at $DATE|Y$."
+msgstr ""
+"우리는 지불해야하는 한달 이자 $INTEREST|Y$¤와 대출 총액 $AMOUNT|Y$ 이 있습니다. $DATE|Y$에 다음 대출 가능."
+
+msgctxt "ECONOMY_NO_LOANS코0"
+msgid "We have no loans."
+msgstr "우리는 대출이 없습니다."
+
+msgctxt "alert_max_loans_instant코0"
+msgid "§YYou have reached your maximum number of allowed loans§!"
+msgstr "§Y당신은 대출 가능한 최대 횟수에 도달했습니다§!"
+
+msgctxt "alert_max_loans_delayed코0"
+msgid ""
+msgstr " "
+
+msgctxt "BOOST_FACTION_TT코0"
+msgid "Spend §Y$POW$§! $TYPE$ power to get §G+$VAL$§! influence to $FACTION$."
+msgstr ""
+"§Y$POW$§! $TYPE$ 파워를 사용하여 $FACTION$에 영향을 미치는 §G+$VAL$§! 영향력을 얻을 수 있습니다."
+
+msgctxt "PAPAL_STATE_NO_INFLUENCE코0"
+msgid ""
+"The Pope does not get Papal Influence or Cardinals, but instead gains "
+"investment towards becoming Papal Controller based on the total number of "
+"cardinals."
+msgstr ""
+"교황은 교황청 영향력이나 추기경을 얻지 못하지만, 대신 추기경들의 총 수에 비례하여 교황청 조종자가 되기 위한 영향력을 얻을 것입니다."
+
+msgctxt "EXPENSEDIPLOMATIC코0"
+msgid "Diplomatic Expenses"
+msgstr "외교적 비용"
+
+msgctxt "NO_EXPENSESUPPORTREBELS코0"
+msgid "We don't have any expenses for supporting rebels."
+msgstr "우리는 반군을 지원하기 위한 어떤 자금도 없습니다."
+
+msgctxt "WAR_OVERVIEW_NOT_FULL_ALLY코0"
+msgid ""
+"§Y$COUNTRY$§! is not a co-belligerent in this war, so taking provinces from "
+"them will cost twice as much."
+msgstr ""
+"§Y$COUNTRY$§! (은)는 이 전쟁에서 공동 참전국이 아니고, 따라서 이 나라에서 지역을 뺏어오는 것은 두 배의 비용을 필요로 할 "
+"것입니다."
+
+msgctxt "WAR_OVERVIEW_LEADER_NOT_DEMAND코0"
+msgid "Leader may NOT demand peace"
+msgstr "지도자는 평화를 요구하지 않을 겁니다."
+
+msgctxt "WAR_OVERVIEW_LEADER_NOT_DEMAND_DESC코0"
+msgid "Leader may NOT give or take provinces for us in a peace deal."
+msgstr "지도자는 평화 협상에서 우리에게 지역을 주지 않을 겁니다."
+
+msgctxt "WAR_OVERVIEW_NO_PEACE코0"
+msgid "We may not negotiate a separate peace with $COUNTRY$."
+msgstr "우리는 $COUNTRY$(와)과 단독 강화를 진행할 수 없습니다."
+
+msgctxt "WAR_OVERVIEW_LEADER_DEMAND코0"
+msgid "Leader may negotiate for us"
+msgstr "리더는 우리를 위해 협상할 수 있습니다"
+
+msgctxt "WAR_OVERVIEW_LEADER_DEMAND_DESC코0"
+msgid "Leader may give or take provinces for us in a peace deal."
+msgstr "리더는 평화협상에서 우리에게 지역을 줄 수 있습니다."
+
+msgctxt "BLOCKADE코0"
+msgid "Blockade"
+msgstr "봉쇄"
+
+msgctxt "WAR_OVERVIEW_IS_LEADER_DESC코0"
+msgid "$WHO$ is the war leader and can negotiate for the entire alliance."
+msgstr "$WHO$는 전쟁 리더이며 모든 동맹과 협상할 수 있습니다."
+
+msgctxt "SORT_BY_WAR_CAPACITY코1"
+msgid "Sort by §YWar Enthusiasm§!"
+msgstr "§Y전쟁 열정도§! 순으로 정렬"
+
+msgctxt "SORT_BY_WAR_EXHAUSTION코1"
+msgid "Sort by §YWar Exhaustion§!"
+msgstr "§Y전쟁 피로도§! 순으로 정렬"
+
+msgctxt "SORT_BY_STABILITY코1"
+msgid "Sort by §YStability§!"
+msgstr "§Y안정도§! 순으로 정렬"
+
+msgctxt "SORT_BY_BLOCKADE코1"
+msgid "Sort by §YBlockade§! percentage"
+msgstr "§Y봉쇄§! 비율 순으로 정렬"
+
+msgctxt "SORT_BY_PARTICIPATION코1"
+msgid "Sort by §YParticipation§!"
+msgstr "§Y전쟁 기여도§! 순으로 정렬"
+
+msgctxt "WAR_OVERVIEW_TICKING_WARSCORE코0"
+msgid ""
+"Since this war was declared without a Casus Belli you there is no ticking "
+"War Score."
+msgstr "이 전쟁은 명분없이 시작되었기 때문에 시간에 따른 추가 승점을 받을 수 없습니다."
+
+msgctxt "WAR_OVERVIEW_TICKING_WARSCORE_WG코0"
+msgid ""
+"Your current ticking War Score is: $SCORE$. \n"
+"You can gain $MORE$ more war score by achieving the War Goal '$GOAL|Y$'."
+msgstr ""
+"시간에 따라 증가하고 있는 당신의 전쟁점수는 $SCORE$ 입니다. \n"
+"전쟁목표인 '$GOAL|Y$' 달성을 통해 $MORE$ 만큼의 전쟁점수를 더 얻을 수 있습니다."
+
+msgctxt "WAR_OVERVIEW_TICKING_WARSCORE_MAX코0"
+msgid "You currently have max War Score: $MAXSCORE$."
+msgstr "당신은 최대 전쟁점수를 획득했습니다: $MAXSCORE$."
+
+msgctxt "natives_american_inuit코0"
+msgid "Native American Inuits"
+msgstr "아메리카 원주민 이누잇"
+
+msgctxt "WG_ALLOW_TRADE_POWER코0"
+msgid "Transfer $AMOUNT|Y%1$ Trade Power"
+msgstr "무역력을 $AMOUNT|Y%1$만큼 넘겨줘라."
+
+msgctxt "TRANSFER_TRADE_POWER_TO_DESC코0"
+msgid ""
+"$FROM$ will transfer $AMOUNT|Y%1$ of its Trade Power to $TO$, in trade nodes "
+"where they both have power. This will remain active for the duration of the "
+"truce."
+msgstr ""
+"$FROM$은(는) $TO$에게 그들의 무역력 중 $AMOUNT|Y%1$ 만큼을 넘겨줄 것입니다. 단, 넘겨받을 국가가 따로 무역력을 "
+"갖지 못한 노드에서는 무역력을 건네받을 수 없습니다. 이 협정은 휴전기간이 끝날 때까지 계속 될 것입니다."
+
+msgctxt "WOULD_CANCEL_TRANSFERING_TO_OTHER코1"
+msgid "§Y\n"
+"They would also cancel their current transfers to $WHO$.§!"
+msgstr "§Y\n"
+"그들은 또한 $WHO$을(를) 향한 현재의 무역력 이송을 취소할 것입니다.§!"
+
+msgctxt "WOULD_LEAVE_TRADE_LEAGUE코0"
+msgid "§R\n"
+"This would force them out of the Trade League led by $LEADER$.§!"
+msgstr "§R\n"
+"이것은 그들을 $LEADER$가 이끄는 무역연합에서 제명시킬 것입니다.§!"
+
+msgctxt "TRANSFER_OTHERS_TRADE_POWER_TO_DESC코0"
+msgid ""
+"$FROM$ will no longer transfer trade power to $ORG$. They will instead "
+"transfer §Y$AMOUNT|Y%1$§! of its Trade Power to $TO$, in trade nodes where "
+"they both have power. This will remain active for the duration of the truce."
+msgstr ""
+"$FROM$은(는) 더 이상 $ORG$에게 무역력을 넘겨주지 않을 것입니다. 대신 그들은 §Y$AMOUNT|Y%1$§!만큼의 무역력을 "
+"$TO$에게 줄 것입니다. 단, 넘겨받을 국가가 따로 무역력을 갖지 못한 노드에서는 무역력을 건네받을 수 없습니다. 이 협정은 휴전기간이 "
+"끝날 때까지 계속 될 것입니다."
+
+msgctxt "HUMILIATE_PEACE_DESC코0"
+msgid ""
+"$FROM$ will lose $AMOUNT|0Y$ prestige and $TO$ will gain $POWER|0Y$ of each "
+"monarch power."
+msgstr ""
+"$FROM$은(는) $AMOUNT|0Y$만큼의 위신을 잃을 것이고, $TO$은(는) 군주포인트를 각각 $POWER|0Y$ 만큼 획득할 "
+"것입니다."
+
+msgctxt "HUMILIATE_RIVAL_PEACE_DESC코0"
+msgid "$FROM$ will be humiliated."
+msgstr "$FROM$은(는) 굴욕을 당할 것입니다."
+
+msgctxt "PEACE_TRANSFER_TRADE_POWER코0"
+msgid "Transfer Trade Power"
+msgstr "무역력 보내기"
+
+msgctxt "PEACE_TRANSFER_OTHERS_TRADE_POWER코0"
+msgid "Transfer $WHOS$ Trade Power"
+msgstr "$WHOS$의 무역력을 옮기다."
+
+msgctxt "PEACE_SHOW_STRENGTH코0"
+msgid "Show Strength"
+msgstr "힘을 보여줘라"
+
+msgctxt "PEACE_HUMILIATE코0"
+msgid "Humiliate"
+msgstr "굴욕 주기"
+
+msgctxt "INFLATION_DESC코0"
+msgid ""
+"Inflation may come from having too much gold income (in comparison to other "
+"income) or from taking loans."
+msgstr "인플레이션은 너무 많은 금 소득(기타 소득에 비해)이나 대출을 받으면 생길 수 있습니다."
+
+msgctxt "INLAND_SEA_DESC코0"
+msgid ""
+"This is an inland sea, Galleys will be more effective here, performing at a "
+"higher level in combat."
+msgstr "내해에서 전투에 높은 수준의 수행능력을 보이는 겔리선이 좀더 효과적일 것입니다."
+
+msgctxt "SIEGE_ATTACKER_INFANTRY_DESC코0"
+msgid "The attacker has $NUM|Y$ infantry."
+msgstr "공격자는 $NUM|Y$ 연대의 보병대가 있습니다."
+
+msgctxt "SIEGE_ATTACKER_CAVALRY_DESC코0"
+msgid "The attacker has $NUM|Y$ cavalry."
+msgstr "공격자는 $NUM|Y$ 연대의 기병대가 있습니다."
+
+msgctxt "SIEGE_ATTACKER_ARTILLERY_DESC코0"
+msgid "The attacker has $NUM|Y$ artillery."
+msgstr "공격자는 $NUM|Y$ 연대의 포병대가 있습니다."
+
+msgctxt "SIEGE_TIME_DESC코0"
+msgid "'$NAME|Y$' has been going on for $NUM|Y$ days."
+msgstr "'$NAME|Y$'(은)는 $NUM|Y$일 동안 계속되었습니다."
+
+msgctxt "SEARCH_FIELD_TEXT코0"
+msgid "Search here..."
+msgstr "여기에 검색..."
+
+msgctxt "MANAGE코0"
+msgid "Manage"
+msgstr "관리"
+
+msgctxt "SORT_BY_TAX코0"
+msgid "Sort by tax"
+msgstr "세금 순으로 정렬"
+
+msgctxt "SORT_BY_DEVELOPMENT코0"
+msgid "Sort by development"
+msgstr "개발도 순으로 정렬"
+
+msgctxt "SORT_BY_CULTURE코0"
+msgid "Sort by culture"
+msgstr "문화에 따라 정렬"
+
+msgctxt "SORT_BY_PRIMARY_CULTURE_GROUP코0"
+msgid "Sort by primary Culture Group."
+msgstr "주요 문화권에 따라 정렬"
+
+msgctxt "BUTTON_EMBRACE코0"
+msgid "Embrace"
+msgstr "수용"
+
+msgctxt "INSTI_NOT_ACTIVE코0"
+msgid "$NAME|Y$ has not yet been discovered."
+msgstr "$NAME|Y$ 은 아직 발견되지 않았습니다."
+
+msgctxt "INSTI_PRIMITIVE_CANNOT_EMBRACE_RELIGION코0"
+msgid ""
+"Primitive countries must reform their religion before embracing Institutions."
+""
+msgstr "미개국은 시대관을 수용하기 전에 먼저 종교를 개혁해야 합니다."
+
+msgctxt "INSTI_PRIMITIVE_CANNOT_EMBRACE_GOVERNMENT코0"
+msgid ""
+"Primitive countries must reform their Government before embracing "
+"Institutions."
+msgstr "미개국은 시대관을 수용하기 전에 먼저 정부를 개혁해야 합니다."
+
+msgctxt "INSTI_TOO_EXPENSIVE코0"
+msgid ""
+"We can not afford to embrace $NAME|Y$ as it would cost $COST|Y$¤ and we only "
+"have $CASH|Y$¤"
+msgstr "우리는 $NAME|Y$ 시대관을 도입하는데 $COST|Y$¤ 의 비용이 듭니다만, 보유한 국고는 $CASH|Y$¤ 입니다."
+
+msgctxt "INSTI_NOT_ENOUGH_HOLD코0"
+msgid ""
+"The institution of $NAME|Y$ has not a big enough hold of our country for us "
+"to fully embrace it.  It needs to be embraced in at least $NEED|Y$ percent "
+"of our autonomy modified development, but it is only embraced in $CURR|Y$ "
+"percent."
+msgstr ""
+"$NAME|Y$ 시대관은 우리나라에 도입하기엔 아직 충분히 전파되지 않았습니다. 도입하려면 적어도 개발도에 의해 수정된 자치도의 "
+"$NEED|Y$ %만큼은 전파되어야 합니다만 현재 전파율은 $CURR|Y$ %입니다."
+
+msgctxt "EMBRACE_INSTI_COST코0"
+msgid ""
+"Embracing $NAME|Y$ will cost $COST|Y$¤ and change our technology costs by "
+"$TECH$."
+msgstr "$NAME|Y$ 시대관 도입에 $COST|Y$¤ 의 비용이 들고 우리의 기술 비용은 $TECH$ 로 개선됩니다."
+
+msgctxt "MANAGE_OVEREXTENSION코0"
+msgid "Manage Overextension"
+msgstr "과확장 관리"
+
+msgctxt "EMPEROR_DIPACTIONS_DESC코0"
+msgid "The Emperor may take the following diplomatic actions: \n"
+"$LIST|Y$"
+msgstr "황제는 다음과 같은 외교적 조치를 취할 수 있습니다: \n"
+"$LIST|Y$"
+
+msgctxt "PAPAL_CONTROLLER_DIPACTIONS_DESC코0"
+msgid ""
+"The Papal controller may take the following diplomatic actions: \n"
+"$LIST|Y$"
+msgstr "교황청 조종자는 다음과 같은 외교적 조치를 취할 수 있습니다: \n"
+"$LIST|Y$"
+
+msgctxt "PAPACY_NEXT_CARDINALS코0"
+msgid "§YNext Possible Cardinals§W"
+msgstr "§Y가능성 있는 추기경§W\""
+
+msgctxt "UNIT_UNLOCKED_AT_TECH코0"
+msgid "'$UNIT|Y$' unlocked at $TECH$ ($LEVEL$)."
+msgstr "'$UNIT|Y$'은(는) $TECH$ ($LEVEL$)에 사용 가능합니다."
+
+msgctxt "UNIT_REORG_TRANSFER코0"
+msgid ""
+"Click to transfer all units of this type.\n"
+"Right-click to transfer half of all units of this type."
+msgstr "이 유형의 모든 연대를 옮기려면 클릭하세요.\n"
+"이 유형의 모든 연대 중 반을 옮기려면 오른쪽 클릭하세요."
+
+msgctxt "CONDITION코0"
+msgid "Condition"
+msgstr "상태"
+
+msgctxt "SORT_BY_CONDITION코0"
+msgid "Sort by Condition"
+msgstr "상태로 분류"
+
+msgctxt "AVAILABLE_AT_MILTECH코0"
+msgid "Available at Military Technology ($LEVEL$)."
+msgstr "군사기술($LEVEL$)에 사용 가능."
+
+msgctxt "MP_NOT_IN_SYNC코0"
+msgid "$PLAYER$ is not in sync, please ask him/her to reconnect!"
+msgstr "$PLAYER$(와)과는 지금 동기화되지 않았습니다. 그에게 다시 연결해 달라고 하십시오!"
+
+msgctxt "RELIGION_GROUP_NOT_DOF코0"
+msgid ""
+"$RELIGION|Y$ is part of the $GROUP|Y$ religion group and does not allow a "
+"Defender of the Faith!"
+msgstr "$RELIGION|Y$(은)는 $GROUP|Y$ 종교 그룹의 일부이며 신앙의 수호자를 허용하지 않습니다h!"
+
+msgctxt "MAPMODE_TERRAIN_DESC코0"
+msgid ""
+"Displays terrain. This is especially important when deciding where you want "
+"to engage in combat. Stripes indicate provinces with a controller that is "
+"not the owner."
+msgstr ""
+"지형을 표시합니다. 특히 전투 중 어디에 집중할지 선택할 때 중요합니다. 빗금은 지역의 소유자가 아닌 점령자가 누구인지 나타냅니다."
+
+msgctxt "MAPMODE_POLITICAL_DESC코0"
+msgid ""
+"Each nation is colored with its specific nation color. Stripes indicate "
+"provinces with a controller that is not the owner."
+msgstr "각각의 국가들은 고유한 색깔로 채색됩니다. 빗금은 영토의 소유자가 아닌 점령자가 누구인지 나타냅니다."
+
+msgctxt "MAPMODE_RELIGION_DESC코0"
+msgid ""
+"Displays the religion groups on the map. Stripes indicate provinces with a "
+"different religion than their state religion."
+msgstr "지도에 종교를 표시합니다. 빗금은 지역의 종교가 아닌 점령자의 종교를 나타냅니다."
+
+msgctxt "MAPMODE_EMPIRE_DESC코0"
+msgid ""
+"Colors the provinces that are part of the Holy Roman Empire.\n"
+"Purple belongs to the Emperor, brown belongs to an Elector, and blue belongs "
+"to a Free City. Green provinces are simply part of the Empire.\n"
+"Yellow-striped provinces are part of the Empire, but their Owner is not.\n"
+"Orange-striped provinces are part of the Empire, but they are subject of a "
+"non-Empire overlord.\n"
+msgstr ""
+"신성로마제국의 일부인 지역을 칠합니다.\n"
+"보라색은 황제에게 속하며, 갈색은 선제후에게, 파란 색은 자유시에 속하는 지역들입니다. 녹색은 그냥 제국의 일부인 지역입니다.\n"
+"노란색 줄무늬는 지역 자체는 제국의 일부이지만, 현재 소유자는 제국의 일원이 아닌 곳들을 나타냅니다.  \n"
+"주황색 줄무늬는 지역 자체는 제국의 일부이지만, 현재 소유자가 제국의 일원이 아닌 국가의 속국인 경우를 나타냅니다.\n"
+
+msgctxt "MAPMODE_TRADE_DESC코0"
+msgid ""
+"Colors the provinces according to the trade node they belong to. Checkers "
+"indicate provinces which are NOT in trade range."
+msgstr "지역을 지역이 속한 무역 노드의 고유한 색깔로 칠합니다. 빗금은 무역거리가 닿지 않는 노드를 뜻합니다."
+
+msgctxt "MAPMODE_DIPLOMACY_DESC코0"
+msgid ""
+"Colors the provinces according to their owner's diplomatic relations towards "
+"the selected country. Stripes indicate if the selected country has a core on "
+"it."
+msgstr ""
+"지역을 지역의 소유자와 선택된 국가의 외교적 관계에 따라 칠합니다. 빗금은 선택한 국가가 소유한 땅 중 코어가 없는 곳을 뜻합니다."
+
+msgctxt "MAPMODE_ECONOMY_DESC코0"
+msgid "Colors the provinces according to development."
+msgstr "개발도에 따라 지역을 칠합니다."
+
+msgctxt "MAPMODE_MANPOWER_DESC코0"
+msgid ""
+"Colors the provinces according to the amount of manpower. Red indicates "
+"little manpower, yellow indicates medium manpower, and green indicates high "
+"amounts of manpower."
+msgstr ""
+"인력의 양에 따라 지역을 칠합니다. 빨간색은 얻는 인력의 양이 적음을, 노란색은 얻는 양이 많음을, 녹색은 매우 많은 인력을 얻음을 "
+"뜻합니다."
+
+msgctxt "MAPMODE_FORTLEVEL_DESC코2"
+msgid ""
+"Colors the provinces according to diplomatic status with fort owners. Green "
+"provinces indicate friendly forts, red provinces indicate enemy forts and "
+"purple provinces indicate neutral forts. Higher level forts are darker blue."
+msgstr ""
+"지역을 요새 보유국과의 외교 상황에 따라 칠합니다. 녹색은 우호적 요새를, 빨간색은 적대적 요새를, 보라색은 중립적 요새를 나타냅니다. "
+"요새 레벨이 더 높을수록 색은 더 어두운 파랑색이 됩니다."
+
+msgctxt "MAPMODE_TECH_COST_DESC코0"
+msgid ""
+"Colors the provinces according to technology levels. The green provinces "
+"indicate a higher level of technology, orange provinces indicate a lower "
+"level of technology than yellow provinces. The red provinces indicate the "
+"lowest levels of technology."
+msgstr ""
+"지역을 기술의 발전도에 따라 칠합니다. 초록색에 가까울수록 기술이 발달했음을 뜻하고 빨간색에 가까울수록 기술이 뒤떨어졌음을 뜻합니다."
+
+msgctxt "MAPMODE_TRADE_VALUE_DESC코0"
+msgid ""
+"Colors the provinces according to the value of trade. Blue color indicates "
+"gold provinces, light red a low trade value, dark red a slightly higher "
+"trade value, yellow indicates a high trade value and green indicates a very "
+"high trade value."
+msgstr ""
+"지역을 무역가치에 따라 칠합니다. 밝은 빨간색은 낮은 무역가치를, 짙은 빨간색은 좀 더 높은 무역가치를, 노란색은 높은 무역가치를, "
+"초록색은 매우 높은 무역가치를 뜻합니다. 파란색은 금이 나오는 영토를 뜻합니다."
+
+msgctxt "MAPMODE_SUPPLY_LIMIT_DESC코0"
+msgid ""
+"Colors the provinces according to supply limit. \n"
+"If no army is selected, red indicates a low supply limit, yellow indicates "
+"medium supply limit and green indicates a high supply limit. \n"
+"When an army is selected, provinces which cannot support the selected army "
+"are red, while those that can are green. A province that can just barely "
+"support the selected army is colored yellow."
+msgstr ""
+"보급 한계에 따라 지역에 색상을 표시합니다. \n"
+"만약 어떤 부대도 선택되지 않았다면, 붉은색은 낮은 보급 한계를, 노란색은 중간 보급 한계를, 초록색은 높은 보급 한계를 나타냅니다. \n"
+"부대를 선택하면 해당 부대를 충분히 보급할 수 없는 지역은 붉은색으로, 보급할 수 있는 지역은 초록색으로 표시됩니다. 해당 부대를 "
+"가까스로 보급할 수 있는 지역은 노란색으로 표시됩니다.\""
+
+msgctxt "MAPMODE_BUILDINGS_DESC코0"
+msgid ""
+"Colors the provinces according to how many buildings can be built in the "
+"provinces. Light green indicates that more buildings can be built, dark "
+"green indicates fewer buildings to be built. A province with blue stripes "
+"has a unique building."
+msgstr ""
+"지역을 건설 가능한 건물의 수에 따라 칠합니다. 어두울수록 더 많은 건물을 지을 수 있고, 밝을수록 지을 수 있는 건물의 수가 적습니다."
+
+msgctxt "MAPMODE_MISSIONARY_DESC코0"
+msgid ""
+"Colors the provinces according to whether they can be converted into the "
+"state religion. Green indicates a province which has another religion than "
+"the state religion, blue indicates a province being converted and gray "
+"indicates that the province already has the state religion."
+msgstr ""
+"지역을 지역의 개종 가능 여부에 따라 칠합니다. 초록색은 국교와 다른 종교를 가지고 있음을, 파란색은 개종 되고 있음을 회색은 이미 "
+"국교를 믿고 있음을 뜻합니다."
+
+msgctxt "MAPMODE_REGION_DESC코0"
+msgid ""
+"Colors the provinces according to which region they belong to. Hovering over "
+"any province will reveal which area, region and continent it belongs to."
+msgstr ""
+"지역을 그들이 속한 권역에 따라 칠합니다. 아무 지역에나 커서를 올리고 있으면 그 지역이 속한 지방과 권역, 대륙을 나타낼 것 입니다."
+
+msgctxt "MAPMODE_AREAS_DESC코0"
+msgid ""
+"Colors the provinces according to which area they belong to. Hovering over "
+"any province will reveal which area, region and continent it belongs to."
+msgstr ""
+"지역들을 그들이 속한 지방에 따라 칠합니다.아무 지역에나 커서를 올리고 있으면 그 지역이 속한 지방과 권역, 대륙을 나타낼 것 입니다."
+
+msgctxt "MAPMODE_VICTORYCARDS_DESC코0"
+msgid ""
+"Colors the provinces according to which victory card they belong to (if any)."
+" Hovering over any province with a card will reveal the score for that card."
+msgstr ""
+"지역들을 그들이 속한 승리 카드에 따라(만약 있다면) 칠합니다. 카드에 속한 아무 지역에나 커서를 올리고 있으면 그 카드의 점수를 "
+"드러냅니다."
+
+msgctxt "MAPMODE_CULTURE_DESC코0"
+msgid ""
+"Colors the provinces according to the various cultures and displays the "
+"names of those cultures."
+msgstr "지역을 다양한 문화에 따라 칠하고 문화들의 이름을 표시합니다."
+
+msgctxt "MAPMODE_OPINION_DESC코0"
+msgid ""
+"Colors the provinces according to their owner's opinion towards the selected "
+"country."
+msgstr "선택된 국가를 향한 지역 소유국의 관계도에 따라 지역에 색상을 표시합니다."
+
+msgctxt "MAPMODE_COALITION_DESC코0"
+msgid ""
+"Colors the provinces according to their owner's opinion about the selected "
+"country's Aggressive Expansion. The scale is between gray and orange. If the "
+"country is red, they are in a coalition against you."
+msgstr ""
+"선택된 국가의 공격적 확장에 대한 지역 소유국의 의견에 따라 지역에 색상을 표시합니다. 그 정도는 회색과 오렌지색 사이로 표시됩니다. "
+"어떤 국가가 빨간색이라면, 그들은 당신에 대항하는 반국가동맹에 가입한 것입니다."
+
+msgctxt "MAPMODE_UNREST_DESC코0"
+msgid ""
+"Colors the provinces according to unrest. Red indicates provinces with high "
+"unrest, yellow indicates medium unrest, and green indicates a low or no "
+"unrest. Stripes indicate a province controlled by rebels."
+msgstr ""
+"지역의 불만도에 따라서 지역을 색칠합니다. 적색은 지역의 불만도가 높다는 것이며, 황색은 보통의 불만도, 초록색은 불만도가 낮거나 없음을 "
+"뜻합니다. 줄무늬로 칠해진 지역은 반군에 의해 점령된 지역입니다."
+
+msgctxt "MAPMODE_COLONIAL_DESC코0"
+msgid ""
+"Colors the provinces according to colonial range and colonial availability. "
+"Green indicates provinces that are not colonized and can be colonized, red "
+"indicates provinces which are too far away to colonize, blue indicates "
+"provinces being colonized and the darker the blue, the more progress has "
+"been made. Gray indicates already colonized provinces or cities."
+msgstr ""
+"지역을 개척 가능 범위와 개척 가능 여부에 따라 칠합니다. 초록색은 개척할 수 있음을, 빨간색은 식민지화하기엔 너무 멂을 뜻합니다. "
+"파란색은 이미 개척하고 있음을 뜻하고 짙을수록 식민지의 개척이 더 진행됐음을 의미합니다. 회색은 이미 개척된 땅을 의미합니다."
+
+msgctxt "MAPMODE_RIVALS_DESC코0"
+msgid ""
+"Colors the provinces which are owned by countries you have set as rival or "
+"that have set you as a rival."
+msgstr "당신이 경쟁자로 지정한 국가나 당신을 경쟁자로 지정한 국가들을 칠합니다."
+
+msgctxt "MAPMODE_REBELTYPES_DESC코0"
+msgid ""
+"Colors the provinces according to what type of rebel factions there are in "
+"your country."
+msgstr "당신 국가에 있는 반군들의 종류에 따라 지역들을 칠합니다."
+
+msgctxt "MAPMODE_GOVERNMENT_DESC코0"
+msgid ""
+"Colors the provinces so that different types of government show in distinct "
+"colors."
+msgstr "정부 형태에 따라 다른 색깔로 지역들을 칠합니다."
+
+msgctxt "MAPMODE_OVERSEAS_DESC코0"
+msgid ""
+"Colors the provinces that count as overseas in red, while non-overseas "
+"provinces are colored green."
+msgstr "해외 취급받는 지역들을 빨갛게 칠하고, 비 해외 지역들은 초록색으로 칠합니다."
+
+msgctxt "MAPMODE_PLAYERS_DESC코0"
+msgid ""
+"Colors the provinces according to the players and shows the players' names "
+"above their played countries."
+msgstr "지역을 플레이어의 영토를 칠하고 플레이어 국가의 이름을 표시합니다."
+
+msgctxt "MAPMODE_CLIMATE_DESC코0"
+msgid ""
+"Colors the provinces according to their climate, depicting arid, arctic & "
+"tropical provinces."
+msgstr "기후에 따라 지역에 색상을 표시합니다. 황무지, 극지와 열대 지역도 표현합니다."
+
+msgctxt "MAPMODE_WINTER_DESC코0"
+msgid ""
+"Colors the provinces according to what type of winter they are usually "
+"experiencing."
+msgstr "해당 지역이 일반적으로 겪는 겨울의 유형에 따라 지역에 색상을 표시합니다."
+
+msgctxt "MAPMODE_TRADE_GOODS_DESC코0"
+msgid "Shows what trade goods are produced in what province."
+msgstr "어떤 지역에 어떤 교역품이 생산되는지를 나타냅니다."
+
+msgctxt "MAPMODE_FEDERATIONS_DESC코0"
+msgid "Shows the Federations that exist in the world."
+msgstr "전 세계에 존재하는 연맹들을 보여줍니다."
+
+msgctxt "MAPMODE_LOCAL_AUTONOMY_DESC코0"
+msgid ""
+"The greener the province is, the closer to 0% the Local Autonomy is. The "
+"redder the province is, the closer to 100% the Local Autonomy is."
+msgstr "지역이 진한 초록색일수록 지역 자치도가 낮다는 것입니다. 지역이 진한 적색일수록 지역 자치도가 높다는 것입니다."
+
+msgctxt "MAPMODE_ACCEPTEDCULTURES_DESC코0"
+msgid ""
+"Colors the provinces according to the accepted cultures and displays the "
+"names of those cultures. Primary culture is light green, accepted cultures "
+"are dark green, cultures in the same group as your primary culture are "
+"yellow, and non-accepted cultures are red. If you are converting a non-"
+"accepted culture it will show as orange instead of red."
+msgstr ""
+"지역을 문화 수용 정도에 따라 칠합니다. 주요 문화는 밝은 초록색, 수용 문화는 어두운 초록색, 주요 문화와 같은 문화권에 속한 문화는 "
+"노란색, 그리고 수용되지 않은 문화는 빨간색입니다. 만약 수용되지 않은 문화를 변화시키고 있다면 주황색으로 나타납니다."
+
+msgctxt "MAPMODE_SIMPLE_TERRAIN_DESC코0"
+msgid ""
+"Displays terrain. Each color represents a certain terrain type. A blue "
+"border means that armies crossing that border will get a crossing penalty. "
+"Stripes indicate provinces with a controller that is not the owner."
+msgstr ""
+"지형을 표시합니다. 어디에서 당신의 군대가 교전해야 할지를 결정할 때 굉장히 유용할 것입니다. 줄무늬는 지역의 소유자가 아닌 다른 세력에 "
+"의해서 지역이 통제되고 있다는 것입니다."
+
+msgctxt "MAPMODE_PATRIARCHS_DESC코1"
+msgid ""
+"This displays states with Consecrated Metropolitans. Yellow states have a "
+"Metropolitan, green states can be assigned one, and red states cannot have a "
+"Metropolitan."
+msgstr ""
+"이는 대주교가 임명된 주들을 보여줍니다. 노란 주는 대주교가 있는 주이고, 녹색 주는 대주교가 임명될 수 있는 주이고, 빨간 주는 "
+"대주교를 가질 수 없는 주입니다."
+
+msgctxt "MAPMODE_DEVASTATION_DESC코1"
+msgid ""
+"Displays how devastated provinces are. The brighter red, the more devastated "
+"the province is, while gray has no devastation."
+msgstr ""
+"지역이 황폐화된 정도를 보여줍니다. 빨간 색이 밝을 수록 지역은 더 황폐화되있으며 회색은 황폐화가 일어나지 않았음을 의미합니다."
+
+msgctxt "MAPMODE_DYNASTY코0"
+msgid "Dynastic"
+msgstr "왕조"
+
+msgctxt "MAPMODE_DYNASTY_DESC코0"
+msgid ""
+"Colors the provinces according to the ruling dynasties and displays the "
+"names of those dynasties."
+msgstr "지배 왕조에 따라 지역을 채색하고, 각 왕조의 명칭을 보여줍니다."
+
+msgctxt "MAPMODE_TRADE_LEAGUES코0"
+msgid "Trade Leagues"
+msgstr "무역 연합"
+
+msgctxt "MAPMODE_TRADE_LEAGUES_DESC코0"
+msgid ""
+"Colors provinces by the Trade League they belong to. If you are a Trade "
+"League Leader yourself, it also shows what countries can join your Trade "
+"League and whether they would want to."
+msgstr ""
+"각 지역이 속한 무역 연합에 따라 지역을 채색합니다. 만약 당신의 국가가 무역 연합의 지도자라면, 무역 연합에 가입할 수 있는 국가들 "
+"또한 보여줍니다. 단, 그들이 실제로 가입을 원하는지는 알 수 없습니다."
+
+msgctxt "MAPMODE_GREAT_POWERS코0"
+msgid "Great Powers"
+msgstr "열강"
+
+msgctxt "MAPMODE_GREAT_POWERS_DESC코0"
+msgid ""
+"Colors provinces by the Great Power status they currently have. The Great "
+"Powers are colored in their own country colors, while all the other "
+"countries are grayed out. Countries who are losing their Great Power status "
+"are striped."
+msgstr ""
+"현재 열강인 국가가 소유한 지방에 색을 칠합니다. 열강인 국가는 자기 국가색이 칠해지고 아닌국가는 회색으로 칠합니다. 열강순위에서 "
+"탈락중인 국가는 줄무늬로 표시됩니다."
+
+msgctxt "MAPMODE_LOOT코0"
+msgid "Loot"
+msgstr "약탈"
+
+msgctxt "MAPMODE_LOOT_DESC코0"
+msgid ""
+"Colors provinces belonging to countries that you are at war with, according "
+"to how much loot is remaining."
+msgstr "당신과 전쟁중인 국가들의 지역들을, 약탈 가능한 것들이 얼마나 많이 남았냐에 따라 채색합니다"
+
+msgctxt "MAPMODE_STATES_TERRITORIES코0"
+msgid "States and Territories"
+msgstr "주와 준주"
+
+msgctxt "MAPMODE_STATES_TERRITORIES_DESC코0"
+msgid ""
+"Colors provinces that belong to States in green, and provinces that belong "
+"to Territories in yellow. The capital State is colored bright green."
+msgstr "정규 주에 속한 지역들은 녹색으로 칠하고, 준주에 속한 지역들은 노랑색으로, 수도 주는 밝은 초록색으로 칠합니다."
+
+msgctxt "MAPMODE_STATES_EDICTS코0"
+msgid "State Edicts"
+msgstr "주 칙령"
+
+msgctxt "MAPMODE_STATES_EDICTS_DESC코0"
+msgid "Color provinces depending on which Edict they currently have."
+msgstr "지역을 그들이 가지고 있는 칙령에 따라 색칠합니다."
+
+msgctxt "REDUCE코0"
+msgid "Reduce"
+msgstr "감소"
+
+msgctxt "arid코0"
+msgid "Arid"
+msgstr "건조\""
+
+msgctxt "COLONIAL_CORE코0"
+msgid ""
+"$PROV|Y$ is a Territorial Core. It does not cause overextension, but will "
+"have a high level of autonomy and the core will be lost if it is conquered. "
+"Territorial Cores can be turned into proper cores once they are part of a "
+"state."
+msgstr ""
+"$PROV|Y$은(는) 준주인 코어입니다. 이는 과확장을 유발하지는 않지만 높은 자치도를 지니며, 만약 정복당한다면 코어는 사라질 "
+"것입니다. 준주인 코어는 일단 그들이 정식 주의 일부가 되면 정규 코어로 변할 수 있습니다."
+
+msgctxt "OVEREXT_PROV_PART코0"
+msgid "Is contributing §Y$VAL|%$§! of the total overextension value!"
+msgstr "과도한 확장에 §Y$VAL|%$§!만큼 보태고 있습니다!\""
+
+msgctxt "SORT_OVEREXT코0"
+msgid "Sort by Overextension"
+msgstr "과확장에 따라 정렬"
+
+msgctxt "COURTVIEW_UNION_WITH코0"
+msgid "Personal Union with $WHO|Y$"
+msgstr "$WHO|Y$(와)과 동군연합"
+
+msgctxt "COUNTRY_MODIFIERS코0"
+msgid "Country Modifiers"
+msgstr "국가 변동치"
+
+msgctxt "LEDGER_TRADING_BONUS코0"
+msgid "Trading Bonus"
+msgstr "무역 보너스"
+
+msgctxt "CLAIMS코0"
+msgid "Cores & Claims"
+msgstr "코어 & 클레임"
+
+msgctxt "ABANDON_CORE_COST코0"
+msgid ""
+"Abandoning a core may restore your relation with the target country. It will "
+"cost you §R$COST$§! prestige."
+msgstr ""
+"코어 지역을 포기하는 것은 해당 국가와 당신의 관계를 회복시킬 수 있습니다. 그러나 §R$COST$§! 만큼의 위신을 필요로 할 것입니다."
+""
+
+msgctxt "ABANDON_CORE_TITLE코0"
+msgid "Abandon Core"
+msgstr "코어 포기"
+
+msgctxt "RETURN_PROVINCE_DESC_1코0"
+msgid ""
+"Returning §Y$PROV$§! to §Y$COUNTRY$§! will improve their opinion of you by "
+"$AMT$."
+msgstr "§Y$COUNTRY$§!에게 §Y$PROV$§!을 반환하는 것은 당신에 대한 그들의 관계도를 $AMT$ 만큼 개선합니다."
+
+msgctxt "RETURN_PROVINCE_DESC_2코0"
+msgid "It will cost you §R$COST$§! prestige."
+msgstr "이는 §R$COST$§! 위신을 소비할 것입니다."
+
+msgctxt "RETURN_PROVINCE_TITLE코0"
+msgid "Return Province"
+msgstr "영토 반환"
+
+msgctxt "ABANDON_CORE_OWNER코0"
+msgid ""
+"It is not possible to abandon a core in a province where you are the owner."
+msgstr "당신이 소유하는 지역의 코어를 포기할 수는 없습니다."
+
+msgctxt "CONSTRUCTION_QUEUE코0"
+msgid "Queue"
+msgstr "대기 중"
+
+msgctxt "CONSTRUCTION_QUEUE_NONE코0"
+msgid "None."
+msgstr "없음."
+
+msgctxt "DISMANTLE_HRE_PRESTIGE_DESC코0"
+msgid "§G$VAL$§! prestige will be gained from dismantling the HRE."
+msgstr "신성로마제국을 해체함으로써 §G$VAL$§!의 위신을 얻을 것입니다."
+
+msgctxt "DEFENDER_HAVE_POSITIVE_PRESTIGE코0"
+msgid "The current defender has positive prestige."
+msgstr "현재 수호자는 0보다 높은 위신을 가지고 있습니다."
+
+msgctxt "PROVVIEW_OCCUPIED_BY코0"
+msgid "§YOccupied by $WHO$§!"
+msgstr "§Y$WHO$에게 점령됨§!"
+
+msgctxt "PROVVIEW_OCCUPIED_BY_YOU코0"
+msgid "§YOccupied by you§!"
+msgstr "§Y당신에게 점령됨§!"
+
+msgctxt "TRANSFER_OCCUPATION_SHIELD_DESC코0"
+msgid "Click to transfer control of the province to a war ally."
+msgstr "점령한 지역의 통제권을 동맹국에게 넘기려면 클릭하십시오."
+
+msgctxt "PROVINCE_TRANSFER_UNDER_SIEGE코0"
+msgid "Cannot transfer control of a province that is under siege."
+msgstr "공성중인 지역의 통제권은 양도할 수 없습니다."
+
+msgctxt "PROVINCE_TRANSFER_NO_VALID코0"
+msgid "There are no war allies you can transfer the control to."
+msgstr "지역의 통제권을 양도할 수 있는 동맹국이 없습니다."
+
+msgctxt "TRANSFER_NOT_CONTROLLER코0"
+msgid ""
+"Only the controller can transfer the control of the province to other "
+"countries."
+msgstr "지금 지역을 통제하고 있는 국가만이 지역의 통제권을 다른 국가에게 양도할 수 있습니다."
+
+msgctxt "TRANSFER_VALID_ALLIES코0"
+msgid "You can transfer the control to $LIST$."
+msgstr "$LIST$ 에게 통제권을 양도할 수 있습니다."
+
+msgctxt "CANCEL_MISSIONARY코0"
+msgid "Cancel missionary."
+msgstr "개종 취소."
+
+msgctxt "CANCEL_CULTURE_CONVERT코0"
+msgid "Cancel convert culture progress."
+msgstr "문화변환 취소."
+
+msgctxt "CANCEL_CORE_PROGRESS코0"
+msgid "Cancel core creation."
+msgstr "코어 생성 취소."
+
+msgctxt "CANCEL_BUILDING코0"
+msgid "Cancel building."
+msgstr "건설 취소."
+
+msgctxt "CANCEL_UNIT_PRODUCTION코0"
+msgid "Cancel unit production."
+msgstr "유닛생산 취소."
+
+msgctxt "CANCEL_MIL_CON_RULES코0"
+msgid ""
+"Click to §Rcancel§! construction.\n"
+"\n"
+"When the progress is less than §Y$PERC1|%0$§!, we will get refund "
+"§G$PERC2|%0$§! of the construction costs. Otherwise we will get only "
+"§R$PERC3|%0$§!"
+msgstr ""
+"건설을 §R취소§!하려면 클릭하십시오.\n"
+"\n"
+"건설 과정이 §Y$PERC1|%0$§!보다 덜 진행됐을 경우, §G$PERC2|%0$§!만큼의 건설 비용을 되돌려받을 수 있습니다. "
+"그렇지 않다면 §R$PERC3|%0$§!만큼만 돌려받을 수 있습니다."
+
+msgctxt "CANCEL_MIL_CON_REFUND코0"
+msgid "Will receive:"
+msgstr "다음만큼 받을 것입니다:"
+
+msgctxt "CANCEL_MIL_CON_REFUND_CASH코0"
+msgid "$CASH|+1$¤"
+msgstr "$CASH|+1$¤"
+
+msgctxt "CANCEL_MIL_CON_REFUND_MAN코0"
+msgid "$MAN|+0$ manpower."
+msgstr "$MAN|+0$ 인력."
+
+msgctxt "CANCEL_MIL_CON_REFUND_SAILOR코0"
+msgid "$MAN|+0$ sailors."
+msgstr "$MAN|+0$명의 수병."
+
+msgctxt "HAS_NO_MANUFACTORY코0"
+msgid "Does NOT have any manufactory building!"
+msgstr "어떤 제조소도 가지지 않습니다!"
+
+msgctxt "DESTROY_BUILDING_LEVEL_LIMIT코0"
+msgid ""
+"You may not destroy a $GROUP|Y$ building until you have built the level "
+"$LEVEL|Y$ building."
+msgstr "$LEVEL|Y$ 등급 건물의 건설을 완료할 때까지 $GROUP|Y$ 건물을 파괴할 수 없습니다."
+
+msgctxt "PROVINCE_VALUES코0"
+msgid "Province Values"
+msgstr "지역 가치"
+
+msgctxt "NO_ARMY_CONSTRUCTIONS_QUEUE코0"
+msgid "No armies in queue for construction!"
+msgstr "생산 대기 중인 육군이 없습니다!"
+
+msgctxt "NO_NAVY_CONSTRUCTIONS_QUEUE코0"
+msgid "No navies in queue for construction!"
+msgstr "생산 대기 중인 해군이 없습니다!"
+
+msgctxt "NO_CONSTRUCTIONS_QUEUE코0"
+msgid "No constructions in queue."
+msgstr "대기 중인 건설이 없습니다."
+
+msgctxt "CULTURE_DESC코0"
+msgid ""
+"Provinces produce less and revolt more easily if their culture differs from "
+"the national norm. Cultures are automatically classified as either Accepted "
+"or NOT Accepted, depending on how large a part of the population they make "
+"up. Most often your largest represented culture is your nation's primary "
+"culture. Controlling provinces with cultures from the same culture group as "
+"your primary culture will be less penalized than ruling provinces of "
+"completely alien culture."
+msgstr ""
+"지역은 국가와 문화가 다르다면 더 적게 생산하고 더 쉽게 반란을 일으킵니다. 문화들에 포함되는 인구수가 국가에서 얼마나 차지하느냐에 따라 "
+"문화들은 자동적으로 수용된 문화와 차별되는 문화중 하나로 분류됩니다. 대부분의 경우 당신 국가를 가장 크게 대표하는 문화가 당신 국가의 "
+"주요문화가 될 것입니다. 국가의 주요문화와 같은 그룹에 속해있는 문화는 전혀 다른 문화에 비해 더 적은 페널티를 갖습니다."
+
+msgctxt "PROVVIEW_CLAIM_CORE_DESC코0"
+msgid ""
+"The countries below view this province as being rightfully theirs, either by "
+"having a Claim on it or by it being one of their Core provinces."
+msgstr ""
+"이 국가들은 이 지역에 그들의 정당한 소유권을 갖고 있다고 생각합니다. 이 국가들은 이 지역에 명분을 갖고 있거나 이 지역이 코어중 "
+"하나일 것입니다."
+
+msgctxt "SUPPLY_LIMIT_EFFICIENCY코0"
+msgid "Supply Limit Efficiency"
+msgstr "보급한계 효율"
+
+msgctxt "TAX_INCOME_EFFICIENCY코0"
+msgid "Tax Income Efficiency"
+msgstr "조세 효율"
+
+msgctxt "NO_SETTLEMENT_PRODINCOME코0"
+msgid "Uncolonized provinces give no production income."
+msgstr "식민화 되지 않은 지역은 생산수입을 주지 않습니다."
+
+msgctxt "MANPOWER_EFFICIENCY코0"
+msgid "Manpower Efficiency"
+msgstr "인력 효율"
+
+msgctxt "SAILORS_EFFICIENCY코0"
+msgid "Sailors Efficiency"
+msgstr "선원 효율"
+
+msgctxt "TRADE_POWER_EFFICIENCY코0"
+msgid "Trade Power Efficiency"
+msgstr "무역력 효율"
+
+msgctxt "OUTLINER_DIPLOMAT_DELAYED코0"
+msgid "§GRight-Click to Cancel the Diplomat.§!"
+msgstr "§G외교를 취소하기 위해 우클릭 하십시오§!"
+
+msgctxt "OUTLINER_AUTODIPLOMAT_CHECKDATES코0"
+msgid ""
+"Last checked for targets on $LASTDATE|Y$. Rechecking again on $NEXTDATE|Y$."
+msgstr "대상을  $LASTDATE|Y$에 마지막으로 체크했습니다. $NEXTDATE|Y$에 다시 체크합니다"
+
+msgctxt "OUTLINER_AUTODIPLOMAT_INSTANT코0"
+msgid ""
+"This diplomat is automatically improving relations according to the "
+"$RULENAME|Y$ rule."
+msgstr "이 외교관은 $RULENAME|Y$ 법칙에 따라 자동으로 관계 개선을 하고 있습니다."
+
+msgctxt "OUTLINER_AUTODIPLOMAT_DELAYED코0"
+msgid "§GRight-Click§! to cancel the automation of this diplomat."
+msgstr "§G외교를 취소하기 위해 우클릭 하십시오§!"
+
+msgctxt "OUTLINER_CANCEL코0"
+msgid "\n"
+"§GRight-Click to Cancel.§!"
+msgstr "\n"
+"§G오른쪽 클릭으로 취소.§!"
+
+msgctxt "COUNTRYRIGHTCLICK_INTERESTING_MARK코0"
+msgid "Mark as a country of special interest."
+msgstr "관심국가로 지정"
+
+msgctxt "COUNTRYRIGHTCLICK_INTERESTING_UNMARK코0"
+msgid "Unmark as a country of special interest."
+msgstr "관심국가에서 해제"
+
+msgctxt "MP_SERVER_ID코0"
+msgid "Server ID: $VAL|Y$"
+msgstr "서버 ID: $VAL|Y$"
+
+msgctxt "OVEREX코0"
+msgid "Overex."
+msgstr "과잉확장."
+
+msgctxt "BORDER_DISTANCE코0"
+msgid "Border Distance"
+msgstr "국경과의 거리"
+
+msgctxt "DIPLO_ATTITUDE코0"
+msgid "$ATTITUDE$ attitude towards $COUNTRY$: "
+msgstr "$COUNTRY$을(를) 향한 $ATTITUDE$의 태도:\""
+
+msgctxt "DIPLO_ATTITUDE_MULTI코0"
+msgid "$COUNTRY01$ has a $ATTITUDE$ attitude towards $COUNTRY02$: "
+msgstr "$COUNTRY01$ 는/은 다음 국가와 $ATTITUDE$ 관계입니다. $COUNTRY02$: "
+
+msgctxt "ATTITUDETO코0"
+msgid "§Y$ADJ$ attitude towards $NAME$:§!"
+msgstr "§Y$NAME$을(를) 향한 $ADJ$ 태도:§!"
+
+msgctxt "PERSONALITYOF코0"
+msgid "§YPersonality:§!"
+msgstr "§Y개성:§!"
+
+msgctxt "GOVERNMENT_RANK_LESS_THAN코0"
+msgid "Government Rank is less than "
+msgstr "정부 등급이 다음보다 낮음 : "
+
+msgctxt "GOVERNMENT_RANK_GREATER_THAN코0"
+msgid "Government Rank is at least "
+msgstr "정부 등급이 다음보다 높거나 같음 : "
+
+msgctxt "BORDER_DISTANCE_LESS_THAN코0"
+msgid "Distance between borders is less than"
+msgstr "국경 간의 거리가 다음보다 낮음 : "
+
+msgctxt "BORDER_DISTANCE_AT_LEAST코0"
+msgid "Distance between borders at least"
+msgstr "국경 간의 거리가 다음보다 높거나 같음 : "
+
+msgctxt "DIPLOMATIC_DISTANCE_LESS_THAN코0"
+msgid "Distance between capitals is less than"
+msgstr "수도 간의 거리가 다음보다 낮음 : "
+
+msgctxt "DIPLOMATIC_DISTANCE_AT_LEAST코0"
+msgid "Distance between capitals at least"
+msgstr "수도 간의 거리가 다음보다 높거나 같음 : "
+
+msgctxt "PROVINCE_DISTANCE_LESS_THAN코0"
+msgid "Distance between $FROM|Y$ to $TO|Y$ is less than $VALUE|Y$."
+msgstr "$FROM|Y$와 $TO|Y$ 사이의 거리가 $VALUE|Y$보다 짧습니다."
+
+msgctxt "PROVINCE_DISTANCE_AT_LEAST코0"
+msgid "Distance between $FROM|Y$ to $TO|Y$ at least $VALUE|Y$"
+msgstr "$FROM|Y$와 $TO|Y$ 사이의 거리가 $VALUE|Y$보다 길거나 같습니다."
+
+msgctxt "ANTAGONISM_LESS_THAN코0"
+msgid "Antagonism is less than"
+msgstr "적대감이 다음보다 작다"
+
+msgctxt "ANTAGONISM_AT_LEAST코0"
+msgid "Antagonism at least"
+msgstr "적대감이 최소"
+
+msgctxt "BEFRIEND_LESS_THAN코0"
+msgid "Friendship is less than"
+msgstr "우호감이 다음보다 작다"
+
+msgctxt "BEFRIEND_AT_LEAST코0"
+msgid "Friendship at least"
+msgstr "우호감이 최소"
+
+msgctxt "PROTECT_LESS_THAN코0"
+msgid "Protectiveness is less than"
+msgstr "보호욕구가 다음보다 작다"
+
+msgctxt "PROTECT_AT_LEAST코0"
+msgid "Protectiveness at least"
+msgstr "보호욕구가 최소"
+
+msgctxt "VASSALIZE_LESS_THAN코0"
+msgid "Desire to vassalize is less than"
+msgstr "복속하려는 욕구가 다음보다 작다"
+
+msgctxt "VASSALIZE_AT_LEAST코0"
+msgid "Desire to vassalize at least"
+msgstr "복속하려는 욕구가 최소"
+
+msgctxt "PROTECTORATE_LESS_THAN코0"
+msgid "Desire to make protectorate is less than"
+msgstr "보호국을 만들고자 하는 욕구가 다음보다 낮음"
+
+msgctxt "PROTECTORATE_AT_LEAST코0"
+msgid "Desire to make protectorate at least"
+msgstr "보호국을 만들고자 하는 욕구가 다음보다 높음"
+
+msgctxt "ALLIANCE_LESS_THAN코0"
+msgid "Desire for alliance is less than"
+msgstr "동맹하려는 욕구가 다음보다 작다"
+
+msgctxt "ALLIANCE_AT_LEAST코0"
+msgid "Desire for alliance at least"
+msgstr "동맹하려는 욕구가 최소"
+
+msgctxt "THREAT_LESS_THAN코0"
+msgid "Threat is less than"
+msgstr "위협이 다음보다 작다"
+
+msgctxt "THREAT_AT_LEAST코0"
+msgid "Threat at least"
+msgstr "위협이 최소\""
+
+msgctxt "RIVALRY_LESS_THAN코0"
+msgid "Rivalry is less than"
+msgstr "경쟁심이 다음보다 작다"
+
+msgctxt "RIVALRY_AT_LEAST코0"
+msgid "Rivalry at least"
+msgstr "경쟁심이 최소\""
+
+msgctxt "TRUST_LESS_THAN코0"
+msgid "Trust is less than"
+msgstr "믿음이 다음보다 작다"
+
+msgctxt "TRUST_AT_LEAST코0"
+msgid "Trust at least"
+msgstr "믿음이 최소"
+
+msgctxt "NAVY_NONE코0"
+msgid "No navy"
+msgstr "해군 없습니다"
+
+msgctxt "ARMY_NONE코0"
+msgid "No army"
+msgstr "육군 없습니다"
+
+msgctxt "ARMY_BALANCE_LESS_THAN코0"
+msgid "Relative army size ratio is less than"
+msgstr "상대적인 육군 규모 비율이 다음보다 작다"
+
+msgctxt "ARMY_BALANCE_AT_LEAST코0"
+msgid "Relative army size ratio at least"
+msgstr "상대적인 육군 규모 비율이 최소"
+
+msgctxt "NAVY_BALANCE_LESS_THAN코0"
+msgid "Relative navy size ratio is less than"
+msgstr "상대적인 해군 규모 비율이 다음보다 작다"
+
+msgctxt "NAVY_BALANCE_AT_LEAST코0"
+msgid "Relative navy size ratio at least"
+msgstr "상대적인 핵군 규모 비율이 최소"
+
+msgctxt "MILITARY_STRENGTH_LESS_THAN코0"
+msgid "Relative military strength ratio is less than"
+msgstr "상대적인 군사력 비율이 다음보다 낮음"
+
+msgctxt "MILITARY_STRENGTH_AT_LEAST코0"
+msgid "Relative military strength ratio at least"
+msgstr "상대적인 군사력 비율이 다음보다 높음"
+
+msgctxt "ARMY_STRENGTH_LESS_THAN코0"
+msgid "Relative army strength ratio is less than"
+msgstr "상대적인 육군력 비율이 다음보다 낮음"
+
+msgctxt "ARMY_STRENGTH_AT_LEAST코0"
+msgid "Relative army strength ratio at least"
+msgstr "상대적인 육군력 비율이 다음보다 높음"
+
+msgctxt "NAVY_STRENGTH_LESS_THAN코0"
+msgid "Relative naval strength ratio is less than"
+msgstr "상대적인 해군력 비율이 다음보다 작다"
+
+msgctxt "NAVY_STRENGTH_AT_LEAST코0"
+msgid "Relative naval strength ratio at least"
+msgstr "상대적인 해군력 비율이 최소"
+
+msgctxt "AI_PERSONALITY_CHANGE코0"
+msgid "Personality changes to §Y$PER$§W.\n"
+msgstr "개성이 §Y$PER$§W로 변합니다.\n"
+
+msgctxt "AI_ATTITUDE_CHANGE코0"
+msgid "Attitude towards §Y$COUNTRY$§! changes to §Y$ATT$§W.\n"
+msgstr "§Y$COUNTRY$§!을(를) 향한 태도가 §Y$ATT$§W로 변화\n"
+
+msgctxt "IS_ON_CONTINENT코0"
+msgid "Is present in"
+msgstr "다음 대륙에 존재함"
+
+msgctxt "IS_NOT_ON_CONTINENT코0"
+msgid "Is NOT present in"
+msgstr "다음 대륙에 존재하지 않음"
+
+msgctxt "human코0"
+msgid "Human"
+msgstr "인간"
+
+msgctxt "an_ai_capitalist코0"
+msgid "be an Administrator"
+msgstr "행정가 성향"
+
+msgctxt "an_ai_diplomat코0"
+msgid "be a Diplomat"
+msgstr "외교관 성향"
+
+msgctxt "an_ai_colonialist코0"
+msgid "be a Colonialist"
+msgstr "식민주의 성향"
+
+msgctxt "an_ai_balanced코0"
+msgid "have a Balanced personality"
+msgstr "균형 잡힌 성향"
+
+msgctxt "an_ai_militarist코0"
+msgid "be a Militarist"
+msgstr "군국주의 성향"
+
+msgctxt "ai_capitalist코0"
+msgid "Administrator"
+msgstr "관리자"
+
+msgctxt "ai_diplomat코0"
+msgid "Diplomat"
+msgstr "외교관"
+
+msgctxt "ai_colonialist코0"
+msgid "Colonialist"
+msgstr "식민지 개척자"
+
+msgctxt "ai_balanced코0"
+msgid "Balanced"
+msgstr "균형적"
+
+msgctxt "ai_militarist코0"
+msgid "Militarist"
+msgstr "군국주의자"
+
+msgctxt "human_desc코0"
+msgid "The §Y$ADJ$§! ruler is a Human player."
+msgstr "§Y$ADJ$§! 국가는 인간이 플레이하고 있습니다."
+
+msgctxt "ai_capitalist_desc코0"
+msgid ""
+"The §Y$ADJ$§! ruler is an Administrator. They will seek to improve their "
+"economy by any means available, but are less prone towards war unless it "
+"furthers their trade interests."
+msgstr ""
+"§Y$ADJ$§!의 통치자는 행정관료입니다. 그는 경제 성장에 초점을 맞추어 정책을 추진하고 따라서 그들의 무역과 깊은 관련이 없다면 "
+"전쟁에도 부정적인 태도를 보입니다."
+
+msgctxt "ai_diplomat_desc코0"
+msgid ""
+"The §Y$ADJ$§! ruler is a Diplomat. They will seek out powerful friends and "
+"attempt to expand diplomatically, but are far less likely to go to war "
+"unless they are reclaiming lost territory."
+msgstr ""
+"§Y$ADJ$§!의 통치자는 외교관입니다. 그는 강력한 국가와 동맹 맺기를 바라고 외교관계의 확장에 주안점을 두고 있습니다. 잃어버린 "
+"영토에 대한 수복이 아닌 한, 전쟁에 대해 회의적입니다."
+
+msgctxt "ai_militarist_desc코0"
+msgid ""
+"The §Y$ADJ$§! ruler is a Militarist. They will seek to expand aggressively "
+"at the expense of their neighbors and are far more likely to go to war."
+msgstr "§Y$ADJ$§!의 통치자는 군인입니다. 그는 공격적으로 영토를 확장하고자하고 따라서 전쟁 일으키기를 주저하지 않습니다."
+
+msgctxt "ai_balanced_desc코0"
+msgid ""
+"The §Y$ADJ$§! ruler has a Balanced personality. They will try to strike a "
+"balance between war, diplomacy and trade, and cannot be counted on to behave "
+"in any one particular way."
+msgstr ""
+"§Y$ADJ$§!의 통치자는 균형 있는 통치자입니다. 그는 전쟁, 무역 그리고 외교 사이에 균형을 추구합니다. 전쟁에만 목매지 않으며 "
+"외교에만 치중하는 일도 없습니다."
+
+msgctxt "ai_colonialist_desc코0"
+msgid ""
+"The §Y$ADJ$§! ruler is a Colonialist. Their interests lie in overseas "
+"expansion and they will prefer to maintain good relations with their "
+"neighbors at home."
+msgstr ""
+"§Y$ADJ$§!의 통치자는 식민지주의자입니다. 그는 해외 확장에 관심을 가지고 있으며 식민지와 본국과의 관계를 중요시 여깁니다."
+
+msgctxt "attitude_unknown코0"
+msgid "Unknown"
+msgstr "알려지지않음"
+
+msgctxt "attitude_human코0"
+msgid "Human"
+msgstr "인간"
+
+msgctxt "attitude_hostile코0"
+msgid "Hostile"
+msgstr "적대적"
+
+msgctxt "attitude_rivalry코0"
+msgid "Rivalry"
+msgstr "경쟁적"
+
+msgctxt "attitude_outraged코0"
+msgid "Outraged"
+msgstr "분노함"
+
+msgctxt "attitude_friendly코0"
+msgid "Friendly"
+msgstr "친근함"
+
+msgctxt "attitude_protective코0"
+msgid "Protective"
+msgstr "보호욕구"
+
+msgctxt "attitude_overlord코0"
+msgid "Overlord"
+msgstr "종주국"
+
+msgctxt "attitude_loyal코0"
+msgid "Loyal"
+msgstr "충성함"
+
+msgctxt "attitude_disloyal코0"
+msgid "Disloyal"
+msgstr "불충함"
+
+msgctxt "attitude_rebellious코0"
+msgid "Rebellious"
+msgstr "반항적임"
+
+msgctxt "attitude_domineering코0"
+msgid "Domineering"
+msgstr "고압적"
+
+msgctxt "attitude_threatened코0"
+msgid "Threatened"
+msgstr "위협받음"
+
+msgctxt "attitude_neutral코0"
+msgid "Neutral"
+msgstr "중립적"
+
+msgctxt "attitude_defensive코0"
+msgid "Defensive Ally"
+msgstr "방어적인 동맹"
+
+msgctxt "attitude_allied코0"
+msgid "Ally"
+msgstr "동맹"
+
+msgctxt "attitude_unknown_desc코0"
+msgid "§Y$COUNTRY$§! has no knowledge of §Y$TARGET$§!."
+msgstr "§Y$COUNTRY$§!(은)는 §Y$TARGET$§!에 대한 정보가 없습니다."
+
+msgctxt "attitude_human_desc코0"
+msgid ""
+"§Y$COUNTRY$§! is a Human player. Their attitude towards §Y$TARGET$§! is "
+"entirely up to them."
+msgstr "§Y$COUNTRY$§!(은)는 인간 플레이어 입니다. §Y$TARGET$§!을(를) 향한 대토는 그의 마음에 달렸습니다."
+
+msgctxt "attitude_hostile_desc코1"
+msgid ""
+"§Y$COUNTRY$§! views §Y$TARGET$§! with open hostility due to their ambitions "
+"to conquer some or all of their provinces. Diplomacy with a hostile nation "
+"is almost always futile."
+msgstr ""
+"§Y$COUNTRY$§! 는  §Y$TARGET$§! 에 대해 적대적입니다. 상대국 영토의 일부 혹은 전부를 정복하고자 합니다. 이런 "
+"적대적인 국가를 상대로 한 외교는 시간 낭비일 뿐입니다."
+
+msgctxt "attitude_rivalry_desc코0"
+msgid ""
+"§Y$COUNTRY$§! have made §Y$TARGET$§! their rival and seek to excel them in "
+"all things. Countries tend to choose nearby nations of similar strength to "
+"be their rivals. Diplomacy with a rival country is almost always futile."
+msgstr ""
+"§Y$COUNTRY$§! 는 §Y$TARGET$§! 을 자신의 경쟁국으로 여기고 있습니다. 국가들은 자신과 비슷한 국력을 가진 인접 "
+"국가들을 자신의 경쟁국으로 여기곤 합니다. 경쟁국을 상대로 한 외교는 시간 낭비일 뿐입니다."
+
+msgctxt "attitude_defensive_desc코1"
+msgid ""
+"§Y$COUNTRY$§! view §Y$TARGET$§! as their ally in a Defensive alliance. They "
+"are unlikely to join in any wars of aggression started by them."
+msgstr ""
+"§Y$COUNTRY$§! 은 §Y$TARGET$§! 을 방어성격의 동맹으로 생각합니다. 그들은 상대방의 침략전쟁에 참가하는 것을 꺼릴 "
+"것입니다."
+
+msgctxt "attitude_outraged_desc코0"
+msgid ""
+"§Y$COUNTRY$§! view §Y$TARGET$§! as an aggressive conqueror and seek to cut "
+"them down to size. They may form the backbone of a coalition against them."
+msgstr ""
+"§Y$COUNTRY$§! 는 §Y$TARGET$§! 가 지나치게 공격적으로 영토를 넓히고 있다고 생각합니다. 공격적인 영토확장은 더 이상 "
+"진행되어서는 안 된다고 생각하고 있고 상황이 더 심각해진다면 그들 국가를 향한 반국가동맹을 결성할지도 모릅니다."
+
+msgctxt "attitude_friendly_desc코1"
+msgid ""
+"§Y$COUNTRY$§! views §Y$TARGET$§! as a natural ally against other nations who "
+"threaten them. They are likely to seek an alliance with them."
+msgstr ""
+"§Y$COUNTRY$§! 는 §Y$TARGET$§! 가 자신의 굳건한 동맹이라고 생각합니다. 자신의 국가를 위협하는 다른 국가들과 "
+"상대하기 위해 이 국가와 동맹을 맺고자 합니다."
+
+msgctxt "attitude_protective_desc코0"
+msgid ""
+"§Y$COUNTRY$§! views §Y$TARGET$§! as a part of their sphere of influence and "
+"will seek to protect them from aggressors by guaranteeing them or making "
+"them their vassal."
+msgstr ""
+"§Y$COUNTRY$§! 는 §Y$TARGET$§! 가 자국의 영향권 내에 있는 국가라고 생각합니다. 이 국가를 다른 위협으로부터 "
+"보호하기 위해 이들의 독립을 보장해주거나 종속국으로 만들기를 원합니다."
+
+msgctxt "attitude_overlord_desc코0"
+msgid "§Y$COUNTRY$§! views §Y$TARGET$§! as their subject nation."
+msgstr "§Y$COUNTRY$§! 는 §Y$TARGET$§! 를 자신의 종속국으로 생각합니다."
+
+msgctxt "attitude_loyal_desc코0"
+msgid "§Y$COUNTRY$§! views §Y$TARGET$§! as their suzerain overlord."
+msgstr "§Y$COUNTRY$§!는  §Y$TARGET$§!를 자신의 종주권을 가진 지배자라고 생각합니다."
+
+msgctxt "attitude_disloyal_desc코0"
+msgid ""
+"§Y$COUNTRY$§! views §Y$TARGET$§! as an oppressive overlord. They are not "
+"likely to offer much help in wars."
+msgstr ""
+"§Y$COUNTRY$§!는 §Y$TARGET$§!를 억압적인 지배자라고 생각합니다. 그들은 전쟁에서 별로 돕고 싶어하지 않습니다."
+
+msgctxt "attitude_rebellious_desc코0"
+msgid ""
+"§Y$COUNTRY$§! views §Y$TARGET$§! as an unjust tyrant. They are likely to "
+"declare an independence war."
+msgstr "§Y$COUNTRY$§!는 §Y$TARGET$§!를 부당한 폭군이라고 생각합니다. 그들은 독립 전쟁을 선포하고 싶어합니다."
+
+msgctxt "attitude_domineering_desc코0"
+msgid ""
+"§Y$COUNTRY$§! views §Y$TARGET$§! as their future subject and will not be shy "
+"about declaring war to force them into vassalage."
+msgstr ""
+"§Y$COUNTRY$§!은(는) §Y$TARGET$§!을(를) 미래의 속국으로 보며, 속국화를 강요하기 위해 망설이지 않고 전쟁을 선포할 "
+"것입니다."
+
+msgctxt "attitude_threatened_desc코0"
+msgid ""
+"§Y$COUNTRY$§! views §Y$TARGET$§! as a threat to their independence. They "
+"will seek to ally them for their own safety, but may seek strong allies "
+"elsewhere if this fails."
+msgstr ""
+"§Y$COUNTRY$§! 는 §Y$TARGET$§! 를 자신의 독립에 위협이 되는 존재라고 생각합니다. 그들과 동맹을 맺어 위협을 "
+"제거하거나, 더 강한 다른 국가와 연합하여  그에 대항하고자 합니다."
+
+msgctxt "attitude_neutral_desc코1"
+msgid ""
+"§Y$COUNTRY$§! has no particular view of §Y$TARGET$§! either due to distance "
+"or lack of shared interests. Diplomacy with a neutral nation is slightly "
+"more difficult."
+msgstr ""
+"§Y$COUNTRY$§! 는 §Y$TARGET$§! 에 대해 무관심합니다. 너무 멀거나 아는 정보가 거의 없습니다. 무관심한 국가를 "
+"상대로 한 외교는 다소 어려울 수 있습니다."
+
+msgctxt "attitude_allied_desc코0"
+msgid "§Y$COUNTRY$§! views §Y$TARGET$§! as a valuable ally."
+msgstr "§Y$COUNTRY$§!는 §Y$TARGET$§!를 가치있는 동맹이라고 생각합니다."
+
+msgctxt "WAR_ENTHUSIASM_HIGH코0"
+msgid "§GHigh§!"
+msgstr "§G높음§!"
+
+msgctxt "WAR_ENTHUSIASM_MEDIUM코0"
+msgid "§YMedium§!"
+msgstr "§Y보통§!"
+
+msgctxt "WAR_ENTHUSIASM_LOW코0"
+msgid "§RLow§!"
+msgstr "§R낮음§!"
+
+msgctxt "WAR_ENTHUSIASM코0"
+msgid "Their war enthusiasm is "
+msgstr "그들의 전쟁 열정도는"
+
+msgctxt "MODIFIER_MAX_COALITION_SIZE코0"
+msgid "Maximum Coalition Size"
+msgstr "최대 반국가동맹 규모"
+
+msgctxt "SIEGE_MERGE_UNITS코0"
+msgid "Merge your sieging units."
+msgstr "공성중인 유닛을 합칩니다."
+
+msgctxt "SIEGE_MERGE_UNITS_MERGED코0"
+msgid "Your sieging units are already merged."
+msgstr "공성중인 유닛은 이미 합쳐진 상태입니다."
+
+msgctxt "SIEGE_MERGE_UNITS_DEFENDER코0"
+msgid "You are not the attacker and can't merge any units."
+msgstr "공격자가 아니기 때문에 유닛을 하나로 합칠 수 없습니다."
+
+msgctxt "SIEGE_PHASE_DESC코0"
+msgid ""
+"$DAYS|Y$ days left to the next siege phase. Each siege phase is "
+"$PHASEDAYS|Y$ days."
+msgstr "다음 공성 페이즈까지 $DAYS|Y$ 일 남았습니다. 한 공성 페이즈는 $PHASEDAYS|Y$ 일마다 체크됩니다."
+
+msgctxt "SIEGE_ATTACKER_NO_COMMANDER코0"
+msgid "Attacker has no siege commander."
+msgstr "공성중인 부대의 지휘관이 없습니다."
+
+msgctxt "SIEGE_BONUS_LEADER코0"
+msgid "Phase progress modifier from §YLeader Siege§!."
+msgstr "공성 페이즈마다 §Y지휘관 공성 능력§! 에 따라 변동치가 더해집니다."
+
+msgctxt "SIEGE_BONUS_ARTILLERY코0"
+msgid "Phase progress modifier from §Ybesieging Artillery§!."
+msgstr "공성 페이즈마다 §Y공성중인 야포의 수§! 에 따라 변동치가 더해집니다."
+
+msgctxt "SIEGE_BONUS_FORT코0"
+msgid "Phase progress modifier from §YFort Level§!."
+msgstr "공성 페이즈마다 §Y요새 등급§! 에 따라 변동치가 더해집니다."
+
+msgctxt "SIEGE_BONUS_BREACH코0"
+msgid "Phase progress modifier from §YWalls Breached§!."
+msgstr "공성 페이즈마다 §Y성벽 파괴§! 에 따라 변동치가 더해집니다."
+
+msgctxt "SIEGE_BONUS_NOBLOCKADE코0"
+msgid "Phase progress modifier from province §Ynot being Blockaded§!."
+msgstr "공성 페이즈마다 §Y지역이 해안 봉쇄되지 않음§! 에 따라 변동치가 더해집니다."
+
+msgctxt "SIEGE_BONUS_BLOCKADED코0"
+msgid "Phase progress modifier from province §Ybeing under a blockade§!."
+msgstr "공성 페이즈마다 §Y지역이 해안 봉쇄중임§! 에 따라 변동치가 더해집니다."
+
+msgctxt "SIEGE_PROGRESS_DESC코0"
+msgid ""
+"Phase progress modifier from current §YSiege Status§!. Value goes from "
+"$MIN|Y0$ to $MEMORY|Y0$."
+msgstr ""
+"현재 §Y공성 상황§!에 따른 공성 페이즈 진행도 변동치입니다. 최소 $MIN|Y0$에서 최대 $MEMORY|Y0$까지 가능합니다."
+
+msgctxt "PORT_BLOCKADE코0"
+msgid "$WHO$ (Development: $TAX|0$) is blockaded to $VAL|0$"
+msgstr "$WHO$ (개발도: $TAX|0$) (은)는 $VAL|0$만큼 봉쇄되었습니다."
+
+msgctxt "PORT_BLOCKADE_DESC코0"
+msgid ""
+"Blockades are calculated by comparing the total ship speed for your navy and "
+"the development of the province."
+msgstr "봉쇄율은 전체 함대의 속력과 해당 지역의 총 개발도를 비교하여 계산됩니다."
+
+msgctxt "PORT_BLOCKADE_SAIL_SPEED코0"
+msgid "Sail speed: $SPEED|0G$"
+msgstr "배의 속도: $SPEED|0G$"
+
+msgctxt "PORT_BLOCKADE_CAPACITY코0"
+msgid ""
+"This navy is able to fully blockade adjacent port provinces with a total "
+"development of $VAL|Y0$."
+msgstr "이 함대는 $VAL|Y0$ 이하의 총 개발도를 가진 지역의 항구를 완전히 봉쇄할 수 있습니다. "
+
+msgctxt "NUM_OF_SHIPS코0"
+msgid "Total number of ships"
+msgstr "함대에 속한 배의 총합"
+
+msgctxt "SIEGE_BONUS_DICE코0"
+msgid "Phase progress modifier from last §Ydie roll§!."
+msgstr "공성 페이즈마다 §Y주사위 값§! 에 따라 변동치가 더해집니다."
+
+msgctxt "CLOSE_UNIT_VIEW코0"
+msgid "§YClose§!"
+msgstr "§Y닫기§!"
+
+msgctxt "DESELECT_ALL코0"
+msgid "§YClose all§!"
+msgstr "§Y모두 닫기§!"
+
+msgctxt "DESELECT_ALL_DESC코0"
+msgid "This will deselect all the selected units."
+msgstr "선택한 유닛들을 모두 선택해제합니다."
+
+msgctxt "REORGANIZE_UNITS코0"
+msgid "§YReorganize Units§!"
+msgstr "§Y부대 재편§!"
+
+msgctxt "SELECT코0"
+msgid "Select"
+msgstr "선택"
+
+msgctxt "RIGHT_CLICK_TO_CENTER코0"
+msgid "Right-click to center on this unit."
+msgstr "오른 클릭으로 이 유닛을 가운데로 보냅니다."
+
+msgctxt "CLICK_TO_CENTER코0"
+msgid "Center on this unit."
+msgstr "이 유닛을 가운데로 보냅니다."
+
+msgctxt "GAMESETUP_SHOW_UNSAFE코0"
+msgid "Show incompatible saved games"
+msgstr "호환되지 않는 저장된 게임보기"
+
+msgctxt "MENU_BAR_LOCALGAMES코0"
+msgid "Local"
+msgstr "로컬"
+
+msgctxt "MENU_BAR_CLOUDGAMES코0"
+msgid "Cloud"
+msgstr "클라우드"
+
+msgctxt "MENU_BAR_DELETE_ALL코0"
+msgid "Delete All"
+msgstr "모두 삭제"
+
+msgctxt "CONFIRMDELETETITLE코0"
+msgid "Delete file"
+msgstr "파일삭제"
+
+msgctxt "CONFIRMDELETETEXT코0"
+msgid "Are you sure you want to delete §Y$NAME$§!?"
+msgstr "§Y$NAME$§!을(를) 정말로 삭제하시겠습니까?"
+
+msgctxt "CONFIRM_DELETE_ALL_TITLE코0"
+msgid "Delete all files"
+msgstr "모든 파일 삭제"
+
+msgctxt "CONFIRM_DELETE_ALL_TEXT코0"
+msgid ""
+"Are you sure you want to delete ALL savegames in this directory? This cannot "
+"be undone."
+msgstr "정말로 이 창에 있는 저장된 게임을 모두 삭제하시겠습니까? 시작하면 돌이킬 수 없습니다."
+
+msgctxt "MENU_BAR_DISK_QUOTA코0"
+msgid "$AVAIL$ free of $TOTAL$"
+msgstr "$AVAIL$ 만큼이 $TOTAL$ 에서 면제됩니다."
+
+msgctxt "FE_CONTENT코0"
+msgid "Content"
+msgstr "콘텐츠"
+
+msgctxt "CULTURE_CONSTRUCTIONS코0"
+msgid "Culture conversions"
+msgstr "문화 변환"
+
+msgctxt "CORE_CONSTRUCTIONS코0"
+msgid "Core constructions"
+msgstr "코어 생성"
+
+msgctxt "ADVISOR_FIRE코0"
+msgid "Fire Advisor"
+msgstr "조언자 해고"
+
+msgctxt "NO_ADVISOR_HIRED코0"
+msgid "You have not hired any $POWER$ advisor."
+msgstr "당신은 $POWER$ 조언자를 고용하지 않았습니다."
+
+msgctxt "ECOVIEW_MAINT_TP_PENALTY코0"
+msgid "Light Ship Trade Power: $VAL$"
+msgstr "소형선 보너스: $VAL$\""
+
+msgctxt "HRE_VOTE_SCORE_DESC코0"
+msgid ""
+"Once a month §Y$ELECTOR$§W will change who they are backing to the country "
+"with the highest vote score."
+msgstr "매 달마다 §Y$ELECTOR$§W 는 투표 수치에 따라 누구를 후원할 것인지 결정하고 변경할 것입니다."
+
+msgctxt "HRE_OTHER_VOTE_SELF코0"
+msgid ""
+"The Elector of §Y$ELECTOR$§W is backing themselves for the Imperial Throne."
+msgstr "§Y$ELECTOR$§W 는 스스로가 황제위를 손에 넣기 위해 자국에 투표하고 있습니다."
+
+msgctxt "CURRENTLY_VOTING_FOR_SELF코0"
+msgid "We are currently voting for ourselves."
+msgstr "우리는 우리 자신에게 투표하고 있습니다."
+
+msgctxt "HRE_RELATION_SELF코0"
+msgid ""
+"We give ourselves §Y$POINTS$§W when ranking of who we want to vote for as "
+"the next Emperor."
+msgstr "우리는 다음 황제위를 노리기 위해 우리 자신에게 §Y$POINTS$§W 를 투표중입니다."
+
+msgctxt "DLC_NEWITEMINSTALLED_TITLE코0"
+msgid "New item installed"
+msgstr "새로운 아이템 설치됨"
+
+msgctxt "DLC_NEWITEMINSTALLED_DESC코0"
+msgid "$NAME$ has been installed, you should restart EU4."
+msgstr "$NAME$ 이 설치되었습니다. EU4를 재실행 하시기 바랍니다."
+
+msgctxt "DLC_AVAILABLE_TITLE코0"
+msgid "Available content"
+msgstr "사용가능해진 컨텐츠"
+
+msgctxt "DLC_AVAILABLE_DESC코0"
+msgid "There are §Y$NUM$§! available DLCs awaiting your attention."
+msgstr "§Y$NUM$§! 사용 가능해진 DLC가 당신을 기다립니다."
+
+msgctxt "IDEAVIEW_ADMINISTRATIVE코0"
+msgid "Administrative Ideas"
+msgstr "행정적 이념"
+
+msgctxt "IDEAVIEW_DIPLOMATIC코0"
+msgid "Diplomatic Ideas"
+msgstr "외교적 이념"
+
+msgctxt "IDEAVIEW_MILITARY코0"
+msgid "Military Ideas"
+msgstr "군사적 이념"
+
+msgctxt "POLICYVIEW_ADMINISTRATIVE코0"
+msgid "Administrative Policies"
+msgstr "행정 정책"
+
+msgctxt "POLICYVIEW_DIPLOMATIC코0"
+msgid "Diplomatic Policies"
+msgstr "외교 정책"
+
+msgctxt "POLICYVIEW_MILITARY코0"
+msgid "Military Policies"
+msgstr "군사 정책"
+
+msgctxt "CHANGE_CULTURE코0"
+msgid "Change culture"
+msgstr "문화 변경"
+
+msgctxt "CHANGE_CULTURE_TO코0"
+msgid "Change culture to $CULTURE$"
+msgstr "$CULTURE$로 문화 변경"
+
+msgctxt "DEVELOP_PROVINCE코0"
+msgid "Develop province"
+msgstr "지역 개발"
+
+msgctxt "EXPLOIT_PROVINCE코0"
+msgid "Exploit Development"
+msgstr "개발도 착취"
+
+msgctxt "HRE_VOTE코0"
+msgid "Cast Vote"
+msgstr "투표"
+
+msgctxt "PAPACY_AGE코0"
+msgid "Age:"
+msgstr "나이:"
+
+msgctxt "SORT_BY_AGE코0"
+msgid "Sort by age"
+msgstr "연령으로 정렬"
+
+msgctxt "SORT_BY_HOME코0"
+msgid "Sort by home province"
+msgstr "수도로 정렬"
+
+msgctxt "CONTENTVIEW_HEADER코0"
+msgid "Installed Content"
+msgstr "설치된 콘텐츠"
+
+msgctxt "CONTENTVIEW_ACTIVE코0"
+msgid "Active"
+msgstr "Active"
+
+msgctxt "CONTENTVIEW_INACTIVE코0"
+msgid "Inactive"
+msgstr "Inactive"
+
+msgctxt "CONTENTVIEW_BROWSE코0"
+msgid "Browse"
+msgstr "찾아보기"
+
+msgctxt "CONTENTVIEW_DLC코0"
+msgid "DLC"
+msgstr "DLC"
+
+msgctxt "CONTENTVIEW_MOD코0"
+msgid "Mod"
+msgstr "모드"
+
+msgctxt "TRADE_GOODS코0"
+msgid "Global trade goods size"
+msgstr "국제 무역품 생산"
+
+msgctxt "TRADEGOODS_LEADER_BONUS코0"
+msgid "Production leader bonus:"
+msgstr "생산 주도국 보너스:"
+
+msgctxt "MUSIC_CUR_PLAYING코0"
+msgid "Music currently playing: '$MUSIC|Y$'."
+msgstr "현재 재생중인 음악: '$MUSIC|Y$'."
+
+msgctxt "MUSIC_NO_CUR_PLAYING코0"
+msgid "No music playing at the moment."
+msgstr "재생중인 음악이 없음."
+
+msgctxt "TARIFF_BASE_MODIFIER코0"
+msgid "Tariff base modifier: $VAL|%1+$"
+msgstr "관세 기본 변동치: $VAL|%1+$"
+
+msgctxt "PROV_TRADEPOWER_DESCR코0"
+msgid ""
+"Trade Power affects how much power the province owner receives from this "
+"province in the connected trade node."
+msgstr "무역력은 이 지역과 연결된 무역 노드에서부터 얼마나 많은 양의 무역 가치를 받을지 결정합니다."
+
+msgctxt "PROV_TRADEVALUE_DESCR코1"
+msgid ""
+"This is calculated by multiplying the amount of goods with their value. "
+"Trade Value increases the province's production income."
+msgstr "이는 생산품의 양과 가치를 곱함으로써 결정됩니다. 무역 가치는 지역의 생산 수입을 상승시킵니다."
+
+msgctxt "PROV_GOODSPROD_DESCR코0"
+msgid ""
+"Goods Produced increases the Trade Value of a province by providing more "
+"trade goods."
+msgstr "무역 상품의 생산으로 지역의 무역 가치를 증가시킬 수 있습니다."
+
+msgctxt "HRE_VOTE_ELECTOR_YOU코0"
+msgid "You"
+msgstr "당신"
+
+msgctxt "HRE_CAST_VOTE_DESC코0"
+msgid "You can select who you want to vote for as Emperor!"
+msgstr "당신이 황제로 선출하고 싶은 국가를 선택할 수 있습니다!"
+
+msgctxt "SUPPORT_EFFICIENCY코0"
+msgid "Support Efficiency"
+msgstr "효율적으로 도움을 주다 "
+
+msgctxt "REBEL_SUPPORT_EFFICIENCY_DESC코0"
+msgid ""
+"Rebel Support Efficiency determines how effective your support will be in "
+"raising their chance to progress towards a revolt."
+msgstr "효율적인 반란 지원은 반란군이 당신의 지원금을 얼마나 사용할 지를 수정해 줍니다."
+
+msgctxt "SLIDER_VALUE코0"
+msgid "Slider value"
+msgstr "슬라이더 값 "
+
+msgctxt "GAME_BOOT_IN코0"
+msgid "Game will boot up in $MIN$ minutes."
+msgstr "게임이 $MIN$후에 시동될 것입니다."
+
+msgctxt "GAME_START_IN코0"
+msgid "Game will start in $MIN$ minutes."
+msgstr "게임이 $MIN$분 후에 시작됩니다."
+
+msgctxt "GAME_ENDS_IN코0"
+msgid "Game will end in $MIN$ minutes."
+msgstr "게임이 $MIN$분 후에 끝납니다."
+
+msgctxt "GAME_START_WHEN_ALL_READY코0"
+msgid "Game will start as soon as all players are ready."
+msgstr "모든 플레이어들이 준비를 하면 게임이 시작 될 것입니다."
+
+msgctxt "INFANTRY_FRACTION코0"
+msgid "Infantry fraction: $VAL|+%1$"
+msgstr "보병 비중: $VAL|+%1$"
+
+msgctxt "CAVALRY_FRACTION코0"
+msgid "Cavalry fraction: $VAL|+%1$"
+msgstr "기병 비중: $VAL|+%1$"
+
+msgctxt "ARTILLERY_FRACTION코0"
+msgid "Artillery fraction: $VAL|+%1$"
+msgstr "포병 비중: $VAL|+%1$"
+
+msgctxt "BASE_LAND_MAINTENANCE_FACTOR코0"
+msgid "Base Land Maintenance Factor"
+msgstr "기초 육군 유지 요소"
+
+msgctxt "SUPPORT_REBELS_TOTAL_REVOLT_SIZE코0"
+msgid "Total Revolt Size: $VAL|+$"
+msgstr "총 반란 규모: $VAL|+$"
+
+msgctxt "SUPPORT_REBELS_TOTAL_INF_COST코0"
+msgid "Total infantry build cost: $VAL|-2$¤"
+msgstr "총 보병 모병 비용: $VAL|-2$¤"
+
+msgctxt "SUPPORT_REBELS_TOTAL_CAV_COST코0"
+msgid "Total cavalry build cost: $VAL|-2$¤"
+msgstr "총 기병 모병 비용: $VAL|-2$¤"
+
+msgctxt "SUPPORT_REBELS_TOTAL_ART_COST코0"
+msgid "Total artillery build cost: $VAL|-2$¤"
+msgstr "총 포병 모병 비용: $VAL|-2$¤"
+
+msgctxt "REBEL_REINFORCE_NOT_TYPE코0"
+msgid "$REBEL$ is of type '$TYPE|Y$' and they do not reinforce their units."
+msgstr "$REBEL$ 은(는) '$TYPE|Y$' 유형이고, 부대를 충원하지 않습니다."
+
+msgctxt "REBEL_REINFORCE_NOT_SUPPORT코0"
+msgid ""
+"$REBEL$ has no supporter that can pay for reinforcement of their units."
+msgstr "$REBEL$은(는) 그들의 부대를 충원시킬 돈을 지불할 후원자가 없습니다."
+
+msgctxt "REBEL_REINFORCE_DESC코0"
+msgid "Their units receive $VAL|+1%$ potential extra local reinforcement."
+msgstr "그들의 부대는 $VAL|+1%$의 잠재적인 추가 지역 충원을 받을 것입니다."
+
+msgctxt "COUNTRY_LOCKED_BY_SERVER코0"
+msgid "$COUNTRY$ is locked by the server."
+msgstr "$COUNTRY$은(는) 서버에 의해 잠겨있습니다."
+
+msgctxt "FE_IRONMAN코0"
+msgid "Ironman mode"
+msgstr "철인 모드"
+
+msgctxt "IRONMAN_SAVE_LABEL코0"
+msgid "Ironman Save"
+msgstr "철인 모드 저장"
+
+msgctxt "IRONMAN_START코0"
+msgid "Start Ironman"
+msgstr "철인 모드를 시작합니다"
+
+msgctxt "RANDOM_COUNTRY코0"
+msgid "Random Nation"
+msgstr "무작위 국가"
+
+msgctxt "CUSTOM_NATION코0"
+msgid "Custom Nation"
+msgstr "사용자 정의 국가"
+
+msgctxt "FE_CUSTOM_NATION_DIFFICULTY코0"
+msgid "Custom Nation Difficulty"
+msgstr "사용자 정의 국가 난도"
+
+msgctxt "FE_CUSTOM_NATION_MAP코0"
+msgid "Nations"
+msgstr "국가"
+
+msgctxt "FE_CUSTOM_NATION_TAX코0"
+msgid "Province Tax and Manpower"
+msgstr "지역 세금과 인력"
+
+msgctxt "FE_CUSTOM_NATION_ADD_TO_SAVE코0"
+msgid "Allow adding Nations to savegame"
+msgstr "저장된 게임에 새로운 국가의 추가를 허용함"
+
+msgctxt "FE_RANDOM_NATION_NAMING코0"
+msgid "Random Nations"
+msgstr "무작위 국가"
+
+msgctxt "CN_RANDOM_HISTORICAL코0"
+msgid "Historical"
+msgstr "역사적"
+
+msgctxt "CN_RANDOM_DYNAMIC코0"
+msgid "Dynamic"
+msgstr "역동적"
+
+msgctxt "CN_RANDOM_NATION_NAMING_TOOLTIP1코0"
+msgid ""
+"This option determines where randomly generated nations will get their names "
+"and flags from."
+msgstr "이 옵션은 무작위으로 생성된 국가의 이름과 국기의 결정방식을 설정합니다."
+
+msgctxt "CN_RANDOM_NATION_NAMING_TOOLTIP2코0"
+msgid ""
+"§YDynamic:§! Randomly generated nations will have their names and flags "
+"dynamically generated.\n"
+"§YHistorical:§! Randomly generated nations will take their names and flags "
+"from historical countries."
+msgstr ""
+"§Y역동적:§! 무작위로 생성된 국가는 고유의 국명과 국기를 가질 것입니다.\n"
+"§Y역사적:§! 무작위로 생성된 국가는 역사적인 국가의 국명과 국기를 가질 것입니다."
+
+msgctxt "CN_VERY_EASY코0"
+msgid "Very Easy ($VAL$)"
+msgstr "매우 쉬움 ($VAL$)"
+
+msgctxt "CN_EASY코0"
+msgid "Easy ($VAL$)"
+msgstr "쉬운 ($VAL$)"
+
+msgctxt "CN_NORMAL코0"
+msgid "Normal ($VAL$)"
+msgstr "보통 ($VAL$)"
+
+msgctxt "CN_HARD코0"
+msgid "Hard ($VAL$)"
+msgstr "어려움 ($VAL$)"
+
+msgctxt "CN_VERY_HARD코0"
+msgid "Very Hard ($VAL$)"
+msgstr "매우 어려움 ($VAL$)"
+
+msgctxt "CN_DIFFICULTY_TOOLTIP코0"
+msgid ""
+"This option determines the amount of points players have available to create "
+"custom nations. The more points available, the easier the start."
+msgstr "이 옵션은 사용자 정의 국가 생성에 사용되는 점수의 최대값을 설정합니다. 수치가 높을수록 난도가 낮습니다."
+
+msgctxt "CN_TAX_TOOLTIP1코0"
+msgid "This option determines the base tax and manpower of all provinces."
+msgstr "이 옵션은 모든 지역의 기본 세금과 인력을 설정합니다."
+
+msgctxt "CN_TAX_TOOLTIP2코0"
+msgid ""
+"§YNormal Values:§! all provinces have their historical tax and manpower "
+"values.\n"
+"§YRandom Values:§! all provinces have randomized tax and manpower values.\n"
+"§YFlat Values:§! all provinces have the same tax and manpower values."
+msgstr ""
+"§Y기본:§! 역사에 맞추어 지역 세금과 인력을 설정합니다.\n"
+"§Y무작위:§! 무작위로 지역 세금과 인력을 설정합니다.\n"
+"§Y균등:§! 모든 지역이 동일하게 지역 세금과 인력을 설정합니다."
+
+msgctxt "CN_ADD_TO_SAVE_TOOLTIP1코0"
+msgid "Allows adding new Custom Nations after loading a savegame"
+msgstr "게임을 불러온 이후에 사용자 정의 국가를 생성할 수 있도록 허용합니다."
+
+msgctxt "CN_ADD_TO_SAVE_TOOLTIP2코0"
+msgid ""
+msgstr " "
+
+msgctxt "CN_TAX_NORMAL코0"
+msgid "Normal Values"
+msgstr "기본"
+
+msgctxt "CN_TAX_RANDOM코0"
+msgid "Random Values"
+msgstr "무작위"
+
+msgctxt "CN_TAX_FLAT코0"
+msgid "Flat Values"
+msgstr "균등"
+
+msgctxt "CN_MAP_TOOLTIP1코0"
+msgid "This option determines what countries will populate the map."
+msgstr "이 옵션은 세계가 무슨 국가들로 구성될지를 결정합니다."
+
+msgctxt "CN_MAP_TOOLTIP2코0"
+msgid ""
+"§YNormal Setup:§! the map will be populated by historical nations and custom "
+"nations are §Genabled§!.\n"
+"§YHistorical Setup:§! the map will be populated by historical nations and "
+"custom nations are §Rdisabled§!.\n"
+"§YRandom Setup:§! the map will be populated by §Yplayer-created custom "
+"nations and randomly generated nations§!.\n"
+"§YCustom Setup:§! the map will be populated §Yonly by player-created custom "
+"nations§!, all other provinces will be uncolonized. All nations start with a "
+"colonist."
+msgstr ""
+"§Y기본 설정:§! 세계는 역사적 국가들로 구성될 것이며, 사용자 정의 국가는 §G허용됩니다§!.\n"
+"§Y역사적 설정:§! 세계는 역사적 국가들로 구성될 것이며, 사용자 정의 국가는 §R금지됩니다§!.\n"
+"§Y무작위 설정:§! 세계는 §Y플레이어가 생성한 사용자 정의 국가와 무작위로 생성된 국가§!로 구성될 것입니다.\n"
+"§Y사용자 정의 설정:§! 세계는 오직 §Y사용자가 생성한 사용자 정의 국가§!로만 구성될 것이며, 다른 지역은 모두 개척되지 않은 "
+"상태로 남습니다. 모든 국가는 개척자 하나를 가지고 시작합니다."
+
+msgctxt "CN_MAP_NORMAL코0"
+msgid "Normal Setup"
+msgstr "기본 설정"
+
+msgctxt "CN_MAP_RANDOM코0"
+msgid "Random Setup"
+msgstr "무작위 설정"
+
+msgctxt "CN_MAP_EMPTY코0"
+msgid "Custom Setup"
+msgstr "사용자 정의 설정"
+
+msgctxt "CN_MAP_NO_CUSTOM코0"
+msgid "Historical Setup"
+msgstr "역사적 설정"
+
+msgctxt "CANT_SELECT_OPTION_FOR_SAVE코0"
+msgid ""
+"§RCan't select this option for a savegame! Start a new campaign if you wish "
+"to change this.§!"
+msgstr "§R저장된 게임에서는 이 옵션을 변경할 수 없습니다. 캠페인을 새로 시작하십시오.§!"
+
+msgctxt "CUSTOM_NATIONS_DISABLED코0"
+msgid "§RCannot create a custom nation because the host has disabled them!§!"
+msgstr "§R호스트가 사용자 정의 국가를 생성할 수 없도록 설정하였습니다.§!"
+
+msgctxt "CUSTOM_NATIONS_ALREADY_CREATED코0"
+msgid ""
+"§RCannot change this option after players have already finalized their "
+"custom nations!§!"
+msgstr "§R사용자의 사용자 정의 국가가 생성된 후에는 이 옵션을 변경할 수 없습니다.§!"
+
+msgctxt "CUSTOM_NATIONS_REQUIRES_EL_DORADO코0"
+msgid "§RChanging this option requires the El Dorado expansion!§!"
+msgstr "§R이 옵션은 엘도라도(El Dorado) 확장팩 구입 후 이용할 수 있습니다.§!"
+
+msgctxt "FE_BONUSES_DESC코0"
+msgid ""
+"Different §YDifficulty§! settings grant different bonuses to Player or AI "
+"nations to adjust the overall game difficulty. If set to Normal, no nations "
+"will get bonuses. On Easy, the AI is more forgiving towards Players, whereas "
+"on Hard it is far more aggressive."
+msgstr ""
+"각각의 §Y난이도§! 설정은 서로 다른 보너스를 플레이어나 AI 국가에게 부여합니다. 만약 보통 난이도를 선택한다면, 어떤 국가도 "
+"보너스를 얻지 못할 것입니다. 쉬움 난이도에서 AI는 플레이어에 대해 더욱 관대해질 것이고, 어려움 난이도에서는 더욱 공격적으로 변할 "
+"것입니다."
+
+msgctxt "FE_BONUSES_SCORE코0"
+msgid "On $NAME|Y$, there is a $SCORE$ score bonus."
+msgstr "$NAME|Y$ 난이도에서는 $SCORE$의 점수 보너스가 있습니다."
+
+msgctxt "FE_BONUSES_DESC2코0"
+msgid "On §Y$NAME$§! difficulty, all AI nations gain the following bonuses:"
+msgstr "§Y$NAME$§! 난이도에서, 모든 AI 국가는 다음과 같은 보너스를 얻습니다:"
+
+msgctxt "FE_BONUSES_DESC3코0"
+msgid ""
+"On §Y$NAME$§! difficulty, all Player nations and subjects gain the following "
+"bonuses:"
+msgstr "§Y$NAME$§! 난이도에서 모든 사용자 국가와 속국들은 다음과 같은 보너스를 얻습니다:"
+
+msgctxt "FE_LUCK_DESC코0"
+msgid ""
+"The §YLucky Nations§! setting grants certain AI nations special 'Luck' "
+"bonuses."
+msgstr "§Y행운의 국가§! 설정 시 일부 AI 국가에 '행운' 보너스가 주어집니다."
+
+msgctxt "FE_LUCK_DESC2코0"
+msgid ""
+"§YHistorical:§! Luck bonuses will be given to ten historically successful "
+"nations. Tends to result in a more historical world.\n"
+"§YRandom:§! Luck bonuses will be given to ten randomly determined nations "
+"(weighted towards larger, more advanced powers). Tends to result in a more "
+"random world.\n"
+"§YNone:§! No nations will get Luck bonuses.\n"
+"\n"
+msgstr ""
+"§Y역사적:§! 역사적으로 강대했던 10개 국가에 행운 보너스가 주어집니다. 현실과 비슷하게 게임이 진행되는 경우가 많습니다.\n"
+"§Y무작위:§! 무작위으로 선택된 10개 국가에 행운 보너스가 주어집니다. (영토가 크고 선진국일수록 유리)\n"
+"§Y없음:§! 어떤 국가에도 행운 보너스가 주어지지 않습니다.\n"
+"\n"
+
+msgctxt "FE_LUCK_DESC3코0"
+msgid ""
+"Nations with §YLuck§! have more capable monarchs and get the following "
+"bonuses:\n"
+msgstr "§Y행운§! 이 있는 국가는 좀 더 좋은 능력의 군주와 다음의 보너스를 얻습니다:\n"
+
+msgctxt "FE_IRONMAN_DESC코0"
+msgid ""
+"§YIronman Mode§! is for players that desire a more challenging game where "
+"they cannot simply reload whenever things go badly for their nation."
+msgstr ""
+"§Y철인 모드§!는 저장과 불러오기로 국가의 나쁜 일을 피하는 것을 못하게 함으로써 사용자에게 좀 더 도전적인 게임을 제공합니다."
+
+msgctxt "FE_IRONMAN_DESC2코0"
+msgid ""
+"Playing in §YIronman Mode§! has the following effects:\n"
+"- Limits the number of save files per game to one.\n"
+"- Non-optional and frequent autosaving.\n"
+"- Cannot use console cheats.\n"
+"- Cannot switch countries."
+msgstr ""
+"§Y철인 모드§!로 게임을 진행하면 다음과 같은 효과가 적용됩니다:\n"
+"-게임 당 저장 파일이 하나로 제한됩니다.\n"
+"- 정기적으로 자동 저장되지 않습니다.\n"
+"- 콘솔 치트를 적용 못합니다.\n"
+"- 국가를 바꿀 수 없습니다."
+
+msgctxt "FE_HOTJOIN_DESC코1"
+msgid ""
+"Enables or disables the ability for other players to join the game after it "
+"starts. This option can also be changed in-game."
+msgstr ""
+"게임 시작 후 다른 플레이어가 게임에 참여할 수 있는 기능을 활성화 또는 비활성화 합니다. 이 옵션은 게임 내에서 변경할 수도 있습니다."
+
+msgctxt "FE_COOP_DESC코1"
+msgid ""
+"Enables or disables the ability for several players to manage the same "
+"country simultaneously. This option can also be changed in-game."
+msgstr ""
+"여러 플레이어가 같은 국가를 동시에 관리 할 수있는 기능을 사용 또는 사용 중지합니다. 이 옵션은 게임 내에서 변경할 수도 있습니다."
+
+msgctxt "AI코0"
+msgid "AI"
+msgstr "컴퓨터"
+
+msgctxt "PLAYER_AI_PREFS_DISABLED코0"
+msgid "Option allowed only in multiplayer session."
+msgstr "여럿이 하기 게임 중에서만 사용할 수 있는 옵션입니다."
+
+msgctxt "PLAYER_AI_PREFS_HEADER코0"
+msgid "AI Settings"
+msgstr "AI 세팅"
+
+msgctxt "PLAYER_AI_PREFS_DESC코0"
+msgid ""
+"In this window you can toggle the AI behavior of your country when you leave "
+"the multiplayer session.\n"
+"The settings are stored in the save file, so if the other players continue "
+"the game without you, the AI will control your country according to these "
+"settings."
+msgstr ""
+"이 창에서 본 사용자가 부득이한 사유로 다른 사용자 간의 게임에서 이탈하였을 때 AI가 본 사용자의 국가를 어떻게 관리할지 설정할 수 "
+"있습니다.\n"
+"이러한 설정은 저장 파일에 저장되므로 본 사용자 부재 시에 다른 사용자가 게임을 속개하였을 때 AI가 설정에 따라 사용자의 국가를 다스릴 "
+"것입니다."
+
+msgctxt "PLAYER_AI_PREFS_OPTION_TITLE_start_wars코0"
+msgid "Start Wars"
+msgstr "개전"
+
+msgctxt "PLAYER_AI_PREFS_OPTION_TITLE_keep_alliances코1"
+msgid "Keep Allies and Rivals"
+msgstr "동맹과 경쟁국 유지"
+
+msgctxt "PLAYER_AI_PREFS_OPTION_TITLE_keep_treaties코0"
+msgid "Keep All Treaties"
+msgstr "모든 조약 유지"
+
+msgctxt "PLAYER_AI_PREFS_OPTION_TITLE_quick_peace코0"
+msgid "Seek Fast Peace"
+msgstr "빠른 평화 추구"
+
+msgctxt "PLAYER_AI_PREFS_OPTION_TITLE_move_traders코0"
+msgid "Move Merchants"
+msgstr "상인 이동"
+
+msgctxt "PLAYER_AI_PREFS_OPTION_TITLE_take_decisions코0"
+msgid "Take Decisions"
+msgstr "국가적 결정"
+
+msgctxt "PLAYER_AI_PREFS_OPTION_TITLE_embrace_institutions코0"
+msgid "Embrace Institutions"
+msgstr "시대관 수용"
+
+msgctxt "PLAYER_AI_PREFS_OPTION_TITLE_develop_provinces코0"
+msgid "Develop Provinces"
+msgstr "지역 개발"
+
+msgctxt "PLAYER_AI_PREFS_OPTION_TITLE_disband_units코0"
+msgid "Disband Units"
+msgstr "부대 해산"
+
+msgctxt "PLAYER_AI_PREFS_OPTION_TITLE_change_fleet_missions코0"
+msgid "Change Fleet Missions"
+msgstr "함대 임무 변경"
+
+msgctxt "PLAYER_AI_PREFS_OPTION_TITLE_send_missionaries코0"
+msgid "Send Missionaries"
+msgstr "선교사 파견"
+
+msgctxt "PLAYER_AI_PREFS_OPTION_TITLE_convert_cultures코0"
+msgid "Convert Culture"
+msgstr "문화 변경"
+
+msgctxt "PLAYER_AI_PREFS_OPTION_TITLE_promote_cultures코0"
+msgid "Promote Cultures"
+msgstr "문화 수용"
+
+msgctxt "PLAYER_AI_PREFS_OPTION_TITLE_braindead코0"
+msgid "Braindead"
+msgstr "뇌사"
+
+msgctxt "PLAYER_AI_PREFS_OPTION_TITLE_timeout코0"
+msgid "Timeout Date"
+msgstr "만료일"
+
+msgctxt "PLAYER_AI_PREFS_OPTION_DESC_start_wars코0"
+msgid "Controls if the AI may start wars"
+msgstr "인공지능이 전쟁을 일으킬지 여부를 통제함"
+
+msgctxt "PLAYER_AI_PREFS_OPTION_DESC_keep_alliances코1"
+msgid ""
+"With this setting, the AI won't change Rivals, will keep Allies and answer "
+"Calls to Arms"
+msgstr "이 설정에서, AI는 경쟁국을 변경하지 않고 동맹을 유지하며 지원 요청에 응답할 것입니다."
+
+msgctxt "PLAYER_AI_PREFS_OPTION_DESC_keep_treaties코0"
+msgid "With this setting, the AI won't cancel any diplomatic relations"
+msgstr "이 설정에서, AI는 어떤 외교 관계도 취소하지 않을 것입니다"
+
+msgctxt "PLAYER_AI_PREFS_OPTION_DESC_quick_peace코0"
+msgid "Controls if the AI will try to make peace as soon as possible in wars"
+msgstr "AI가 전쟁에서 최대한 빨리 평화협정을 맺을지 여부를 결정합니다."
+
+msgctxt "PLAYER_AI_PREFS_OPTION_DESC_move_traders코0"
+msgid "Controls if the AI may move Merchants to other Nodes"
+msgstr "AI가 상인을 다른 노드로 이동시킬지 여부를 결정합니다."
+
+msgctxt "PLAYER_AI_PREFS_OPTION_DESC_take_decisions코0"
+msgid "Controls whether the AI may take Decisions"
+msgstr "AI가 국가적 결정을 내릴지 말지를 결정합니다."
+
+msgctxt "PLAYER_AI_PREFS_OPTION_DESC_embrace_institutions코0"
+msgid "Controls whether the AI may Embrace Institutions"
+msgstr "AI가 시대관을 수용할지 여부를 결정합니다."
+
+msgctxt "PLAYER_AI_PREFS_OPTION_DESC_develop_provinces코0"
+msgid "Controls whether the AI may Develop in its Provinces"
+msgstr "AI가 지역의 개발도를 올릴지 여부를 결정합니다."
+
+msgctxt "PLAYER_AI_PREFS_OPTION_DESC_disband_units코0"
+msgid "Controls whether the AI may disband its units"
+msgstr "AI가 부대를 해산할지 여부를 결정합니다."
+
+msgctxt "PLAYER_AI_PREFS_OPTION_DESC_change_fleet_missions코0"
+msgid "Controls whether the AI may reassign its fleets' missions"
+msgstr "AI가 함대 임무를 재지정할지 여부를 결정합니다."
+
+msgctxt "PLAYER_AI_PREFS_OPTION_DESC_send_missionaries코0"
+msgid "Controls whether the AI may send Missionaries"
+msgstr "AI가 선교사를 파견할지 여부를 결정합니다."
+
+msgctxt "PLAYER_AI_PREFS_OPTION_DESC_convert_cultures코0"
+msgid "Controls whether the AI may change the Culture of its Provinces"
+msgstr "AI가 지역의 문화를 변경할지 여부를 결정합니다."
+
+msgctxt "PLAYER_AI_PREFS_OPTION_DESC_promote_cultures코0"
+msgid "Controls whether the AI may change your Promoted Cultures"
+msgstr "AI가 수용 문화를 변경할지 여부를 결정합니다."
+
+msgctxt "PLAYER_AI_PREFS_OPTION_DESC_braindead코0"
+msgid ""
+"Controls if the AI is entirely disabled (this overrides everything else)"
+msgstr "인공지능의 모든 기능 비활성화 (이 설정은 다른 모든 인공지능 기능을 비활성화 시킵니다)"
+
+msgctxt "PLAYER_AI_PREFS_OPTION_DESC_timeout코0"
+msgid "When the time is out, the AI settings will be set back to default."
+msgstr "시간이 만료되면 인공지능 설정이 기본설정으로 돌아감"
+
+msgctxt "PLAYER_AI_PREFS_TIMEOUT_NEVER코0"
+msgid "Never"
+msgstr "없다"
+
+msgctxt "DEFAULT코0"
+msgid "Default"
+msgstr "디폴트"
+
+msgctxt "ACHIEVEMENTS_DISABLED_BECAUSE코0"
+msgid "Achievements are disabled because:\n"
+msgstr "다음과 같은 이유 때문에 도전과제 달성이 불가능합니다:\n"
+
+msgctxt "ACHIEVEMENTS_DISABLED_MODIFIED_SAVE코0"
+msgid ""
+"§Y- Either you are offline or the savegame belongs to another user, is "
+"edited or saved with incompatible DLCs.§!"
+msgstr ""
+"인터넷에 접속되지 않았거나 다른 사용자가 저장한 파일 및 수정되거나 호환되지 않는 저장 파일을 가지고는 도전 과제를 달성할 수 없습니다. "
+""
+
+msgctxt "ACHIEVEMENTS_DISABLED_MODIFIED_GAME코0"
+msgid "§Y- EU4 is running a mod or is altered in other ways.§!"
+msgstr "§YEU4가 모드로 시작되거나 다른 방법으로 시작되었습니다.§!"
+
+msgctxt "ACHIEVEMENTS_DISABLED_WRONG_PLAYER코0"
+msgid "§Y- This game is meant to be played as $COUNTRY$.§!"
+msgstr "§Y이 게임은$COUNTRY$로 플레이 되어야 합니다. 업적이 불가능합니다.§!"
+
+msgctxt "ACHIEVEMENTS_DISABLED_NOT_IRONMAN코0"
+msgid "§Y- Game is not in Ironman Mode.§!"
+msgstr "§Y- 게임이 철인 모드가 아닙니다.§!"
+
+msgctxt "ACHIEVEMENTS_DISABLED_CUSTOM_DEVELOPMENT코0"
+msgid ""
+"§Y- 'Province Development' Custom Setup Option must be set to 'Normal "
+"Values'.§!"
+msgstr "§Y- '지역 개발' 사용자 정의 설정 옵션을 반드시 '기본'으로 설정하여야 합니다.§!"
+
+msgctxt "ACHIEVEMENTS_DISABLED_CUSTOM_NATION_SETUP코0"
+msgid ""
+"§Y- 'Nations' Custom Setup Option cannot be set set to 'Random Setup'.§!"
+msgstr "§Y- '국가' 사용자 정의 설정 옵션을 '무작위'으로 설정할 수 없습니다.§!"
+
+msgctxt "ACHIEVEMENTS_DISABLED_WRONG_DIFFICULTY코1"
+msgid ""
+"§Y- 'Difficulty' Option must be set to 'Normal', 'Hard' or 'Very Hard'.§!"
+msgstr "§Y- '난이도'옵션은 '보통', '어려움' 또는 '매우 어려움'으로 설정해야 합니다.§!"
+
+msgctxt "ACHIEVEMENTS_DISABLED_WRONG_AI_DIFFICULTY코0"
+msgid "§Y- 'AI Difficulty' Option must be set to 'Normal' or 'Hard'.§!"
+msgstr "§Y- 'AI 난이도'옵션은 '보통' 또는 '어려움' 으로 설정해야 합니다..§!"
+
+msgctxt "ACHIEVEMENTS_DISABLED_WRONG_LUCK코0"
+msgid "§Y- 'Lucky Nations' Option must be set to 'Historical'.§!"
+msgstr "§Y- '행운의 국가'옵션은 '역사적인'설정으로 해야 합니다.§!"
+
+msgctxt "ACHIEVEMENTS_DISABLED_MULTIPLAYER코0"
+msgid "§Y- Achievements cannot be earned in Multiplayer.§!"
+msgstr "§Y- 도전과제는 멀티플레이로 달성할 수 없습니다.§!"
+
+msgctxt "AUTOSAVING코0"
+msgid "Autosaving..."
+msgstr "자동저장중..."
+
+msgctxt "SAVEITEM_PLAYER_COUNTRY코0"
+msgid "Player: $COUNTRY$"
+msgstr "플레이어: $COUNTRY$"
+
+msgctxt "SAVEITEM_DATE코0"
+msgid "Date: $DATE$"
+msgstr "날짜: $DATE$"
+
+msgctxt "SAVEITEM_IRONMAN코0"
+msgid "Ironman: $YESNO$"
+msgstr "철인모드: $YESNO$"
+
+msgctxt "SAVEITEM_SYNCED코0"
+msgid "Cloud synced: $YESNO$"
+msgstr "클라우드에 동기화됨: $YESNO$"
+
+msgctxt "SAVEITEM_FILESIZE코0"
+msgid "File size: $SIZE$"
+msgstr "파일크기: $SIZE$"
+
+msgctxt "SAVEITEM_DELETE_FILE코0"
+msgid "Click to delete savegame"
+msgstr "저장된 게임을 삭제하기 위하여 여기를 누르십시오."
+
+msgctxt "SAVEITEM_MISSING_DLC코0"
+msgid "Missing DLC:"
+msgstr "해당하는 DLC가 없습니다:"
+
+msgctxt "SAVEITEM_CANNOT_START_MISSING_DLC코0"
+msgid "§RThis game cannot be started until missing DLCs are enabled again.§!"
+msgstr "§R이 게임은 빠진 DLC들이 다시 활성화 될 때까지 시작할 수 없습니다.§!"
+
+msgctxt "SAVEITEM_MISSING_MOD코0"
+msgid "Missing mod:"
+msgstr "해당하는 모드가 없습니다:"
+
+msgctxt "SAVEITEM_UNSAFE_VERSION코0"
+msgid "Saved with an older version of EU4."
+msgstr "옛 버전의 EU4에서 저장되었습니다."
+
+msgctxt "SAVEITEM_UNSAFE_EXPLANTION코0"
+msgid ""
+"This game was saved with a different version of EU4 or with DLC and mods "
+"that are not currently enabled."
+msgstr "이 게임은 다른 버전에서 저장되거나 현재 활성화되지 않은 모드나 DLC가 사용되었습니다."
+
+msgctxt "UNSAFE_EXPLANATION코0"
+msgid ""
+"Show or hide games that were saved with a different version of EU4 or with "
+"DLC or mods that are not currently enabled."
+msgstr "다른 버전에서 저장되거나 현재 활성화되지 않은 모드나 DLC가 사용된 게임을 보이거나 숨깁니다."
+
+msgctxt "AUTOSAVE_TOCLOUD코0"
+msgid "Autosave to cloud"
+msgstr "클라우드로 저장"
+
+msgctxt "COMPRESS_AUTOSAVES코0"
+msgid "Compress Autosaves"
+msgstr "자동 저장 압축"
+
+msgctxt "AUTOPAUSE_ON_EVENTS코0"
+msgid "Pause on events"
+msgstr "이벤트 발생 시 일시정지"
+
+msgctxt "TRANSFER_SAVEGAME코0"
+msgid "Transferring savegame: $NAME|Y%$"
+msgstr "저장 파일 이동하기: $NAME|Y%$"
+
+msgctxt "LOADING_SAVEGAME코0"
+msgid "Loading savegame: $NAME|Y%$"
+msgstr "저장 파일 불러오기: $NAME|Y%$"
+
+msgctxt "CONFIRMUNSYNCTITLE코0"
+msgid "Unsynchronize file"
+msgstr "동기화 파일 제거"
+
+msgctxt "CONFIRMUNSYNCTEXT코0"
+msgid "Are you sure you want to remove §Y$NAME$§! from cloud?"
+msgstr "당신은 이 §Y$NAME$§! 파일을 클라우드로 부터 지우는것이 확실합니까?"
+
+msgctxt "CLOUDSAVE_SPACE_NEEED코0"
+msgid "$NEEDED$ needed to save the game."
+msgstr "게임을 저장하려면 $NEEDED$이(가) 필요합니다."
+
+msgctxt "CLOUDSAVE_UNSYNC_LABEL코0"
+msgid ""
+"Select game(s) to remove from cloud.\n"
+"File(s) will not be removed from local computer."
+msgstr "클라우드에서 제거할 게임을 선택하기.\n"
+"로컬 컴퓨터 내의 파일(들)은 지워지지 않습니다."
+
+msgctxt "CONTENTVIEW_PUBLISH코0"
+msgid "Publish"
+msgstr "게시"
+
+msgctxt "CONTENTVIEW_PUBLISH_HEADER코0"
+msgid "Publish to Steam Workshop"
+msgstr "스팀 창작마당에 게시"
+
+msgctxt "CONTENTVIEW_PUBLISH_TITLE_LABEL코0"
+msgid "Title:"
+msgstr "제목:"
+
+msgctxt "CONTENTVIEW_PUBLISH_DESC_LABEL코0"
+msgid "Description:"
+msgstr "설명:"
+
+msgctxt "CONTENTVIEW_UPDATE코0"
+msgid "Update"
+msgstr "업데이트"
+
+msgctxt "CONTENTVIEW_MANAGE코0"
+msgid "Manage"
+msgstr "관리"
+
+msgctxt "CONTENTVIEW_TERMS코0"
+msgid ""
+"By submitting this item, you agree to the terms of service of Steam Workshop."
+""
+msgstr "이 아이템을 제출하는 순간 당신은 스팀 창작마당 사용권 계약에 동의한 것으로 간주됩니다."
+
+msgctxt "NOMAD_SHOCK_BONUS_DEF코0"
+msgid ""
+"Defender receives §G$VAL|%=+1$§! shock damage increase for nomads on flat "
+"terrain.\n"
+msgstr "방어자는 유목민이기 때문에 평탄한 지형에서 충격 피해량이 §G$VAL|%=+1$§! 만큼 증가합니다.\n"
+
+msgctxt "NOMAD_SHOCK_BONUS_ATT코0"
+msgid ""
+"Attacker receives §G$VAL|%=+1$§! shock damage increase for nomads on flat "
+"terrain.\n"
+msgstr "공격자는 유목민이기 때문에 평탄한 지형에서 충격 피해량이 §G$VAL|%=+1$§! 만큼 증가합니다.\n"
+
+msgctxt "NOMAD_SHOCK_PENALTY_DEF코0"
+msgid ""
+"Defender receives §R$VAL|%=+1$§! shock damage decrease for nomads on non-"
+"flat terrain.\n"
+msgstr "방어자는 유목민이기 때문에 평탄하지 않은 지형에서 충격 피해량이 §R$VAL|%=+1$§! 만큼 감소합니다.\n"
+
+msgctxt "NOMAD_SHOCK_PENALTY_ATT코0"
+msgid ""
+"Attacker receives §R$VAL|%=+1$§! shock damage decrease for nomads on non-"
+"flat terrain.\n"
+msgstr "공격자는 유목민이기 때문에 평탄하지 않은 지형에서 충격 피해량이 §R$VAL|%=+1$§! 만큼 감소합니다.\n"
+
+msgctxt "GALLEY_BONUS_INLAND_SEA_DESC코0"
+msgid ""
+"Galleys do $VAL|%=+1$ more damage against non-galleys in the inland seas."
+msgstr "갤리선들은 내해에서 갤리선이 아닌  선박을 공격할 시  $VAL|%=+1$의 피해량 보너스를 받습니다."
+
+msgctxt "GALLEY_BONUS_NOT_INLAND_SEA_DESC코0"
+msgid ""
+"This is NOT an inland sea and galleys will not get the $VAL|%=+1$ damage "
+"increase bonus here."
+msgstr "이 곳은 내해가 아니기 때문에 갤리선들은  $VAL|%=+1$ 의 데미지 보너스를 받지 못합니다"
+
+msgctxt "INSUFFICIENT_SUPPORT_DESC코0"
+msgid ""
+"Units will receive the Insufficient Support penalty if the cavalry to "
+"infantry ratio is too high. Insufficient Support reduces your Military "
+"Tactics by $VAL|%R1$. The current ratio is $RATIO|%Y1$."
+msgstr ""
+"기병의 비율이 보병에 비해 너무 높을 경우 유닛들은 '불충분한 지원' 페널티를 받게 됩니다. '불충분한  지원' 페널티는 군대 전술을  "
+"$VAL|%R1$ 만큼 떨어뜨립니다. 현재 기병의 비율은 $RATIO|%Y1$ 입니다."
+
+msgctxt "INSUFFICIENT_SUPPORT_UNIT_DESC_YES코0"
+msgid "@$TAG$$NAME$ receives penalty (max ratio $MAX|%1R$)."
+msgstr "@$TAG$$NAME$ 은 페널티를 받고 있습니다. (최대 비율 $MAX|%1R$)."
+
+msgctxt "INSUFFICIENT_SUPPORT_UNIT_DESC_NO코0"
+msgid "@$TAG$$NAME$ does NOT receive penalty (max ratio $MAX|%1G$)."
+msgstr "@$TAG$$NAME$ 은 페널티를 받고 있지 않습니다. (최대 비율 $MAX|%1G$)."
+
+msgctxt "FE_IRONMAN_MULTIPLAYER코0"
+msgid "Ironman is not available in multiplayer."
+msgstr "멀티플레이에서는 철인모드가 가능하지 않습니다."
+
+msgctxt "FE_IRONMAN_NOCLOUD코0"
+msgid "Ironman needs user to be logged on to Steam."
+msgstr "철인 모드를 활성화하려면 스팀에 로그인되어 있어야 합니다."
+
+msgctxt "FE_NOT_IRONMAN_AND_OBSERVER코0"
+msgid "It's not possible to play Ironman Mode as an observer."
+msgstr "관전자로서 철인 모드를 진행할 수는 없습니다."
+
+msgctxt "MAP_SAVED코0"
+msgid "Map saved!"
+msgstr "지도 저장됨!"
+
+msgctxt "SCREENSHOT_TAKEN코0"
+msgid "Screenshot taken!"
+msgstr "스크린샷이 찍혔습니다!"
+
+msgctxt "CONFIRMLOADSAVETITLE코0"
+msgid "Load Game"
+msgstr "게임 로드"
+
+msgctxt "CONFIRMLOADSAVETEXT코0"
+msgid ""
+"Are you sure you wish to load savegame $NAME$ and abort your current game?"
+msgstr "정말 게임을 불러오시겠습니까? \"$NAME$\" 현재의 게임은 종료됩니다."
+
+msgctxt "CANNOT_RETURN_PROVINCE_NOT_CONTROLLED코0"
+msgid "§RYou cannot return a province which you do not control.§!"
+msgstr "§R당신이 통제하고 있지 않은 지역을 반환할 수는 없습니다.§!"
+
+msgctxt "CANNOT_RETURN_PROVINCE_SIEGE코0"
+msgid "§RYou cannot return a province which is under siege.§!"
+msgstr "§R공성 당하고 있는 지역은 반환할 수 없습니다.§!"
+
+msgctxt "CANT_BUILD_UNDER_SIEGE코0"
+msgid "Can't build in a province under siege."
+msgstr "지역이 공격받는 중에는 건물을 지을수 없습니다."
+
+msgctxt "CURRENT_PATRIARCH_AUTHORITY코0"
+msgid "Current Patriarch Authority"
+msgstr "현재의 대주교 권위"
+
+msgctxt "UNIT_VIEW_SPLIT_LOADED코0"
+msgid "Can't split since the unit is loaded on a ship!"
+msgstr "유닛이 배에 승선 중일 때는 분할할 수 없습니다!"
+
+msgctxt "UNIT_VIEW_CREATE_NEW_LOADED코0"
+msgid "Can't create since the unit is loaded on a ship."
+msgstr "유닛이 배에 승선 중일때는 새로 만드실 수 없습니다."
+
+msgctxt "UNIT_VIEW_CREATE_NEW_TRADE코0"
+msgid ""
+"Can't create a new fleet since the fleet is currently on a trade mission"
+msgstr "함대가 무역 임무 중일 때는 새로 만드실 수 없습니다."
+
+msgctxt "UNIT_VIEW_CREATE_NEW_HAS_LOADED코0"
+msgid "Can't create new fleet since current has an army loaded."
+msgstr "부대가 승선 중일때는 함대를 새로 만드실수 없습니다."
+
+msgctxt "alert_rebels_enforce_demands_instant코0"
+msgid "§YYou have rebels that are close to enforcing their demands!§W"
+msgstr "§Y그들의 요구를 행동에 옮길 반란군들이 가까이 와 있습니다!§W"
+
+msgctxt "alert_rebels_enforce_demands_delayed코0"
+msgid ""
+msgstr " "
+
+msgctxt "alert_uncontested_claims_instant코0"
+msgid "§YYou have claims on provinces you do not own.§W"
+msgstr "§Y당신이 소유하지 않은 지역에 대한 명분을 주장할 수 있습니다.§W"
+
+msgctxt "alert_uncontested_claims_delayed코0"
+msgid "You have claims on the provinces:\n"
+"$LIST$"
+msgstr "해당 지역에 대한 명분을 갖고 있습니다:\n"
+"$LIST$"
+
+msgctxt "alert_high_overextension_instant코0"
+msgid "§YYour overextension is dangerously high!§W"
+msgstr "§Y과잉 확장 수치가 너무 높습니다!§W"
+
+msgctxt "alert_high_overextension_delayed코0"
+msgid ""
+"Consider turning some non-core provinces into cores to reduce overextension. "
+"In the meantime, you should be careful about annexing more non-core "
+"provinces!"
+msgstr ""
+"과잉 확장을 줄이기 위해 비 코어 지역들을 코어로 만드십시오. 그 동안 추가적인 비 코어 지역들을 합병하는 것은 주의해야 합니다."
+
+msgctxt "alert_high_war_exhaustion_instant코0"
+msgid "§YYour War Exhaustion is high!§W"
+msgstr "§Y전쟁 피로도가 너무 높습니다!§W"
+
+msgctxt "alert_high_war_exhaustion_delayed코0"
+msgid "This will negatively affect your nation!"
+msgstr "이것은 당신국가에 부정적으로 작용할 것입니다!"
+
+msgctxt "alert_too_many_leaders_instant코0"
+msgid "§YToo many military leaders!§W"
+msgstr "§Y너무 많은 지휘관들!§W"
+
+msgctxt "alert_too_many_leaders_delayed코0"
+msgid ""
+"Each leader over your free leader limit \n"
+"will cost you 1 £mil£ each month.\n"
+"Currently costs $AMT$ £mil£ each month."
+msgstr "지휘관 제한을 초과한 각 지휘관마다\n"
+"매월 1 £mil£이 추가로 소모됩니다.\n"
+"현재 매월 $AMT$ £mil£이 소모됩니다."
+
+msgctxt "alert_can_vote_for_cardinal_instant코0"
+msgid "§YYou can invest in a cardinal!§W"
+msgstr "§Y당신은 추기경에 투자할 수 있습니다!§W"
+
+msgctxt "alert_can_vote_for_cardinal_delayed코0"
+msgid "You have enough papal influence to invest in a future cardinal."
+msgstr "추기경 후보에 투자할 만큼의 충분한 교황청 영향력을 갖고 있습니다."
+
+msgctxt "alert_can_convert_province_instant코0"
+msgid "§YYou can convert provinces to $RELIGION$!§W"
+msgstr "§Y$RELIGION$(으)로 개종시킬 수 있는 지역 있음§W"
+
+msgctxt "alert_can_convert_province_delayed코0"
+msgid ""
+"There are provinces in your country that can be converted to your state "
+"religion by sending one of your missionaries."
+msgstr "선교사를 보내 선교활동을 할 지역이 있습니다. 선교는 해당 지역을 당신의 국교로 변환시켜 줍니다.."
+
+msgctxt "alert_can_core_province_instant코0"
+msgid "§YSome of your provinces lack cores!§W"
+msgstr "§Y일부 지역에 코어가 없음§W"
+
+msgctxt "alert_can_core_province_delayed코0"
+msgid ""
+"These provinces lack cores and are currently not in the process of being "
+"cored:\n"
+msgstr "이 지역들에는 코어가 없고 코어로 변하는 과정에 있지도 않습니다:\n"
+
+msgctxt "alert_can_make_state_instant코0"
+msgid "§YYou can make States§!"
+msgstr "§Y당신은 주를 만들 수 있습니다.§!"
+
+msgctxt "alert_can_make_state_delayed코0"
+msgid "These Territories can be assigned as States:\n"
+msgstr "이 준주들은 정식 주로 승격될 수 있습니다:\n"
+
+msgctxt "alert_can_embrace_instant코0"
+msgid "§YYou can embrace an Institution§!"
+msgstr "§Y시대관을 수용할 수 있음§!"
+
+msgctxt "alert_can_embrace_delayed코0"
+msgid "The following Institutions can be embraced:\n"
+msgstr "다음 시대관이 수용될 수 있습니다:\n"
+
+msgctxt "alert_over_diplomatic_relations_instant코0"
+msgid "§YToo many diplomatic relations.§W"
+msgstr "§Y외교 관계가 너무 많습니다.§W"
+
+msgctxt "alert_over_diplomatic_relations_delayed코0"
+msgid ""
+"Each diplomatic relation over your limit \n"
+"will cost you 1 £dip£ each month.\n"
+"Currently costs $VAL$ £dip£ each month."
+msgstr "외교관계 수 제한을 초과하면\n"
+"관계 하나마다 매월 1 £dip£이 소모됩니다.\n"
+"현재 매월 $VAL$ £dip£이 소모됩니다."
+
+msgctxt "alert_low_stability_instant코0"
+msgid "§YYour stability is low!§W"
+msgstr "§Y당신의 안정성이 낮습니다!§W"
+
+msgctxt "alert_low_stability_delayed코0"
+msgid ""
+"Low stability will lead to increased unrest and reduced income, and may "
+"result in a Disaster befalling your country. Consider spending some "
+"administrative points to increase it."
+msgstr ""
+"낮은 안정도는 불만도를 증가시키고 세금 수입을 낮추며, 국가가 재앙에 빠져들 게 할 수도 있습니다. 행정력을 투자하여 안정도를 높이는 "
+"것을 고려해보세요."
+
+msgctxt "alert_large_merchant_republic_instant코0"
+msgid "§YLarge Merchant Republic§W"
+msgstr "§Y대형 상인 공화국§W"
+
+msgctxt "alert_large_merchant_republic_delayed코0"
+msgid ""
+"Your Merchant Republic has grown above its maximum sustainable size of "
+"$AMT|Y$ provinces inside states. This reduces our yearly Republican "
+"Tradition by §R0.1§! for each extra province. (We currently have $EXCESS|R$ "
+"too many.)"
+msgstr ""
+"당신의 상인 공화국은 유지 가능한 최대 크기인 $AMT|Y$보다 많은 지역을 정규 주 내에 보유합니다. 우리의 공화국 전통이 각각의 추가 "
+"지역마다 매년 §R0.1§!만큼 감소합니다.(우리는 현재 $EXCESS|R$개의 추가 지역을 가집니다.)"
+
+msgctxt "alert_no_native_policy_instant코0"
+msgid "§YYou need to choose a Native Policy!§!"
+msgstr "§Y원주민 정책을 선택해야 합니다!§!"
+
+msgctxt "alert_no_native_policy_delayed코0"
+msgid "Before we can send colonists we need to choose our Native Policy."
+msgstr "개척자를 보내기 전 원주민 정책을 선택해야 합니다."
+
+msgctxt "BOOKMARK_COUNTRY_EASY코0"
+msgid "§GThis country is recommended for new players.§!"
+msgstr "§G이 국가를 새로운 플레이어들에게 추천합니다.§!"
+
+msgctxt "IS_PRIMARY_CULTURE_IN코0"
+msgid "$CULTURE|Y$ culture is the primary culture in $COUNTRY|Y$."
+msgstr "$CULTURE|Y$ 문화는 $COUNTRY|Y$의 주요 문화입니다."
+
+msgctxt "IS_ACCEPTED_CULTURE_IN코0"
+msgid "$CULTURE|Y$ culture is an accepted culture in $COUNTRY|Y$."
+msgstr "$CULTURE|Y$ 문화는 $COUNTRY|Y$에서 받아들여진 문화입니다."
+
+msgctxt "IS_NOT_ACCEPTED_CULTURE_IN코0"
+msgid "$CULTURE|Y$ culture is NOT an accepted culture in $COUNTRY|Y$."
+msgstr "$CULTURE|Y$ 문화는 $COUNTRY|Y$에서 받아들여진 문화가 아닙니다."
+
+msgctxt "IS_NOT_ACCEPTED_CULTURE_IN_REP코0"
+msgid ""
+"$CULTURE|Y$ culture is NOT an accepted culture in the republic $COUNTRY|Y$."
+msgstr "$CULTURE|Y$ 문화는 공화국 $COUNTRY|Y$에서 받어들여진 문화가 아닙니다."
+
+msgctxt "IS_SAME_CULTURE_GROUP_IN코0"
+msgid ""
+"$CULTURE|Y$ culture is in the same culture group ($CULTUREGROUP|Y$) as the "
+"primary culture in $COUNTRY|Y$."
+msgstr "$CULTURE|Y$ 문화는 $COUNTRY|Y$의 주요문화와 같은 문화권($CULTUREGROUP|Y$)입니다."
+
+msgctxt "WHO_CONTROL_PROVINCE_EFFECTS코0"
+msgid "§YEffects if $WHO$ controlled $PROV$:§!"
+msgstr "§Y$WHO$(이)가 $PROV$을(를) 지배했을때 효과 발생:§!"
+
+msgctxt "bg_info_prestige_1코0"
+msgid "Even Peasants look down upon $WHO|Y$"
+msgstr "농민들 마저 $WHO|Y$을(를) 우습게 봅니다"
+
+msgctxt "bg_info_prestige_2코0"
+msgid "No one cares about $WHO|Y$"
+msgstr "누구도 $WHO|Y$에게 관심을 주지 않습니다"
+
+msgctxt "bg_info_prestige_3코0"
+msgid "People have heard about $WHO|Y$"
+msgstr "사람들은 $WHO|Y$에 대해 들어본적은 있습니다"
+
+msgctxt "bg_info_prestige_4코0"
+msgid "The $WHOADJ|Y$ realm is not well known"
+msgstr "$WHOADJ|Y$의 국가는 잘 알려지지 않았습니다"
+
+msgctxt "bg_info_prestige_5코0"
+msgid "$WHO|Y$ are looked down upon"
+msgstr "$WHO|Y$(은)는 멸시되어 지고 있습니다"
+
+msgctxt "bg_info_prestige_6코0"
+msgid "$WHO|Y$ are fairly well known"
+msgstr "$WHO|Y$(은)는 꽤 잘 알려져 있습니다"
+
+msgctxt "bg_info_prestige_7코0"
+msgid "$WHO|Y$ are well known"
+msgstr "$WHO|Y$(은)는 잘 알려져 있습니다"
+
+msgctxt "bg_info_prestige_8코0"
+msgid "People emulate $WHOADJ|Y$ styles"
+msgstr "사름들은 $WHOADJ|Y$의 스타일을 모방합니다"
+
+msgctxt "bg_info_prestige_9코0"
+msgid "People envy the $WHOADJ|Y$ nation"
+msgstr "사람들은 $WHOADJ|Y$의 국가를 부러워합니다"
+
+msgctxt "bg_info_prestige_10코0"
+msgid "The name of $WHO|Y$ is spoken around the world"
+msgstr "$WHO|Y$의 이름은 세계곳곳에서 불려집니다"
+
+msgctxt "bg_info_prestige_11코0"
+msgid "$WHO|Y$ are the greatest"
+msgstr "$WHO|Y$(은)는 최고자입니다"
+
+msgctxt "RELATION_CHANGE_HEADER_DESC코0"
+msgid "$WHO|Y$ will have its relations changed with the following countries:"
+msgstr "$WHO|Y$(은)는 다음의 국가들과의 관계가 변화될 것입니다:"
+
+msgctxt "HAVE_MIL_ACC_US코0"
+msgid "They have Military Access to our nation."
+msgstr "그들은 우리 국가에 대한 군사 통행권을 가지고 있습니다."
+
+msgctxt "GRANT_MIL_ACC_US코0"
+msgid "They grant us Military Access."
+msgstr "그들은 우리에게 군사 통행권을 허락하였습니다."
+
+msgctxt "NEW_DLC_AVAILABLE코0"
+msgid "New content is now available for purchase"
+msgstr "새로운 콘텐츠가 지금 구입이 가능합니다"
+
+msgctxt "OPEN_STORE코0"
+msgid "Open Store"
+msgstr "상점 열기"
+
+msgctxt "desc_bankruptcy코0"
+msgid ""
+msgstr " "
+
+msgctxt "HEADER_REFORMS코0"
+msgid "Religious Reforms"
+msgstr "종교 개혁"
+
+msgctxt "DISPLAY_MODE_FULLSCREEN코0"
+msgid "Fullscreen"
+msgstr "최대화면"
+
+msgctxt "DISPLAY_MODE_WINDOWED코0"
+msgid "Windowed"
+msgstr "창화면"
+
+msgctxt "DISPLAY_MODE_WINDOWED_BORDERLESS코0"
+msgid "Windowed (Fullscreen)"
+msgstr "창화면 (최대화면)"
+
+msgctxt "PLAY_AS_RELEASED_VASSAL코0"
+msgid "Play as the released vassal"
+msgstr "해방된 속국으로 플레이"
+
+msgctxt "PLAY_AS_RELEASED_SUBJECT코0"
+msgid "Play as the released subject"
+msgstr "독립한 속국으로 플레이"
+
+msgctxt "PAPACY_ACTIVE_CARDINALS코0"
+msgid "Active Cardinals"
+msgstr "활성중인 추기경"
+
+msgctxt "PAPACY_FUTURE_CARDINALS코0"
+msgid "Future Cardinals"
+msgstr "미래의 추기경"
+
+msgctxt "REBEL_HAS_NOT_OCCUPIED_PROVINCES코0"
+msgid "Has not occupied any provinces."
+msgstr "어떤 지역도 점령중이지 않음."
+
+msgctxt "SAVEGAME_ERROR_WRITING코0"
+msgid "Error writing savegame"
+msgstr "게임 저장 중 오류"
+
+msgctxt "SAVEGAME_ERROR_WRITING_UNKNOWN코0"
+msgid ""
+"Failed to save game for unknown reason.\n"
+"\n"
+"Are you using forbidden characters in the file name?\n"
+"Do you have enough free space?"
+msgstr "알수없는 원인으로 게임 저장을 실패했습니다.\n"
+"\n"
+"파일 이름으로 금지된 기호를 사용했습니까?\n"
+"충분히 남은 용량이 있습니까?"
+
+msgctxt "SAVEGAME_ERROR_LOADING코0"
+msgid "Error loading savegame"
+msgstr "저장된 게임을 불러오는 도중 오류가 발생했습니다"
+
+msgctxt "SAVEGAME_ERROR_LOADING_CORRUPT코0"
+msgid "Failed to load savegame. The file is corrupted."
+msgstr "저장된 게임을 불러오는 데 실패했습니다. 훼손된 파일입니다."
+
+msgctxt "SAVEGAME_WARNING_OLD_VERSION_TITLE코0"
+msgid "Old Savegame"
+msgstr "구 저장된 게임"
+
+msgctxt "SAVEGAME_WARNING_OLD_VERSION_DESC코1"
+msgid ""
+"The loaded savegame $NAME$ is from a different version of EU4.\n"
+"\n"
+" This can cause problems in the game and §Rcan potentially ruin Ironman "
+"saves§!.\n"
+"Games with Random New World are especially fragile.\n"
+"\n"
+"Saving again, closing the game and reloading may help."
+msgstr ""
+"로드된 세이브게임  $NAME$은(는) 다른 버전의 EU4입니다..\n"
+"\n"
+" 이것은 게임 내에서 문제를 일으킬 수 있으며 §R철인 모드 세이브 파일을 망가트릴 수도 있습니다§!.\n"
+"무작위 신세계를 가진 게임은 특히 취약합니다.\n"
+"\n"
+"다시 저장하고, 게임을 닫고 다시 로드하는 것이 도움이 될 수 있습니다."
+
+msgctxt "CHECKBOX_COMPRESSED_SAVEGAMES코0"
+msgid "Compress game data"
+msgstr "게임 데이터 압축"
+
+msgctxt "CHECKBOX_COMPRESSED_SAVEGAMES_RNW코0"
+msgid ""
+"Compress game data\n"
+"Game data must be compressed when playing with Random New World"
+msgstr "게임 데이터를 압축합니다\n"
+"무작위 신 세계를 플레이하려면 게임 데이터를 압축해야합니다"
+
+msgctxt "RANDOM_NEW_WORLD코0"
+msgid "Using Random New World"
+msgstr "무작위 신 세계를 사용"
+
+msgctxt "NOT_RANDOM_NEW_WORLD코0"
+msgid "NOT Using Random New World"
+msgstr "무작위 신세계를 사용하지 않음"
+
+msgctxt "FE_RANDOM_NEW_WORLD코0"
+msgid "Random New World"
+msgstr "무작위 신세계"
+
+msgctxt "INVALID_REGENCY코0"
+msgid ""
+"$COUNTRY$ is currently ruled by a temporary council. A new ruler will be "
+"randomly generated for them on game start."
+msgstr "$COUNTRY$ 는 현재 임시의회에 의해 통치되고 있습니다. 게임 시작시 새로운 지도자가 무작위으로 생성될 것입니다."
+
+msgctxt "SET_VARIABLE코0"
+msgid "Set $VAR|Y$ to $VALUE|Y$"
+msgstr "$VAR|Y$을(를) $VALUE|Y$으로 설정합니다."
+
+msgctxt "CHANGE_VARIABLE코0"
+msgid "Change $VAR|Y$ with $VALUE|Y$"
+msgstr "$VAR|Y$ 에서 $VALUE|Y$ 만큼 변함"
+
+msgctxt "SUBTRACT_VARIABLE코0"
+msgid "Subtract $VAR|Y$ with $VALUE|Y$"
+msgstr "$VAR|Y$ 에서 $VALUE|Y$ 만큼 감소"
+
+msgctxt "MULTIPLY_VARIABLE코0"
+msgid "Multiply $VAR|Y$ with $VALUE|Y$"
+msgstr "$VAR|Y$ 와 $VALUE|Y$을 곱함"
+
+msgctxt "DIVIDE_VARIABLE코0"
+msgid "Divide $VAR|Y$ with $VALUE|Y$"
+msgstr "$VAR|Y$을(를) $VALUE|Y$로 나눔"
+
+msgctxt "RANDOM_WORLD_MAP_DATA코0"
+msgid "Updating Map Data..."
+msgstr "지도 자료를 업데이트 중..."
+
+msgctxt "RANDOM_WORLD_RESTORE_MAP_BITMAPS코0"
+msgid "Restoring Map Bitmaps..."
+msgstr "비트맵 지도를 복원 중..."
+
+msgctxt "RANDOM_WORLD_RESTORE_CONTINENTS코0"
+msgid "Restoring Continents..."
+msgstr "대륙을 복원 중..."
+
+msgctxt "RANDOM_WORLD_RESTORE_COLONIAL코0"
+msgid "Restoring Colonial Regions..."
+msgstr "식민 지역을 복원 중..."
+
+msgctxt "RANDOM_WORLD_RESTORE_MAP_DATA코0"
+msgid "Restoring Map Data..."
+msgstr "지도 자료를 복원 중..."
+
+msgctxt "RANDOM_WORLD_RESTORE_TRADE코0"
+msgid "Restoring Trade..."
+msgstr "무역 복원 중..."
+
+msgctxt "RANDOM_WORLD_FIND_DATA코0"
+msgid "Determining what to Randomize..."
+msgstr "무작위화..."
+
+msgctxt "RANDOM_WORLD_CONTINENTS_TOPOLOGY코0"
+msgid "Creating Continents Topology..."
+msgstr "대륙 위상을 생성 중..."
+
+msgctxt "RANDOM_WORLD_MOUNTAINS코0"
+msgid "Creating Mountains..."
+msgstr "산 생성 중..."
+
+msgctxt "RANDOM_WORLD_SMOOTH_COASTAL_TOPOLOGY코0"
+msgid "Smoothing Coastal Topology..."
+msgstr "해안 평활화..."
+
+msgctxt "RANDOM_WORLD_SMOOTH_TOPOLOGY코0"
+msgid "Smoothing Topology..."
+msgstr "평활화..."
+
+msgctxt "RANDOM_WORLD_RIVERS코0"
+msgid "Creating Rivers..."
+msgstr "강 생성 중..."
+
+msgctxt "RANDOM_WORLD_TERRAIN코0"
+msgid "Creating Terrain..."
+msgstr "지형 생성 중..."
+
+msgctxt "RANDOM_WORLD_TREES코0"
+msgid "Creating Trees..."
+msgstr "나무 생성 중..."
+
+msgctxt "RANDOM_WORLD_AMBIENTOBJECTS코0"
+msgid "Creating Ambient Objects..."
+msgstr "주변 객체 생성 중..."
+
+msgctxt "RANDOM_WORLD_COLORMAP_WATER코0"
+msgid "Creating Water Color Map..."
+msgstr "물 색상 지도 생성 중..."
+
+msgctxt "RANDOM_WORLD_COLORMAP코0"
+msgid "Creating Color Map..."
+msgstr "색상 지도 생성 중..."
+
+msgctxt "RANDOM_WORLD_PROVINCEMAP코0"
+msgid "Creating Province Map..."
+msgstr "지역 지도 생성 중..."
+
+msgctxt "RANDOM_WORLD_CLIMATE코0"
+msgid "Setup Climates..."
+msgstr "기후 설정 중..."
+
+msgctxt "RANDOM_WORLD_CONTINENTS코0"
+msgid "Setup Continents..."
+msgstr "대륙 설정 중..."
+
+msgctxt "RANDOM_WORLD_REGIONS코0"
+msgid "Setup Regions..."
+msgstr "권역 설정 중..."
+
+msgctxt "RANDOM_WORLD_COLONIAL_REGIONS코0"
+msgid "Setup Colonial Regions..."
+msgstr "식민 지역 설정 중..."
+
+msgctxt "RANDOM_WORLD_TRADE코0"
+msgid "Setup Trade..."
+msgstr "무역 설정 중..."
+
+msgctxt "RANDOM_WORLD_POSITIONS코0"
+msgid "Setup City and Unit positions..."
+msgstr "도시 위치와 유닛 위치 설정 중..."
+
+msgctxt "RANDOM_WORLD_COUNTRIES_PROVINCES코0"
+msgid "Setup Country and Province Data..."
+msgstr "국가와 지역 데이터 설정 중..."
+
+msgctxt "RANDOM_WORLD_GENERATE_WORLD코0"
+msgid "Generating Random New World..."
+msgstr "무작위 신세계를 생성 중..."
+
+msgctxt "RANDOM_WORLD_SAVE_WORLD코0"
+msgid "Saving Random New World..."
+msgstr "무작위 신세계를 저장 중..."
+
+msgctxt "RANDOM_WORLD_GENERATE_WORLD_TILES코0"
+msgid "Generating Random New World...\n"
+"Placing Tiles..."
+msgstr "무작위 신세계를 생성 중...\n"
+"타일 배치 중..."
+
+msgctxt "RANDOM_WORLD_GENERATE_WORLD_SEA코0"
+msgid "Generating Random New World...\n"
+"Generating Sea Provinces..."
+msgstr "무작위 신세계를 생성 중...\n"
+"바다 지역 생성 중..."
+
+msgctxt "RANDOM_WORLD_GENERATE_WORLD_SEA2코0"
+msgid "Generating Random New World...\n"
+"Generating More Sea Provinces..."
+msgstr "무작위 신세계를 생성 중...\n"
+"더 많은 바다 지역 생성 중..."
+
+msgctxt "RANDOM_WORLD_GENERATE_WORLD_SEA3코0"
+msgid "Generating Random New World...\n"
+"Filling in holes..."
+msgstr "무작위 신세계를 생성 중...\n"
+"빈곳 채우는 중..."
+
+msgctxt "RANDOM_WORLD_GENERATE_WORLD_SMOOTHING코0"
+msgid "Generating Random New World...\n"
+"Smoothing Pass $PASS$..."
+msgstr "무작위 신세계를 생성 중...\n"
+"다듬기 $PASS$..."
+
+msgctxt "POLICYVIEW_TITLE코0"
+msgid "Select Policies"
+msgstr "정책 선택"
+
+msgctxt "FERVOR_CHANGE코0"
+msgid "Monthly Change:"
+msgstr "매월 변경:"
+
+msgctxt "FERVOR_VALUE2코0"
+msgid "Fervor Points:"
+msgstr "열정:"
+
+msgctxt "ENFORCE_MILITARY_ACCESS코0"
+msgid ""
+"$FROM$ will be forced to give Military Access to $TO$. This cannot be "
+"canceled until the truce is over."
+msgstr "$FROM$(은)는 휴전 협정이 끝날 때까지 $TO$ 에 군사 통행권을 제공하도록 강요받을 것입니다."
+
+msgctxt "ENFORCE_FLEET_BASING_RIGHTS코0"
+msgid ""
+"$FROM$ will be forced to give Fleet Basing Rights to $TO$. This cannot be "
+"canceled until the truce is over."
+msgstr "$FROM$(은)는 휴전 협정이 끝날 때까지 $TO$ 에 함대 정박권을 제공하도록 강요받을 것입니다."
+
+msgctxt "WAR_REPARATIONS_DESC코0"
+msgid ""
+"$FROM$ will be forced to give $TO$ $VALUE|0%$ of their income each month to "
+"pay for War Reparations. This will last for $YEARS$ years."
+msgstr ""
+"$FROM$ 은 $TO$ 에게 $VALUE|0%$ 만큼의 매월 수입을 전쟁 배상금 명목으로 지급해야 할 것입니다. 이것은 $YEARS$ "
+"년 동안 지속될 것입니다."
+
+msgctxt "ENFORED_MILITARY_ACCESS코0"
+msgid "Enforced Military Access"
+msgstr "군사 통행권 강요"
+
+msgctxt "ENFORCED_FLEET_BASING_RIGHTS코0"
+msgid "Enforced Fleet Basing"
+msgstr "함대 정박권 강요"
+
+msgctxt "WAR_REPARATIONS코0"
+msgid "War Reparations"
+msgstr "전쟁 배상금"
+
+msgctxt "SHOW_AS_ALERT코0"
+msgid "Shown as alert"
+msgstr "경보로 표시"
+
+msgctxt "SHOW_AS_POPUP코0"
+msgid "Shown as popup"
+msgstr "팝업으로 표시"
+
+msgctxt "FE_IRONMAN_CHECKSUM코0"
+msgid ""
+"Ironman cannot be started until game version has been calculated, please "
+"wait a while more."
+msgstr "철인 게임 버전을 확인중...잠시만 기다려주십시오"
+
+msgctxt "PLX_WAIT코0"
+msgid "Please wait"
+msgstr "기다려주십시오"
+
+msgctxt "CAPITAL_STATE_OF코0"
+msgid "Capital State of $NAME|Y$"
+msgstr "$NAME|Y$의 수도 주"
+
+msgctxt "TERRITORY_OF코0"
+msgid "Territory of $NAME|Y$"
+msgstr "$NAME|Y$의 준주"
+
+msgctxt "STATE_OF코0"
+msgid "State of $NAME|Y$"
+msgstr "$NAME|Y$의 주"
+
+msgctxt "PROV_REGION_DESC코0"
+msgid ""
+"Provinces: $NUM_PROV|Y$\n"
+"Development: $DEV_VAL|Y$\n"
+"Maintenance: $MAIN_VAL|Y$¤"
+msgstr "지역들 : $NUM_PROV|Y$\n"
+"개발도: $DEV_VAL|Y$\n"
+"유지비: $MAIN_VAL|Y$¤"
+
+msgctxt "PROV_SOME_PROVINCES_IN_STATE코0"
+msgid "You don't own this province, but you do own provinces in this State."
+msgstr "당신은 이 지역을 보유하고 있지는 않지만, 이 주에 속한 지역들을 보유하고 있다."
+
+msgctxt "PROV_SOME_PROVINCES_IN_TERRITORY코0"
+msgid ""
+"You don't own this province, but you do own provinces in this Territory."
+msgstr "당신은 이 지역을 보유하고 있지는 않지만, 이 준주에 속한 지역들을 보유하고 있다."
+
+msgctxt "SAVEGAME_ERROR_BACK_UP코1"
+msgid "Failed to back up save file!"
+msgstr "저장 파일 백업에 실패하였습니다!"
+
+msgctxt "SAVEGAME_ERROR_BACK_UP_DESC코1"
+msgid ""
+"Backing up save file failed when renaming $FROM|Y$ to $TO|Y$.\n"
+"\n"
+"You may want to try removing one or both of these files from the save folder."
+""
+msgstr ""
+"$FROM|Y$에서 $TO|Y$로 저장파일의 이름을 바꿀때 저장파익 백업에 실패했습니다..\n"
+"\n"
+"저장 폴더에서 이 파일 중 하나 또는 모두를 제거해보십시오."
+
+msgctxt "SAVEITEM_START_WITH_MISSING_DLC코0"
+msgid ""
+"§RThis save game was created with DLC that you are missing. It's very likely "
+"that your game will be unstable! If this is an ironman save achievements "
+"will be disabled!§!"
+msgstr ""
+"§R이 세이브 파일은 현재 갖고 있지 않은 DLC가 적용되었습니다. 이 게임은 매우 불안정할 수 있으며, 철인모드였더라도 업적 달성이 "
+"불가능해질 것입니다!§!"
+

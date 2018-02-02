@@ -1,0 +1,490 @@
+# badaim <imbada@outlook.com>, 2017. #zanata
+# bjrj <asap1993@naver.com>, 2017. #zanata
+# muelleri2075 <sukjinkim321@naver.com>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2017-12-28 05:45-0500\n"
+"Last-Translator: muelleri2075 <sukjinkim321@naver.com>\n"
+"Language-Team: Korean (South Korea)\n"
+"Language: ko\n"
+"X-Generator: Zanata 3.9.6\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgctxt "shiva코0"
+msgid "Shiva"
+msgstr "시바"
+
+msgctxt "ganesha코0"
+msgid "Ganesha"
+msgstr "가네샤"
+
+msgctxt "surya코0"
+msgid "Surya"
+msgstr "수리아"
+
+msgctxt "ganga코0"
+msgid "Ganga"
+msgstr "강가"
+
+msgctxt "shakti코0"
+msgid "Shakti"
+msgstr "샤크티"
+
+msgctxt "vishnu코0"
+msgid "Vishnu"
+msgstr "비슈누"
+
+msgctxt "shiva_desc코0"
+msgid ""
+"Shiva is the god of transformation through destruction and the Lord of Dance."
+""
+msgstr "시바는 파괴를 통한 변화의 신이며 춤의 주인이다."
+
+msgctxt "ganesha_desc코0"
+msgid "Ganesha is the god of knowledge and beginnings, the Lord of Obstacles."
+msgstr "가네샤는 지식과 시작의 신이며 장애들을 관장하는 신이다(장애들을 풀어주는 신)."
+
+msgctxt "surya_desc코0"
+msgid "Surya is the god of the sun, courage and will."
+msgstr "수리야는 태양신이며 용기와 의지의 신이다."
+
+msgctxt "ganga_desc코0"
+msgid ""
+"Ganga is the goddess of the sacred river, Ganges, who purifies and redeems."
+msgstr "강가는 성스러운 강인 겐지스 강의 여신으로 정화하고 구원한다."
+
+msgctxt "shakti_desc코0"
+msgid "Shakti is the goddess of power and dynamic energy."
+msgstr "샤크티는 힘과 역동적인 기운(정력)의 여신이다"
+
+msgctxt "vishnu_desc코0"
+msgid "Vishnu is the all-pervading god who sustains the world."
+msgstr "비쉬누는 세계를 지탱하는 보편적인 신이다."
+
+msgctxt "RV_NO_DEITY_TITLE코0"
+msgid "No Current Deity."
+msgstr "현재 믿는 신이 없음"
+
+msgctxt "RV_NO_DEITY_DESC코0"
+msgid ""
+"Your religion allows you to select which god to follow as your main deity. "
+"Each deity will come with its own effects and last until your monarch "
+"changes."
+msgstr ""
+"당신의 종교는 당신이 주신으로서 따르고 싶은 신을 선택할 수 있게 합니다. 각 신은 각자의 효과를 지니고 당신의 군주가 바뀔 때까지 "
+"유지됩니다."
+
+msgctxt "RV_PICK_DEITY_THIS코0"
+msgid "Follow $NAME|Y$"
+msgstr "$NAME|Y$신을 따르다"
+
+msgctxt "RV_PICK_DEITY코0"
+msgid "Select Deity"
+msgstr "신을 선택하다"
+
+msgctxt "norse_pagan_reformed코0"
+msgid "Norse"
+msgstr "Norse"
+
+msgctxt "jewish_group코0"
+msgid "Jewish"
+msgstr "Jewish"
+
+msgctxt "jewish코0"
+msgid "Jewish"
+msgstr "Jewish"
+
+msgctxt "karaite코0"
+msgid "Karaite"
+msgstr "Karaite"
+
+msgctxt "samaritan코0"
+msgid "Samaritan"
+msgstr "Samaritan"
+
+msgctxt "OLD_NORSE코0"
+msgid "Old Norse"
+msgstr "Old Norse"
+
+msgctxt "jewish_rebels_demand코0"
+msgid "Convert $COUNTRYNAME$"
+msgstr "$COUNTRYNAME$ 개종"
+
+msgctxt "jewish_rebels_demand_desc코0"
+msgid ""
+"The religious rebels fight for the $RELIGION$ religion. They demand that we "
+"recognize its supremacy or at the very least cease our efforts to convert "
+"them and let them worship in peace."
+msgstr ""
+"종교 반군이 $RELIGION$ 신앙을 위해 싸웁니다. 그들은 우리가 이 종교의 우월적 지위를 인정하거나, 적어도 그들을 개종시키려는 "
+"우리의 노력을 중지하고 평화롭게 숭배하도록 둘 것을 요구합니다."
+
+msgctxt "jewish_rebels_title코0"
+msgid "Religious"
+msgstr "종교적"
+
+msgctxt "jewish_rebels_name코0"
+msgid "$RELIGION$ Zealots"
+msgstr "$RELIGION$ 광신도"
+
+msgctxt "jewish_rebels_desc코0"
+msgid ""
+"Religious fanatics tend to rise up in provinces controlled by nations of a "
+"different faith. They seek to spread their faith and smite all unbelievers."
+msgstr ""
+"종교적 광신도들은 자신들과 다른 신앙의 국가가 지배하는 지역에서 궐기하는 경향이 있습니다. 그들은 자신들의 믿음을 퍼뜨리고 이단들을 모두 "
+"처단하려 할 것입니다."
+
+msgctxt "jewish_rebels_army코0"
+msgid "$RELIGION$ Army"
+msgstr "$RELIGION$군"
+
+msgctxt "norse_pagan_reformed_rebels_demand코0"
+msgid "Convert $COUNTRYNAME$"
+msgstr "$COUNTRYNAME$ 개종"
+
+msgctxt "norse_pagan_reformed_rebels_demand_desc코0"
+msgid ""
+"The religious rebels fight for the $RELIGION$ religion. They demand that we "
+"recognize its supremacy or at the very least cease our efforts to convert "
+"them and let them worship in peace."
+msgstr ""
+"종교 반군이 $RELIGION$ 신앙을 위해 싸웁니다. 그들은 우리가 이 종교의 우월적 지위를 인정하거나, 적어도 그들을 개종시키려는 "
+"우리의 노력을 중지하고 평화롭게 숭배하도록 둘 것을 요구합니다."
+
+msgctxt "norse_pagan_reformed_rebels_title코0"
+msgid "Religious"
+msgstr "종교적"
+
+msgctxt "norse_pagan_reformed_rebels_name코0"
+msgid "$RELIGION$ Zealots"
+msgstr "$RELIGION$ 광신도"
+
+msgctxt "norse_pagan_reformed_rebels_desc코0"
+msgid ""
+"Religious fanatics tend to rise up in provinces controlled by nations of a "
+"different faith. They seek to spread their faith and smite all unbelievers."
+msgstr ""
+"종교적 광신도들은 자신들과 다른 신앙의 국가가 지배하는 지역에서 궐기하는 경향이 있습니다. 그들은 자신들의 믿음을 퍼뜨리고 이단들을 모두 "
+"처단하려 할 것입니다."
+
+msgctxt "norse_pagan_reformed_rebels_army코0"
+msgid "$RELIGION$ Army"
+msgstr "$RELIGION$군"
+
+msgctxt "odin코0"
+msgid "Odin"
+msgstr "오딘"
+
+msgctxt "odin_desc코0"
+msgid ""
+"Odin is the major god of the Norse pantheon, commonly associated with war, "
+"victory and death."
+msgstr "오딘은 북구신화의 주신으로 주로 전쟁과 승리 그리고 죽음과 관련되어 있다."
+
+msgctxt "freya코0"
+msgid "Freya"
+msgstr "프레이야"
+
+msgctxt "freya_desc코0"
+msgid ""
+"Freyja is the goddess commonly worshipped for her love, beauty, fertility "
+"and her promises of wealth."
+msgstr "프레이야는 사랑과 아름다움, 다산과 풍요를 약속하는 여신입니다."
+
+msgctxt "tor코0"
+msgid "Tor"
+msgstr "토르"
+
+msgctxt "tor_desc코0"
+msgid ""
+"Tor is the son of Odin and is the god protecting humankind against the "
+"terrors trying to enter Midgard."
+msgstr "토르는 오딘신의 아들이며 미드가르드(인간세계)에 들어가려는 두려운 존재들에 대항하여 인류를 지키는 신아다."
+
+msgctxt "tyr코0"
+msgid "Tyr"
+msgstr "티르"
+
+msgctxt "tyr_desc코0"
+msgid ""
+"Tyr is the one-handed god of justice and one of the most courageous gods."
+msgstr "티르는 손이 하나인 정의의 신이며 가장 용감한 신들중 하나다."
+
+msgctxt "snotra코0"
+msgid "Snotra"
+msgstr "스노트라"
+
+msgctxt "snotra_desc코0"
+msgid ""
+"Snotra is the clever goddess. A wise man or woman can be called snotr in her "
+"honor."
+msgstr "스노트라는 지혜의 여신이다. 현명한 남자나 여자는 스노트라에 대한 존경심을 담아 스노트르라고 불렸다."
+
+msgctxt "njord코0"
+msgid "Njord"
+msgstr "뇨르드"
+
+msgctxt "njord_desc코0"
+msgid ""
+"The father of Freya, god of the sea and wealth will bring food to the table "
+"for his worshippers."
+msgstr "프레이야의 아버지, 바다의 신, 그리고 그의 신자들의 식탁에 양식을 보장해준다"
+
+msgctxt "MESOAMERICAN_HERETIC코0"
+msgid "Tenocelome"
+msgstr "호랑이 입(Tenocelome)"
+
+msgctxt "NAHUATL_HERETIC코0"
+msgid "Tenocelome"
+msgstr "호랑이 입(Tenocelome)"
+
+msgctxt "INTI_HERETIC코0"
+msgid "Huaca Worshippers"
+msgstr "후아카 신봉자들"
+
+msgctxt "MAZDAKI코0"
+msgid "Mazdaki"
+msgstr "Mazdaki"
+
+msgctxt "MANICHEAN코0"
+msgid "Manichean"
+msgstr "Manichean"
+
+msgctxt "OLD_TENGRI코0"
+msgid "Old Tengri"
+msgstr "Old Tengri"
+
+msgctxt "spreading_of_norse_rituals_title코0"
+msgid "Spreading of Norse Rituals"
+msgstr "북구 신화 의례의 전파"
+
+msgctxt "spreading_of_norse_rituals_desc코0"
+msgid ""
+"Converting to the Norse religion requires nothing, every person is able to "
+"direct their own religious rituals. As long as you honor the Aesirs - Odin, "
+"Thor, Freja and Snotra - you are considered a follower of the Asatru. Let us "
+"encourage more and more of our subjects to learn of our gods so that they "
+"can at least start to worship them "
+msgstr ""
+"북구 신화로 전향하는 데에는 아무 것도 필요하지 않습니다. 모든 사람은 그들 고유의 종교적 의식을 행할 수 있습니다. 당신이 아사신족들-"
+"오딘, 토르, 프레이야, 스노트라-을 경외하는 만큼 당신은 아사트루(아사신족에 대한 믿음) 신봉자로서 여겨질 것입니다. 우리로 하여금 "
+"우리의 봉신들을 우리의 신들에 대해 배우도록 권장하게 하십시오. 그러면 그들은 최소한 우리의 신들을 예배하기 시작할 수 있습니다."
+
+msgctxt "restrict_government_offices_title코0"
+msgid "Encourage Conversion to Judaism"
+msgstr "유대교로 전향하도록 권장하다."
+
+msgctxt "restrict_government_offices_desc코0"
+msgid ""
+"Let us restrict all important offices in the administration of our central, "
+"local and military government to members of the true faith while also "
+"providing free education in the laws of the Talmud and the Shulkhan Arukh "
+"for all lower officials. This way we can encourage that there is both a will "
+"and a preparedness to convert."
+msgstr ""
+"모든 중앙정부, 지방, 군사적 중요 시설들의 관리를 오직 참된 신앙을 믿는 자들에게만 맡기고, 탈무드와 유대 법전을 하급 관리들에게 "
+"무료로 교육합니다. 우리는 이러한 방법을 통해 개종을 향한 의지와 각오 모두를 다질 수 있습니다."
+
+msgctxt "restricted_offices코0"
+msgid "Encouraging Conversion"
+msgstr "전향을 권장하다."
+
+msgctxt "desc_restricted_offices코0"
+msgid ""
+"We are actively encouraging the non-Jewish population of our country to "
+"convert to the true faith both through restricting the opportunities for "
+"unbelievers and by encouraging the study of subjects necessary to convert."
+msgstr ""
+"불신자들에게는 권리를 제한하고 유대교 교육을 권장함으로써, 우리 국가에 속한 비 유대교인들이 참된 신앙으로 개종하도록 유도합니다."
+
+msgctxt "spreading_norse_rituals코0"
+msgid "Spreading of Rituals"
+msgstr "의식의 전파"
+
+msgctxt "desc_spreading_norse_rituals코0"
+msgid ""
+"We are actively encouraging our non-Norse population to learn about the gods "
+"and rituals of our religion."
+msgstr "우리는 북구신화를 믿지 않는 사람들에게 우리 종교의 신들과 의례를 배우도록 활동적으로 장려하고 있다."
+
+msgctxt "inti_rebels_title코0"
+msgid "Religious"
+msgstr "종교적"
+
+msgctxt "inti_rebels_name코0"
+msgid "$RELIGION$ Zealots"
+msgstr "$RELIGION$ 광신도"
+
+msgctxt "inti_rebels_desc코0"
+msgid ""
+"Religious fanatics tend to rise up in provinces controlled by nations of a "
+"different faith. They seek to spread their faith and smite all unbelievers."
+msgstr ""
+"종교적 광신도들은 자신들과 다른 신앙의 국가가 지배하는 지역에서 궐기하는 경향이 있습니다. 그들은 자신들의 믿음을 퍼뜨리고 이단들을 모두 "
+"처단하려 할 것입니다."
+
+msgctxt "inti_rebels_army코0"
+msgid "$RELIGION$ Army"
+msgstr "$RELIGION$군"
+
+msgctxt "inti_rebels_demand코0"
+msgid "Convert $COUNTRYNAME$"
+msgstr "$COUNTRYNAME$ 개종"
+
+msgctxt "inti_rebels_demand_desc코0"
+msgid ""
+"The religious rebels fight for the $RELIGION$ religion. They demand that we "
+"recognize its supremacy or at the very least cease our efforts to convert "
+"them and let them worship in peace."
+msgstr ""
+"종교 반군이 $RELIGION$ 신앙을 위해 싸웁니다. 그들은 우리가 이 종교의 우월적 지위를 인정하거나, 적어도 그들을 개종시키려는 "
+"우리의 노력을 중지하고 평화롭게 숭배하도록 둘 것을 요구합니다."
+
+msgctxt "maya_rebels_title코0"
+msgid "Religious"
+msgstr "종교적"
+
+msgctxt "maya_rebels_name코0"
+msgid "$RELIGION$ Zealots"
+msgstr "$RELIGION$ 광신도"
+
+msgctxt "maya_rebels_desc코0"
+msgid ""
+"Religious fanatics tend to rise up in provinces controlled by nations of a "
+"different faith. They seek to spread their faith and smite all unbelievers."
+msgstr ""
+"종교적 광신도들은 자신들과 다른 신앙의 국가가 지배하는 지역에서 궐기하는 경향이 있습니다. 그들은 자신들의 믿음을 퍼뜨리고 이단들을 모두 "
+"처단하려 할 것입니다."
+
+msgctxt "maya_rebels_army코0"
+msgid "$RELIGION$ Army"
+msgstr "$RELIGION$군"
+
+msgctxt "maya_rebels_demand코0"
+msgid "Convert $COUNTRYNAME$"
+msgstr "$COUNTRYNAME$ 개종"
+
+msgctxt "maya_rebels_demand_desc코0"
+msgid ""
+"The religious rebels fight for the $RELIGION$ religion. They demand that we "
+"recognize its supremacy or at the very least cease our efforts to convert "
+"them and let them worship in peace."
+msgstr ""
+"종교 반군이 $RELIGION$ 신앙을 위해 싸웁니다. 그들은 우리가 이 종교의 우월적 지위를 인정하거나, 적어도 그들을 개종시키려는 "
+"우리의 노력을 중지하고 평화롭게 숭배하도록 둘 것을 요구합니다."
+
+msgctxt "nahuatl_rebels_title코0"
+msgid "Religious"
+msgstr "종교적"
+
+msgctxt "nahuatl_rebels_name코0"
+msgid "$RELIGION$ Zealots"
+msgstr "$RELIGION$ 광신도"
+
+msgctxt "nahuatl_rebels_desc코0"
+msgid ""
+"Religious fanatics tend to rise up in provinces controlled by nations of a "
+"different faith. They seek to spread their faith and smite all unbelievers."
+msgstr ""
+"종교적 광신도들은 자신들과 다른 신앙의 국가가 지배하는 지역에서 궐기하는 경향이 있습니다. 그들은 자신들의 믿음을 퍼뜨리고 이단들을 모두 "
+"처단하려 할 것입니다."
+
+msgctxt "nahuatl_rebels_army코0"
+msgid "$RELIGION$ Army"
+msgstr "$RELIGION$군"
+
+msgctxt "nahuatl_rebels_demand코0"
+msgid "Convert $COUNTRYNAME$"
+msgstr "$COUNTRYNAME$ 개종"
+
+msgctxt "nahuatl_rebels_demand_desc코0"
+msgid ""
+"The religious rebels fight for the $RELIGION$ religion. They demand that we "
+"recognize its supremacy or at the very least cease our efforts to convert "
+"them and let them worship in peace."
+msgstr ""
+"종교 반군이 $RELIGION$ 신앙을 위해 싸웁니다. 그들은 우리가 이 종교의 우월적 지위를 인정하거나, 적어도 그들을 개종시키려는 "
+"우리의 노력을 중지하고 평화롭게 숭배하도록 둘 것을 요구합니다."
+
+msgctxt "tengri_pagan_reformed코0"
+msgid "Tengri"
+msgstr "Tengri"
+
+msgctxt "tengri_pagan_reformed_rebels_demand코0"
+msgid "Convert $COUNTRYNAME$"
+msgstr "$COUNTRYNAME$ 개종"
+
+msgctxt "tengri_pagan_reformed_rebels_demand_desc코0"
+msgid ""
+"The religious rebels fight for the $RELIGION$ religion. They demand that we "
+"recognize its supremacy or at the very least cease our efforts to convert "
+"them and let them worship in peace."
+msgstr ""
+"종교 반군이 $RELIGION$ 신앙을 위해 싸웁니다. 그들은 우리가 이 종교의 우월적 지위를 인정하거나, 적어도 그들을 개종시키려는 "
+"우리의 노력을 중지하고 평화롭게 숭배하도록 둘 것을 요구합니다."
+
+msgctxt "tengri_pagan_reformed_rebels_title코0"
+msgid "Religious"
+msgstr "종교적"
+
+msgctxt "tengri_pagan_reformed_rebels_name코0"
+msgid "$RELIGION$ Zealots"
+msgstr "$RELIGION$ 광신도"
+
+msgctxt "tengri_pagan_reformed_rebels_desc코0"
+msgid ""
+"Religious fanatics tend to rise up in provinces controlled by nations of a "
+"different faith. They seek to spread their faith and smite all unbelievers."
+msgstr ""
+"종교적 광신도들은 자신들과 다른 신앙의 국가가 지배하는 지역에서 궐기하는 경향이 있습니다. 그들은 자신들의 믿음을 퍼뜨리고 이단들을 모두 "
+"처단하려 할 것입니다."
+
+msgctxt "tengri_pagan_reformed_rebels_army코0"
+msgid "$RELIGION$ Army"
+msgstr "$RELIGION$군"
+
+msgctxt "zoroastrian_group코0"
+msgid "Zoroastrian"
+msgstr "Zoroastrian"
+
+msgctxt "zoroastrian코0"
+msgid "Zoroastrian"
+msgstr "Zoroastrian"
+
+msgctxt "zoroastrian_rebels_demand코0"
+msgid "Convert $COUNTRYNAME$"
+msgstr "$COUNTRYNAME$ 개종"
+
+msgctxt "zoroastrian_rebels_demand_desc코0"
+msgid ""
+"The religious rebels fight for the $RELIGION$ religion. They demand that we "
+"recognize its supremacy or at the very least cease our efforts to convert "
+"them and let them worship in peace."
+msgstr ""
+"종교 반군이 $RELIGION$ 신앙을 위해 싸웁니다. 그들은 우리가 이 종교의 우월적 지위를 인정하거나, 적어도 그들을 개종시키려는 "
+"우리의 노력을 중지하고 평화롭게 숭배하도록 둘 것을 요구합니다."
+
+msgctxt "zoroastrian_rebels_title코0"
+msgid "Religious"
+msgstr "종교적"
+
+msgctxt "zoroastrian_rebels_name코0"
+msgid "$RELIGION$ Zealots"
+msgstr "$RELIGION$ 광신도"
+
+msgctxt "zoroastrian_rebels_desc코0"
+msgid ""
+"Religious fanatics tend to rise up in provinces controlled by nations of a "
+"different faith. They seek to spread their faith and smite all unbelievers."
+msgstr ""
+"종교적 광신도들은 자신들과 다른 신앙의 국가가 지배하는 지역에서 궐기하는 경향이 있습니다. 그들은 자신들의 믿음을 퍼뜨리고 이단들을 모두 "
+"처단하려 할 것입니다."
+
+msgctxt "zoroastrian_rebels_army코0"
+msgid "$RELIGION$ Army"
+msgstr "$RELIGION$군"
+

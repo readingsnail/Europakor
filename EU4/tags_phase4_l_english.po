@@ -1,0 +1,381 @@
+# badaim <imbada@outlook.com>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2017-04-10 10:10-0400\n"
+"Last-Translator: Copied by Zanata <copied-by-zanata@zanata.org>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"X-Generator: Zanata 3.9.6\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgctxt "MRE코0"
+msgid "Marehan"
+msgstr "Marehan"
+
+msgctxt "MRE_ADJ코0"
+msgid "Marehan"
+msgstr "Marehan"
+
+msgctxt "MJE코0"
+msgid "Majeerteen"
+msgstr "Majeerteen"
+
+msgctxt "MJE_ADJ코0"
+msgid "Majeerteen"
+msgstr "Majeerteen"
+
+msgctxt "WAR코0"
+msgid "Warsangali"
+msgstr "Warsangali"
+
+msgctxt "WAR_ADJ코0"
+msgid "Warsangali"
+msgstr "Warsangali"
+
+msgctxt "HOB코0"
+msgid "Hobyo"
+msgstr "Hobyo"
+
+msgctxt "HOB_ADJ코0"
+msgid "Hobyo"
+msgstr "Hobyo"
+
+msgctxt "GLE코0"
+msgid "Geledi"
+msgstr "Geledi"
+
+msgctxt "GLE_ADJ코0"
+msgid "Geledi"
+msgstr "Geledi"
+
+msgctxt "KAF코0"
+msgid "Kaffa"
+msgstr "Kaffa"
+
+msgctxt "KAF_ADJ코0"
+msgid "Kaffa"
+msgstr "Kaffa"
+
+msgctxt "MED코0"
+msgid "Medri Bahri"
+msgstr "Medri Bahri"
+
+msgctxt "MED_ADJ코0"
+msgid "Medri Bahri"
+msgstr "Medri Bahri"
+
+msgctxt "HAR코0"
+msgid "Harar"
+msgstr "Harar"
+
+msgctxt "HAR_ADJ코0"
+msgid "Harar"
+msgstr "Harar"
+
+msgctxt "AFA코0"
+msgid "Aussa"
+msgstr "Aussa"
+
+msgctxt "AFA_ADJ코0"
+msgid "Aussa"
+msgstr "Aussa"
+
+msgctxt "ALO코0"
+msgid "Alodia"
+msgstr "Alodia"
+
+msgctxt "ALO_ADJ코0"
+msgid "Alodia"
+msgstr "Alodia"
+
+msgctxt "PTE코0"
+msgid "Pate"
+msgstr "Pate"
+
+msgctxt "PTE_ADJ코0"
+msgid "Pate"
+msgstr "Pate"
+
+msgctxt "DAR코0"
+msgid "Darfur"
+msgstr "Darfur"
+
+msgctxt "DAR_ADJ코0"
+msgid "Darfur"
+msgstr "Darfur"
+
+msgctxt "CSU코0"
+msgid "Cusco"
+msgstr "Cusco"
+
+msgctxt "CSU_ADJ코0"
+msgid "Cuscoan"
+msgstr "Cuscoan"
+
+msgctxt "CCQ코0"
+msgid "Calchaqui"
+msgstr "Calchaqui"
+
+msgctxt "CCQ_ADJ코0"
+msgid "Calchaqui"
+msgstr "Calchaqui"
+
+msgctxt "MPC코0"
+msgid "Mapuche"
+msgstr "Mapuche"
+
+msgctxt "MPC_ADJ코0"
+msgid "Mapuche"
+msgstr "Mapuche"
+
+msgctxt "MCA코0"
+msgid "Muisca"
+msgstr "Muisca"
+
+msgctxt "MCA_ADJ코0"
+msgid "Muiscan"
+msgstr "Muiscan"
+
+msgctxt "QTO코0"
+msgid "Quito"
+msgstr "Quito"
+
+msgctxt "QTO_ADJ코0"
+msgid "Quitoan"
+msgstr "Quitoan"
+
+msgctxt "CJA코0"
+msgid "Cajamarca"
+msgstr "Cajamarca"
+
+msgctxt "CJA_ADJ코0"
+msgid "Cajamarcan"
+msgstr "Cajamarcan"
+
+msgctxt "HJA코0"
+msgid "Huyla"
+msgstr "Huyla"
+
+msgctxt "HJA_ADJ코0"
+msgid "Huylan"
+msgstr "Huylan"
+
+msgctxt "PTG코0"
+msgid "Potiguara"
+msgstr "Potiguara"
+
+msgctxt "PTG_ADJ코0"
+msgid "Potiguaran"
+msgstr "Potiguaran"
+
+msgctxt "TPQ코0"
+msgid "Tupiniquim"
+msgstr "Tupiniquim"
+
+msgctxt "TPQ_ADJ코0"
+msgid "Tupiniquim"
+msgstr "Tupiniquim"
+
+msgctxt "TUA코0"
+msgid "Tapuia"
+msgstr "Tapuia"
+
+msgctxt "TUA_ADJ코0"
+msgid "Tapuian"
+msgstr "Tapuian"
+
+msgctxt "GUA코0"
+msgid "Guarani"
+msgstr "Guarani"
+
+msgctxt "GUA_ADJ코0"
+msgid "Guarani"
+msgstr "Guarani"
+
+msgctxt "CUA코0"
+msgid "Charrua"
+msgstr "Charrua"
+
+msgctxt "CUA_ADJ코0"
+msgid "Charruan"
+msgstr "Charruan"
+
+msgctxt "WKA코0"
+msgid "Wanka"
+msgstr "Wanka"
+
+msgctxt "WKA_ADJ코0"
+msgid "Wankan"
+msgstr "Wankan"
+
+msgctxt "CYA코0"
+msgid "Chachapoya"
+msgstr "Chachapoya"
+
+msgctxt "CYA_ADJ코0"
+msgid "Chachapoyan"
+msgstr "Chachapoyan"
+
+msgctxt "CLA코0"
+msgid "Colla"
+msgstr "Colla"
+
+msgctxt "CLA_ADJ코0"
+msgid "Collan"
+msgstr "Collan"
+
+msgctxt "CRA코0"
+msgid "Charca"
+msgstr "Charca"
+
+msgctxt "CRA_ADJ코0"
+msgid "Charcan"
+msgstr "Charcan"
+
+msgctxt "PCJ코0"
+msgid "Pacajes"
+msgstr "Pacajes"
+
+msgctxt "PCJ_ADJ코0"
+msgid "Pacajan"
+msgstr "Pacajan"
+
+msgctxt "TPA코0"
+msgid "Tupinamba"
+msgstr "Tupinamba"
+
+msgctxt "TPA_ADJ코0"
+msgid "Tupinamban"
+msgstr "Tupinamban"
+
+msgctxt "ARW코0"
+msgid "Arawak"
+msgstr "Arawak"
+
+msgctxt "ARW_ADJ코0"
+msgid "Arawak"
+msgstr "Arawak"
+
+msgctxt "TID코0"
+msgid "Tidore"
+msgstr "Tidore"
+
+msgctxt "TID_ADJ코0"
+msgid "Tidoran"
+msgstr "Tidoran"
+
+msgctxt "TER코0"
+msgid "Ternate"
+msgstr "Ternate"
+
+msgctxt "TER_ADJ코0"
+msgid "Ternatan"
+msgstr "Ternatan"
+
+msgctxt "MGD코0"
+msgid "Maguindanao"
+msgstr "Maguindanao"
+
+msgctxt "MGD_ADJ코0"
+msgid "Maguindanaoan"
+msgstr "Maguindanaoan"
+
+msgctxt "LUW코0"
+msgid "Luwu"
+msgstr "Luwu"
+
+msgctxt "LUW_ADJ코0"
+msgid "Luwan"
+msgstr "Luwan"
+
+msgctxt "LNO코0"
+msgid "Lanao"
+msgstr "Lanao"
+
+msgctxt "LNO_ADJ코0"
+msgid "Lanaoan"
+msgstr "Lanaoan"
+
+msgctxt "LFA코0"
+msgid "Lanfang"
+msgstr "Lanfang"
+
+msgctxt "LFA_ADJ코0"
+msgid "Lanfang"
+msgstr "Lanfang"
+
+msgctxt "BNJ코0"
+msgid "Banjar"
+msgstr "Banjar"
+
+msgctxt "BNJ_ADJ코0"
+msgid "Banjari"
+msgstr "Banjari"
+
+msgctxt "KUT코0"
+msgid "Kutai"
+msgstr "Kutai"
+
+msgctxt "KUT_ADJ코0"
+msgid "Kutai"
+msgstr "Kutai"
+
+msgctxt "BTN코0"
+msgid "Buton"
+msgstr "Buton"
+
+msgctxt "BTN_ADJ코0"
+msgid "Butoni"
+msgstr "Butoni"
+
+msgctxt "CMI코0"
+msgid "Miao"
+msgstr "Miao"
+
+msgctxt "CMI_ADJ코0"
+msgid "Miao"
+msgstr "Miao"
+
+msgctxt "CYI코0"
+msgid "Yi"
+msgstr "Yi"
+
+msgctxt "CYI_ADJ코0"
+msgid "Yi"
+msgstr "Yi"
+
+msgctxt "CDL코0"
+msgid "Dali"
+msgstr "Dali"
+
+msgctxt "CDL_ADJ코0"
+msgid "Dali"
+msgstr "Dali"
+
+msgctxt "CHH코0"
+msgid "Chahar"
+msgstr "Chahar"
+
+msgctxt "CHH_ADJ코0"
+msgid "Chahari"
+msgstr "Chahari"
+
+msgctxt "NDO코0"
+msgid "Ndongo"
+msgstr "Ndongo"
+
+msgctxt "NDO_ADJ코0"
+msgid "Ndongan"
+msgstr "Ndongan"
+
+msgctxt "ANU코0"
+msgid "Ainu"
+msgstr "Ainu"
+
+msgctxt "ANU_ADJ코0"
+msgid "Ainu"
+msgstr "Ainu"
+

@@ -1,0 +1,10402 @@
+# badaim <imbada@outlook.com>, 2017. #zanata
+# bjrj <asap1993@naver.com>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2017-12-13 01:58-0500\n"
+"Last-Translator: bjrj <asap1993@naver.com>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"X-Generator: Zanata 3.9.6\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgctxt "brittany_area코0"
+msgid "Brittany"
+msgstr "Brittany"
+
+msgctxt "brittany_area_name코0"
+msgid "Brittany"
+msgstr "Brittany"
+
+msgctxt "brittany_area_adj코0"
+msgid "Breton"
+msgstr "Breton"
+
+msgctxt "normandy_area코0"
+msgid "Normandy"
+msgstr "Normandy"
+
+msgctxt "normandy_area_name코0"
+msgid "Normandy"
+msgstr "Normandy"
+
+msgctxt "normandy_area_adj코0"
+msgid "Normand"
+msgstr "Normand"
+
+msgctxt "provence_area코0"
+msgid "Provence"
+msgstr "Provence"
+
+msgctxt "provence_area_name코0"
+msgid "Provence"
+msgstr "Provence"
+
+msgctxt "provence_area_adj코0"
+msgid "Provencal"
+msgstr "Provencal"
+
+msgctxt "guyenne_area코0"
+msgid "Guyenne"
+msgstr "Guyenne"
+
+msgctxt "guyenne_area_name코0"
+msgid "Guyenne"
+msgstr "Guyenne"
+
+msgctxt "guyenne_area_adj코0"
+msgid "Guyennese"
+msgstr "Guyennese"
+
+msgctxt "sahel_region코0"
+msgid "Sahel"
+msgstr "Sahel"
+
+msgctxt "sahel_region_name코0"
+msgid "Sahel"
+msgstr "Sahel"
+
+msgctxt "sahel_region_adj코0"
+msgid "Sahelian"
+msgstr "Sahelian"
+
+msgctxt "basque_country코0"
+msgid "Vasconia"
+msgstr "Vasconia"
+
+msgctxt "basque_country_name코0"
+msgid "Euskal Herria"
+msgstr "Euskal Herria"
+
+msgctxt "basque_country_adj코0"
+msgid "Basque"
+msgstr "Basque"
+
+msgctxt "pyrenees_area코1"
+msgid "Gascony"
+msgstr "Gascony"
+
+msgctxt "pyrenees_area_name코1"
+msgid "Gascony"
+msgstr "Gascony"
+
+msgctxt "pyrenees_area_adj코1"
+msgid "Gascogne"
+msgstr "Gascogne"
+
+msgctxt "languedoc_area코0"
+msgid "Languedoc"
+msgstr "Languedoc"
+
+msgctxt "languedoc_area_name코0"
+msgid "Languedoc"
+msgstr "Languedoc"
+
+msgctxt "languedoc_area_adj코1"
+msgid "Languedocian"
+msgstr "Languedocian"
+
+msgctxt "bourgogne_area코0"
+msgid "Burgundy"
+msgstr "Burgundy"
+
+msgctxt "bourgogne_area_name코0"
+msgid "Burgundy"
+msgstr "Burgundy"
+
+msgctxt "bourgogne_area_adj코0"
+msgid "Burgundian"
+msgstr "Burgundian"
+
+msgctxt "massif_central_area코0"
+msgid "Massif Central"
+msgstr "Massif Central"
+
+msgctxt "massif_central_area_name코0"
+msgid "Auvergne"
+msgstr "Auvergne"
+
+msgctxt "massif_central_area_adj코0"
+msgid "Auvergnian"
+msgstr "Auvergnian"
+
+msgctxt "savoy_dauphine_area코0"
+msgid "Savoy"
+msgstr "Savoy"
+
+msgctxt "savoy_dauphine_area_name코0"
+msgid "Savoy"
+msgstr "Savoy"
+
+msgctxt "savoy_dauphine_area_adj코0"
+msgid "Savoyard"
+msgstr "Savoyard"
+
+msgctxt "lorraine_area코0"
+msgid "Lorraine"
+msgstr "Lorraine"
+
+msgctxt "lorraine_area_name코0"
+msgid "Lorraine"
+msgstr "Lorraine"
+
+msgctxt "lorraine_area_adj코0"
+msgid "Lorrainian"
+msgstr "Lorrainian"
+
+msgctxt "picardy_area코0"
+msgid "Picardy"
+msgstr "Picardy"
+
+msgctxt "picardy_area_name코0"
+msgid "Picardy"
+msgstr "Picardy"
+
+msgctxt "picardy_area_adj코0"
+msgid "Picard"
+msgstr "Picard"
+
+msgctxt "seine_area코0"
+msgid "Seine"
+msgstr "Seine"
+
+msgctxt "seine_area_name코0"
+msgid "Paris"
+msgstr "Paris"
+
+msgctxt "seine_area_adj코0"
+msgid "Parisian"
+msgstr "Parisian"
+
+msgctxt "loire_area코0"
+msgid "Loire"
+msgstr "Loire"
+
+msgctxt "loire_area_name코0"
+msgid "Anjou"
+msgstr "Anjou"
+
+msgctxt "loire_area_adj코1"
+msgid "Angevin"
+msgstr "Angevin"
+
+msgctxt "wallonia_area코0"
+msgid "Wallonia"
+msgstr "Wallonia"
+
+msgctxt "wallonia_area_name코0"
+msgid "Walloonia"
+msgstr "Walloonia"
+
+msgctxt "wallonia_area_adj코0"
+msgid "Walloon"
+msgstr "Walloon"
+
+msgctxt "flanders_area코0"
+msgid "Flanders"
+msgstr "Flanders"
+
+msgctxt "flanders_area_name코0"
+msgid "Flanders"
+msgstr "Flanders"
+
+msgctxt "flanders_area_adj코0"
+msgid "Flemish"
+msgstr "Flemish"
+
+msgctxt "brabant_area코0"
+msgid "Brabant"
+msgstr "Brabant"
+
+msgctxt "brabant_area_name코0"
+msgid "Brabant"
+msgstr "Brabant"
+
+msgctxt "brabant_area_adj코0"
+msgid "Brabantine"
+msgstr "Brabantine"
+
+msgctxt "netherlands_area코0"
+msgid "Netherlands"
+msgstr "Netherlands"
+
+msgctxt "netherlands_area_name코0"
+msgid "Netherlands"
+msgstr "Netherlands"
+
+msgctxt "netherlands_area_adj코0"
+msgid "Dutch"
+msgstr "Dutch"
+
+msgctxt "frisia_area코0"
+msgid "Frisia"
+msgstr "Frisia"
+
+msgctxt "frisia_area_name코0"
+msgid "Frisia"
+msgstr "Frisia"
+
+msgctxt "frisia_area_adj코0"
+msgid "Frisian"
+msgstr "Frisian"
+
+msgctxt "aragon_area코0"
+msgid "Aragon"
+msgstr "Aragon"
+
+msgctxt "aragon_area_name코0"
+msgid "Aragon"
+msgstr "Aragon"
+
+msgctxt "aragon_area_adj코0"
+msgid "Aragonese"
+msgstr "Aragonese"
+
+msgctxt "catalonia_area코0"
+msgid "Catalonia"
+msgstr "Catalonia"
+
+msgctxt "catalonia_area_name코0"
+msgid "Catalonia"
+msgstr "Catalonia"
+
+msgctxt "catalonia_area_adj코0"
+msgid "Catalonian"
+msgstr "Catalonian"
+
+msgctxt "valencia_area코0"
+msgid "Valencia"
+msgstr "Valencia"
+
+msgctxt "valencia_area_name코0"
+msgid "Valencia"
+msgstr "Valencia"
+
+msgctxt "valencia_area_adj코0"
+msgid "Valencian"
+msgstr "Valencian"
+
+msgctxt "lower_andalucia_area코0"
+msgid "Lower Andalucia"
+msgstr "Lower Andalucia"
+
+msgctxt "lower_andalucia_area_name코0"
+msgid "Cordoba"
+msgstr "Cordoba"
+
+msgctxt "lower_andalucia_area_adj코0"
+msgid "Cordoban"
+msgstr "Cordoban"
+
+msgctxt "upper_andalucia_area코0"
+msgid "Upper Andalucia"
+msgstr "Upper Andalucia"
+
+msgctxt "upper_andalucia_area_name코0"
+msgid "Granada"
+msgstr "Granada"
+
+msgctxt "upper_andalucia_area_adj코0"
+msgid "Granadan"
+msgstr "Granadan"
+
+msgctxt "castille_area코0"
+msgid "Castille"
+msgstr "Castille"
+
+msgctxt "castille_area_name코0"
+msgid "Castille"
+msgstr "Castille"
+
+msgctxt "castille_area_adj코0"
+msgid "Castillian"
+msgstr "Castillian"
+
+msgctxt "toledo_area코0"
+msgid "Toledo"
+msgstr "Toledo"
+
+msgctxt "toledo_area_name코0"
+msgid "Toledo"
+msgstr "Toledo"
+
+msgctxt "toledo_area_adj코0"
+msgid "Toledoan"
+msgstr "Toledoan"
+
+msgctxt "asturias_area코0"
+msgid "Asturias"
+msgstr "Asturias"
+
+msgctxt "asturias_area_name코0"
+msgid "Asturias"
+msgstr "Asturias"
+
+msgctxt "asturias_area_adj코0"
+msgid "Asturian"
+msgstr "Asturian"
+
+msgctxt "leon_area코0"
+msgid "Leon"
+msgstr "Leon"
+
+msgctxt "leon_area_name코0"
+msgid "Leon"
+msgstr "Leon"
+
+msgctxt "leon_area_adj코0"
+msgid "Leonese"
+msgstr "Leonese"
+
+msgctxt "basque_area코0"
+msgid "Basque Country"
+msgstr "Basque Country"
+
+msgctxt "basque_area_name코0"
+msgid "Euskadi"
+msgstr "Euskadi"
+
+msgctxt "basque_area_adj코0"
+msgid "Basque"
+msgstr "Basque"
+
+msgctxt "beieras_area코0"
+msgid "Beiras"
+msgstr "Beiras"
+
+msgctxt "beieras_area_name코0"
+msgid "Beira"
+msgstr "Beira"
+
+msgctxt "beieras_area_adj코0"
+msgid "Beiran"
+msgstr "Beiran"
+
+msgctxt "alentejo_area코0"
+msgid "Alentejo"
+msgstr "Alentejo"
+
+msgctxt "alentejo_area_name코0"
+msgid "Alentejo"
+msgstr "Alentejo"
+
+msgctxt "alentejo_area_adj코0"
+msgid "Alentejan"
+msgstr "Alentejan"
+
+msgctxt "macaronesia_area코0"
+msgid "Macaronesia"
+msgstr "Macaronesia"
+
+msgctxt "macaronesia_area_name코0"
+msgid "Macaronesia"
+msgstr "Macaronesia"
+
+msgctxt "macaronesia_area_adj코0"
+msgid "Macaronesian"
+msgstr "Macaronesian"
+
+msgctxt "venetia_area코0"
+msgid "Venetia"
+msgstr "Venetia"
+
+msgctxt "venetia_area_name코0"
+msgid "Venetia"
+msgstr "Venetia"
+
+msgctxt "venetia_area_adj코0"
+msgid "Venetian"
+msgstr "Venetian"
+
+msgctxt "lombardy_area코0"
+msgid "Lombardy"
+msgstr "Lombardy"
+
+msgctxt "lombardy_area_name코0"
+msgid "Lombardy"
+msgstr "Lombardy"
+
+msgctxt "lombardy_area_adj코0"
+msgid "Lombard"
+msgstr "Lombard"
+
+msgctxt "piedmont_area코0"
+msgid "Piedmont"
+msgstr "Piedmont"
+
+msgctxt "piedmont_area_name코0"
+msgid "Piedmont"
+msgstr "Piedmont"
+
+msgctxt "piedmont_area_adj코0"
+msgid "Piedmontese"
+msgstr "Piedmontese"
+
+msgctxt "tuscany_area코0"
+msgid "Tuscany"
+msgstr "Tuscany"
+
+msgctxt "tuscany_area_name코0"
+msgid "Tuscany"
+msgstr "Tuscany"
+
+msgctxt "tuscany_area_adj코0"
+msgid "Tuscan"
+msgstr "Tuscan"
+
+msgctxt "liguria_area코0"
+msgid "Liguria"
+msgstr "Liguria"
+
+msgctxt "liguria_area_name코0"
+msgid "Liguria"
+msgstr "Liguria"
+
+msgctxt "liguria_area_adj코0"
+msgid "Ligurian"
+msgstr "Ligurian"
+
+msgctxt "corsica_sardinia_area코1"
+msgid "Western Mediterranean Islands"
+msgstr "Western Mediterranean Islands"
+
+msgctxt "corsica_sardinia_area_name코0"
+msgid "Sardinia"
+msgstr "Sardinia"
+
+msgctxt "corsica_sardinia_area_adj코0"
+msgid "Sardinian"
+msgstr "Sardinian"
+
+msgctxt "sicily_area코0"
+msgid "Sicily"
+msgstr "Sicily"
+
+msgctxt "sicily_area_name코0"
+msgid "Sicily"
+msgstr "Sicily"
+
+msgctxt "sicily_area_adj코0"
+msgid "Sicilian"
+msgstr "Sicilian"
+
+msgctxt "naples_area코1"
+msgid "Lazio-Campania"
+msgstr "Lazio-Campania"
+
+msgctxt "naples_area_name코0"
+msgid "Naples"
+msgstr "Naples"
+
+msgctxt "naples_area_adj코0"
+msgid "Neapolitan"
+msgstr "Neapolitan"
+
+msgctxt "calabria_area코0"
+msgid "Calabria"
+msgstr "Calabria"
+
+msgctxt "calabria_area_name코0"
+msgid "Calabria"
+msgstr "Calabria"
+
+msgctxt "calabria_area_adj코0"
+msgid "Calabrian"
+msgstr "Calabrian"
+
+msgctxt "apulia_area코0"
+msgid "Apulia"
+msgstr "Apulia"
+
+msgctxt "apulia_area_name코0"
+msgid "Apulia"
+msgstr "Apulia"
+
+msgctxt "apulia_area_adj코0"
+msgid "Apulian"
+msgstr "Apulian"
+
+msgctxt "emilia_romagna_area코0"
+msgid "Emilia-Romagna"
+msgstr "Emilia-Romagna"
+
+msgctxt "emilia_romagna_area_name코0"
+msgid "Emilia"
+msgstr "Emilia"
+
+msgctxt "emilia_romagna_area_adj코0"
+msgid "Emilian"
+msgstr "Emilian"
+
+msgctxt "central_italy_area코0"
+msgid "Central Italy"
+msgstr "Central Italy"
+
+msgctxt "central_italy_area_name코0"
+msgid "Rome"
+msgstr "Rome"
+
+msgctxt "central_italy_area_adj코0"
+msgid "Roman"
+msgstr "Roman"
+
+msgctxt "ireland_area코0"
+msgid "Ireland"
+msgstr "Ireland"
+
+msgctxt "ireland_area_name코0"
+msgid "Ireland"
+msgstr "Ireland"
+
+msgctxt "ireland_area_adj코0"
+msgid "Irish"
+msgstr "Irish"
+
+msgctxt "highlands_area코0"
+msgid "Highlands"
+msgstr "Highlands"
+
+msgctxt "highlands_area_name코0"
+msgid "Highlands"
+msgstr "Highlands"
+
+msgctxt "highlands_area_adj코0"
+msgid "Highlander"
+msgstr "Highlander"
+
+msgctxt "lowlands_area코0"
+msgid "Lowlands"
+msgstr "Lowlands"
+
+msgctxt "lowlands_area_name코0"
+msgid "Lowlands"
+msgstr "Lowlands"
+
+msgctxt "lowlands_area_adj코0"
+msgid "Lowlander"
+msgstr "Lowlander"
+
+msgctxt "wales_area코0"
+msgid "Wales"
+msgstr "Wales"
+
+msgctxt "wales_area_name코0"
+msgid "Wales"
+msgstr "Wales"
+
+msgctxt "wales_area_adj코0"
+msgid "Welsh"
+msgstr "Welsh"
+
+msgctxt "northern_england_area코0"
+msgid "Northumbria"
+msgstr "Northumbria"
+
+msgctxt "northern_england_area_name코0"
+msgid "Northumbria"
+msgstr "Northumbria"
+
+msgctxt "northern_england_area_adj코0"
+msgid "Northumbrian"
+msgstr "Northumbrian"
+
+msgctxt "mercia_area코0"
+msgid "Mercia"
+msgstr "Mercia"
+
+msgctxt "mercia_area_name코0"
+msgid "Mercia"
+msgstr "Mercia"
+
+msgctxt "mercia_area_adj코0"
+msgid "Mercian"
+msgstr "Mercian"
+
+msgctxt "wessex_area코0"
+msgid "Wessex"
+msgstr "Wessex"
+
+msgctxt "wessex_area_name코0"
+msgid "Wessex"
+msgstr "Wessex"
+
+msgctxt "wessex_area_adj코0"
+msgid "Wessexian"
+msgstr "Wessexian"
+
+msgctxt "east_anglia_area코0"
+msgid "East Anglia"
+msgstr "East Anglia"
+
+msgctxt "east_anglia_area_name코0"
+msgid "Anglia"
+msgstr "Anglia"
+
+msgctxt "east_anglia_area_adj코0"
+msgid "Anglian"
+msgstr "Anglian"
+
+msgctxt "denmark_area코0"
+msgid "Denmark"
+msgstr "Denmark"
+
+msgctxt "denmark_area_name코0"
+msgid "Denmark"
+msgstr "Denmark"
+
+msgctxt "denmark_area_adj코0"
+msgid "Danish"
+msgstr "Danish"
+
+msgctxt "jutland_area코0"
+msgid "North Jutland"
+msgstr "North Jutland"
+
+msgctxt "jutland_area_name코0"
+msgid "Jutland"
+msgstr "Jutland"
+
+msgctxt "jutland_area_adj코0"
+msgid "Jutlandish"
+msgstr "Jutlandish"
+
+msgctxt "skaneland_area코0"
+msgid "Skåneland"
+msgstr "Skaneland"
+
+msgctxt "skaneland_area_name코0"
+msgid "Scania"
+msgstr "Scania"
+
+msgctxt "skaneland_area_adj코0"
+msgid "Scanian"
+msgstr "Scanian"
+
+msgctxt "gotaland_area코1"
+msgid "Östra Götaland"
+msgstr "Ostra Gotaland"
+
+msgctxt "gotaland_area_name코0"
+msgid "Götaland"
+msgstr "Gotaland"
+
+msgctxt "gotaland_area_adj코0"
+msgid "Geat"
+msgstr "Geat"
+
+msgctxt "vastra_gotaland_area코0"
+msgid "Västra Götaland"
+msgstr "Vastra Gotaland"
+
+msgctxt "vastra_gotaland_area_adj코0"
+msgid "Skaran"
+msgstr "Skaran"
+
+msgctxt "vastra_gotaland_area_name코0"
+msgid "Skaraborg"
+msgstr "Skaraborg"
+
+msgctxt "svealand_area코1"
+msgid "Västra Svealand"
+msgstr "Vastra Svealand"
+
+msgctxt "svealand_area_name코0"
+msgid "Sweden"
+msgstr "Sweden"
+
+msgctxt "svealand_area_adj코0"
+msgid "Swedish"
+msgstr "Swedish"
+
+msgctxt "ostra_svealand_area코0"
+msgid "Östra Svealand"
+msgstr "Ostra Svealand"
+
+msgctxt "ostra_svealand_area_name코0"
+msgid "Dalecarlia"
+msgstr "Dalecarlia"
+
+msgctxt "ostra_svealand_area_adj코0"
+msgid "Dalecarlian"
+msgstr "Dalecarlian"
+
+msgctxt "baltic_islands_area코0"
+msgid "Baltic Islands"
+msgstr "Baltic Islands"
+
+msgctxt "baltic_islands_area_name코0"
+msgid "Baltia"
+msgstr "Baltia"
+
+msgctxt "baltic_islands_area_adj코0"
+msgid "Baltic"
+msgstr "Baltic"
+
+msgctxt "norrland_area코0"
+msgid "Norrland"
+msgstr "Norrland"
+
+msgctxt "norrland_area_name코0"
+msgid "Norrland"
+msgstr "Norrland"
+
+msgctxt "norrland_area_adj코0"
+msgid "Norrlandish"
+msgstr "Norrlandish"
+
+msgctxt "finland_area코0"
+msgid "Finland"
+msgstr "Finland"
+
+msgctxt "finland_area_name코0"
+msgid "Finland"
+msgstr "Finland"
+
+msgctxt "finland_area_adj코0"
+msgid "Finish"
+msgstr "Finish"
+
+msgctxt "karelia_area코1"
+msgid "South Karelia"
+msgstr "South Karelia"
+
+msgctxt "karelia_area_name코0"
+msgid "Karelia"
+msgstr "Karelia"
+
+msgctxt "karelia_area_adj코0"
+msgid "Karelian"
+msgstr "Karelian"
+
+msgctxt "north_karelia코0"
+msgid "North Karelia"
+msgstr "North Karelia"
+
+msgctxt "north_karelia_adj코0"
+msgid "Olonetian"
+msgstr "Olonetian"
+
+msgctxt "north_karelia_name코0"
+msgid "Olonets"
+msgstr "Olonets"
+
+msgctxt "northern_norway코1"
+msgid "Trøndelag"
+msgstr "Trondelag"
+
+msgctxt "northern_norway_name코0"
+msgid "Trøndelag"
+msgstr "Trondelag"
+
+msgctxt "northern_norway_adj코0"
+msgid "Trøndelagian"
+msgstr "Trondelagian"
+
+msgctxt "eastern_norway코0"
+msgid "Østlandet"
+msgstr "Ostlandet"
+
+msgctxt "eastern_norway_name코0"
+msgid "Norway"
+msgstr "Norway"
+
+msgctxt "eastern_norway_adj코0"
+msgid "Norwegian"
+msgstr "Norwegian"
+
+msgctxt "western_norway코0"
+msgid "Vestlandet"
+msgstr "Vestlandet"
+
+msgctxt "western_norway_name코0"
+msgid "Bergenshus"
+msgstr "Bergenshus"
+
+msgctxt "western_norway_adj코0"
+msgid "Bergenshusian"
+msgstr "Bergenshusian"
+
+msgctxt "subarctic_islands_area코1"
+msgid "Faroes"
+msgstr "Faroes"
+
+msgctxt "subarctic_islands_area_name코0"
+msgid "Faroes"
+msgstr "Faroes"
+
+msgctxt "subarctic_islands_area_adj코1"
+msgid "Faroese"
+msgstr "Faroese"
+
+msgctxt "greenland_area코0"
+msgid "Greenland"
+msgstr "Greenland"
+
+msgctxt "greenland_area_name코0"
+msgid "Greenland"
+msgstr "Greenland"
+
+msgctxt "greenland_area_adj코0"
+msgid "Greenlandic"
+msgstr "Greenlandic"
+
+msgctxt "iceland_area코0"
+msgid "Iceland"
+msgstr "Iceland"
+
+msgctxt "iceland_area_name코0"
+msgid "Iceland"
+msgstr "Iceland"
+
+msgctxt "iceland_area_adj코0"
+msgid "Icelandic"
+msgstr "Icelandic"
+
+msgctxt "estonia_ingria_area코0"
+msgid "Estonia"
+msgstr "Estonia"
+
+msgctxt "estonia_ingria_area_name코0"
+msgid "Estonia"
+msgstr "Estonia"
+
+msgctxt "estonia_ingria_area_adj코0"
+msgid "Estonian"
+msgstr "Estonian"
+
+msgctxt "livonia_area코0"
+msgid "Livonia"
+msgstr "Livonia"
+
+msgctxt "livonia_area_name코0"
+msgid "Livonia"
+msgstr "Livonia"
+
+msgctxt "livonia_area_adj코0"
+msgid "Livonian"
+msgstr "Livonian"
+
+msgctxt "curonia_area코0"
+msgid "Curonia"
+msgstr "Curonia"
+
+msgctxt "curonia_area_name코0"
+msgid "Curonia"
+msgstr "Curonia"
+
+msgctxt "curonia_area_adj코0"
+msgid "Curonian"
+msgstr "Curonian"
+
+msgctxt "east_prussia_area코0"
+msgid "East Prussia"
+msgstr "East Prussia"
+
+msgctxt "east_prussia_area_name코0"
+msgid "Prussia"
+msgstr "Prussia"
+
+msgctxt "east_prussia_area_adj코0"
+msgid "Prussian"
+msgstr "Prussian"
+
+msgctxt "west_prussia_area코0"
+msgid "West Prussia"
+msgstr "West Prussia"
+
+msgctxt "west_prussia_area_name코1"
+msgid "Kulm"
+msgstr "Kulm"
+
+msgctxt "west_prussia_area_adj코1"
+msgid "Kulmer"
+msgstr "Kulmer"
+
+msgctxt "pomerelia_area코0"
+msgid "Pomerelia"
+msgstr "Pomerelia"
+
+msgctxt "pomerelia_area_name코0"
+msgid "Pomerelian"
+msgstr "Pomerelian"
+
+msgctxt "pomerelia_area_adj코0"
+msgid "Pomerelian"
+msgstr "Pomerelian"
+
+msgctxt "wielkopolska_area코0"
+msgid "Wielkopolska"
+msgstr "Wielkopolska"
+
+msgctxt "wielkopolska_area_name코0"
+msgid "Wielkopolska"
+msgstr "Wielkopolska"
+
+msgctxt "wielkopolska_area_adj코0"
+msgid "Wielkopolskan"
+msgstr "Wielkopolskan"
+
+msgctxt "malopolska_area코0"
+msgid "Malopolska"
+msgstr "Malopolska"
+
+msgctxt "malopolska_area_name코0"
+msgid "Malopolska"
+msgstr "Malopolska"
+
+msgctxt "malopolska_area_adj코0"
+msgid "Malopolskan"
+msgstr "Malopolskan"
+
+msgctxt "podolia_volhynia_area코0"
+msgid "Podolia Volhynia"
+msgstr "Podolia Volhynia"
+
+msgctxt "podolia_volhynia_area_name코0"
+msgid "Volhynia"
+msgstr "Volhynia"
+
+msgctxt "podolia_volhynia_area_adj코0"
+msgid "Volhynian"
+msgstr "Volhynian"
+
+msgctxt "pripyat_area코0"
+msgid "Pripyat"
+msgstr "Pripyat"
+
+msgctxt "pripyat_area_name코0"
+msgid "Brest"
+msgstr "Brest"
+
+msgctxt "pripyat_area_adj코0"
+msgid "Brestian"
+msgstr "Brestian"
+
+msgctxt "mazovia_area코0"
+msgid "Mazovia"
+msgstr "Mazovia"
+
+msgctxt "mazovia_area_name코0"
+msgid "Mazovia"
+msgstr "Mazovia"
+
+msgctxt "mazovia_area_adj코0"
+msgid "Mazovian"
+msgstr "Mazovian"
+
+msgctxt "lithuania_area코1"
+msgid "Vilna"
+msgstr "Vilna"
+
+msgctxt "lithuania_area_name코0"
+msgid "Lithuania"
+msgstr "Lithuania"
+
+msgctxt "lithuania_area_adj코0"
+msgid "Lithuanian"
+msgstr "Lithuanian"
+
+msgctxt "samogitia_area코0"
+msgid "Samogitia"
+msgstr "Samogitia"
+
+msgctxt "samogitia_area_name코0"
+msgid "Samogitia"
+msgstr "Samogitia"
+
+msgctxt "samogitia_area_adj코0"
+msgid "Samogitian"
+msgstr "Samogitian"
+
+msgctxt "west_dniepr_area코0"
+msgid "West Dniepr"
+msgstr "West Dniepr"
+
+msgctxt "west_dniepr_area_name코0"
+msgid "Cherkasy"
+msgstr "Cherkasy"
+
+msgctxt "west_dniepr_area_adj코0"
+msgid "Cherkassan"
+msgstr "Cherkassan"
+
+msgctxt "east_dniepr_area코0"
+msgid "East Dniepr"
+msgstr "East Dniepr"
+
+msgctxt "east_dniepr_area_name코0"
+msgid "Poltava"
+msgstr "Poltava"
+
+msgctxt "east_dniepr_area_adj코0"
+msgid "Poltavan"
+msgstr "Poltavan"
+
+msgctxt "sloboda_ukraine_area코0"
+msgid "Sloboda Ukraine"
+msgstr "Sloboda Ukraine"
+
+msgctxt "sloboda_ukraine_area_name코0"
+msgid "Kharkov"
+msgstr "Kharkov"
+
+msgctxt "sloboda_ukraine_area_adj코0"
+msgid "Kharkovan"
+msgstr "Kharkovan"
+
+msgctxt "azov_area코0"
+msgid "Azov"
+msgstr "Azov"
+
+msgctxt "azov_area_name코0"
+msgid "Azovia"
+msgstr "Azovia"
+
+msgctxt "azov_area_adj코0"
+msgid "Azovian"
+msgstr "Azovian"
+
+msgctxt "zaporizhia_area코0"
+msgid "Zaporizhia"
+msgstr "Zaporizhia"
+
+msgctxt "zaporizhia_area_name코0"
+msgid "Zaporizhia"
+msgstr "Zaporizhia"
+
+msgctxt "zaporizhia_area_adj코0"
+msgid "Zaporizhian"
+msgstr "Zaporizhian"
+
+msgctxt "yedisan_area코0"
+msgid "Yedisan"
+msgstr "Yedisan"
+
+msgctxt "yedisan_area_name코0"
+msgid "Yedisan"
+msgstr "Yedisan"
+
+msgctxt "yedisan_area_adj코0"
+msgid "Yedisanian"
+msgstr "Yedisanian"
+
+msgctxt "crimea_area코0"
+msgid "Crimea"
+msgstr "Crimea"
+
+msgctxt "crimea_area_name코0"
+msgid "Crimea"
+msgstr "Crimea"
+
+msgctxt "crimea_area_name_adj코0"
+msgid "Crimean"
+msgstr "Crimean"
+
+msgctxt "white_ruthenia_area코0"
+msgid "White Ruthenia"
+msgstr "White Ruthenia"
+
+msgctxt "white_ruthenia_area_adj코0"
+msgid "White Ruthenian"
+msgstr "White Ruthenian"
+
+msgctxt "white_ruthenia_area_name코0"
+msgid "White Ruthenia"
+msgstr "White Ruthenia"
+
+msgctxt "red_ruthenia_area코0"
+msgid "Red Ruthenia"
+msgstr "Red Ruthenia"
+
+msgctxt "red_ruthenia_area_name코0"
+msgid "Red Ruthenia"
+msgstr "Red Ruthenia"
+
+msgctxt "red_ruthenia_area_adj코0"
+msgid "Red Ruthenian"
+msgstr "Red Ruthenian"
+
+msgctxt "ryazan_area코0"
+msgid "Ryazan"
+msgstr "Ryazan"
+
+msgctxt "ryazan_area_name코0"
+msgid "Ryazan"
+msgstr "Ryazan"
+
+msgctxt "ryazan_area_adj코0"
+msgid "Ryazanian"
+msgstr "Ryazanian"
+
+msgctxt "moscow_area코0"
+msgid "Moscow"
+msgstr "Moscow"
+
+msgctxt "moscow_area_name코0"
+msgid "Muscovy"
+msgstr "Muscovy"
+
+msgctxt "moscow_area_adj코0"
+msgid "Muscovian"
+msgstr "Muscovian"
+
+msgctxt "suzdal_area코0"
+msgid "Suzdal"
+msgstr "Suzdal"
+
+msgctxt "suzdal_area_name코0"
+msgid "Suzdal"
+msgstr "Suzdal"
+
+msgctxt "suzdal_area_adj코0"
+msgid "Suzdalian"
+msgstr "Suzdalian"
+
+msgctxt "smolensk_area코0"
+msgid "Smolensk"
+msgstr "Smolensk"
+
+msgctxt "smolensk_area_name코0"
+msgid "Smolensk"
+msgstr "Smolensk"
+
+msgctxt "smolensk_area_adj코0"
+msgid "Smolenskian"
+msgstr "Smolenskian"
+
+msgctxt "novgorod_area코0"
+msgid "Novgorod"
+msgstr "Novgorod"
+
+msgctxt "novgorod_area_name코0"
+msgid "Novgorod"
+msgstr "Novgorod"
+
+msgctxt "novgorod_area_adj코0"
+msgid "Novgorodian"
+msgstr "Novgorodian"
+
+msgctxt "pskov_area코0"
+msgid "Pskov"
+msgstr "Pskov"
+
+msgctxt "pskov_area_name코0"
+msgid "Pskov"
+msgstr "Pskov"
+
+msgctxt "pskov_area_adj코0"
+msgid "Pskovian"
+msgstr "Pskovian"
+
+msgctxt "beloozero_area코0"
+msgid "Beloozero"
+msgstr "Beloozero"
+
+msgctxt "beloozero_area_name코0"
+msgid "Beloozero"
+msgstr "Beloozero"
+
+msgctxt "beloozero_area_adj코0"
+msgid "Beloozeroan"
+msgstr "Beloozeroan"
+
+msgctxt "astrakhan_area코0"
+msgid "Astrakhan"
+msgstr "Astrakhan"
+
+msgctxt "astrakhan_area_name코0"
+msgid "Astrakhan"
+msgstr "Astrakhan"
+
+msgctxt "astrakhan_area_adj코0"
+msgid "Astrakhani"
+msgstr "Astrakhani"
+
+msgctxt "lower_don_area코0"
+msgid "Lower Don"
+msgstr "Lower Don"
+
+msgctxt "lower_don_area_name코0"
+msgid "Cherkassk"
+msgstr "Cherkassk"
+
+msgctxt "lower_don_area_adj코0"
+msgid "Cherkasskian"
+msgstr "Cherkasskian"
+
+msgctxt "kazan_area코0"
+msgid "Kazan"
+msgstr "Kazan"
+
+msgctxt "kazan_area_name코0"
+msgid "Kazan"
+msgstr "Kazan"
+
+msgctxt "kazan_area_adj코0"
+msgid "Kazani"
+msgstr "Kazani"
+
+msgctxt "samara_area코0"
+msgid "Samara"
+msgstr "Samara"
+
+msgctxt "samara_area_name코0"
+msgid "Samara"
+msgstr "Samara"
+
+msgctxt "samara_area_adj코0"
+msgid "Samaran"
+msgstr "Samaran"
+
+msgctxt "lower_yik_area코0"
+msgid "Lower Yik"
+msgstr "Lower Yik"
+
+msgctxt "lower_yik_area_name코0"
+msgid "Ryn"
+msgstr "Ryn"
+
+msgctxt "lower_yik_area_adj코0"
+msgid "Rynian"
+msgstr "Rynian"
+
+msgctxt "nogai_area코0"
+msgid "Nogai"
+msgstr "Nogai"
+
+msgctxt "nogai_area_name코0"
+msgid "Nogai"
+msgstr "Nogai"
+
+msgctxt "nogai_area_adj코0"
+msgid "Nogai"
+msgstr "Nogai"
+
+msgctxt "ural_area코0"
+msgid "Ural"
+msgstr "Ural"
+
+msgctxt "ural_area_name코0"
+msgid "Ural"
+msgstr "Ural"
+
+msgctxt "ural_area_adj코0"
+msgid "Uralian"
+msgstr "Uralian"
+
+msgctxt "pomor_area코0"
+msgid "Pomorye"
+msgstr "Pomorye"
+
+msgctxt "pomor_area_name코0"
+msgid "Pomorye"
+msgstr "Pomorye"
+
+msgctxt "pomor_area_adj코0"
+msgid "Pomor"
+msgstr "Pomor"
+
+msgctxt "bashkiria_area코0"
+msgid "Bashkiria"
+msgstr "Bashkiria"
+
+msgctxt "bashkiria_area_name코0"
+msgid "Bashkiria"
+msgstr "Bashkiria"
+
+msgctxt "bashkiria_area_adj코0"
+msgid "Bashkiria"
+msgstr "Bashkiria"
+
+msgctxt "galich_area코0"
+msgid "Galich"
+msgstr "Galich"
+
+msgctxt "galich_area_name코0"
+msgid "Galich"
+msgstr "Galich"
+
+msgctxt "galich_area_adj코0"
+msgid "Galich"
+msgstr "Galich"
+
+msgctxt "kama_area코0"
+msgid "Kama"
+msgstr "Kama"
+
+msgctxt "kama_area_name코0"
+msgid "Kama"
+msgstr "Kama"
+
+msgctxt "kama_area_adj코0"
+msgid "Kama"
+msgstr "Kama"
+
+msgctxt "tambov_area코0"
+msgid "Tambov"
+msgstr "Tambov"
+
+msgctxt "tambov_area_name코0"
+msgid "Tambov"
+msgstr "Tambov"
+
+msgctxt "tambov_area_adj코0"
+msgid "Tambovan"
+msgstr "Tambovan"
+
+msgctxt "saratov_area코0"
+msgid "Saratov"
+msgstr "Saratov"
+
+msgctxt "saratov_area_name코0"
+msgid "Saratov"
+msgstr "Saratov"
+
+msgctxt "saratov_area_adj코0"
+msgid "Saratovian"
+msgstr "Saratovian"
+
+msgctxt "silesia_area코0"
+msgid "Silesia"
+msgstr "Silesia"
+
+msgctxt "silesia_area_name코0"
+msgid "Silesia"
+msgstr "Silesia"
+
+msgctxt "silesia_area_adj코0"
+msgid "Silesian"
+msgstr "Silesian"
+
+msgctxt "bohemia_area코0"
+msgid "Bohemia"
+msgstr "Bohemia"
+
+msgctxt "bohemia_area_name코0"
+msgid "Bohemia"
+msgstr "Bohemia"
+
+msgctxt "bohemia_area_adj코0"
+msgid "Bohemian"
+msgstr "Bohemian"
+
+msgctxt "erzgebirge_area코0"
+msgid "Erzgebirge"
+msgstr "Erzgebirge"
+
+msgctxt "erzgebirge_area_name코0"
+msgid "Plzen"
+msgstr "Plzen"
+
+msgctxt "erzgebirge_area_adj코0"
+msgid "Plzner"
+msgstr "Plzner"
+
+msgctxt "south_saxony_area코0"
+msgid "South Saxony"
+msgstr "South Saxony"
+
+msgctxt "south_saxony_area_name코0"
+msgid "Meissen"
+msgstr "Meissen"
+
+msgctxt "south_saxony_area_adj코0"
+msgid "Meissner"
+msgstr "Meissner"
+
+msgctxt "lower_bavaria_area코0"
+msgid "Lower Bavaria"
+msgstr "Lower Bavaria"
+
+msgctxt "lower_bavaria_area_name코0"
+msgid "Oberpfalz"
+msgstr "Oberpfalz"
+
+msgctxt "lower_bavaria_area_adj코0"
+msgid "Oberpfalzian"
+msgstr "Oberpfalzian"
+
+msgctxt "upper_bavaria_area코0"
+msgid "Upper Bavaria"
+msgstr "Upper Bavaria"
+
+msgctxt "upper_bavaria_area_name코0"
+msgid "Bavaria"
+msgstr "Bavaria"
+
+msgctxt "upper_bavaria_area_adj코0"
+msgid "Bavarian"
+msgstr "Bavarian"
+
+msgctxt "franconia_area코0"
+msgid "Franconia"
+msgstr "Franconia"
+
+msgctxt "franconia_area_name코0"
+msgid "Franconia"
+msgstr "Franconia"
+
+msgctxt "franconia_area_adj코0"
+msgid "Franconian"
+msgstr "Franconian"
+
+msgctxt "lower_swabia_area코0"
+msgid "Lower Swabia"
+msgstr "Lower Swabia"
+
+msgctxt "lower_swabia_area_name코0"
+msgid "Swabia"
+msgstr "Swabia"
+
+msgctxt "lower_swabia_area_adj코0"
+msgid "Swabian"
+msgstr "Swabian"
+
+msgctxt "upper_swabia_area코0"
+msgid "Upper Swabia"
+msgstr "Upper Swabia"
+
+msgctxt "upper_swabia_area_name코0"
+msgid "Constance"
+msgstr "Constance"
+
+msgctxt "upper_swabia_area_adj코0"
+msgid "Constancian"
+msgstr "Constancian"
+
+msgctxt "northern_saxony_area코0"
+msgid "Northern Saxony"
+msgstr "Northern Saxony"
+
+msgctxt "northern_saxony_area_name코0"
+msgid "Altmark"
+msgstr "Altmark"
+
+msgctxt "northern_saxony_area_adj코0"
+msgid "Altmarkian"
+msgstr "Altmarkian"
+
+msgctxt "thuringia_area코0"
+msgid "Thuringia"
+msgstr "Thuringia"
+
+msgctxt "thuringia_area_name코0"
+msgid "Thuringia"
+msgstr "Thuringia"
+
+msgctxt "thuringia_area_adj코0"
+msgid "Thuringian"
+msgstr "Thuringian"
+
+msgctxt "neumark_area코0"
+msgid "Neumark"
+msgstr "Neumark"
+
+msgctxt "neumark_area_name코0"
+msgid "Neumark"
+msgstr "Neumark"
+
+msgctxt "neumark_area_adj코0"
+msgid "Neumarkian"
+msgstr "Neumarkian"
+
+msgctxt "mittelmark_area코0"
+msgid "Mittelmark"
+msgstr "Mittelmark"
+
+msgctxt "mittelmark_area_name코0"
+msgid "Mittelmark"
+msgstr "Mittelmark"
+
+msgctxt "mittelmark_area_adj코0"
+msgid "Mittelmarkian"
+msgstr "Mittelmarkian"
+
+msgctxt "vorpommern_area코0"
+msgid "Vorpommern"
+msgstr "Vorpommern"
+
+msgctxt "vorpommern_area_name코0"
+msgid "Vorpommern"
+msgstr "Vorpommern"
+
+msgctxt "vorpommern_area_adj코0"
+msgid "Vorpommernian"
+msgstr "Vorpommernian"
+
+msgctxt "hinter_pommern_area코0"
+msgid "Hinterpommern"
+msgstr "Hinterpommern"
+
+msgctxt "hinter_pommern_area_name코0"
+msgid "Hinterpommern"
+msgstr "Hinterpommern"
+
+msgctxt "hinter_pommern_area_adj코0"
+msgid "Hinterpommernian"
+msgstr "Hinterpommernian"
+
+msgctxt "tirol_area코0"
+msgid "Tirol"
+msgstr "Tirol"
+
+msgctxt "tirol_area_name코0"
+msgid "Tirol"
+msgstr "Tirol"
+
+msgctxt "tirol_area_adj코0"
+msgid "Tirolian"
+msgstr "Tirolian"
+
+msgctxt "austria_proper_area코0"
+msgid "Austria Proper"
+msgstr "Austria Proper"
+
+msgctxt "austria_proper_area_name코0"
+msgid "Austria"
+msgstr "Austria"
+
+msgctxt "austria_proper_area_adj코0"
+msgid "Austrian"
+msgstr "Austrian"
+
+msgctxt "inner_austria_area코0"
+msgid "Inner Austria"
+msgstr "Inner Austria"
+
+msgctxt "inner_austria_area_name코0"
+msgid "Carinthia"
+msgstr "Carinthia"
+
+msgctxt "inner_austria_area_adj코0"
+msgid "Carinthian"
+msgstr "Carinthian"
+
+msgctxt "carinthia_area코0"
+msgid "Carniola"
+msgstr "Carniola"
+
+msgctxt "carinthia_area_name코0"
+msgid "Carniola"
+msgstr "Carniola"
+
+msgctxt "carinthia_area_adj코0"
+msgid "Carniolan"
+msgstr "Carniolan"
+
+msgctxt "switzerland_area코0"
+msgid "Switzerland"
+msgstr "Switzerland"
+
+msgctxt "switzerland_area_name코0"
+msgid "Switzerland"
+msgstr "Switzerland"
+
+msgctxt "switzerland_area_adj코0"
+msgid "Swiss"
+msgstr "Swiss"
+
+msgctxt "romandie_area코0"
+msgid "Romandie"
+msgstr "Romandie"
+
+msgctxt "romandie_area_name코0"
+msgid "Romandie"
+msgstr "Romandie"
+
+msgctxt "romandie_area_adj코0"
+msgid "Romandie"
+msgstr "Romandie"
+
+msgctxt "upper_rhineland_area코0"
+msgid "Upper Rhineland"
+msgstr "Upper Rhineland"
+
+msgctxt "upper_rhineland_area_name코0"
+msgid "Baden"
+msgstr "Baden"
+
+msgctxt "upper_rhineland_area_adj코0"
+msgid "Badner"
+msgstr "Badner"
+
+msgctxt "palatinate_area코0"
+msgid "Palatinate"
+msgstr "Palatinate"
+
+msgctxt "palatinate_area_name코0"
+msgid "Palatinate"
+msgstr "Palatinate"
+
+msgctxt "palatinate_area_adj코0"
+msgid "Palatinatian"
+msgstr "Palatinatian"
+
+msgctxt "north_rhine_area코0"
+msgid "North Rhine"
+msgstr "North Rhine"
+
+msgctxt "north_rhine_area_name코0"
+msgid "Cleves"
+msgstr "Cleves"
+
+msgctxt "north_rhine_area_adj코0"
+msgid "Clevian"
+msgstr "Clevian"
+
+msgctxt "lower_rhineland_area코0"
+msgid "Lower Rhineland"
+msgstr "Lower Rhineland"
+
+msgctxt "lower_rhineland_area_name코0"
+msgid "Jullich"
+msgstr "Jullich"
+
+msgctxt "lower_rhineland_area_adj코0"
+msgid "Jullichian"
+msgstr "Jullichian"
+
+msgctxt "luxemburg_liege_area코0"
+msgid "Liege"
+msgstr "Liege"
+
+msgctxt "luxemburg_liege_area_name코0"
+msgid "Liege"
+msgstr "Liege"
+
+msgctxt "luxemburg_liege_area_adj코0"
+msgid "Liegian"
+msgstr "Liegian"
+
+msgctxt "westphalia_area코0"
+msgid "Westphalia"
+msgstr "Westphalia"
+
+msgctxt "westphalia_area_name코0"
+msgid "Westphalia"
+msgstr "Westphalia"
+
+msgctxt "westphalia_area_adj코0"
+msgid "Westphalian"
+msgstr "Westphalian"
+
+msgctxt "hesse_area코0"
+msgid "Hesse"
+msgstr "Hesse"
+
+msgctxt "hesse_area_name코0"
+msgid "Hesse"
+msgstr "Hesse"
+
+msgctxt "hesse_area_adj코0"
+msgid "Hessian"
+msgstr "Hessian"
+
+msgctxt "lower_saxony_area코0"
+msgid "Lower Saxony"
+msgstr "Lower Saxony"
+
+msgctxt "lower_saxony_area_name코0"
+msgid "Callenberg"
+msgstr "Callenberg"
+
+msgctxt "lower_saxony_area_adj코0"
+msgid "Callenbergian"
+msgstr "Callenbergian"
+
+msgctxt "weser_area코0"
+msgid "Weser"
+msgstr "Weser"
+
+msgctxt "weser_area_name코0"
+msgid "Bremen"
+msgstr "Bremen"
+
+msgctxt "weser_area_adj코0"
+msgid "Bremian"
+msgstr "Bremian"
+
+msgctxt "holstein_area코1"
+msgid "Schleswig-Holstein"
+msgstr "Schleswig-Holstein"
+
+msgctxt "holstein_area_name코0"
+msgid "Holstein"
+msgstr "Holstein"
+
+msgctxt "holstein_area_adj코0"
+msgid "Holsteiner"
+msgstr "Holsteiner"
+
+msgctxt "braunschweig_area코0"
+msgid "Braunschweig"
+msgstr "Braunschweig"
+
+msgctxt "braunschweig_area_name코0"
+msgid "Braunschweig"
+msgstr "Braunschweig"
+
+msgctxt "braunschweig_area_adj코0"
+msgid "Braunschweiger"
+msgstr "Braunschweiger"
+
+msgctxt "mecklenburg_area코0"
+msgid "Mecklenburg"
+msgstr "Mecklenburg"
+
+msgctxt "mecklenburg_area_name코0"
+msgid "Mecklenburg"
+msgstr "Mecklenburg"
+
+msgctxt "mecklenburg_area_adj코0"
+msgid "Mecklenburgian"
+msgstr "Mecklenburgian"
+
+msgctxt "macedonia_area코0"
+msgid "Macedonia"
+msgstr "Macedonia"
+
+msgctxt "macedonia_area_name코0"
+msgid "Macedonia"
+msgstr "Macedonia"
+
+msgctxt "macedonia_area_adj코0"
+msgid "Macedonia"
+msgstr "Macedonia"
+
+msgctxt "morea_area코0"
+msgid "Morea"
+msgstr "Morea"
+
+msgctxt "morea_area_name코0"
+msgid "Morea"
+msgstr "Morea"
+
+msgctxt "morea_area_adj코0"
+msgid "Morea"
+msgstr "Morea"
+
+msgctxt "northern_greece_area코0"
+msgid "Northern Greece"
+msgstr "Northern Greece"
+
+msgctxt "northern_greece_area_name코0"
+msgid "Thessaly"
+msgstr "Thessaly"
+
+msgctxt "northern_greece_area_adj코0"
+msgid "Thessalian"
+msgstr "Thessalian"
+
+msgctxt "thrace_area코0"
+msgid "Thrace"
+msgstr "Thrace"
+
+msgctxt "thrace_area_name코0"
+msgid "Thrace"
+msgstr "Thrace"
+
+msgctxt "thrace_area_adj코0"
+msgid "Thracian"
+msgstr "Thracian"
+
+msgctxt "bulgaria_area코0"
+msgid "Bulgaria"
+msgstr "Bulgaria"
+
+msgctxt "bulgaria_area_name코0"
+msgid "Bulgaria"
+msgstr "Bulgaria"
+
+msgctxt "bulgaria_area_adj코0"
+msgid "Bulgarian"
+msgstr "Bulgarian"
+
+msgctxt "wallachia_area코0"
+msgid "Wallachia"
+msgstr "Wallachia"
+
+msgctxt "wallachia_area_name코0"
+msgid "Wallachia"
+msgstr "Wallachia"
+
+msgctxt "wallachia_area_adj코0"
+msgid "Wallachian"
+msgstr "Wallachian"
+
+msgctxt "moldavia_area코0"
+msgid "Moldavia"
+msgstr "Moldavia"
+
+msgctxt "moldavia_area_name코0"
+msgid "Moldavia"
+msgstr "Moldavia"
+
+msgctxt "moldavia_area_adj코0"
+msgid "Moldavian"
+msgstr "Moldavian"
+
+msgctxt "transylvania_area코1"
+msgid "Northern Transylvania"
+msgstr "Northern Transylvania"
+
+msgctxt "transylvania_area_name코0"
+msgid "Transylvania"
+msgstr "Transylvania"
+
+msgctxt "transylvania_area_adj코0"
+msgid "Transylvanian"
+msgstr "Transylvanian"
+
+msgctxt "southern_transylvania_area코0"
+msgid "Southern Transylvania"
+msgstr "Southern Transylvania"
+
+msgctxt "southern_transylvania_area_name코0"
+msgid "Kiralyföld"
+msgstr "Kiralyfold"
+
+msgctxt "southern_transylvania_area_adj코0"
+msgid "Kirali"
+msgstr "Kirali"
+
+msgctxt "slovakia_area코0"
+msgid "Slovakia"
+msgstr "Slovakia"
+
+msgctxt "slovakia_area_name코0"
+msgid "Slovakia"
+msgstr "Slovakia"
+
+msgctxt "slovakia_area_adj코0"
+msgid "Slovakian"
+msgstr "Slovakian"
+
+msgctxt "serbia_area코0"
+msgid "Serbia"
+msgstr "Serbia"
+
+msgctxt "serbia_area_name코0"
+msgid "Serbia"
+msgstr "Serbia"
+
+msgctxt "serbia_area_adj코0"
+msgid "Serbian"
+msgstr "Serbian"
+
+msgctxt "rascia_area코0"
+msgid "Rascia"
+msgstr "Rascia"
+
+msgctxt "rascia_area_name코0"
+msgid "Rascia"
+msgstr "Rascia"
+
+msgctxt "rascia_area_adj코0"
+msgid "Rascian"
+msgstr "Rascian"
+
+msgctxt "albania_area코0"
+msgid "Albania"
+msgstr "Albania"
+
+msgctxt "albania_area_name코0"
+msgid "Albania"
+msgstr "Albania"
+
+msgctxt "albania_area_adj코0"
+msgid "Albanian"
+msgstr "Albanian"
+
+msgctxt "bosnia_area코0"
+msgid "Bosnia"
+msgstr "Bosnia"
+
+msgctxt "bosnia_area_name코0"
+msgid "Bosnia"
+msgstr "Bosnia"
+
+msgctxt "bosnia_area_adj코0"
+msgid "Bosnian"
+msgstr "Bosnian"
+
+msgctxt "croatia_area코0"
+msgid "Croatia"
+msgstr "Croatia"
+
+msgctxt "croatia_area_name코0"
+msgid "Croatia"
+msgstr "Croatia"
+
+msgctxt "croatia_area_adj코0"
+msgid "Croatian"
+msgstr "Croatian"
+
+msgctxt "east_adriatic_coast_area코0"
+msgid "East Adriatic"
+msgstr "East Adriatic"
+
+msgctxt "east_adriatic_coast_area_name코0"
+msgid "Dalmatia"
+msgstr "Dalmatia"
+
+msgctxt "east_adriatic_coast_area_adj코0"
+msgid "Dalmatian"
+msgstr "Dalmatian"
+
+msgctxt "alfold_area코0"
+msgid "Alföld"
+msgstr "Alfold"
+
+msgctxt "alfold_area_name코0"
+msgid "Debrecen"
+msgstr "Debrecen"
+
+msgctxt "alfold_area_adj코0"
+msgid "Debrecian"
+msgstr "Debrecian"
+
+msgctxt "transdanubia_area코0"
+msgid "Transdanubia"
+msgstr "Transdanubia"
+
+msgctxt "transdanubia_area_name코0"
+msgid "Transdanubia"
+msgstr "Transdanubia"
+
+msgctxt "transdanubia_area_adj코0"
+msgid "Transdanubian"
+msgstr "Transdanubian"
+
+msgctxt "georgia_area코0"
+msgid "Georgia"
+msgstr "Georgia"
+
+msgctxt "georgia_area_name코0"
+msgid "Georgia"
+msgstr "Georgia"
+
+msgctxt "georgia_area_adj코0"
+msgid "Georgian"
+msgstr "Georgian"
+
+msgctxt "odishi_area코0"
+msgid "Odishi"
+msgstr "Odishi"
+
+msgctxt "odishi_area_name코0"
+msgid "Imereti"
+msgstr "Imereti"
+
+msgctxt "odishi_area_adj코0"
+msgid "Imeretian"
+msgstr "Imeretian"
+
+msgctxt "armenia_area코0"
+msgid "Armenia"
+msgstr "Armenia"
+
+msgctxt "armenia_area_name코0"
+msgid "Armenia"
+msgstr "Armenia"
+
+msgctxt "armenia_area_adj코0"
+msgid "Armenian"
+msgstr "Armenian"
+
+msgctxt "north_kurdistan_area코1"
+msgid "Kurdistan"
+msgstr "Kurdistan"
+
+msgctxt "north_kurdistan_area_name코0"
+msgid "Kurdistan"
+msgstr "Kurdistan"
+
+msgctxt "north_kurdistan_area_adj코0"
+msgid "Kurdistani"
+msgstr "Kurdistani"
+
+msgctxt "shirvan_area코0"
+msgid "Shirvan"
+msgstr "Shirvan"
+
+msgctxt "shirvan_area_name코0"
+msgid "Shirvan"
+msgstr "Shirvan"
+
+msgctxt "shirvan_area_adj코0"
+msgid "Shirvani"
+msgstr "Shirvani"
+
+msgctxt "circassia_area코0"
+msgid "Circassia"
+msgstr "Circassia"
+
+msgctxt "circassia_area_name코0"
+msgid "Circassia"
+msgstr "Circassia"
+
+msgctxt "circassia_area_adj코0"
+msgid "Circassian"
+msgstr "Circassian"
+
+msgctxt "dagestan_area코0"
+msgid "Dagestan"
+msgstr "Dagestan"
+
+msgctxt "dagestan_area_name코0"
+msgid "Dagestan"
+msgstr "Dagestan"
+
+msgctxt "dagestan_area_adj코0"
+msgid "Dagestanian"
+msgstr "Dagestanian"
+
+msgctxt "rum_area코0"
+msgid "Rum"
+msgstr "Rum"
+
+msgctxt "rum_area_name코0"
+msgid "Rum"
+msgstr "Rum"
+
+msgctxt "rum_area_adj코0"
+msgid "Ruman"
+msgstr "Ruman"
+
+msgctxt "erzurum_area코0"
+msgid "Erzurum"
+msgstr "Erzurum"
+
+msgctxt "erzurum_area_name코0"
+msgid "Erzurum"
+msgstr "Erzurum"
+
+msgctxt "erzurum_area_adj코0"
+msgid "Erzurumian"
+msgstr "Erzurumian"
+
+msgctxt "karaman_area코0"
+msgid "Karaman"
+msgstr "Karaman"
+
+msgctxt "karaman_area_name코0"
+msgid "Karaman"
+msgstr "Karaman"
+
+msgctxt "karaman_area_adj코0"
+msgid "Karamani"
+msgstr "Karamani"
+
+msgctxt "hudavendigar_area코0"
+msgid "Hüdavendigar"
+msgstr "Hudavendigar"
+
+msgctxt "hudavendigar_area_name코1"
+msgid "Bursa"
+msgstr "Bursa"
+
+msgctxt "hudavendigar_area_adj코1"
+msgid "Bursan"
+msgstr "Bursan"
+
+msgctxt "aydin_area코0"
+msgid "Aydin"
+msgstr "Aydin"
+
+msgctxt "aydin_area_name코0"
+msgid "Aydin"
+msgstr "Aydin"
+
+msgctxt "aydin_area_adj코0"
+msgid "Aydini"
+msgstr "Aydini"
+
+msgctxt "kastamonu_area코1"
+msgid "Karadeniz"
+msgstr "Karadeniz"
+
+msgctxt "kastamonu_area_name코0"
+msgid "Kastamon"
+msgstr "Kastamon"
+
+msgctxt "kastamonu_area_adj코0"
+msgid "Kastamoni"
+msgstr "Kastamoni"
+
+msgctxt "aleppo_area코0"
+msgid "Aleppo"
+msgstr "Aleppo"
+
+msgctxt "aleppo_area_name코0"
+msgid "Cukurova"
+msgstr "Cukurova"
+
+msgctxt "aleppo_area_adj코0"
+msgid "Cukurovan"
+msgstr "Cukurovan"
+
+msgctxt "syria_area코0"
+msgid "Syria"
+msgstr "Syria"
+
+msgctxt "syria_area_name코0"
+msgid "Syria"
+msgstr "Syria"
+
+msgctxt "syria_area_adj코0"
+msgid "Syrian"
+msgstr "Syrian"
+
+msgctxt "palestine_area코0"
+msgid "Palestine"
+msgstr "Palestine"
+
+msgctxt "palestine_area_name코0"
+msgid "Palestine"
+msgstr "Palestine"
+
+msgctxt "palestine_area_adj코0"
+msgid "Palestinian"
+msgstr "Palestinian"
+
+msgctxt "dulkadir_area코0"
+msgid "Dulkadir"
+msgstr "Dulkadir"
+
+msgctxt "dulkadir_area_name코0"
+msgid "Dulkadir"
+msgstr "Dulkadir"
+
+msgctxt "dulkadir_area_adj코0"
+msgid "Dulkadiri"
+msgstr "Dulkadiri"
+
+msgctxt "eastern_mediterrenean_islands_area코0"
+msgid "Eastern Mediterranean Islands"
+msgstr "Eastern Mediterranean Islands"
+
+msgctxt "eastern_mediterrenean_islands_area_name코0"
+msgid "Rhodes"
+msgstr "Rhodes"
+
+msgctxt "eastern_mediterrenean_islands_area_adj코0"
+msgid "Rhodian"
+msgstr "Rhodian"
+
+msgctxt "eastern_aegean_area코0"
+msgid "Eastern Aegean"
+msgstr "Eastern Aegean"
+
+msgctxt "eastern_aegean_area_name코0"
+msgid "Lesbos"
+msgstr "Lesbos"
+
+msgctxt "eastern_aegean_area_adj코0"
+msgid "Lesbian"
+msgstr "Lesbian"
+
+msgctxt "western_aegean_area코0"
+msgid "Western Aegean"
+msgstr "Western Aegean"
+
+msgctxt "western_aegean_area_name코0"
+msgid "Euboea"
+msgstr "Euboea"
+
+msgctxt "western_aegean_area_adj코0"
+msgid "Euboean"
+msgstr "Euboean"
+
+msgctxt "rakka_area코0"
+msgid "Rakka"
+msgstr "Rakka"
+
+msgctxt "rakka_area_name코0"
+msgid "Rakka"
+msgstr "Rakka"
+
+msgctxt "rakka_area_adj코0"
+msgid "Rakkan"
+msgstr "Rakkan"
+
+msgctxt "al_jazira_area코0"
+msgid "Al Jazira"
+msgstr "Al Jazira"
+
+msgctxt "al_jazira_area_name코0"
+msgid "Al Jazira"
+msgstr "Al Jazira"
+
+msgctxt "al_jazira_area_adj코0"
+msgid "Al Jaziran"
+msgstr "Al Jaziran"
+
+msgctxt "iraq_arabi_area코0"
+msgid "Iraq Arabi"
+msgstr "Iraq Arabi"
+
+msgctxt "iraq_arabi_area_name코0"
+msgid "Iraq"
+msgstr "Iraq"
+
+msgctxt "iraq_arabi_area_adj코0"
+msgid "Iraqi"
+msgstr "Iraqi"
+
+msgctxt "basra_area코0"
+msgid "Basra"
+msgstr "Basra"
+
+msgctxt "basra_area_name코0"
+msgid "Basra"
+msgstr "Basra"
+
+msgctxt "basra_area_adj코0"
+msgid "Basran"
+msgstr "Basran"
+
+msgctxt "south_kurdistan_area코0"
+msgid "South Kurdistan"
+msgstr "South Kurdistan"
+
+msgctxt "south_kurdistan_area_name코0"
+msgid "Shahrizor"
+msgstr "Shahrizor"
+
+msgctxt "south_kurdistan_area_adj코0"
+msgid "Shahrizorian"
+msgstr "Shahrizorian"
+
+msgctxt "bahrain_area코0"
+msgid "Bahrain"
+msgstr "Bahrain"
+
+msgctxt "bahrain_area_name코0"
+msgid "Bahrain"
+msgstr "Bahrain"
+
+msgctxt "bahrain_area_adj코0"
+msgid "Bahraini"
+msgstr "Bahraini"
+
+msgctxt "sarat_area코0"
+msgid "Sarat"
+msgstr "Sarat"
+
+msgctxt "sarat_area_name코0"
+msgid "Sarat"
+msgstr "Sarat"
+
+msgctxt "sarat_area_adj코0"
+msgid "Sarati"
+msgstr "Sarati"
+
+msgctxt "pirate_coast_area코0"
+msgid "Pirate Coast"
+msgstr "Pirate Coast"
+
+msgctxt "pirate_coast_area_adj코0"
+msgid "Bani Yas"
+msgstr "Bani Yas"
+
+msgctxt "pirate_coast_area_name코0"
+msgid "Bani Yas"
+msgstr "Bani Yas"
+
+msgctxt "yamamah_area코0"
+msgid "al-Yamamah"
+msgstr "al-Yamamah"
+
+msgctxt "yamamah_area_name코0"
+msgid "Najd"
+msgstr "Najd"
+
+msgctxt "yamamah_area_adj코0"
+msgid "Najdi"
+msgstr "Najdi"
+
+msgctxt "qasim_area코0"
+msgid "al-Qasim"
+msgstr "al-Qasim"
+
+msgctxt "qasim_area_name코0"
+msgid "Qasim"
+msgstr "Qasim"
+
+msgctxt "qasim_area_adj코0"
+msgid "Qasimi"
+msgstr "Qasimi"
+
+msgctxt "hejaz_area코0"
+msgid "Hejaz"
+msgstr "Hejaz"
+
+msgctxt "hejaz_area_name코0"
+msgid "Hejaz"
+msgstr "Hejaz"
+
+msgctxt "hejaz_area_adj코0"
+msgid "Hejazi"
+msgstr "Hejazi"
+
+msgctxt "tabuk_area코0"
+msgid "Tabuk"
+msgstr "Tabuk"
+
+msgctxt "tabuk_area_name코0"
+msgid "Tabuk"
+msgstr "Tabuk"
+
+msgctxt "tabuk_area_adj코0"
+msgid "Tabukian"
+msgstr "Tabukian"
+
+msgctxt "yemen_area코1"
+msgid "Lower Yemen"
+msgstr "Lower Yemen"
+
+msgctxt "yemen_area_name코0"
+msgid "Yemen"
+msgstr "Yemen"
+
+msgctxt "yemen_area_adj코0"
+msgid "Yemen"
+msgstr "Yemen"
+
+msgctxt "hadramut_area코0"
+msgid "Hadramut"
+msgstr "Hadramut"
+
+msgctxt "hadramut_area_name코0"
+msgid "Hadramut"
+msgstr "Hadramut"
+
+msgctxt "hadramut_area_adj코0"
+msgid "Hadramut"
+msgstr "Hadramut"
+
+msgctxt "dhofar_area코0"
+msgid "Dhofar"
+msgstr "Dhofar"
+
+msgctxt "dhofar_area_name코0"
+msgid "Dhofar"
+msgstr "Dhofar"
+
+msgctxt "dhofar_area_adj코0"
+msgid "Dhofari"
+msgstr "Dhofari"
+
+msgctxt "oman_area코0"
+msgid "Oman"
+msgstr "Oman"
+
+msgctxt "oman_area_name코0"
+msgid "Oman"
+msgstr "Oman"
+
+msgctxt "oman_area_adj코0"
+msgid "Omani"
+msgstr "Omani"
+
+msgctxt "gharbia_area코0"
+msgid "Gharbia"
+msgstr "Gharbia"
+
+msgctxt "gharbia_area_name코0"
+msgid "Alexandria"
+msgstr "Alexandria"
+
+msgctxt "gharbia_area_adj코0"
+msgid "Alexandrian"
+msgstr "Alexandrian"
+
+msgctxt "sharqiya_area코0"
+msgid "Sharqiya"
+msgstr "Sharqiya"
+
+msgctxt "sharqiya_area_name코0"
+msgid "Sinai"
+msgstr "Sinai"
+
+msgctxt "sharqiya_area_adj코0"
+msgid "Sinaian"
+msgstr "Sinaian"
+
+msgctxt "central_egypt_area코0"
+msgid "Central Egypt"
+msgstr "Central Egypt"
+
+msgctxt "central_egypt_area_name코0"
+msgid "Egypt"
+msgstr "Egypt"
+
+msgctxt "central_egypt_area_adj코0"
+msgid "Egyptian"
+msgstr "Egyptian"
+
+msgctxt "upper_egypt_area코0"
+msgid "Upper Egypt"
+msgstr "Upper Egypt"
+
+msgctxt "upper_egypt_area_name코0"
+msgid "Aswan"
+msgstr "Aswan"
+
+msgctxt "upper_egypt_area_adj코0"
+msgid "Aswani"
+msgstr "Aswani"
+
+msgctxt "libyan_desert_area코0"
+msgid "Libyan Desert"
+msgstr "Libyan Desert"
+
+msgctxt "libyan_desert_area_name코0"
+msgid "Kharga"
+msgstr "Kharga"
+
+msgctxt "libyan_desert_area_adj코0"
+msgid "Khargan"
+msgstr "Khargan"
+
+msgctxt "cyrenaica_area코0"
+msgid "Cyrenaica"
+msgstr "Cyrenaica"
+
+msgctxt "cyrenaica_area_name코0"
+msgid "Cyrenaica"
+msgstr "Cyrenaica"
+
+msgctxt "cyrenaica_area_adj코0"
+msgid "Cyrenaican"
+msgstr "Cyrenaican"
+
+msgctxt "tripolitania_area코0"
+msgid "Tripolitania"
+msgstr "Tripolitania"
+
+msgctxt "tripolitania_area_name코0"
+msgid "Tripolitania"
+msgstr "Tripolitania"
+
+msgctxt "tripolitania_area_adj코0"
+msgid "Tripolitanian"
+msgstr "Tripolitanian"
+
+msgctxt "fezzan_area코0"
+msgid "Fezzan"
+msgstr "Fezzan"
+
+msgctxt "fezzan_area_name코0"
+msgid "Fezzan"
+msgstr "Fezzan"
+
+msgctxt "fezzan_area_adj코0"
+msgid "Fezzanian"
+msgstr "Fezzanian"
+
+msgctxt "tunisia_area코0"
+msgid "Tunisia"
+msgstr "Tunisia"
+
+msgctxt "tunisia_area_name코0"
+msgid "Tunisia"
+msgstr "Tunisia"
+
+msgctxt "tunisia_area_adj코0"
+msgid "Tunisian"
+msgstr "Tunisian"
+
+msgctxt "kabylia_area코0"
+msgid "Kabylia"
+msgstr "Kabylia"
+
+msgctxt "kabylia_area_name코0"
+msgid "Kabylia"
+msgstr "Kabylia"
+
+msgctxt "kabylia_area_adj코0"
+msgid "Kabylian"
+msgstr "Kabylian"
+
+msgctxt "algiers_area코0"
+msgid "Algiers"
+msgstr "Algiers"
+
+msgctxt "algiers_area_name코0"
+msgid "Algiers"
+msgstr "Algiers"
+
+msgctxt "algiers_area_adj코0"
+msgid "Algierian"
+msgstr "Algierian"
+
+msgctxt "hautes_plaines_area코0"
+msgid "High Plains"
+msgstr "High Plains"
+
+msgctxt "hautes_plaines_area_name코0"
+msgid "Titteri"
+msgstr "Titteri"
+
+msgctxt "hautes_plaines_area_adj코0"
+msgid "Titterian"
+msgstr "Titterian"
+
+msgctxt "ouled_nail_area코0"
+msgid "Ouled Nail"
+msgstr "Ouled Nail"
+
+msgctxt "ouled_nail_area_name코0"
+msgid "Ouled Nail"
+msgstr "Ouled Nail"
+
+msgctxt "ouled_nail_area_adj코0"
+msgid "Ouled Nail"
+msgstr "Ouled Nail"
+
+msgctxt "djerba_area코0"
+msgid "Djerba"
+msgstr "Djerba"
+
+msgctxt "djerba_area_name코0"
+msgid "Djerba"
+msgstr "Djerba"
+
+msgctxt "djerba_area_adj코0"
+msgid "Djerban"
+msgstr "Djerban"
+
+msgctxt "north_saharan_area코0"
+msgid "North Sahara"
+msgstr "North Sahara"
+
+msgctxt "north_saharan_area_name코0"
+msgid "Djerid"
+msgstr "Djerid"
+
+msgctxt "north_saharan_area_adj코0"
+msgid "Djeridian"
+msgstr "Djeridian"
+
+msgctxt "tafilalt_area코0"
+msgid "Tafilalt"
+msgstr "Tafilalt"
+
+msgctxt "tafilalt_area_name코0"
+msgid "Tafilalt"
+msgstr "Tafilalt"
+
+msgctxt "tafilalt_area_adj코0"
+msgid "Tafilalt"
+msgstr "Tafilalt"
+
+msgctxt "sus_area코0"
+msgid "Sus"
+msgstr "Sus"
+
+msgctxt "sus_area_name코0"
+msgid "Sus"
+msgstr "Sus"
+
+msgctxt "sus_area_adj코0"
+msgid "Sus"
+msgstr "Sus"
+
+msgctxt "marrekesh_area코1"
+msgid "Central Morocco"
+msgstr "Central Morocco"
+
+msgctxt "marrekesh_area_name코0"
+msgid "Marrekesh"
+msgstr "Marrekesh"
+
+msgctxt "marrekesh_area_adj코0"
+msgid "Marrekesh"
+msgstr "Marrekesh"
+
+msgctxt "western_morocco_area코0"
+msgid "Gharb"
+msgstr "Gharb"
+
+msgctxt "western_morocco_area_name코0"
+msgid "Safi"
+msgstr "Safi"
+
+msgctxt "western_morocco_area_adj코0"
+msgid "Safian"
+msgstr "Safian"
+
+msgctxt "southern_morocco_area코0"
+msgid "Southern Morocco"
+msgstr "Southern Morocco"
+
+msgctxt "southern_morocco_area_name코0"
+msgid "Saadia"
+msgstr "Saadia"
+
+msgctxt "southern_morocco_area_adj코0"
+msgid "Saadian"
+msgstr "Saadian"
+
+msgctxt "fez_area코0"
+msgid "Fez"
+msgstr "Fez"
+
+msgctxt "fez_area_name코0"
+msgid "Fez"
+msgstr "Fez"
+
+msgctxt "fez_area_adj코0"
+msgid "Fez"
+msgstr "Fez"
+
+msgctxt "northern_morocco_area코0"
+msgid "North Morocco"
+msgstr "North Morocco"
+
+msgctxt "northern_morocco_area_name코0"
+msgid "Ceuta"
+msgstr "Ceuta"
+
+msgctxt "northern_morocco_area_adj코0"
+msgid "Ceutan"
+msgstr "Ceutan"
+
+msgctxt "madagascar_area코0"
+msgid "Madagascar"
+msgstr "Madagascar"
+
+msgctxt "madagascar_area_name코0"
+msgid "Madagascar"
+msgstr "Madagascar"
+
+msgctxt "madagascar_area_adj코0"
+msgid "Madagascan"
+msgstr "Madagascan"
+
+msgctxt "bunyoro_area코0"
+msgid "Bunyoro"
+msgstr "Bunyoro"
+
+msgctxt "bunyoro_area_name코0"
+msgid "Bunyoro"
+msgstr "Bunyoro"
+
+msgctxt "bunyoro_area_adj코0"
+msgid "Bunyoran"
+msgstr "Bunyoran"
+
+msgctxt "uganda_area코0"
+msgid "Uganda"
+msgstr "Uganda"
+
+msgctxt "uganda_area_name코0"
+msgid "Uganda"
+msgstr "Uganda"
+
+msgctxt "uganda_area_adj코0"
+msgid "Ugandan"
+msgstr "Ugandan"
+
+msgctxt "rwanda_area코0"
+msgid "Rwanda"
+msgstr "Rwanda"
+
+msgctxt "rwanda_area_name코0"
+msgid "Rwanda"
+msgstr "Rwanda"
+
+msgctxt "rwanda_area_adj코0"
+msgid "Rwandan"
+msgstr "Rwandan"
+
+msgctxt "jubba_area코0"
+msgid "Jubba"
+msgstr "Jubba"
+
+msgctxt "jubba_area_name코0"
+msgid "Jubba"
+msgstr "Jubba"
+
+msgctxt "jubba_area_adj코0"
+msgid "Jubban"
+msgstr "Jubban"
+
+msgctxt "tanzania_area코0"
+msgid "Tanzania"
+msgstr "Tanzania"
+
+msgctxt "tanzania_area_name코0"
+msgid "Tanzania"
+msgstr "Tanzania"
+
+msgctxt "tanzania_area_adj코0"
+msgid "Tanzanian"
+msgstr "Tanzanian"
+
+msgctxt "buha_area코0"
+msgid "Buha"
+msgstr "Buha"
+
+msgctxt "buha_area_name코0"
+msgid "Buha"
+msgstr "Buha"
+
+msgctxt "buha_area_adj코0"
+msgid "Buhan"
+msgstr "Buhan"
+
+msgctxt "buzinza_area코0"
+msgid "Buzinza"
+msgstr "Buzinza"
+
+msgctxt "buzinza_area_name코0"
+msgid "Buzinza"
+msgstr "Buzinza"
+
+msgctxt "buzinza_area_adj코0"
+msgid "Buzinzan"
+msgstr "Buzinzan"
+
+msgctxt "luba_area코0"
+msgid "Luba"
+msgstr "Luba"
+
+msgctxt "luba_area_name코0"
+msgid "Luba"
+msgstr "Luba"
+
+msgctxt "luba_area_adj코0"
+msgid "Luban"
+msgstr "Luban"
+
+msgctxt "katanga_area코0"
+msgid "Shaba"
+msgstr "Shaba"
+
+msgctxt "katanga_area_name코0"
+msgid "Katanga"
+msgstr "Katanga"
+
+msgctxt "katanga_area_adj코0"
+msgid "Katangan"
+msgstr "Katangan"
+
+msgctxt "chokwe_area코0"
+msgid "Chokwe"
+msgstr "Chokwe"
+
+msgctxt "chokwe_area_name코0"
+msgid "Chokwe"
+msgstr "Chokwe"
+
+msgctxt "chokwe_area_adj코0"
+msgid "Chokwan"
+msgstr "Chokwan"
+
+msgctxt "zambia_area코0"
+msgid "Zambia"
+msgstr "Zambia"
+
+msgctxt "zambia_area_name코0"
+msgid "Zambia"
+msgstr "Zambia"
+
+msgctxt "zambia_area_adj코0"
+msgid "Zambian"
+msgstr "Zambian"
+
+msgctxt "lower_zambezi_area코0"
+msgid "Lower Zambezi"
+msgstr "Lower Zambezi"
+
+msgctxt "lower_zambezi_area_name코0"
+msgid "Zambezi"
+msgstr "Zambezi"
+
+msgctxt "lower_zambezi_area_adj코0"
+msgid "Zambezi"
+msgstr "Zambezi"
+
+msgctxt "upper_zambezi_area코0"
+msgid "Upper Zambezi"
+msgstr "Upper Zambezi"
+
+msgctxt "upper_zambezi_area_name코1"
+msgid "Nsenga"
+msgstr "Nsenga"
+
+msgctxt "upper_zambezi_area_adj코1"
+msgid "Nsengan"
+msgstr "Nsengan"
+
+msgctxt "butua_area코0"
+msgid "Butua"
+msgstr "Butua"
+
+msgctxt "butua_area_name코0"
+msgid "Butua"
+msgstr "Butua"
+
+msgctxt "butua_area_adj코0"
+msgid "Butuan"
+msgstr "Butuan"
+
+msgctxt "shire_area코0"
+msgid "Shire"
+msgstr "Shire"
+
+msgctxt "shire_area_name코0"
+msgid "Malawi"
+msgstr "Malawi"
+
+msgctxt "shire_area_adj코0"
+msgid "Malawian"
+msgstr "Malawian"
+
+msgctxt "coastal_kongo코0"
+msgid "Kongolese Coast"
+msgstr "Kongolese Coast"
+
+msgctxt "coastal_kongo_name코0"
+msgid "Soyo"
+msgstr "Soyo"
+
+msgctxt "coastal_kongo_adj코0"
+msgid "Soyoan"
+msgstr "Soyoan"
+
+msgctxt "lower_kasai코0"
+msgid "Lower Kasai"
+msgstr "Lower Kasai"
+
+msgctxt "lower_kasai_name코0"
+msgid "Tyo"
+msgstr "Tyo"
+
+msgctxt "lower_kasai_adj코0"
+msgid "Tyoan"
+msgstr "Tyoan"
+
+msgctxt "sankuru_area코0"
+msgid "Sankuru"
+msgstr "Sankuru"
+
+msgctxt "sankuru_area_adj코0"
+msgid "Sankuru"
+msgstr "Sankuru"
+
+msgctxt "sankuru_area_name코0"
+msgid "Sankuran"
+msgstr "Sankuran"
+
+msgctxt "kasai_area코0"
+msgid "Kasai"
+msgstr "Kasai"
+
+msgctxt "kasai_area_name코0"
+msgid "Kasai"
+msgstr "Kasai"
+
+msgctxt "kasai_area_adj코0"
+msgid "Kasian"
+msgstr "Kasian"
+
+msgctxt "matamba_area코0"
+msgid "Matamba"
+msgstr "Matamba"
+
+msgctxt "matamba_area_name코0"
+msgid "Matamba"
+msgstr "Matamba"
+
+msgctxt "matamba_area_adj코0"
+msgid "Matamban"
+msgstr "Matamban"
+
+msgctxt "ngonde_area코0"
+msgid "Ngonde"
+msgstr "Ngonde"
+
+msgctxt "ngonde_area_adj코0"
+msgid "Ngondian"
+msgstr "Ngondian"
+
+msgctxt "ngonde_area_name코0"
+msgid "Ngonde"
+msgstr "Ngonde"
+
+msgctxt "uticulo_makuana_area코0"
+msgid "Makuana"
+msgstr "Makuana"
+
+msgctxt "uticulo_makuana_area_name코0"
+msgid "Makuana"
+msgstr "Makuana"
+
+msgctxt "uticulo_makuana_area_adj코0"
+msgid "Makuanan"
+msgstr "Makuanan"
+
+msgctxt "ruvuma_area코0"
+msgid "Ruvuma"
+msgstr "Ruvuma"
+
+msgctxt "ruvuma_area_name코0"
+msgid "Ruvuma"
+msgstr "Ruvuma"
+
+msgctxt "ruvuma_area_adj코0"
+msgid "Ruvuman"
+msgstr "Ruvuman"
+
+msgctxt "zimbabwe_area코0"
+msgid "Zimbabwe"
+msgstr "Zimbabwe"
+
+msgctxt "zimbabwe_area_name코0"
+msgid "Zimbabwe"
+msgstr "Zimbabwe"
+
+msgctxt "zimbabwe_area_adj코0"
+msgid "Zimbabwean"
+msgstr "Zimbabwean"
+
+msgctxt "mozambique_area코0"
+msgid "Mozambique"
+msgstr "Mozambique"
+
+msgctxt "mozambique_area_name코0"
+msgid "Mozambique"
+msgstr "Mozambique"
+
+msgctxt "mozambique_area_adj코0"
+msgid "Mozambique"
+msgstr "Mozambique"
+
+msgctxt "central_swahili_coast_area코0"
+msgid "Central Swahili Coast"
+msgstr "Central Swahili Coast"
+
+msgctxt "central_swahili_coast_area_name코0"
+msgid "Zanzibar"
+msgstr "Zanzibar"
+
+msgctxt "central_swahili_coast_area_adj코0"
+msgid "Zanzibari"
+msgstr "Zanzibari"
+
+msgctxt "mombasa_area코0"
+msgid "Mombasa"
+msgstr "Mombasa"
+
+msgctxt "mombasa_area_name코0"
+msgid "Mombasa"
+msgstr "Mombasa"
+
+msgctxt "mombasa_area_adj코0"
+msgid "Mombasan"
+msgstr "Mombasan"
+
+msgctxt "northern_swahili_coast_area코0"
+msgid "Northern Swahili Coast"
+msgstr "Northern Swahili Coast"
+
+msgctxt "northern_swahili_coast_area_name코1"
+msgid "Pate"
+msgstr "Pate"
+
+msgctxt "northern_swahili_coast_area_adj코1"
+msgid "Pati"
+msgstr "Pati"
+
+msgctxt "east_african_islands_area코0"
+msgid "East African Islands"
+msgstr "East African Islands"
+
+msgctxt "east_african_islands_area_name코0"
+msgid "Kilwa"
+msgstr "Kilwa"
+
+msgctxt "east_african_islands_area_adj코0"
+msgid "Kilwan"
+msgstr "Kilwan"
+
+msgctxt "ogaden_area코0"
+msgid "Ogaden"
+msgstr "Ogaden"
+
+msgctxt "ogaden_area_name코0"
+msgid "Ogaden"
+msgstr "Ogaden"
+
+msgctxt "ogaden_area_adj코0"
+msgid "Ogadeni"
+msgstr "Ogadeni"
+
+msgctxt "darfur_central_sahara_area코0"
+msgid "Central Sahara"
+msgstr "Central Sahara"
+
+msgctxt "darfur_central_sahara_area_name코0"
+msgid "Darfur"
+msgstr "Darfur"
+
+msgctxt "darfur_central_sahara_area_adj코0"
+msgid "Darfuran"
+msgstr "Darfuran"
+
+msgctxt "kurdufan_area코0"
+msgid "Kurdufan"
+msgstr "Kurdufan"
+
+msgctxt "kurdufan_area_name코0"
+msgid "Kurdufan"
+msgstr "Kurdufan"
+
+msgctxt "kurdufan_area_adj코0"
+msgid "Kurdufani"
+msgstr "Kurdufani"
+
+msgctxt "lower_nubia_area코0"
+msgid "Lower Nubia"
+msgstr "Lower Nubia"
+
+msgctxt "lower_nubia_area_name코0"
+msgid "Nubia"
+msgstr "Nubia"
+
+msgctxt "lower_nubia_area_adj코0"
+msgid "Nubian"
+msgstr "Nubian"
+
+msgctxt "sennar_area코0"
+msgid "Sennar"
+msgstr "Sennar"
+
+msgctxt "sennar_area_name코0"
+msgid "Sennar"
+msgstr "Sennar"
+
+msgctxt "sennar_area_adj코0"
+msgid "Sennari"
+msgstr "Sennari"
+
+msgctxt "dongola_area코0"
+msgid "Dongola"
+msgstr "Dongola"
+
+msgctxt "dongola_area_name코0"
+msgid "Dongola"
+msgstr "Dongola"
+
+msgctxt "dongola_area_adj코0"
+msgid "Dongolan"
+msgstr "Dongolan"
+
+msgctxt "upper_nubia_area코0"
+msgid "Upper Nubia"
+msgstr "Upper Nubia"
+
+msgctxt "upper_nubia_area_name코0"
+msgid "Alodia"
+msgstr "Alodia"
+
+msgctxt "upper_nubia_area_adj코0"
+msgid "Alodian"
+msgstr "Alodian"
+
+msgctxt "red_sea_coast_area코0"
+msgid "Red Sea Coast"
+msgstr "Red Sea Coast"
+
+msgctxt "red_sea_coast_area_name코0"
+msgid "Medri Bahri"
+msgstr "Medri Bahri"
+
+msgctxt "red_sea_coast_area_adj코0"
+msgid "Medri Bahrian"
+msgstr "Medri Bahrian"
+
+msgctxt "aussa_area코0"
+msgid "Aussa"
+msgstr "Aussa"
+
+msgctxt "aussa_area_name코0"
+msgid "Aussa"
+msgstr "Aussa"
+
+msgctxt "aussa_area_adj코0"
+msgid "Aussan"
+msgstr "Aussan"
+
+msgctxt "tigray_area코0"
+msgid "Tigray"
+msgstr "Tigray"
+
+msgctxt "tigray_area_name코0"
+msgid "Tigray"
+msgstr "Tigray"
+
+msgctxt "tigray_area_adj코0"
+msgid "Tigray"
+msgstr "Tigray"
+
+msgctxt "damot_area코0"
+msgid "Damot"
+msgstr "Damot"
+
+msgctxt "damot_area_name코0"
+msgid "Damot"
+msgstr "Damot"
+
+msgctxt "damot_area_adj코0"
+msgid "Damotian"
+msgstr "Damotian"
+
+msgctxt "shewa_area코0"
+msgid "Shewa"
+msgstr "Shewa"
+
+msgctxt "shewa_area_name코0"
+msgid "Shewa"
+msgstr "Shewa"
+
+msgctxt "shewa_area_adj코0"
+msgid "Shewan"
+msgstr "Shewan"
+
+msgctxt "bete_amhara_area코1"
+msgid "Bete Amhara"
+msgstr "Bete Amhara"
+
+msgctxt "ifat_area코0"
+msgid "Ifat"
+msgstr "Ifat"
+
+msgctxt "ifat_area_name코0"
+msgid "Ifat"
+msgstr "Ifat"
+
+msgctxt "ifat_area_adj코0"
+msgid "Ifati"
+msgstr "Ifati"
+
+msgctxt "somaliland_area코0"
+msgid "Somaliland"
+msgstr "Somaliland"
+
+msgctxt "somaliland_area_name코0"
+msgid "Somaliland"
+msgstr "Somaliland"
+
+msgctxt "somaliland_area_adj코0"
+msgid "Somali"
+msgstr "Somali"
+
+msgctxt "southern_ethiopia_area코0"
+msgid "Kaffa"
+msgstr "Kaffa"
+
+msgctxt "southern_ethiopia_area_name코0"
+msgid "Kaffa"
+msgstr "Kaffa"
+
+msgctxt "southern_ethiopia_area_adj코0"
+msgid "Kaffa"
+msgstr "Kaffa"
+
+msgctxt "hadiya_area코0"
+msgid "Hadiya"
+msgstr "Hadiya"
+
+msgctxt "hadiya_area_name코0"
+msgid "Hadiya"
+msgstr "Hadiya"
+
+msgctxt "hadiya_area_adj코0"
+msgid "Hadiyan"
+msgstr "Hadiyan"
+
+msgctxt "central_ethiopia_area코0"
+msgid "Central Ethiopia"
+msgstr "Central Ethiopia"
+
+msgctxt "central_ethiopia_area_name코0"
+msgid "Ethiopia"
+msgstr "Ethiopia"
+
+msgctxt "central_ethiopia_area_adj코0"
+msgid "Ethiopian"
+msgstr "Ethiopian"
+
+msgctxt "mogadishu_area코0"
+msgid "Mogadishu"
+msgstr "Mogadishu"
+
+msgctxt "mogadishu_area_name코0"
+msgid "Mogadishu"
+msgstr "Mogadishu"
+
+msgctxt "mogadishu_area_adj코0"
+msgid "Mogadishuan"
+msgstr "Mogadishuan"
+
+msgctxt "ajuuran_area코0"
+msgid "Ajuuraan"
+msgstr "Ajuuraan"
+
+msgctxt "ajuuran_area_name코0"
+msgid "Ajuuraan"
+msgstr "Ajuuraan"
+
+msgctxt "ajuuran_area_adj코0"
+msgid "Ajuuraani"
+msgstr "Ajuuraani"
+
+msgctxt "majarteen_area코0"
+msgid "Majeerteen"
+msgstr "Majeerteen"
+
+msgctxt "majarteen_area_name코0"
+msgid "Majeerteen"
+msgstr "Majeerteen"
+
+msgctxt "majarteen_area_adj코0"
+msgid "Majeerteeni"
+msgstr "Majeerteeni"
+
+msgctxt "mascarenes_area코0"
+msgid "Mascarenes"
+msgstr "Mascarenes"
+
+msgctxt "mascarenes_area_name코0"
+msgid "Mascarenes"
+msgstr "Mascarenes"
+
+msgctxt "mascarenes_area_adj코0"
+msgid "Mascareni"
+msgstr "Mascareni"
+
+msgctxt "indian_ocean_islands_area코0"
+msgid "Indian Ocean Islands"
+msgstr "Indian Ocean Islands"
+
+msgctxt "indian_ocean_islands_area_name코0"
+msgid "Maldives"
+msgstr "Maldives"
+
+msgctxt "indian_ocean_islands_area_adj코0"
+msgid "Maldivian"
+msgstr "Maldivian"
+
+msgctxt "vogelkop_area코0"
+msgid "Vogelkop Peninsula"
+msgstr "Vogelkop Peninsula"
+
+msgctxt "vogelkop_area_name코0"
+msgid "Vogelkop"
+msgstr "Vogelkop"
+
+msgctxt "vogelkop_area_adj코0"
+msgid "Vogelkopian"
+msgstr "Vogelkopian"
+
+msgctxt "papua_area코1"
+msgid "Papuan Peninsula"
+msgstr "Papuan Peninsula"
+
+msgctxt "papua_area_name코0"
+msgid "Papua"
+msgstr "Papua"
+
+msgctxt "papua_area_adj코0"
+msgid "Papuan"
+msgstr "Papuan"
+
+msgctxt "melanesia_area코0"
+msgid "Melanesia"
+msgstr "Melanesia"
+
+msgctxt "melanesia_area_name코0"
+msgid "Melanesia"
+msgstr "Melanesia"
+
+msgctxt "melanesia_area_adj코0"
+msgid "Melanesian"
+msgstr "Melanesian"
+
+msgctxt "west_micronesia_area코0"
+msgid "West Micronesia"
+msgstr "West Micronesia"
+
+msgctxt "west_micronesia_area_name코0"
+msgid "Palau"
+msgstr "Palau"
+
+msgctxt "west_micronesia_area_adj코0"
+msgid "Palauan"
+msgstr "Palauan"
+
+msgctxt "micronesia_area코1"
+msgid "East Micronesia"
+msgstr "East Micronesia"
+
+msgctxt "micronesia_area_name코0"
+msgid "Micronesia"
+msgstr "Micronesia"
+
+msgctxt "micronesia_area_adj코0"
+msgid "Micronesian"
+msgstr "Micronesian"
+
+msgctxt "western_australia_area코0"
+msgid "Western Australia"
+msgstr "Western Australia"
+
+msgctxt "western_australia_area_name코0"
+msgid "Perth"
+msgstr "Perth"
+
+msgctxt "western_australia_area_adj코0"
+msgid "Perthian"
+msgstr "Perthian"
+
+msgctxt "top_end_area코0"
+msgid "Top End"
+msgstr "Top End"
+
+msgctxt "top_end_area_name코0"
+msgid "Australia"
+msgstr "Australia"
+
+msgctxt "top_end_area_adj코0"
+msgid "Australian"
+msgstr "Australian"
+
+msgctxt "northern_australia_area코0"
+msgid "Northern Australia"
+msgstr "Northern Australia"
+
+msgctxt "northern_australia_area_name코1"
+msgid "Baiali"
+msgstr "Baiali"
+
+msgctxt "northern_australia_area_adj코1"
+msgid "Baiali"
+msgstr "Baiali"
+
+msgctxt "eastern_australia_area코0"
+msgid "Eastern Australia"
+msgstr "Eastern Australia"
+
+msgctxt "eastern_australia_area_name코0"
+msgid "Queensland"
+msgstr "Queensland"
+
+msgctxt "eastern_australia_area_adj코0"
+msgid "Queenslandian"
+msgstr "Queenslandian"
+
+msgctxt "murray_river_area코0"
+msgid "Murray River"
+msgstr "Murray River"
+
+msgctxt "murray_river_area_name코0"
+msgid "Wergaia"
+msgstr "Wergaia"
+
+msgctxt "murray_river_area_adj코0"
+msgid "Wergaian"
+msgstr "Wergaian"
+
+msgctxt "southern_australia_area코0"
+msgid "Southern Australia"
+msgstr "Southern Australia"
+
+msgctxt "southern_australia_area_name코0"
+msgid "Victoria"
+msgstr "Victoria"
+
+msgctxt "southern_australia_area_adj코0"
+msgid "Victorian"
+msgstr "Victorian"
+
+msgctxt "eastern_polynesia_area코0"
+msgid "Eastern Polynesia"
+msgstr "Eastern Polynesia"
+
+msgctxt "eastern_polynesia_area_name코0"
+msgid "Tahiti"
+msgstr "Tahiti"
+
+msgctxt "eastern_polynesia_area_adj코0"
+msgid "Tahitian"
+msgstr "Tahitian"
+
+msgctxt "northern_polynesia_area코0"
+msgid "Northern Polynesia"
+msgstr "Northern Polynesia"
+
+msgctxt "northern_polynesia_area_name코0"
+msgid "Hawaii"
+msgstr "Hawaii"
+
+msgctxt "northern_polynesia_area_adj코0"
+msgid "Hawaiian"
+msgstr "Hawaiian"
+
+msgctxt "polynesia_area코0"
+msgid "Polynesia"
+msgstr "Polynesia"
+
+msgctxt "polynesia_area_name코0"
+msgid "Polynesia"
+msgstr "Polynesia"
+
+msgctxt "polynesia_area_adj코0"
+msgid "Polynesian"
+msgstr "Polynesian"
+
+msgctxt "te_ika_a_maui_area코0"
+msgid "Te Ika a Maui"
+msgstr "Te Ika a Maui"
+
+msgctxt "te_ika_a_maui_area_name코0"
+msgid "Te Ika a Maui"
+msgstr "Te Ika a Maui"
+
+msgctxt "te_ika_a_maui_area_adj코0"
+msgid "Maori"
+msgstr "Maori"
+
+msgctxt "te_waipounamu_area코0"
+msgid "Te Waipounamu"
+msgstr "Te Waipounamu"
+
+msgctxt "te_waipounamu_area_name코0"
+msgid "Te Waipounamu"
+msgstr "Te Waipounamu"
+
+msgctxt "te_waipounamu_area_adj코0"
+msgid "Maoiri"
+msgstr "Maoiri"
+
+msgctxt "western_sahara_area코0"
+msgid "Western Sahara"
+msgstr "Western Sahara"
+
+msgctxt "western_sahara_area_name코0"
+msgid "Azawad"
+msgstr "Azawad"
+
+msgctxt "western_sahara_area_adj코0"
+msgid "Azawadi"
+msgstr "Azawadi"
+
+msgctxt "cap_verde_area코0"
+msgid "Cap Verde"
+msgstr "Cap Verde"
+
+msgctxt "cap_verde_area_name코0"
+msgid "Cap Verde"
+msgstr "Cap Verde"
+
+msgctxt "cap_verde_area_adj코0"
+msgid "Cap Verdian"
+msgstr "Cap Verdian"
+
+msgctxt "jolof_area코0"
+msgid "Jolof"
+msgstr "Jolof"
+
+msgctxt "jolof_area_name코0"
+msgid "Jolof"
+msgstr "Jolof"
+
+msgctxt "jolof_area_adj코0"
+msgid "Jolofian"
+msgstr "Jolofian"
+
+msgctxt "tekrur_area코0"
+msgid "Tekrur"
+msgstr "Tekrur"
+
+msgctxt "tekrur_area_name코0"
+msgid "Tekrur"
+msgstr "Tekrur"
+
+msgctxt "tekrur_area_adj코0"
+msgid "Tekruri"
+msgstr "Tekruri"
+
+msgctxt "baghena_area코0"
+msgid "Baghena"
+msgstr "Baghena"
+
+msgctxt "baghena_area_name코0"
+msgid "Baghena"
+msgstr "Baghena"
+
+msgctxt "baghena_area_adj코0"
+msgid "Baghenan"
+msgstr "Baghenan"
+
+msgctxt "manding_area코0"
+msgid "Manding"
+msgstr "Manding"
+
+msgctxt "manding_area_name코0"
+msgid "Manding"
+msgstr "Manding"
+
+msgctxt "manding_area_adj코0"
+msgid "Mandingi"
+msgstr "Mandingi"
+
+msgctxt "futa_jallon_area코0"
+msgid "Futa Jallon"
+msgstr "Futa Jallon"
+
+msgctxt "futa_jallon_area_name코0"
+msgid "Futa Jallon"
+msgstr "Futa Jallon"
+
+msgctxt "futa_jallon_area_adj코0"
+msgid "Futa Jalloni"
+msgstr "Futa Jalloni"
+
+msgctxt "jenne_area코0"
+msgid "Jenne"
+msgstr "Jenne"
+
+msgctxt "jenne_area_name코0"
+msgid "Jenne"
+msgstr "Jenne"
+
+msgctxt "jenne_area_adj코0"
+msgid "Jennean"
+msgstr "Jennean"
+
+msgctxt "massina_area코0"
+msgid "Massina"
+msgstr "Massina"
+
+msgctxt "massina_area_name코0"
+msgid "Macina"
+msgstr "Macina"
+
+msgctxt "massina_area_adj코0"
+msgid "Macina"
+msgstr "Macina"
+
+msgctxt "niger_bend_area코0"
+msgid "Niger Bend"
+msgstr "Niger Bend"
+
+msgctxt "niger_bend_area_name코0"
+msgid "Timbuktu"
+msgstr "Timbuktu"
+
+msgctxt "niger_bend_area_adj코0"
+msgid "Timbuktuan"
+msgstr "Timbuktuan"
+
+msgctxt "upper_volta_area코0"
+msgid "Upper Volta"
+msgstr "Upper Volta"
+
+msgctxt "upper_volta_area_name코0"
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+
+msgctxt "upper_volta_area_adj코1"
+msgid "Burkinabe"
+msgstr "Burkinabe"
+
+msgctxt "kong_area코0"
+msgid "Kong"
+msgstr "Kong"
+
+msgctxt "kong_area_name코0"
+msgid "Kong"
+msgstr "Kong"
+
+msgctxt "kong_area_adj코0"
+msgid "Kong"
+msgstr "Kong"
+
+msgctxt "lower_volta_area코0"
+msgid "Lower Volta"
+msgstr "Lower Volta"
+
+msgctxt "lower_volta_area_name코0"
+msgid "Volta"
+msgstr "Volta"
+
+msgctxt "lower_volta_area_adj코0"
+msgid "Voltan"
+msgstr "Voltan"
+
+msgctxt "lower_niger_area코0"
+msgid "Lower Niger"
+msgstr "Lower Niger"
+
+msgctxt "lower_niger_area_name코0"
+msgid "Ondo"
+msgstr "Ondo"
+
+msgctxt "lower_niger_area_adj코0"
+msgid "Ondoan"
+msgstr "Ondoan"
+
+msgctxt "hausa_area코1"
+msgid "Kano"
+msgstr "Kano"
+
+msgctxt "hausa_area_name코0"
+msgid "Hausaland"
+msgstr "Hausaland"
+
+msgctxt "hausa_area_adj코0"
+msgid "Hausan"
+msgstr "Hausan"
+
+msgctxt "katsina_area코0"
+msgid "Katsina"
+msgstr "Katsina"
+
+msgctxt "katsina_area_name코0"
+msgid "Katsina"
+msgstr "Katsina"
+
+msgctxt "katsina_area_adj코0"
+msgid "Katsinan"
+msgstr "Katsinan"
+
+msgctxt "zazzau_area코0"
+msgid "Zazzau"
+msgstr "Zazzau"
+
+msgctxt "zazzau_area_name코0"
+msgid "Zazzau"
+msgstr "Zazzau"
+
+msgctxt "zazzau_area_adj코0"
+msgid "Zazzauan"
+msgstr "Zazzauan"
+
+msgctxt "bornu_area코0"
+msgid "Bornu"
+msgstr "Bornu"
+
+msgctxt "bornu_area_name코0"
+msgid "Bornu"
+msgstr "Bornu"
+
+msgctxt "bornu_area_adj코0"
+msgid "Bornuan"
+msgstr "Bornuan"
+
+msgctxt "kanem_area코0"
+msgid "Kanem"
+msgstr "Kanem"
+
+msgctxt "kanem_area_name코0"
+msgid "Kanem"
+msgstr "Kanem"
+
+msgctxt "kanem_area_adj코0"
+msgid "Kanem"
+msgstr "Kanem"
+
+msgctxt "adamawa_plateau_area코0"
+msgid "Adamawa Plateau"
+msgstr "Adamawa Plateau"
+
+msgctxt "adamawa_plateau_area_name코0"
+msgid "Yola"
+msgstr "Yola"
+
+msgctxt "adamawa_plateau_area_adj코0"
+msgid "Yolan"
+msgstr "Yolan"
+
+msgctxt "dendi_area코0"
+msgid "Dendi"
+msgstr "Dendi"
+
+msgctxt "dendi_area_name코0"
+msgid "Dendi"
+msgstr "Dendi"
+
+msgctxt "dendi_area_adj코0"
+msgid "Dendi"
+msgstr "Dendi"
+
+msgctxt "azbin_area코1"
+msgid "West Azbin"
+msgstr "West Azbin"
+
+msgctxt "azbin_area_name코1"
+msgid "Air"
+msgstr "Air"
+
+msgctxt "azbin_area_adj코1"
+msgid "Air"
+msgstr "Air"
+
+msgctxt "east_azbin_area코0"
+msgid "East Azbin"
+msgstr "East Azbin"
+
+msgctxt "east_azbin_area_name코0"
+msgid "Azbin"
+msgstr "Azbin"
+
+msgctxt "east_azbin_area_adj코0"
+msgid "Azbini"
+msgstr "Azbini"
+
+msgctxt "atacora_oueme_area코0"
+msgid "Atacora Oueme"
+msgstr "Atacora Oueme"
+
+msgctxt "atacora_oueme_area_name코0"
+msgid "Dahomey"
+msgstr "Dahomey"
+
+msgctxt "atacora_oueme_area_adj코0"
+msgid "Dahomey"
+msgstr "Dahomey"
+
+msgctxt "benin_area코0"
+msgid "Benin"
+msgstr "Benin"
+
+msgctxt "benin_area_name코0"
+msgid "Benin"
+msgstr "Benin"
+
+msgctxt "benin_area_adj코1"
+msgid "Beninese"
+msgstr "Beninese"
+
+msgctxt "gulf_of_guinea_area코0"
+msgid "Gulf of Guinea"
+msgstr "Gulf of Guinea"
+
+msgctxt "gulf_of_guinea_area_name코0"
+msgid "Benin"
+msgstr "Benin"
+
+msgctxt "gulf_of_guinea_area_adj코0"
+msgid "Beninan"
+msgstr "Beninan"
+
+msgctxt "west_africa_coast_area코0"
+msgid "West African Coast"
+msgstr "West African Coast"
+
+msgctxt "west_africa_coast_area_name코0"
+msgid "Gold Coast"
+msgstr "Gold Coast"
+
+msgctxt "west_africa_coast_area_adj코0"
+msgid "Golden"
+msgstr "Golden"
+
+msgctxt "guinea_coast_area코0"
+msgid "Guinea"
+msgstr "Guinea"
+
+msgctxt "guinea_coast_area_name코0"
+msgid "Guinea"
+msgstr "Guinea"
+
+msgctxt "guinea_coast_area_adj코0"
+msgid "Guinean"
+msgstr "Guinean"
+
+msgctxt "south_atlantic_islands_area코0"
+msgid "South Atlantic Islands"
+msgstr "South Atlantic Islands"
+
+msgctxt "south_atlantic_islands_area_name코0"
+msgid "Tristan da Cunha"
+msgstr "Tristan da Cunha"
+
+msgctxt "south_atlantic_islands_area_adj코0"
+msgid "Tristan da Cunhan"
+msgstr "Tristan da Cunhan"
+
+msgctxt "kongo_area코0"
+msgid "Kongo"
+msgstr "Kongo"
+
+msgctxt "kongo_area_name코0"
+msgid "Kongo"
+msgstr "Kongo"
+
+msgctxt "kongo_area_adj코0"
+msgid "Kongolese"
+msgstr "Kongolese"
+
+msgctxt "angola_namibia_area코0"
+msgid "Angola"
+msgstr "Angola"
+
+msgctxt "angola_namibia_area_name코0"
+msgid "Angola"
+msgstr "Angola"
+
+msgctxt "angola_namibia_area_adj코0"
+msgid "Angolan"
+msgstr "Angolan"
+
+msgctxt "west_congo_area코0"
+msgid "West Kongo"
+msgstr "West Kongo"
+
+msgctxt "west_congo_area_name코0"
+msgid "Loango"
+msgstr "Loango"
+
+msgctxt "west_congo_area_adj코0"
+msgid "Loangoan"
+msgstr "Loangoan"
+
+msgctxt "cape_of_good_hope_area코0"
+msgid "Cape of Good Hope"
+msgstr "Cape of Good Hope"
+
+msgctxt "cape_of_good_hope_area_name코0"
+msgid "Cape"
+msgstr "Cape"
+
+msgctxt "cape_of_good_hope_area_adj코0"
+msgid "Capian"
+msgstr "Capian"
+
+msgctxt "south_african_plateau_area코0"
+msgid "South African Plateau"
+msgstr "South African Plateau"
+
+msgctxt "south_african_plateau_area_name코0"
+msgid "South Africa"
+msgstr "South Africa"
+
+msgctxt "south_african_plateau_area_adj코0"
+msgid "South African"
+msgstr "South African"
+
+msgctxt "makran_area코0"
+msgid "Makran"
+msgstr "Makran"
+
+msgctxt "makran_area_name코0"
+msgid "Makran"
+msgstr "Makran"
+
+msgctxt "makran_area_adj코0"
+msgid "Makrani"
+msgstr "Makrani"
+
+msgctxt "sistan_area코0"
+msgid "Sistan"
+msgstr "Sistan"
+
+msgctxt "sistan_area_name코0"
+msgid "Sistan"
+msgstr "Sistan"
+
+msgctxt "sistan_area_adj코0"
+msgid "Sistani"
+msgstr "Sistani"
+
+msgctxt "kalat_area코0"
+msgid "Kalat"
+msgstr "Kalat"
+
+msgctxt "kalat_area_name코0"
+msgid "Kalat"
+msgstr "Kalat"
+
+msgctxt "kalat_area_adj코0"
+msgid "Kalat"
+msgstr "Kalat"
+
+msgctxt "ferghana_area코0"
+msgid "Ferghana"
+msgstr "Ferghana"
+
+msgctxt "ferghana_area_name코0"
+msgid "Ferghana"
+msgstr "Ferghana"
+
+msgctxt "ferghana_area_adj코0"
+msgid "Ferghana"
+msgstr "Ferghana"
+
+msgctxt "arys_area코0"
+msgid "Arys"
+msgstr "Arys"
+
+msgctxt "arys_area_name코0"
+msgid "Arys"
+msgstr "Arys"
+
+msgctxt "arys_area_adj코0"
+msgid "Arys"
+msgstr "Arys"
+
+msgctxt "kabulistan_area코0"
+msgid "Kabulistan"
+msgstr "Kabulistan"
+
+msgctxt "kabulistan_area_name코0"
+msgid "Kabulistan"
+msgstr "Kabulistan"
+
+msgctxt "kabulistan_area_adj코0"
+msgid "Kabulistan"
+msgstr "Kabulistan"
+
+msgctxt "ghor_area코0"
+msgid "Ghor"
+msgstr "Ghor"
+
+msgctxt "ghor_area_name코0"
+msgid "Ghor"
+msgstr "Ghor"
+
+msgctxt "ghor_area_adj코0"
+msgid "Ghorian"
+msgstr "Ghorian"
+
+msgctxt "kyzylkum_area코0"
+msgid "Kyzylkum"
+msgstr "Kyzylkum"
+
+msgctxt "kyzylkum_area_name코0"
+msgid "Turkestan"
+msgstr "Turkestan"
+
+msgctxt "kyzylkum_area_adj코0"
+msgid "Turkestani"
+msgstr "Turkestani"
+
+msgctxt "transoxiana_area코0"
+msgid "Transoxiana"
+msgstr "Transoxiana"
+
+msgctxt "transoxiana_area_name코0"
+msgid "Transoxiana"
+msgstr "Transoxiana"
+
+msgctxt "transoxiana_area_adj코0"
+msgid "Transoxianian"
+msgstr "Transoxianian"
+
+msgctxt "khiva_area코0"
+msgid "Khiva"
+msgstr "Khiva"
+
+msgctxt "khiva_area_name코0"
+msgid "Khiva"
+msgstr "Khiva"
+
+msgctxt "khiva_area_adj코0"
+msgid "Khiva"
+msgstr "Khiva"
+
+msgctxt "transcaspia_area코0"
+msgid "Transcaspia"
+msgstr "Transcaspia"
+
+msgctxt "transcaspia_area_name코0"
+msgid "Turkmenistan"
+msgstr "Turkmenistan"
+
+msgctxt "transcaspia_area_adj코0"
+msgid "Turkoman"
+msgstr "Turkoman"
+
+msgctxt "khorasan_area코0"
+msgid "Khorasan"
+msgstr "Khorasan"
+
+msgctxt "khorasan_area_name코0"
+msgid "Khorasan"
+msgstr "Khorasan"
+
+msgctxt "khorasan_area_adj코0"
+msgid "Khorasan"
+msgstr "Khorasan"
+
+msgctxt "merv_area코0"
+msgid "Merv"
+msgstr "Merv"
+
+msgctxt "merv_area_name코0"
+msgid "Merv"
+msgstr "Merv"
+
+msgctxt "merv_area_adj코0"
+msgid "Mervian"
+msgstr "Mervian"
+
+msgctxt "luristan_area코0"
+msgid "Luristan"
+msgstr "Luristan"
+
+msgctxt "luristan_area_name코0"
+msgid "Luristan"
+msgstr "Luristan"
+
+msgctxt "luristan_area_adj코0"
+msgid "Luristani"
+msgstr "Luristani"
+
+msgctxt "balkh_area코0"
+msgid "Balkh"
+msgstr "Balkh"
+
+msgctxt "balkh_area_name코0"
+msgid "Balkh"
+msgstr "Balkh"
+
+msgctxt "balkh_area_adj코0"
+msgid "Balkhi"
+msgstr "Balkhi"
+
+msgctxt "kerman_area코0"
+msgid "Kerman"
+msgstr "Kerman"
+
+msgctxt "kerman_area_name코0"
+msgid "Kerman"
+msgstr "Kerman"
+
+msgctxt "kerman_area_adj코0"
+msgid "Kermani"
+msgstr "Kermani"
+
+msgctxt "persian_gulf_coast코0"
+msgid "Gulf Coast"
+msgstr "Gulf Coast"
+
+msgctxt "persian_gulf_coast_name코0"
+msgid "Ormuz"
+msgstr "Ormuz"
+
+msgctxt "persian_gulf_coast_adj코0"
+msgid "Ormuzi"
+msgstr "Ormuzi"
+
+msgctxt "farsistan_area코0"
+msgid "Farsistan"
+msgstr "Farsistan"
+
+msgctxt "farsistan_area_name코0"
+msgid "Farsistan"
+msgstr "Farsistan"
+
+msgctxt "farsistan_area_adj코0"
+msgid "Farsistani"
+msgstr "Farsistani"
+
+msgctxt "iraq_e_ajam_area코0"
+msgid "Iraq-e-Ajam"
+msgstr "Iraq-e-Ajam"
+
+msgctxt "iraq_e_ajam_area_name코0"
+msgid "Persia"
+msgstr "Persia"
+
+msgctxt "iraq_e_ajam_area_adj코0"
+msgid "Persian"
+msgstr "Persian"
+
+msgctxt "isfahan_area코0"
+msgid "Isfahan"
+msgstr "Isfahan"
+
+msgctxt "isfahan_area_name코0"
+msgid "Isfahan"
+msgstr "Isfahan"
+
+msgctxt "isfahan_area_adj코0"
+msgid "Isfahani"
+msgstr "Isfahani"
+
+msgctxt "azerbaijan_area코0"
+msgid "Azerbaijan"
+msgstr "Azerbaijan"
+
+msgctxt "azerbaijan_area_name코0"
+msgid "Azerbaijan"
+msgstr "Azerbaijan"
+
+msgctxt "azerbaijan_area_adj코0"
+msgid "Azerbaijani"
+msgstr "Azerbaijani"
+
+msgctxt "tabriz_area코0"
+msgid "Tabriz"
+msgstr "Tabriz"
+
+msgctxt "tabriz_area_name코0"
+msgid "Tabriz"
+msgstr "Tabriz"
+
+msgctxt "tabriz_area_adj코0"
+msgid "Tabrizian"
+msgstr "Tabrizian"
+
+msgctxt "tabarestan_area코0"
+msgid "Tabarestan"
+msgstr "Tabarestan"
+
+msgctxt "tabarestan_area_name코0"
+msgid "Tabarestan"
+msgstr "Tabarestan"
+
+msgctxt "tabarestan_area_adj코0"
+msgid "Tabarestani"
+msgstr "Tabarestani"
+
+msgctxt "upper_doab_area코0"
+msgid "Upper Doab"
+msgstr "Upper Doab"
+
+msgctxt "upper_doab_area_name코0"
+msgid "Delhi"
+msgstr "Delhi"
+
+msgctxt "upper_doab_area_adj코0"
+msgid "Delhian"
+msgstr "Delhian"
+
+msgctxt "sirhind_area코0"
+msgid "Sirhind"
+msgstr "Sirhind"
+
+msgctxt "sirhind_area_name코0"
+msgid "Sirhind"
+msgstr "Sirhind"
+
+msgctxt "sirhind_area_adj코0"
+msgid "Sirhindi"
+msgstr "Sirhindi"
+
+msgctxt "central_doab_area코0"
+msgid "Central Doab"
+msgstr "Central Doab"
+
+msgctxt "central_doab_area_name코0"
+msgid "Agra"
+msgstr "Agra"
+
+msgctxt "central_doab_area_adj코0"
+msgid "Agran"
+msgstr "Agran"
+
+msgctxt "oudh_area코0"
+msgid "Oudh"
+msgstr "Oudh"
+
+msgctxt "oudh_area_name코0"
+msgid "Oudh"
+msgstr "Oudh"
+
+msgctxt "oudh_area_adj코0"
+msgid "Oudhian"
+msgstr "Oudhian"
+
+msgctxt "purvanchal_area코0"
+msgid "Purvanchal"
+msgstr "Purvanchal"
+
+msgctxt "purvanchal_area_name코0"
+msgid "Jaunpur"
+msgstr "Jaunpur"
+
+msgctxt "purvanchal_area_adj코0"
+msgid "Jaunpuri"
+msgstr "Jaunpuri"
+
+msgctxt "lower_doab_area코0"
+msgid "Lower Doab"
+msgstr "Lower Doab"
+
+msgctxt "lower_doab_area_name코0"
+msgid "Kalpi"
+msgstr "Kalpi"
+
+msgctxt "lower_doab_area_adj코0"
+msgid "Kalpian"
+msgstr "Kalpian"
+
+msgctxt "lahore_area코0"
+msgid "Lahore"
+msgstr "Lahore"
+
+msgctxt "lahore_area_name코0"
+msgid "Lahore"
+msgstr "Lahore"
+
+msgctxt "lahore_area_adj코0"
+msgid "Lahoran"
+msgstr "Lahoran"
+
+msgctxt "multan_area코0"
+msgid "Multan"
+msgstr "Multan"
+
+msgctxt "multan_area_name코0"
+msgid "Multan"
+msgstr "Multan"
+
+msgctxt "multan_area_adj코0"
+msgid "Multani"
+msgstr "Multani"
+
+msgctxt "west_bengal_area코0"
+msgid "West Bengal"
+msgstr "West Bengal"
+
+msgctxt "west_bengal_area_name코0"
+msgid "Bengal"
+msgstr "Bengal"
+
+msgctxt "west_bengal_area_adj코0"
+msgid "Bengali"
+msgstr "Bengali"
+
+msgctxt "naga_hills_area코0"
+msgid "Naga Hills"
+msgstr "Naga Hills"
+
+msgctxt "naga_hills_area_name코0"
+msgid "Nagaland"
+msgstr "Nagaland"
+
+msgctxt "naga_hills_area_adj코0"
+msgid "Nagan"
+msgstr "Nagan"
+
+msgctxt "east_bengal_area코0"
+msgid "East Bengal"
+msgstr "East Bengal"
+
+msgctxt "east_bengal_area_name코0"
+msgid "Tripura"
+msgstr "Tripura"
+
+msgctxt "east_bengal_area_adj코0"
+msgid "Tripuran"
+msgstr "Tripuran"
+
+msgctxt "north_bengal_area코0"
+msgid "North Bengal"
+msgstr "North Bengal"
+
+msgctxt "north_bengal_area_name코0"
+msgid "Koch"
+msgstr "Koch"
+
+msgctxt "north_bengal_area_adj코0"
+msgid "Kochi"
+msgstr "Kochi"
+
+msgctxt "bihar_area코0"
+msgid "Bihar"
+msgstr "Bihar"
+
+msgctxt "bihar_area_name코0"
+msgid "Bihar"
+msgstr "Bihar"
+
+msgctxt "bihar_area_adj코0"
+msgid "Bihari"
+msgstr "Bihari"
+
+msgctxt "jharkhand_area코0"
+msgid "Jharkhand"
+msgstr "Jharkhand"
+
+msgctxt "jharkhand_area_name코0"
+msgid "Jharkhand"
+msgstr "Jharkhand"
+
+msgctxt "jharkhand_area_adj코0"
+msgid "Jharkhandi"
+msgstr "Jharkhandi"
+
+msgctxt "gondwana_area코0"
+msgid "Gondwana"
+msgstr "Gondwana"
+
+msgctxt "gondwana_area_name코0"
+msgid "Gondwana"
+msgstr "Gondwana"
+
+msgctxt "gondwana_area_adj코0"
+msgid "Gond"
+msgstr "Gond"
+
+msgctxt "orissa_area코0"
+msgid "Orissa"
+msgstr "Orissa"
+
+msgctxt "orissa_area_name코0"
+msgid "Orissa"
+msgstr "Orissa"
+
+msgctxt "orissa_area_adj코0"
+msgid "Orissan"
+msgstr "Orissan"
+
+msgctxt "garjat_area코0"
+msgid "Garjat"
+msgstr "Garjat"
+
+msgctxt "garjat_area_name코0"
+msgid "Garjat"
+msgstr "Garjat"
+
+msgctxt "garjat_area_adj코0"
+msgid "Garjati"
+msgstr "Garjati"
+
+msgctxt "telingana_area코0"
+msgid "Telingana"
+msgstr "Telingana"
+
+msgctxt "telingana_area_name코0"
+msgid "Telingana"
+msgstr "Telingana"
+
+msgctxt "telingana_area_adj코0"
+msgid "Telinganan"
+msgstr "Telinganan"
+
+msgctxt "andhra_area코0"
+msgid "Andhra"
+msgstr "Andhra"
+
+msgctxt "andhra_area_name코0"
+msgid "Andhra"
+msgstr "Andhra"
+
+msgctxt "andhra_area_adj코0"
+msgid "Andhran"
+msgstr "Andhran"
+
+msgctxt "rayalaseema_area코0"
+msgid "Rayalaseema"
+msgstr "Rayalaseema"
+
+msgctxt "rayalaseema_area_name코0"
+msgid "Vijayanagar"
+msgstr "Vijayanagar"
+
+msgctxt "rayalaseema_area_adj코0"
+msgid "Vijayanagari"
+msgstr "Vijayanagari"
+
+msgctxt "kerala_area코0"
+msgid "Kerala"
+msgstr "Kerala"
+
+msgctxt "kerala_area_name코0"
+msgid "Malabar"
+msgstr "Malabar"
+
+msgctxt "kerala_area_adj코0"
+msgid "Malabari"
+msgstr "Malabari"
+
+msgctxt "malwa_area코0"
+msgid "Malwa"
+msgstr "Malwa"
+
+msgctxt "malwa_area_name코0"
+msgid "Malwa"
+msgstr "Malwa"
+
+msgctxt "malwa_area_adj코0"
+msgid "Malwan"
+msgstr "Malwan"
+
+msgctxt "mewar_area코0"
+msgid "Mewar"
+msgstr "Mewar"
+
+msgctxt "mewar_area_name코0"
+msgid "Mewar"
+msgstr "Mewar"
+
+msgctxt "mewar_area_adj코0"
+msgid "Mewari"
+msgstr "Mewari"
+
+msgctxt "marwar_area코0"
+msgid "Marwar"
+msgstr "Marwar"
+
+msgctxt "marwar_area_name코0"
+msgid "Marwar"
+msgstr "Marwar"
+
+msgctxt "marwar_area_adj코0"
+msgid "Marwari"
+msgstr "Marwari"
+
+msgctxt "jaipur_area코0"
+msgid "Jaipur"
+msgstr "Jaipur"
+
+msgctxt "jaipur_area_name코0"
+msgid "Jaipur"
+msgstr "Jaipur"
+
+msgctxt "jaipur_area_adj코0"
+msgid "Jaipur"
+msgstr "Jaipur"
+
+msgctxt "sindh_area코0"
+msgid "Sindh"
+msgstr "Sindh"
+
+msgctxt "sindh_area_name코0"
+msgid "Sindh"
+msgstr "Sindh"
+
+msgctxt "sindh_area_adj코0"
+msgid "Sindhi"
+msgstr "Sindhi"
+
+msgctxt "carnatic_area코0"
+msgid "Carnatic"
+msgstr "Carnatic"
+
+msgctxt "carnatic_area_name코0"
+msgid "Carnatic"
+msgstr "Carnatic"
+
+msgctxt "carnatic_area_adj코0"
+msgid "Carnatic"
+msgstr "Carnatic"
+
+msgctxt "coromandel_area코0"
+msgid "Coromandel"
+msgstr "Coromandel"
+
+msgctxt "coromandel_area_name코0"
+msgid "Coromandel"
+msgstr "Coromandel"
+
+msgctxt "coromandel_area_adj코0"
+msgid "Coromandel"
+msgstr "Coromandel"
+
+msgctxt "madura_area코0"
+msgid "Madura"
+msgstr "Madura"
+
+msgctxt "madura_area_name코0"
+msgid "Madurai"
+msgstr "Madurai"
+
+msgctxt "madura_area_adj코0"
+msgid "Maduran"
+msgstr "Maduran"
+
+msgctxt "konkan_area코0"
+msgid "Konkan"
+msgstr "Konkan"
+
+msgctxt "konkan_area_name코0"
+msgid "Chaul"
+msgstr "Chaul"
+
+msgctxt "konkan_area_adj코0"
+msgid "Chauli"
+msgstr "Chauli"
+
+msgctxt "kanara_area코0"
+msgid "Kanara"
+msgstr "Kanara"
+
+msgctxt "kanara_area_name코0"
+msgid "Kanara"
+msgstr "Kanara"
+
+msgctxt "kanara_area_adj코0"
+msgid "Kanaran"
+msgstr "Kanaran"
+
+msgctxt "maidan_area코0"
+msgid "Maidan"
+msgstr "Maidan"
+
+msgctxt "maidan_area_name코0"
+msgid "Bijapur"
+msgstr "Bijapur"
+
+msgctxt "maidan_area_adj코0"
+msgid "Bijapuri"
+msgstr "Bijapuri"
+
+msgctxt "mysore_area코0"
+msgid "Mysore"
+msgstr "Mysore"
+
+msgctxt "mysore_area_name코0"
+msgid "Mysore"
+msgstr "Mysore"
+
+msgctxt "mysore_area_adj코0"
+msgid "Mysorean"
+msgstr "Mysorean"
+
+msgctxt "maharashtra_area코0"
+msgid "Maharashtra"
+msgstr "Maharashtra"
+
+msgctxt "maharashtra_area_name코0"
+msgid "Maharashtra"
+msgstr "Maharashtra"
+
+msgctxt "maharashtra_area_adj코0"
+msgid "Maharashtran"
+msgstr "Maharashtran"
+
+msgctxt "desh_area코0"
+msgid "Desh"
+msgstr "Desh"
+
+msgctxt "desh_area_name코0"
+msgid "Pune"
+msgstr "Pune"
+
+msgctxt "desh_area_adj코0"
+msgid "Punean"
+msgstr "Punean"
+
+msgctxt "assam_area코0"
+msgid "Assam"
+msgstr "Assam"
+
+msgctxt "assam_area_name코0"
+msgid "Assam"
+msgstr "Assam"
+
+msgctxt "assam_area_adj코0"
+msgid "Assamese"
+msgstr "Assamese"
+
+msgctxt "himalayan_hills_area코0"
+msgid "Himalayan Hills"
+msgstr "Himalayan Hills"
+
+msgctxt "himalayan_hills_area_name코0"
+msgid "Garhwal"
+msgstr "Garhwal"
+
+msgctxt "himalayan_hills_area_adj코0"
+msgid "Garhwali"
+msgstr "Garhwali"
+
+msgctxt "nepalese_area코0"
+msgid "Nepal"
+msgstr "Nepal"
+
+msgctxt "nepalese_area_name코0"
+msgid "Nepal"
+msgstr "Nepal"
+
+msgctxt "nepalese_area_adj코0"
+msgid "Nepalese"
+msgstr "Nepalese"
+
+msgctxt "kashmir_area코0"
+msgid "Kashmir"
+msgstr "Kashmir"
+
+msgctxt "kashmir_area_name코0"
+msgid "Kashmir"
+msgstr "Kashmir"
+
+msgctxt "kashmir_area_adj코0"
+msgid "Kashmiri"
+msgstr "Kashmiri"
+
+msgctxt "lanka_area코0"
+msgid "Lanka"
+msgstr "Lanka"
+
+msgctxt "lanka_area_name코0"
+msgid "Lanka"
+msgstr "Lanka"
+
+msgctxt "lanka_area_adj코0"
+msgid "Lankan"
+msgstr "Lankan"
+
+msgctxt "gujarat_area코0"
+msgid "Gujarat"
+msgstr "Gujarat"
+
+msgctxt "gujarat_area_name코0"
+msgid "Gujarat"
+msgstr "Gujarat"
+
+msgctxt "gujarat_area_adj코0"
+msgid "Gujarati"
+msgstr "Gujarati"
+
+msgctxt "tapti_area코0"
+msgid "Tapti"
+msgstr "Tapti"
+
+msgctxt "tapti_area_name코0"
+msgid "Baroda"
+msgstr "Baroda"
+
+msgctxt "tapti_area_adj코0"
+msgid "Barodan"
+msgstr "Barodan"
+
+msgctxt "saurashtra_area코0"
+msgid "Saurashtra"
+msgstr "Saurashtra"
+
+msgctxt "saurashtra_area_name코0"
+msgid "Saurashtra"
+msgstr "Saurashtra"
+
+msgctxt "saurashtra_area_adj코0"
+msgid "Saurashtran"
+msgstr "Saurashtran"
+
+msgctxt "upper_burma_area코0"
+msgid "Upper Burma"
+msgstr "Upper Burma"
+
+msgctxt "upper_burma_area_name코0"
+msgid "Ava"
+msgstr "Ava"
+
+msgctxt "upper_burma_area_adj코0"
+msgid "Avan"
+msgstr "Avan"
+
+msgctxt "lower_burma_area코0"
+msgid "Lower Burma"
+msgstr "Lower Burma"
+
+msgctxt "lower_burma_area_name코0"
+msgid "Burma"
+msgstr "Burma"
+
+msgctxt "lower_burma_area_adj코0"
+msgid "Burman"
+msgstr "Burman"
+
+msgctxt "kachin_area코0"
+msgid "Kachin"
+msgstr "Kachin"
+
+msgctxt "kachin_area_name코0"
+msgid "Kachin"
+msgstr "Kachin"
+
+msgctxt "kachin_area_adj코0"
+msgid "Kachini"
+msgstr "Kachini"
+
+msgctxt "shan_hill_area코0"
+msgid "Shan Hills"
+msgstr "Shan Hills"
+
+msgctxt "shan_hill_area_adj코0"
+msgid "Shan"
+msgstr "Shan"
+
+msgctxt "shan_hill_area_name코0"
+msgid "Shan"
+msgstr "Shan"
+
+msgctxt "karenni_area코0"
+msgid "Karenni"
+msgstr "Karenni"
+
+msgctxt "karenni_area_name코0"
+msgid "Karreni"
+msgstr "Karreni"
+
+msgctxt "karenni_area_adj코0"
+msgid "Karreni"
+msgstr "Karreni"
+
+msgctxt "arakan_area코0"
+msgid "Rakhine"
+msgstr "Rakhine"
+
+msgctxt "arakan_area_name코0"
+msgid "Arakan"
+msgstr "Arakan"
+
+msgctxt "arakan_area_adj코0"
+msgid "Arakanese"
+msgstr "Arakanese"
+
+msgctxt "malaya_area코0"
+msgid "Malaya"
+msgstr "Malaya"
+
+msgctxt "malaya_area_name코0"
+msgid "Malaya"
+msgstr "Malaya"
+
+msgctxt "malaya_area_adj코0"
+msgid "Malayan"
+msgstr "Malayan"
+
+msgctxt "khorat_area코0"
+msgid "Khorat"
+msgstr "Khorat"
+
+msgctxt "khorat_area_name코0"
+msgid "Khorat"
+msgstr "Khorat"
+
+msgctxt "khorat_area_adj코0"
+msgid "Khorati"
+msgstr "Khorati"
+
+msgctxt "champa_area코0"
+msgid "Champa"
+msgstr "Champa"
+
+msgctxt "champa_area_name코0"
+msgid "Champa"
+msgstr "Champa"
+
+msgctxt "champa_area_adj코0"
+msgid "Champan"
+msgstr "Champan"
+
+msgctxt "cambodia_area코0"
+msgid "Cambodia"
+msgstr "Cambodia"
+
+msgctxt "cambodia_area_name코0"
+msgid "Cambodia"
+msgstr "Cambodia"
+
+msgctxt "cambodia_area_adj코0"
+msgid "Cambodian"
+msgstr "Cambodian"
+
+msgctxt "mekong_area코0"
+msgid "Mekong"
+msgstr "Mekong"
+
+msgctxt "mekong_area_name코0"
+msgid "Phnom Pen"
+msgstr "Phnom Pen"
+
+msgctxt "mekong_area_adj코0"
+msgid "Phnom Peni"
+msgstr "Phnom Peni"
+
+msgctxt "malacca_area코0"
+msgid "Malacca"
+msgstr "Malacca"
+
+msgctxt "malacca_area_name코0"
+msgid "Malacca"
+msgstr "Malacca"
+
+msgctxt "malacca_area_adj코0"
+msgid "Malaccan"
+msgstr "Malaccan"
+
+msgctxt "tenasserim_area코1"
+msgid "Central Tenasserim"
+msgstr "Central Tenasserim"
+
+msgctxt "tenasserim_area_name코0"
+msgid "Ligor"
+msgstr "Ligor"
+
+msgctxt "tenasserim_area_adj코0"
+msgid "Ligoran"
+msgstr "Ligoran"
+
+msgctxt "north_tenasserim_area코0"
+msgid "North Tenasserim"
+msgstr "North Tenasserim"
+
+msgctxt "north_tenasserim_area_name코0"
+msgid "Ratchaburi"
+msgstr "Ratchaburi"
+
+msgctxt "north_tenasserim_area_adj코0"
+msgid "Ratchaburi"
+msgstr "Ratchaburi"
+
+msgctxt "red_river_delta_area코0"
+msgid "Sông Hông"
+msgstr "Song Hong"
+
+msgctxt "red_river_delta_area_name코0"
+msgid "Vietnam"
+msgstr "Vietnam"
+
+msgctxt "red_river_delta_area_adj코0"
+msgid "Vietnamese"
+msgstr "Vietnamese"
+
+msgctxt "vietnam_area코1"
+msgid "Tonkin"
+msgstr "Tonkin"
+
+msgctxt "vietnam_area_name코1"
+msgid "Tonkin"
+msgstr "Tonkin"
+
+msgctxt "vietnam_area_adj코0"
+msgid "Tonkinese"
+msgstr "Tonkinese"
+
+msgctxt "south_laos_area코0"
+msgid "South Laos"
+msgstr "South Laos"
+
+msgctxt "south_laos_area_name코0"
+msgid "Vientiane"
+msgstr "Vientiane"
+
+msgctxt "south_laos_area_adj코0"
+msgid "Vientianian"
+msgstr "Vientianian"
+
+msgctxt "north_laos_area코0"
+msgid "North Laos"
+msgstr "North Laos"
+
+msgctxt "north_laos_area_name코0"
+msgid "Luang Prabang"
+msgstr "Luang Prabang"
+
+msgctxt "north_laos_area_adj코0"
+msgid "Luang Prabangi"
+msgstr "Luang Prabangi"
+
+msgctxt "central_thai_area코0"
+msgid "Central Thailand"
+msgstr "Central Thailand"
+
+msgctxt "central_thai_area_name코0"
+msgid "Ayutthaya"
+msgstr "Ayutthaya"
+
+msgctxt "central_thai_area_adj코0"
+msgid "Ayutthayan"
+msgstr "Ayutthayan"
+
+msgctxt "northern_thai_area코0"
+msgid "Northern Thailand"
+msgstr "Northern Thailand"
+
+msgctxt "northern_thai_area_name코0"
+msgid "Lan Na"
+msgstr "Lan Na"
+
+msgctxt "northern_thai_area_adj코0"
+msgid "Lan Naan"
+msgstr "Lan Naan"
+
+msgctxt "great_moluccas_area코0"
+msgid "Great Moluccas"
+msgstr "Great Moluccas"
+
+msgctxt "great_moluccas_area_name코0"
+msgid "Moluccas"
+msgstr "Moluccas"
+
+msgctxt "great_moluccas_area_adj코0"
+msgid "Moluccan"
+msgstr "Moluccan"
+
+msgctxt "luzon_area코0"
+msgid "Northern Luzon"
+msgstr "Northern Luzon"
+
+msgctxt "luzon_area_name코0"
+msgid "Luzon"
+msgstr "Luzon"
+
+msgctxt "luzon_area_adj코0"
+msgid "Luzonian"
+msgstr "Luzonian"
+
+msgctxt "mindanao_area코0"
+msgid "East Mindanao"
+msgstr "East Mindanao"
+
+msgctxt "mindanao_area_name코0"
+msgid "Mindanao"
+msgstr "Mindanao"
+
+msgctxt "mindanao_area_adj코0"
+msgid "Mindanaoan"
+msgstr "Mindanaoan"
+
+msgctxt "north_sumatra_area코1"
+msgid "Aceh"
+msgstr "Aceh"
+
+msgctxt "north_sumatra_area_name코0"
+msgid "Lamuri"
+msgstr "Lamuri"
+
+msgctxt "north_sumatra_area_adj코0"
+msgid "Lamuran"
+msgstr "Lamuran"
+
+msgctxt "batak_area코0"
+msgid "Batak"
+msgstr "Batak"
+
+msgctxt "batak_area_name코0"
+msgid "Batak"
+msgstr "Batak"
+
+msgctxt "batak_area_adj코0"
+msgid "Bataki"
+msgstr "Bataki"
+
+msgctxt "central_sumatra_area코1"
+msgid "Riau"
+msgstr "Riau"
+
+msgctxt "central_sumatra_area_name코0"
+msgid "Jambi"
+msgstr "Jambi"
+
+msgctxt "central_sumatra_area_adj코0"
+msgid "Jamban"
+msgstr "Jamban"
+
+msgctxt "minangkabau_area코0"
+msgid "Minangkabau"
+msgstr "Minangkabau"
+
+msgctxt "minangkabau_area_name코0"
+msgid "Minangkabau"
+msgstr "Minangkabau"
+
+msgctxt "minangkabau_area_adj코0"
+msgid "Minangkabaun"
+msgstr "Minangkabaun"
+
+msgctxt "south_sumatra_area코1"
+msgid "Lampung"
+msgstr "Lampung"
+
+msgctxt "south_sumatra_area_name코0"
+msgid "Bengkulu"
+msgstr "Bengkulu"
+
+msgctxt "south_sumatra_area_adj코0"
+msgid "Bengkulan"
+msgstr "Bengkulan"
+
+msgctxt "indonesian_islands_area코0"
+msgid "Indonesian Islands"
+msgstr "Indonesian Islands"
+
+msgctxt "indonesian_islands_area_name코0"
+msgid "Indonesian Islands"
+msgstr "Indonesian Islands"
+
+msgctxt "indonesian_islands_area_adj코0"
+msgid "Indonesian"
+msgstr "Indonesian"
+
+msgctxt "east_java_area코0"
+msgid "East Java"
+msgstr "East Java"
+
+msgctxt "east_java_area_name코0"
+msgid "Sunda"
+msgstr "Sunda"
+
+msgctxt "east_java_area_adj코0"
+msgid "Sundan"
+msgstr "Sundan"
+
+msgctxt "central_java_area코0"
+msgid "Central Java"
+msgstr "Central Java"
+
+msgctxt "central_java_area_name코0"
+msgid "Karta"
+msgstr "Karta"
+
+msgctxt "central_java_area_adj코0"
+msgid "Kartan"
+msgstr "Kartan"
+
+msgctxt "west_java_area코0"
+msgid "West Java"
+msgstr "West Java"
+
+msgctxt "west_java_area_name코0"
+msgid "Kediri"
+msgstr "Kediri"
+
+msgctxt "west_java_area_adj코0"
+msgid "Kedirian"
+msgstr "Kedirian"
+
+msgctxt "kutai_area코0"
+msgid "Kutai"
+msgstr "Kutai"
+
+msgctxt "kutai_area_name코0"
+msgid "Kutai"
+msgstr "Kutai"
+
+msgctxt "kutai_area_adj코0"
+msgid "Kutai"
+msgstr "Kutai"
+
+msgctxt "brunei_area코0"
+msgid "Brunei"
+msgstr "Brunei"
+
+msgctxt "brunei_area_name코0"
+msgid "Brunei"
+msgstr "Brunei"
+
+msgctxt "brunei_area_adj코0"
+msgid "Bruneian"
+msgstr "Bruneian"
+
+msgctxt "kalimantan_area코0"
+msgid "Kalimantan"
+msgstr "Kalimantan"
+
+msgctxt "kalimantan_area_name코0"
+msgid "Kalimantan"
+msgstr "Kalimantan"
+
+msgctxt "kalimantan_area_adj코0"
+msgid "Kalimantan"
+msgstr "Kalimantan"
+
+msgctxt "spice_islands_area코0"
+msgid "Spice Islands"
+msgstr "Spice Islands"
+
+msgctxt "spice_islands_area_name코0"
+msgid "Tidore"
+msgstr "Tidore"
+
+msgctxt "spice_islands_area_adj코0"
+msgid "Tidoran"
+msgstr "Tidoran"
+
+msgctxt "ceram_area코0"
+msgid "Ceram"
+msgstr "Ceram"
+
+msgctxt "ceram_area_name코0"
+msgid "Ceram"
+msgstr "Ceram"
+
+msgctxt "ceram_area_adj코0"
+msgid "Ceramese"
+msgstr "Ceramese"
+
+msgctxt "molluca_area코0"
+msgid "Moluccas"
+msgstr "Moluccas"
+
+msgctxt "molluca_area_name코0"
+msgid "Ternate"
+msgstr "Ternate"
+
+msgctxt "molluca_area_adj코0"
+msgid "Ternatian"
+msgstr "Ternatian"
+
+msgctxt "lesser_sunda_islands_area코0"
+msgid "Lesser Sunda Islands"
+msgstr "Lesser Sunda Islands"
+
+msgctxt "lesser_sunda_islands_area_name코1"
+msgid "Bali"
+msgstr "Bali"
+
+msgctxt "lesser_sunda_islands_area_adj코1"
+msgid "Balian"
+msgstr "Balian"
+
+msgctxt "timor_area코0"
+msgid "Timor"
+msgstr "Timor"
+
+msgctxt "timor_area_name코0"
+msgid "Timor"
+msgstr "Timor"
+
+msgctxt "timor_area_adj코0"
+msgid "Timoran"
+msgstr "Timoran"
+
+msgctxt "sulawesi_area코1"
+msgid "North Sulawesi"
+msgstr "North Sulawesi"
+
+msgctxt "sulawesi_area_name코1"
+msgid "Palu"
+msgstr "Palu"
+
+msgctxt "sulawesi_area_adj코1"
+msgid "Paluan"
+msgstr "Paluan"
+
+msgctxt "south_sulawesi_area코0"
+msgid "South Sulawesi"
+msgstr "South Sulawesi"
+
+msgctxt "south_sulawesi_area_name코0"
+msgid "Makassar"
+msgstr "Makassar"
+
+msgctxt "south_sulawesi_area_adj코0"
+msgid "Makassari"
+msgstr "Makassari"
+
+msgctxt "western_korea_area코0"
+msgid "Western Korea"
+msgstr "Western Korea"
+
+msgctxt "western_korea_area_name코0"
+msgid "Gyeonggi"
+msgstr "Gyeonggi"
+
+msgctxt "western_korea_area_adj코0"
+msgid "Gyeonggi"
+msgstr "Gyeonggi"
+
+msgctxt "hamgyeong_area코0"
+msgid "Hamgyeong"
+msgstr "Hamgyeong"
+
+msgctxt "hamgyeong_area_name코0"
+msgid "Hamgyeong"
+msgstr "Hamgyeong"
+
+msgctxt "hamgyeong_area_adj코0"
+msgid "Hamgyeongi"
+msgstr "Hamgyeongi"
+
+msgctxt "pyongan_area코0"
+msgid "Pyongan"
+msgstr "Pyongan"
+
+msgctxt "pyongan_area_name코0"
+msgid "Pyongan"
+msgstr "Pyongan"
+
+msgctxt "pyongan_area_adj코0"
+msgid "Pyongani"
+msgstr "Pyongani"
+
+msgctxt "central_korea_area코0"
+msgid "Central Korea"
+msgstr "Central Korea"
+
+msgctxt "central_korea_area_name코0"
+msgid "Korea"
+msgstr "Korea"
+
+msgctxt "central_korea_area_adj코0"
+msgid "Korean"
+msgstr "Korean"
+
+msgctxt "south_korea_area코1"
+msgid "Southern Korea"
+msgstr "Southern Korea"
+
+msgctxt "south_korea_area_name코0"
+msgid "Jeolla"
+msgstr "Jeolla"
+
+msgctxt "south_korea_area_adj코0"
+msgid "Jeollan"
+msgstr "Jeollan"
+
+msgctxt "eastern_korea_area코0"
+msgid "Eastern Korea"
+msgstr "Eastern Korea"
+
+msgctxt "eastern_korea_area_name코0"
+msgid "Gyeongsang"
+msgstr "Gyeongsang"
+
+msgctxt "eastern_korea_area_adj코0"
+msgid "Gyeongsangi"
+msgstr "Gyeongsangi"
+
+msgctxt "hokkaido_area코0"
+msgid "Hokkaido"
+msgstr "Hokkaido"
+
+msgctxt "hokkaido_area_name코0"
+msgid "Hokkaido"
+msgstr "Hokkaido"
+
+msgctxt "hokkaido_area_adj코0"
+msgid "Hokkaidoan"
+msgstr "Hokkaidoan"
+
+msgctxt "kyushu_area코1"
+msgid "Southern Kyushu"
+msgstr "Southern Kyushu"
+
+msgctxt "kyushu_area_name코0"
+msgid "Kyushu"
+msgstr "Kyushu"
+
+msgctxt "kyushu_area_adj코0"
+msgid "Kyushuan"
+msgstr "Kyushuan"
+
+msgctxt "northern_kyushu코0"
+msgid "Northern Kyushu"
+msgstr "Northern Kyushu"
+
+msgctxt "northern_kyushu_adj코0"
+msgid "Hizeni"
+msgstr "Hizeni"
+
+msgctxt "northern_kyushu_name코0"
+msgid "Hizen"
+msgstr "Hizen"
+
+msgctxt "chubu_area코0"
+msgid "Western Chubu"
+msgstr "Western Chubu"
+
+msgctxt "chubu_area_name코0"
+msgid "Chubu"
+msgstr "Chubu"
+
+msgctxt "chubu_area_adj코0"
+msgid "Chubuan"
+msgstr "Chubuan"
+
+msgctxt "thohoku_area코0"
+msgid "Tohoku"
+msgstr "Tohoku"
+
+msgctxt "thohoku_area_name코0"
+msgid "Tohoku"
+msgstr "Tohoku"
+
+msgctxt "thohoku_area_adj코0"
+msgid "Tohokuan"
+msgstr "Tohokuan"
+
+msgctxt "kinai_area코0"
+msgid "Kinai"
+msgstr "Kinai"
+
+msgctxt "kinai_area_name코0"
+msgid "Kinai"
+msgstr "Kinai"
+
+msgctxt "kinai_area_adj코0"
+msgid "Kinai"
+msgstr "Kinai"
+
+msgctxt "kanto_area코1"
+msgid "Western Kanto"
+msgstr "Western Kanto"
+
+msgctxt "kanto_area_name코0"
+msgid "Kanto"
+msgstr "Kanto"
+
+msgctxt "kanto_area_adj코0"
+msgid "Kanto"
+msgstr "Kanto"
+
+msgctxt "eastern_kanto_area코0"
+msgid "Eastern Kanto"
+msgstr "Eastern Kanto"
+
+msgctxt "eastern_kanto_area_name코0"
+msgid "Hitachi"
+msgstr "Hitachi"
+
+msgctxt "eastern_kanto_area_adj코0"
+msgid "Hitachi"
+msgstr "Hitachi"
+
+msgctxt "shikoku_area코0"
+msgid "Shikoku"
+msgstr "Shikoku"
+
+msgctxt "shikoku_area_name코0"
+msgid "Shikoku"
+msgstr "Shikoku"
+
+msgctxt "shikoku_area_adj코0"
+msgid "Shikokuan"
+msgstr "Shikokuan"
+
+msgctxt "east_china_sea_islands_area코0"
+msgid "East China Sea Islands"
+msgstr "East China Sea Islands"
+
+msgctxt "east_china_sea_islands_area_name코0"
+msgid "Ryukyu"
+msgstr "Ryukyu"
+
+msgctxt "east_china_sea_islands_area_adj코0"
+msgid "Ryukyuan"
+msgstr "Ryukyuan"
+
+msgctxt "kolyma_area코0"
+msgid "Kolyma"
+msgstr "Kolyma"
+
+msgctxt "kolyma_area_name코0"
+msgid "Kolyma"
+msgstr "Kolyma"
+
+msgctxt "kolyma_area_adj코0"
+msgid "Kolyman"
+msgstr "Kolyman"
+
+msgctxt "kansai_area코0"
+msgid "Kansai"
+msgstr "Kansai"
+
+msgctxt "kansai_area_name코0"
+msgid "Kansai"
+msgstr "Kansai"
+
+msgctxt "kansai_area_adj코0"
+msgid "Kansai"
+msgstr "Kansai"
+
+msgctxt "sanindo_area코0"
+msgid "San'indo"
+msgstr "San'indo"
+
+msgctxt "sanindo_area_name코0"
+msgid "San'indo"
+msgstr "San'indo"
+
+msgctxt "sanindo_area_adj코0"
+msgid "San'indoan"
+msgstr "San'indoan"
+
+msgctxt "saigoku_area코1"
+msgid "Sanyodo"
+msgstr "Sanyodo"
+
+msgctxt "saigoku_area_name코0"
+msgid "Sanyodo"
+msgstr "Sanyodo"
+
+msgctxt "saigoku_area_adj코0"
+msgid "Sanyodoan"
+msgstr "Sanyodoan"
+
+msgctxt "hokuriku_area코0"
+msgid "Hokuriku"
+msgstr "Hokuriku"
+
+msgctxt "hokuriku_area_name코0"
+msgid "Hokuriku"
+msgstr "Hokuriku"
+
+msgctxt "hokuriku_area_adj코0"
+msgid "Hokurikuan"
+msgstr "Hokurikuan"
+
+msgctxt "chugoku_area코0"
+msgid "Chugoku"
+msgstr "Chugoku"
+
+msgctxt "chugoku_area_name코0"
+msgid "Chugoku"
+msgstr "Chugoku"
+
+msgctxt "chugoku_area_adj코0"
+msgid "Chugokuan"
+msgstr "Chugokuan"
+
+msgctxt "kamchatka_area코0"
+msgid "Kamchatka"
+msgstr "Kamchatka"
+
+msgctxt "kamchatka_area_name코0"
+msgid "Kamchatka"
+msgstr "Kamchatka"
+
+msgctxt "kamchatka_area_adj코0"
+msgid "Kamchatkan"
+msgstr "Kamchatkan"
+
+msgctxt "magadan_area코0"
+msgid "Magadan"
+msgstr "Magadan"
+
+msgctxt "magadan_area_name코0"
+msgid "Magadan"
+msgstr "Magadan"
+
+msgctxt "magadan_area_adj코0"
+msgid "Magadan"
+msgstr "Magadan"
+
+msgctxt "okhotsk_area코0"
+msgid "Okhotsk"
+msgstr "Okhotsk"
+
+msgctxt "okhotsk_area_name코0"
+msgid "Okhotsk"
+msgstr "Okhotsk"
+
+msgctxt "okhotsk_area_adj코0"
+msgid "Okhotskian"
+msgstr "Okhotskian"
+
+msgctxt "yakutia_area코0"
+msgid "Yakutia"
+msgstr "Yakutia"
+
+msgctxt "yakutia_area_name코0"
+msgid "Yakutia"
+msgstr "Yakutia"
+
+msgctxt "yakutia_area_adj코0"
+msgid "Yakutian"
+msgstr "Yakutian"
+
+msgctxt "sakha_area코0"
+msgid "Sakha"
+msgstr "Sakha"
+
+msgctxt "sakha_area_name코0"
+msgid "Sakha"
+msgstr "Sakha"
+
+msgctxt "sakha_area_adj코0"
+msgid "Sakhan"
+msgstr "Sakhan"
+
+msgctxt "buryatia_area코0"
+msgid "Buryatia"
+msgstr "Buryatia"
+
+msgctxt "buryatia_area_name코0"
+msgid "Buryatia"
+msgstr "Buryatia"
+
+msgctxt "buryatia_area_adj코0"
+msgid "Buryatian"
+msgstr "Buryatian"
+
+msgctxt "tunguska_area코0"
+msgid "Tunguska"
+msgstr "Tunguska"
+
+msgctxt "tunguska_area_name코0"
+msgid "Tunguska"
+msgstr "Tunguska"
+
+msgctxt "tunguska_area_adj코0"
+msgid "Tunguskan"
+msgstr "Tunguskan"
+
+msgctxt "central_siberia_area코0"
+msgid "Central Siberia"
+msgstr "Central Siberia"
+
+msgctxt "central_siberia_area_name코0"
+msgid "Siberia"
+msgstr "Siberia"
+
+msgctxt "central_siberia_area_adj코0"
+msgid "Siberian"
+msgstr "Siberian"
+
+msgctxt "kara_area코0"
+msgid "Kara"
+msgstr "Kara"
+
+msgctxt "kara_area_name코0"
+msgid "Kara"
+msgstr "Kara"
+
+msgctxt "kara_area_adj코0"
+msgid "Karan"
+msgstr "Karan"
+
+msgctxt "ob_area코0"
+msgid "Ob"
+msgstr "Ob"
+
+msgctxt "ob_area_name코0"
+msgid "Pegaya Orda"
+msgstr "Pegaya Orda"
+
+msgctxt "ob_area_adj코0"
+msgid "Pegayan"
+msgstr "Pegayan"
+
+msgctxt "irkutsk_area코0"
+msgid "Irkutsk"
+msgstr "Irkutsk"
+
+msgctxt "irkutsk_area_name코0"
+msgid "Irkutsk"
+msgstr "Irkutsk"
+
+msgctxt "irkutsk_area_adj코0"
+msgid "Irkutskan"
+msgstr "Irkutskan"
+
+msgctxt "perm_area코0"
+msgid "Perm"
+msgstr "Perm"
+
+msgctxt "perm_area_name코0"
+msgid "Perm"
+msgstr "Perm"
+
+msgctxt "perm_area_adj코0"
+msgid "Permian"
+msgstr "Permian"
+
+msgctxt "balchasj_area코0"
+msgid "Balchash"
+msgstr "Balchash"
+
+msgctxt "balchasj_area_name코0"
+msgid "Nadym"
+msgstr "Nadym"
+
+msgctxt "balchasj_area_adj코0"
+msgid "Nadymi"
+msgstr "Nadymi"
+
+msgctxt "syr_darya_area코0"
+msgid "Syr Darya"
+msgstr "Syr Darya"
+
+msgctxt "syr_darya_area_name코0"
+msgid "Darya"
+msgstr "Darya"
+
+msgctxt "syr_darya_area_adj코0"
+msgid "Daryan"
+msgstr "Daryan"
+
+msgctxt "kazakhstan_area코0"
+msgid "Kazakhstan"
+msgstr "Kazakhstan"
+
+msgctxt "kazakhstan_area_name코0"
+msgid "Kazakhstan"
+msgstr "Kazakhstan"
+
+msgctxt "kazakhstan_area_adj코0"
+msgid "Kazakhstani"
+msgstr "Kazakhstani"
+
+msgctxt "yrtesh_area코0"
+msgid "Yrtesh"
+msgstr "Yrtesh"
+
+msgctxt "yrtesh_area_name코0"
+msgid "Kerey"
+msgstr "Kerey"
+
+msgctxt "yrtesh_area_adj코0"
+msgid "Kereyan"
+msgstr "Kereyan"
+
+msgctxt "ishim_area코0"
+msgid "Ishim"
+msgstr "Ishim"
+
+msgctxt "ishim_area_name코0"
+msgid "Tyumen"
+msgstr "Tyumen"
+
+msgctxt "ishim_area_adj코0"
+msgid "Tyumeni"
+msgstr "Tyumeni"
+
+msgctxt "heilongjiang_area코0"
+msgid "West Heilongjiangord"
+msgstr "West Heilongjiangord"
+
+msgctxt "heilongjiang_area_name코0"
+msgid "Heilongjiang"
+msgstr "Heilongjiang"
+
+msgctxt "heilongjiang_area_adj코0"
+msgid "Heilongjiangi"
+msgstr "Heilongjiangi"
+
+msgctxt "east_heilongjiang_area코0"
+msgid "East Heilongjiangord"
+msgstr "East Heilongjiangord"
+
+msgctxt "east_heilongjiang_area_name코0"
+msgid "Yeren"
+msgstr "Yeren"
+
+msgctxt "east_heilongjiang_area_adj코0"
+msgid "Yereni"
+msgstr "Yereni"
+
+msgctxt "jilin_area코0"
+msgid "South Jilin"
+msgstr "South Jilin"
+
+msgctxt "jilin_area_name코0"
+msgid "Jilin"
+msgstr "Jilin"
+
+msgctxt "jilin_area_adj코0"
+msgid "Jilini"
+msgstr "Jilini"
+
+msgctxt "central_jilin_area코1"
+msgid "South Ilin Hala"
+msgstr "South Ilin Hala"
+
+msgctxt "central_jilin_area_name코0"
+msgid "Ilan Hala"
+msgstr "Ilan Hala"
+
+msgctxt "central_jilin_area_adj코0"
+msgid "Ilan Halan"
+msgstr "Ilan Halan"
+
+msgctxt "ilan_hala_area코1"
+msgid "North Ilin Hala"
+msgstr "North Ilin Hala"
+
+msgctxt "ilan_hala_area_name코0"
+msgid "Deren"
+msgstr "Deren"
+
+msgctxt "ilan_hala_area_adj코0"
+msgid "Dereni"
+msgstr "Dereni"
+
+msgctxt "liaoning_area코0"
+msgid "Liaoning"
+msgstr "Liaoning"
+
+msgctxt "liaoning_area_name코0"
+msgid "Liaoning"
+msgstr "Liaoning"
+
+msgctxt "liaoning_area_adj코0"
+msgid "Liaoningian"
+msgstr "Liaoningian"
+
+msgctxt "ordos_area코0"
+msgid "Ordos"
+msgstr "Ordos"
+
+msgctxt "ordos_area_name코0"
+msgid "Ordos"
+msgstr "Ordos"
+
+msgctxt "ordos_area_adj코0"
+msgid "Ordosi"
+msgstr "Ordosi"
+
+msgctxt "inner_mongolia_area코0"
+msgid "Inner Mongolia"
+msgstr "Inner Mongolia"
+
+msgctxt "inner_mongolia_area_name코0"
+msgid "Chahar"
+msgstr "Chahar"
+
+msgctxt "inner_mongolia_area_adj코0"
+msgid "Chahari"
+msgstr "Chahari"
+
+msgctxt "outer_mongolia_area코0"
+msgid "Outer Mongolia"
+msgstr "Outer Mongolia"
+
+msgctxt "outer_mongolia_area_name코0"
+msgid "Mongolia"
+msgstr "Mongolia"
+
+msgctxt "outer_mongolia_area_adj코0"
+msgid "Mongolian"
+msgstr "Mongolian"
+
+msgctxt "eastern_mongolia코0"
+msgid "Eastern Mongolia"
+msgstr "Eastern Mongolia"
+
+msgctxt "eastern_mongolia_name코0"
+msgid "Jirem"
+msgstr "Jirem"
+
+msgctxt "eastern_mongolia_adj코0"
+msgid "Jiremi"
+msgstr "Jiremi"
+
+msgctxt "central_mongolia_area코1"
+msgid "Gobi"
+msgstr "Gobi"
+
+msgctxt "central_mongolia_area_name코0"
+msgid "Qaraqorum"
+msgstr "Qaraqorum"
+
+msgctxt "central_mongolia_area_adj코0"
+msgid "Qaraqorumi"
+msgstr "Qaraqorumi"
+
+msgctxt "altai_sayan_area코1"
+msgid "Kobdo"
+msgstr "Kobdo"
+
+msgctxt "altai_sayan_area_name코0"
+msgid "Altai"
+msgstr "Altai"
+
+msgctxt "altai_sayan_area_adj코0"
+msgid "Altai"
+msgstr "Altai"
+
+msgctxt "sayan_area코0"
+msgid "Sayan"
+msgstr "Sayan"
+
+msgctxt "sayan_area_name코0"
+msgid "Sayan"
+msgstr "Sayan"
+
+msgctxt "sayan_area_area코0"
+msgid "Sayani"
+msgstr "Sayani"
+
+msgctxt "kashgaria_area코0"
+msgid "Kashgaria"
+msgstr "Kashgaria"
+
+msgctxt "kashgaria_area_name코0"
+msgid "Kashgaria"
+msgstr "Kashgaria"
+
+msgctxt "kashgaria_area_adj코0"
+msgid "Kashgarian"
+msgstr "Kashgarian"
+
+msgctxt "tarim_basin_area코1"
+msgid "Central Altishahr"
+msgstr "Central Altishahr"
+
+msgctxt "tarim_basin_area_name코0"
+msgid "Altishahr"
+msgstr "Altishahr"
+
+msgctxt "tarim_basin_area_adj코0"
+msgid "Altishahri"
+msgstr "Altishahri"
+
+msgctxt "zungaria_area코0"
+msgid "South Zungaria"
+msgstr "South Zungaria"
+
+msgctxt "zungaria_area_name코0"
+msgid "Zungaria"
+msgstr "Zungaria"
+
+msgctxt "zungaria_area_adj코0"
+msgid "Zungarian"
+msgstr "Zungarian"
+
+msgctxt "north_zungaria코0"
+msgid "North Zungaria"
+msgstr "North Zungaria"
+
+msgctxt "north_zungaria_name코0"
+msgid "Urzhar"
+msgstr "Urzhar"
+
+msgctxt "north_zungaria_adj코0"
+msgid "Urzhari"
+msgstr "Urzhari"
+
+msgctxt "jetysuu_area코0"
+msgid "Jetysuu"
+msgstr "Jetysuu"
+
+msgctxt "jetysuu_area_name코0"
+msgid "Jetysuu"
+msgstr "Jetysuu"
+
+msgctxt "jetysuu_area_adj코0"
+msgid "Jetysuan"
+msgstr "Jetysuan"
+
+msgctxt "amdo_area코0"
+msgid "Amdo"
+msgstr "Amdo"
+
+msgctxt "amdo_area_name코0"
+msgid "Amdo"
+msgstr "Amdo"
+
+msgctxt "amdo_area_adj코0"
+msgid "Amdoan"
+msgstr "Amdoan"
+
+msgctxt "kham_area코0"
+msgid "Kham"
+msgstr "Kham"
+
+msgctxt "kham_area_name코0"
+msgid "Kham"
+msgstr "Kham"
+
+msgctxt "kham_area_adj코0"
+msgid "Khami"
+msgstr "Khami"
+
+msgctxt "tsang_area코0"
+msgid "Tsang"
+msgstr "Tsang"
+
+msgctxt "tsang_area_name코0"
+msgid "Tsang"
+msgstr "Tsang"
+
+msgctxt "tsang_area_adj코0"
+msgid "Tsang"
+msgstr "Tsang"
+
+msgctxt "utsang_area코1"
+msgid "Ü"
+msgstr "U"
+
+msgctxt "utsang_area_name코0"
+msgid "U-Tsang"
+msgstr "U-Tsang"
+
+msgctxt "utsang_area_adj코0"
+msgid "U-Tsangi"
+msgstr "U-Tsangi"
+
+msgctxt "south_hebei_area코0"
+msgid "South Hebei"
+msgstr "South Hebei"
+
+msgctxt "south_hebei_area_name코0"
+msgid "Hejian"
+msgstr "Hejian"
+
+msgctxt "south_hebei_area_adj코0"
+msgid "Hejiani"
+msgstr "Hejiani"
+
+msgctxt "hebei_area코0"
+msgid "North Hebei"
+msgstr "North Hebei"
+
+msgctxt "hebei_area_name코0"
+msgid "Hebei"
+msgstr "Hebei"
+
+msgctxt "hebei_area_adj코0"
+msgid "Hebeian"
+msgstr "Hebeian"
+
+msgctxt "shandong_area코0"
+msgid "Shandong"
+msgstr "Shandong"
+
+msgctxt "shandong_area_name코0"
+msgid "Shandong"
+msgstr "Shandong"
+
+msgctxt "shandong_area_adj코0"
+msgid "Shandongi"
+msgstr "Shandongi"
+
+msgctxt "jiangsu_area코0"
+msgid "North Jiangsu"
+msgstr "North Jiangsu"
+
+msgctxt "jiangsu_area_name코0"
+msgid "Jiangsu"
+msgstr "Jiangsu"
+
+msgctxt "jiangsu_area_adj코0"
+msgid "Jiangsuan"
+msgstr "Jiangsuan"
+
+msgctxt "south_jiangsu_area코0"
+msgid "South Jiangsu"
+msgstr "South Jiangsu"
+
+msgctxt "south_jiangsu_area_name코0"
+msgid "Nanjing"
+msgstr "Nanjing"
+
+msgctxt "south_jiangsu_area_adj코0"
+msgid "Nanjingi"
+msgstr "Nanjingi"
+
+msgctxt "anhui_area코0"
+msgid "North Anhui"
+msgstr "North Anhui"
+
+msgctxt "anhui_area_name코0"
+msgid "Anhui"
+msgstr "Anhui"
+
+msgctxt "anhui_area_adj코0"
+msgid "Anhuian"
+msgstr "Anhuian"
+
+msgctxt "south_anhui_area코0"
+msgid "South Anhui"
+msgstr "South Anhui"
+
+msgctxt "south_anhui_area_name코0"
+msgid "Anqing"
+msgstr "Anqing"
+
+msgctxt "south_anhui_area_adj코0"
+msgid "Anqingi"
+msgstr "Anqingi"
+
+msgctxt "zhejiang_area코0"
+msgid "Zhejiang"
+msgstr "Zhejiang"
+
+msgctxt "zhejiang_area_name코0"
+msgid "Zhejiang"
+msgstr "Zhejiang"
+
+msgctxt "zhejiang_area_adj코0"
+msgid "Zhejiangi"
+msgstr "Zhejiangi"
+
+msgctxt "jiangxi_area코0"
+msgid "Jiangxi"
+msgstr "Jiangxi"
+
+msgctxt "jiangxi_area_name코0"
+msgid "Jiangxi"
+msgstr "Jiangxi"
+
+msgctxt "jiangxi_area_adj코0"
+msgid "Jiangxian"
+msgstr "Jiangxian"
+
+msgctxt "fujian_area코0"
+msgid "Fujian"
+msgstr "Fujian"
+
+msgctxt "fujian_area_name코0"
+msgid "Fujian"
+msgstr "Fujian"
+
+msgctxt "fujian_area_adj코0"
+msgid "Fujianian"
+msgstr "Fujianian"
+
+msgctxt "taiwan_area코0"
+msgid "Taiwan"
+msgstr "Taiwan"
+
+msgctxt "taiwan_area_name코0"
+msgid "Taiwan"
+msgstr "Taiwan"
+
+msgctxt "taiwan_area_adj코0"
+msgid "Taiwanese"
+msgstr "Taiwanese"
+
+msgctxt "guangdong_area코0"
+msgid "East Guangdong"
+msgstr "East Guangdong"
+
+msgctxt "guangdong_area_name코0"
+msgid "Guangdong"
+msgstr "Guangdong"
+
+msgctxt "guangdong_area_adj코0"
+msgid "Guangdongian"
+msgstr "Guangdongian"
+
+msgctxt "west_guangdong_area코0"
+msgid "West Guangdong"
+msgstr "West Guangdong"
+
+msgctxt "west_guangdong_area_name코0"
+msgid "Limchow"
+msgstr "Limchow"
+
+msgctxt "west_guangdong_area_adj코0"
+msgid "Limchowian"
+msgstr "Limchowian"
+
+msgctxt "guangxi_area코0"
+msgid "Guangxi"
+msgstr "Guangxi"
+
+msgctxt "guangxi_area_name코0"
+msgid "Guangxi"
+msgstr "Guangxi"
+
+msgctxt "guangxi_area_adj코0"
+msgid "Guangxian"
+msgstr "Guangxian"
+
+msgctxt "yun_gui_area코0"
+msgid "Yun-Gui Hinterland"
+msgstr "Yun-Gui Hinterland"
+
+msgctxt "yun_gui_area_name코0"
+msgid "Yun-Gui"
+msgstr "Yun-Gui"
+
+msgctxt "yun_gui_area_adj코0"
+msgid "Yun-Gui"
+msgstr "Yun-Gui"
+
+msgctxt "yun_gui_borderland_area코0"
+msgid "Yun-Gui Frontier"
+msgstr "Yun-Gui Frontier"
+
+msgctxt "yun_gui_borderland_area_name코0"
+msgid "Dali"
+msgstr "Dali"
+
+msgctxt "yun_gui_borderland_area_adj코0"
+msgid "Dalian"
+msgstr "Dalian"
+
+msgctxt "sichuan_area코0"
+msgid "Sichuan"
+msgstr "Sichuan"
+
+msgctxt "sichuan_area_name코0"
+msgid "Sichuan"
+msgstr "Sichuan"
+
+msgctxt "sichuan_area_adj코0"
+msgid "Sichuanese"
+msgstr "Sichuanese"
+
+msgctxt "chuannan_area코0"
+msgid "Chuannan"
+msgstr "Chuannan"
+
+msgctxt "chuannan_area_name코0"
+msgid "Chuannan"
+msgstr "Chuannan"
+
+msgctxt "chuannan_area_adj코0"
+msgid "Chuannani"
+msgstr "Chuannani"
+
+msgctxt "huguang_area코0"
+msgid "Hubei"
+msgstr "Hubei"
+
+msgctxt "huguang_area_name코0"
+msgid "Huguang"
+msgstr "Huguang"
+
+msgctxt "huguang_area_adj코0"
+msgid "Huguangese"
+msgstr "Huguangese"
+
+msgctxt "hunan_area코0"
+msgid "Hunan"
+msgstr "Hunan"
+
+msgctxt "hunan_area_name코0"
+msgid "Hunan"
+msgstr "Hunan"
+
+msgctxt "hunan_area_adj코0"
+msgid "Hunani"
+msgstr "Hunani"
+
+msgctxt "north_henan_area코0"
+msgid "North Henan"
+msgstr "North Henan"
+
+msgctxt "north_henan_area_name코0"
+msgid "Kaifeng"
+msgstr "Kaifeng"
+
+msgctxt "north_henan_area_adj코0"
+msgid "Kaifengi"
+msgstr "Kaifengi"
+
+msgctxt "henan_area코0"
+msgid "South Henan"
+msgstr "South Henan"
+
+msgctxt "henan_area_name코0"
+msgid "Henan"
+msgstr "Henan"
+
+msgctxt "henan_area_adj코0"
+msgid "Henanese"
+msgstr "Henanese"
+
+msgctxt "shanxi_area코0"
+msgid "Shanxi"
+msgstr "Shanxi"
+
+msgctxt "shanxi_area_name코0"
+msgid "Shanxi"
+msgstr "Shanxi"
+
+msgctxt "shanxi_area_adj코0"
+msgid "Shanxianese"
+msgstr "Shanxianese"
+
+msgctxt "shaanxi_area코0"
+msgid "Shaanxi"
+msgstr "Shaanxi"
+
+msgctxt "shaanxi_area_name코0"
+msgid "Shaanxi"
+msgstr "Shaanxi"
+
+msgctxt "shaanxi_area_adj코0"
+msgid "Shaanxian"
+msgstr "Shaanxian"
+
+msgctxt "gansu_area코0"
+msgid "East Gansu"
+msgstr "East Gansu"
+
+msgctxt "gansu_area_name코0"
+msgid "Gansu"
+msgstr "Gansu"
+
+msgctxt "gansu_area_adj코0"
+msgid "Gansuan"
+msgstr "Gansuan"
+
+msgctxt "west_gansu_area코0"
+msgid "West Gansu"
+msgstr "West Gansu"
+
+msgctxt "west_gansu_area_name코0"
+msgid "Yumen"
+msgstr "Yumen"
+
+msgctxt "west_gansu_area_adj코0"
+msgid "Yumeni"
+msgstr "Yumeni"
+
+msgctxt "rio_grande_do_sol_area코0"
+msgid "Rio Grande do Sul"
+msgstr "Rio Grande do Sul"
+
+msgctxt "rio_grande_do_sol_area_name코0"
+msgid "Brazil"
+msgstr "Brazil"
+
+msgctxt "rio_grande_do_sol_area_adj코0"
+msgid "Brazilian"
+msgstr "Brazilian"
+
+msgctxt "diamantina_area코0"
+msgid "Diamantina"
+msgstr "Diamantina"
+
+msgctxt "diamantina_area_name코0"
+msgid "Diamantina"
+msgstr "Diamantina"
+
+msgctxt "diamantina_area_adj코0"
+msgid "Diamantine"
+msgstr "Diamantine"
+
+msgctxt "minas_gerais_area코0"
+msgid "Minas Gerais"
+msgstr "Minas Gerais"
+
+msgctxt "minas_gerais_area_name코1"
+msgid "Minas Gerais"
+msgstr "Minas Gerais"
+
+msgctxt "minas_gerais_area_adj코1"
+msgid "Minas Gerais"
+msgstr "Minas Gerais"
+
+msgctxt "iquitos_area코0"
+msgid "Iquitos"
+msgstr "Iquitos"
+
+msgctxt "iquitos_area_name코0"
+msgid "Iquitos"
+msgstr "Iquitos"
+
+msgctxt "iquitos_area_adj코0"
+msgid "Iquitoan"
+msgstr "Iquitoan"
+
+msgctxt "misiones_area코0"
+msgid "Mesopotamia"
+msgstr "Mesopotamia"
+
+msgctxt "misiones_area_name코0"
+msgid "Misiones"
+msgstr "Misiones"
+
+msgctxt "misiones_area_adj코0"
+msgid "Misione"
+msgstr "Misione"
+
+msgctxt "west_sao_paolo_area코0"
+msgid "Guayra"
+msgstr "Guayra"
+
+msgctxt "west_sao_paolo_area_name코0"
+msgid "Guayra"
+msgstr "Guayra"
+
+msgctxt "west_sao_paolo_area_adj코0"
+msgid "Guayra"
+msgstr "Guayra"
+
+msgctxt "ceara_area코0"
+msgid "Ceará"
+msgstr "Ceara"
+
+msgctxt "ceara_area_name코0"
+msgid "Ceará"
+msgstr "Ceara"
+
+msgctxt "ceara_area_adj코0"
+msgid "Cearán"
+msgstr "Cearan"
+
+msgctxt "ofaie_area코0"
+msgid "Ofaie"
+msgstr "Ofaie"
+
+msgctxt "ofaie_area_name코0"
+msgid "Ofaie"
+msgstr "Ofaie"
+
+msgctxt "ofaie_area_adj코0"
+msgid "Ofaie"
+msgstr "Ofaie"
+
+msgctxt "goias_area코0"
+msgid "Goias"
+msgstr "Goias"
+
+msgctxt "goias_area_name코0"
+msgid "Goias"
+msgstr "Goias"
+
+msgctxt "goias_area_adj코0"
+msgid "Goian"
+msgstr "Goian"
+
+msgctxt "pontal_area코0"
+msgid "Pontal"
+msgstr "Pontal"
+
+msgctxt "pontal_area_name코0"
+msgid "Pontal"
+msgstr "Pontal"
+
+msgctxt "pontal_area_adj코0"
+msgid "Pontali"
+msgstr "Pontali"
+
+msgctxt "mato_grosso_area코0"
+msgid "Mato Grosso"
+msgstr "Mato Grosso"
+
+msgctxt "mato_grosso_area_name코0"
+msgid "Grosso"
+msgstr "Grosso"
+
+msgctxt "mato_grosso_area_adj코0"
+msgid "Grossoan"
+msgstr "Grossoan"
+
+msgctxt "guapore_area코0"
+msgid "Guapore"
+msgstr "Guapore"
+
+msgctxt "guapore_area_name코0"
+msgid "Guapore"
+msgstr "Guapore"
+
+msgctxt "guapore_area_adj코0"
+msgid "Guaporan"
+msgstr "Guaporan"
+
+msgctxt "sao_paolo_area코0"
+msgid "Sao Paulo"
+msgstr "Sao Paulo"
+
+msgctxt "sao_paolo_area_name코0"
+msgid "Paulo"
+msgstr "Paulo"
+
+msgctxt "sao_paolo_area_adj코0"
+msgid "Pauloan"
+msgstr "Pauloan"
+
+msgctxt "rio_de_janeiro_area코0"
+msgid "Rio de Janeiro"
+msgstr "Rio de Janeiro"
+
+msgctxt "rio_de_janeiro_area_name코0"
+msgid "Rio de Janeiro"
+msgstr "Rio de Janeiro"
+
+msgctxt "rio_de_janeiro_area_adj코0"
+msgid "Rio de Janeiroan"
+msgstr "Rio de Janeiroan"
+
+msgctxt "bahia_area코0"
+msgid "Bahia"
+msgstr "Bahia"
+
+msgctxt "bahia_area_name코0"
+msgid "Bahia"
+msgstr "Bahia"
+
+msgctxt "bahia_area_adj코0"
+msgid "Bahian"
+msgstr "Bahian"
+
+msgctxt "pernambuco_area코0"
+msgid "Pernambuco"
+msgstr "Pernambuco"
+
+msgctxt "pernambuco_area_name코0"
+msgid "Pernambuco"
+msgstr "Pernambuco"
+
+msgctxt "pernambuco_area_adj코0"
+msgid "Pernambucoan"
+msgstr "Pernambucoan"
+
+msgctxt "sao_francisco_area코0"
+msgid "Sao Francisco"
+msgstr "Sao Francisco"
+
+msgctxt "sao_francisco_area_name코0"
+msgid "Paratinga"
+msgstr "Paratinga"
+
+msgctxt "sao_francisco_area_adj코0"
+msgid "Paratingan"
+msgstr "Paratingan"
+
+msgctxt "maranhao_area코0"
+msgid "Maranhao"
+msgstr "Maranhao"
+
+msgctxt "maranhao_area_name코0"
+msgid "Maranhao"
+msgstr "Maranhao"
+
+msgctxt "maranhao_area_adj코0"
+msgid "Maranhaon"
+msgstr "Maranhaon"
+
+msgctxt "piaui_area코0"
+msgid "Piauí"
+msgstr "Piaui"
+
+msgctxt "piaui_area_name코0"
+msgid "Piauí"
+msgstr "Piaui"
+
+msgctxt "piaui_area_adj코0"
+msgid "Piauían"
+msgstr "Piauian"
+
+msgctxt "amapa_area코0"
+msgid "Amapá"
+msgstr "Amapa"
+
+msgctxt "amapa_area_name코0"
+msgid "Amapá"
+msgstr "Amapa"
+
+msgctxt "amapa_area_adj코0"
+msgid "Amapán"
+msgstr "Amapan"
+
+msgctxt "grao_para_area코0"
+msgid "Grao Para"
+msgstr "Grao Para"
+
+msgctxt "grao_para_area_name코0"
+msgid "Belem"
+msgstr "Belem"
+
+msgctxt "grao_para_area_adj코0"
+msgid "Belemian"
+msgstr "Belemian"
+
+msgctxt "amazon_area코0"
+msgid "Amazon"
+msgstr "Amazon"
+
+msgctxt "amazon_area_name코0"
+msgid "Amazonia"
+msgstr "Amazonia"
+
+msgctxt "amazon_area_adj코0"
+msgid "Amazon"
+msgstr "Amazon"
+
+msgctxt "paraguay_area코0"
+msgid "Paraguay"
+msgstr "Paraguay"
+
+msgctxt "paraguay_area_name코0"
+msgid "Paraguay"
+msgstr "Paraguay"
+
+msgctxt "paraguay_area_adj코0"
+msgid "Paraguayan"
+msgstr "Paraguayan"
+
+msgctxt "patagonia_area코0"
+msgid "Patagonia"
+msgstr "Patagonia"
+
+msgctxt "patagonia_area_name코0"
+msgid "Patagonia"
+msgstr "Patagonia"
+
+msgctxt "patagonia_area_adj코0"
+msgid "Patagonian"
+msgstr "Patagonian"
+
+msgctxt "patagonian_andes코0"
+msgid "Patagonian Andes"
+msgstr "Patagonian Andes"
+
+msgctxt "patagonian_andes_name코0"
+msgid "Chubut"
+msgstr "Chubut"
+
+msgctxt "patagonian_andes_adj코0"
+msgid "Chubut"
+msgstr "Chubut"
+
+msgctxt "bahia_blanca_area코0"
+msgid "Bahiá Blanca"
+msgstr "Bahia Blanca"
+
+msgctxt "bahia_blanca_area_name코0"
+msgid "Candelaria"
+msgstr "Candelaria"
+
+msgctxt "bahia_blanca_area_adj코0"
+msgid "Candelarian"
+msgstr "Candelarian"
+
+msgctxt "cuyo_area코0"
+msgid "Cuyo"
+msgstr "Cuyo"
+
+msgctxt "cuyo_area_name코0"
+msgid "Cuyo"
+msgstr "Cuyo"
+
+msgctxt "cuyo_area_adj코0"
+msgid "Cuyoan"
+msgstr "Cuyoan"
+
+msgctxt "nehuenken_area코0"
+msgid "Neheunken"
+msgstr "Neheunken"
+
+msgctxt "nehuenken_area_name코0"
+msgid "Nehuenken"
+msgstr "Nehuenken"
+
+msgctxt "nehuenken_area_adj코0"
+msgid "Nehuenka"
+msgstr "Nehuenka"
+
+msgctxt "southern_pampas_area코0"
+msgid "Southern Pampas"
+msgstr "Southern Pampas"
+
+msgctxt "southern_pampas_area_name코0"
+msgid "Pampas"
+msgstr "Pampas"
+
+msgctxt "southern_pampas_area_adj코0"
+msgid "Pampan"
+msgstr "Pampan"
+
+msgctxt "buenos_aires_area코0"
+msgid "Buenos Aires"
+msgstr "Buenos Aires"
+
+msgctxt "buenos_aires_area_name코0"
+msgid "La Plata"
+msgstr "La Plata"
+
+msgctxt "buenos_aires_area_adj코0"
+msgid "La Platan"
+msgstr "La Platan"
+
+msgctxt "jujuy_area코0"
+msgid "Jujuy"
+msgstr "Jujuy"
+
+msgctxt "jujuy_area_name코0"
+msgid "Jujuy"
+msgstr "Jujuy"
+
+msgctxt "jujuy_area_adj코0"
+msgid "Jujuy"
+msgstr "Jujuy"
+
+msgctxt "potosi_area코0"
+msgid "Potosí"
+msgstr "Potosi"
+
+msgctxt "potosi_area_name코0"
+msgid "Potosí"
+msgstr "Potosi"
+
+msgctxt "potosi_area_adj코0"
+msgid "Potosí"
+msgstr "Potosi"
+
+msgctxt "tucuman_area코0"
+msgid "Tucuman"
+msgstr "Tucuman"
+
+msgctxt "tucuman_area_name코0"
+msgid "Tucuman"
+msgstr "Tucuman"
+
+msgctxt "tucuman_area_adj코0"
+msgid "Tucumani"
+msgstr "Tucumani"
+
+msgctxt "chaco_area코0"
+msgid "Chaco"
+msgstr "Chaco"
+
+msgctxt "chaco_area_name코0"
+msgid "Chaco"
+msgstr "Chaco"
+
+msgctxt "chaco_area_adj코0"
+msgid "Chacoan"
+msgstr "Chacoan"
+
+msgctxt "banda_oriental_area코0"
+msgid "Banda Oriental"
+msgstr "Banda Oriental"
+
+msgctxt "banda_oriental_area_name코0"
+msgid "Uruguay"
+msgstr "Uruguay"
+
+msgctxt "banda_oriental_area_adj코0"
+msgid "Uruguayan"
+msgstr "Uruguayan"
+
+msgctxt "suriname_area코0"
+msgid "Suriname"
+msgstr "Suriname"
+
+msgctxt "suriname_area_name코0"
+msgid "Suriname"
+msgstr "Suriname"
+
+msgctxt "suriname_area_adj코0"
+msgid "Surinaman"
+msgstr "Surinaman"
+
+msgctxt "guyana_area코0"
+msgid "Guyana"
+msgstr "Guyana"
+
+msgctxt "guyana_area_name코0"
+msgid "Guyana"
+msgstr "Guyana"
+
+msgctxt "guyana_area_adj코0"
+msgid "Guyanan"
+msgstr "Guyanan"
+
+msgctxt "upper_guyana_area코0"
+msgid "Upper Guyana"
+msgstr "Upper Guyana"
+
+msgctxt "upper_guyana_area_name코0"
+msgid "Angostura"
+msgstr "Angostura"
+
+msgctxt "upper_guyana_area_adj코0"
+msgid "Angosturan"
+msgstr "Angosturan"
+
+msgctxt "quito_area코0"
+msgid "Quito"
+msgstr "Quito"
+
+msgctxt "quito_area_name코0"
+msgid "Quito"
+msgstr "Quito"
+
+msgctxt "quito_area_adj코0"
+msgid "Quitoan"
+msgstr "Quitoan"
+
+msgctxt "maracaibo_area코0"
+msgid "Maracaibo"
+msgstr "Maracaibo"
+
+msgctxt "maracaibo_area_name코0"
+msgid "Maracaibo"
+msgstr "Maracaibo"
+
+msgctxt "maracaibo_area_adj코0"
+msgid "Maracaiboan"
+msgstr "Maracaiboan"
+
+msgctxt "venezuela_area코0"
+msgid "Venezuela"
+msgstr "Venezuela"
+
+msgctxt "venezuela_area_name코0"
+msgid "Venezuela"
+msgstr "Venezuela"
+
+msgctxt "venezuela_area_adj코0"
+msgid "Venezuelan"
+msgstr "Venezuelan"
+
+msgctxt "eastern_llanos코0"
+msgid "Eastern Llanos"
+msgstr "Eastern Llanos"
+
+msgctxt "eastern_llanos_name코0"
+msgid "Zaraza"
+msgstr "Zaraza"
+
+msgctxt "eastern_llanos_adj코0"
+msgid "Zarazan"
+msgstr "Zarazan"
+
+msgctxt "western_llanos코0"
+msgid "Western Llanos"
+msgstr "Western Llanos"
+
+msgctxt "western_llanos_name코0"
+msgid "Meta"
+msgstr "Meta"
+
+msgctxt "western_llanos_adj코0"
+msgid "Metan"
+msgstr "Metan"
+
+msgctxt "bogota_area코0"
+msgid "Bogota"
+msgstr "Bogota"
+
+msgctxt "bogota_area_name코0"
+msgid "Bogota"
+msgstr "Bogota"
+
+msgctxt "bogota_area_name_adj코0"
+msgid "Bogotan"
+msgstr "Bogotan"
+
+msgctxt "popayan_area코0"
+msgid "Popayan"
+msgstr "Popayan"
+
+msgctxt "popayan_area_name코0"
+msgid "Popayan"
+msgstr "Popayan"
+
+msgctxt "popayan_area_adj코0"
+msgid "Popayani"
+msgstr "Popayani"
+
+msgctxt "coquivacoa_area코0"
+msgid "Coquivacoa"
+msgstr "Coquivacoa"
+
+msgctxt "coquivacoa_area_name코0"
+msgid "Coquivacoa"
+msgstr "Coquivacoa"
+
+msgctxt "coquivacoa_area_adj코0"
+msgid "Coquivacoan"
+msgstr "Coquivacoan"
+
+msgctxt "northern_chile_area코0"
+msgid "Northern Chile"
+msgstr "Northern Chile"
+
+msgctxt "northern_chile_area_name코0"
+msgid "Chile"
+msgstr "Chile"
+
+msgctxt "northern_chile_area_adj코0"
+msgid "Chilean"
+msgstr "Chilean"
+
+msgctxt "central_chile_area코0"
+msgid "Central Chile"
+msgstr "Central Chile"
+
+msgctxt "central_chile_area_name코0"
+msgid "Picunmapu"
+msgstr "Picunmapu"
+
+msgctxt "central_chile_area_adj코0"
+msgid "Picunmapuan"
+msgstr "Picunmapuan"
+
+msgctxt "southern_chile_area코0"
+msgid "Southern Chile"
+msgstr "Southern Chile"
+
+msgctxt "southern_chile_area_name코0"
+msgid "Aysen"
+msgstr "Aysen"
+
+msgctxt "southern_chile_area_adj코0"
+msgid "Ayseni"
+msgstr "Ayseni"
+
+msgctxt "antisuyu_area코0"
+msgid "Antisuyu"
+msgstr "Antisuyu"
+
+msgctxt "antisuyu_area_name코0"
+msgid "Bolivia"
+msgstr "Bolivia"
+
+msgctxt "antisuyu_area_adj코0"
+msgid "Bolivian"
+msgstr "Bolivian"
+
+msgctxt "peruan_coast코0"
+msgid "Peruan Coast"
+msgstr "Peruan Coast"
+
+msgctxt "peruan_coast_name코0"
+msgid "Nazca"
+msgstr "Nazca"
+
+msgctxt "peruan_coast_adj코0"
+msgid "Nazcan"
+msgstr "Nazcan"
+
+msgctxt "kuntisuyu_area코0"
+msgid "Kuntisuyu"
+msgstr "Kuntisuyu"
+
+msgctxt "kuntisuyu_area_name코0"
+msgid "Peru"
+msgstr "Peru"
+
+msgctxt "kuntisuyu_area_adj코0"
+msgid "Peruvian"
+msgstr "Peruvian"
+
+msgctxt "chimor_area코0"
+msgid "Chimor"
+msgstr "Chimor"
+
+msgctxt "chimor_area_name코0"
+msgid "Chimu"
+msgstr "Chimu"
+
+msgctxt "chimor_area_adj코0"
+msgid "Chimuan"
+msgstr "Chimuan"
+
+msgctxt "ucayali_area코0"
+msgid "Ucayali"
+msgstr "Ucayali"
+
+msgctxt "ucayali_area_name코0"
+msgid "Ucayali"
+msgstr "Ucayali"
+
+msgctxt "ucayali_area_adj코0"
+msgid "Ucayalian"
+msgstr "Ucayalian"
+
+msgctxt "cajamarca_area코0"
+msgid "Cajamarca"
+msgstr "Cajamarca"
+
+msgctxt "cajamarca_area_name코0"
+msgid "Cajamarca"
+msgstr "Cajamarca"
+
+msgctxt "cajamarca_area_adj코0"
+msgid "Cajamarcan"
+msgstr "Cajamarcan"
+
+msgctxt "huanuco_area코0"
+msgid "Huanuco"
+msgstr "Huanuco"
+
+msgctxt "huanuco_area_name코0"
+msgid "Huanuco"
+msgstr "Huanuco"
+
+msgctxt "huanuco_area_adj코0"
+msgid "Huanucoan"
+msgstr "Huanucoan"
+
+msgctxt "moxos_area코0"
+msgid "Moxos"
+msgstr "Moxos"
+
+msgctxt "moxos_area_name코0"
+msgid "Moxos"
+msgstr "Moxos"
+
+msgctxt "moxos_area_adj코0"
+msgid "Moxian"
+msgstr "Moxian"
+
+msgctxt "beni_area코0"
+msgid "Beni"
+msgstr "Beni"
+
+msgctxt "beni_area_name코0"
+msgid "Beni"
+msgstr "Beni"
+
+msgctxt "beni_area_adj코0"
+msgid "Benian"
+msgstr "Benian"
+
+msgctxt "upper_peru코0"
+msgid "Upper Peru"
+msgstr "Upper Peru"
+
+msgctxt "upper_peru_name코0"
+msgid "Potosi"
+msgstr "Potosi"
+
+msgctxt "upper_peru_adj코0"
+msgid "Potosian"
+msgstr "Potosian"
+
+msgctxt "maine_area코0"
+msgid "Maine"
+msgstr "Maine"
+
+msgctxt "maine_area_name코1"
+msgid "Penapawsket"
+msgstr "Penapawsket"
+
+msgctxt "maine_area_adj코1"
+msgid "Penapawsket"
+msgstr "Penapawsket"
+
+msgctxt "great_woods_area코1"
+msgid "New Hampshire"
+msgstr "New Hampshire"
+
+msgctxt "great_woods_area_name코1"
+msgid "Penakuk"
+msgstr "Penakuk"
+
+msgctxt "great_woods_area_adj코1"
+msgid "Penakuk"
+msgstr "Penakuk"
+
+msgctxt "massachusetts_bay_area코1"
+msgid "Massachusetts"
+msgstr "Massachusetts"
+
+msgctxt "massachusetts_bay_area_name코1"
+msgid "Wampanoag"
+msgstr "Wampanoag"
+
+msgctxt "massachusetts_bay_area_adj코1"
+msgid "Wampanoag"
+msgstr "Wampanoag"
+
+msgctxt "connecticut_valley_area코1"
+msgid "Connecticut"
+msgstr "Connecticut"
+
+msgctxt "connecticut_valley_area_name코1"
+msgid "Mohegan"
+msgstr "Mohegan"
+
+msgctxt "connecticut_valley_area_adj코1"
+msgid "Mohegan"
+msgstr "Mohegan"
+
+msgctxt "hudson_valley_area코0"
+msgid "Hudson Valley"
+msgstr "Hudson Valley"
+
+msgctxt "hudson_valley_area_name코1"
+msgid "Munsee"
+msgstr "Munsee"
+
+msgctxt "hudson_valley_area_adj코1"
+msgid "Munsee"
+msgstr "Munsee"
+
+msgctxt "delaware_valley_area코0"
+msgid "Delaware Valley"
+msgstr "Delaware Valley"
+
+msgctxt "delaware_valley_area_name코1"
+msgid "Unami"
+msgstr "Unami"
+
+msgctxt "delaware_valley_area_adj코1"
+msgid "Unami"
+msgstr "Unami"
+
+msgctxt "iroquoisia_area코1"
+msgid "Iroquoisia"
+msgstr "Iroquoisia"
+
+msgctxt "iroquoisia_area_name코1"
+msgid "Haudenosaunee"
+msgstr "Haudenosaunee"
+
+msgctxt "iroquoisia_area_adj코1"
+msgid "Haudenosaunee"
+msgstr "Haudenosaunee"
+
+msgctxt "south_iroquoisia_area코1"
+msgid "Lake Champlain"
+msgstr "Lake Champlain"
+
+msgctxt "south_iroquoisia_area_name코1"
+msgid "Vermont"
+msgstr "Vermont"
+
+msgctxt "south_iroquoisia_area_adj코1"
+msgid "Vermonter"
+msgstr "Vermonter"
+
+msgctxt "susquehanna_area코1"
+msgid "Westsylvania"
+msgstr "Westsylvania"
+
+msgctxt "susquehanna_area_name코1"
+msgid "Erielhonan"
+msgstr "Erielhonan"
+
+msgctxt "susquehanna_area_adj코1"
+msgid "Erielhonan"
+msgstr "Erielhonan"
+
+msgctxt "chesapeake_area코1"
+msgid "Virginia"
+msgstr "Virginia"
+
+msgctxt "chesapeake_area_name코1"
+msgid "Tutelo"
+msgstr "Tutelo"
+
+msgctxt "chesapeake_area_adj코1"
+msgid "Tutelo"
+msgstr "Tutelo"
+
+msgctxt "great_valley_area코0"
+msgid "Great Valley"
+msgstr "Great Valley"
+
+msgctxt "great_valley_area_name코1"
+msgid "Manahoac"
+msgstr "Manahoac"
+
+msgctxt "great_valley_area_adj코1"
+msgid "Manahoac"
+msgstr "Manahoac"
+
+msgctxt "piedmont_north_america_area코0"
+msgid "Piedmont"
+msgstr "Piedmont"
+
+msgctxt "piedmont_north_america_area_name코1"
+msgid "Catawba"
+msgstr "Catawba"
+
+msgctxt "piedmont_north_america_area_adj코1"
+msgid "Catawban"
+msgstr "Catawban"
+
+msgctxt "carolinas_area코1"
+msgid "North Carolina"
+msgstr "North Carolina"
+
+msgctxt "carolinas_area_name코1"
+msgid "Croatan"
+msgstr "Croatan"
+
+msgctxt "carolinas_area_adj코1"
+msgid "Croatan"
+msgstr "Croatan"
+
+msgctxt "south_carolina_area코0"
+msgid "South Carolina"
+msgstr "South Carolina"
+
+msgctxt "south_carolina_area_name코1"
+msgid "Issati"
+msgstr "Issati"
+
+msgctxt "south_carolina_area_adj코1"
+msgid "Issati"
+msgstr "Issati"
+
+msgctxt "upper_american_georgia_area코0"
+msgid "Upper Georgia"
+msgstr "Upper Georgia"
+
+msgctxt "upper_american_georgia_area_name코0"
+msgid "Coosa"
+msgstr "Coosa"
+
+msgctxt "upper_american_georgia_area_adj코1"
+msgid "Coosa"
+msgstr "Coosa"
+
+msgctxt "american_georgia_area코0"
+msgid "Georgia"
+msgstr "Georgia"
+
+msgctxt "american_georgia_area_name코1"
+msgid "Yamasee"
+msgstr "Yamasee"
+
+msgctxt "american_georgia_area_adj코1"
+msgid "Yamasee"
+msgstr "Yamasee"
+
+msgctxt "north_florida_area코1"
+msgid "East Florida"
+msgstr "East Florida"
+
+msgctxt "north_florida_area_name코0"
+msgid "Timucua"
+msgstr "Timucua"
+
+msgctxt "north_florida_area_adj코0"
+msgid "Timucuan"
+msgstr "Timucuan"
+
+msgctxt "florida_area코0"
+msgid "Florida"
+msgstr "Florida"
+
+msgctxt "florida_area_name코1"
+msgid "Tegesta"
+msgstr "Tegesta"
+
+msgctxt "florida_area_adj코1"
+msgid "Tegestan"
+msgstr "Tegestan"
+
+msgctxt "south_appalachia_area코1"
+msgid "Overmountain"
+msgstr "Overmountain"
+
+msgctxt "south_appalachia_area_name코1"
+msgid "Aniyunwiya"
+msgstr "Aniyunwiya"
+
+msgctxt "south_appalachia_area_adj코1"
+msgid "Aniyunwiya"
+msgstr "Aniyunwiya"
+
+msgctxt "appalachia_area코2"
+msgid "Vandalia"
+msgstr "Vandalia"
+
+msgctxt "appalachia_area_name코1"
+msgid "Vandalia"
+msgstr "Vandalia"
+
+msgctxt "appalachia_area_adj코1"
+msgid "Vandalian"
+msgstr "Vandalian"
+
+msgctxt "west_florida_area코0"
+msgid "West Florida"
+msgstr "West Florida"
+
+msgctxt "west_florida_area_name코1"
+msgid "Chatot"
+msgstr "Chatot"
+
+msgctxt "west_florida_area_adj코1"
+msgid "Chatot"
+msgstr "Chatot"
+
+msgctxt "mississippi_area코0"
+msgid "Mississippi"
+msgstr "Mississippi"
+
+msgctxt "mississippi_area_name코1"
+msgid "Natchez"
+msgstr "Natchez"
+
+msgctxt "mississippi_area_adj코1"
+msgid "Natchez"
+msgstr "Natchez"
+
+msgctxt "alabama_area코0"
+msgid "Alabama"
+msgstr "Alabama"
+
+msgctxt "alabama_area_name코1"
+msgid "Albaamaha"
+msgstr "Albaamaha"
+
+msgctxt "alabama_area_adj코1"
+msgid "Albaamaha"
+msgstr "Albaamaha"
+
+msgctxt "kentucky_area코0"
+msgid "Kentucky"
+msgstr "Kentucky"
+
+msgctxt "kentucky_area_name코1"
+msgid "Shawanwa"
+msgstr "Shawanwa"
+
+msgctxt "kentucky_area_adj코1"
+msgid "Shawanwa"
+msgstr "Shawanwa"
+
+msgctxt "miami_river_area코1"
+msgid "Indiana"
+msgstr "Indiana"
+
+msgctxt "miami_river_area_name코1"
+msgid "Myaamia"
+msgstr "Myaamia"
+
+msgctxt "miami_river_area_adj코1"
+msgid "Myaamia"
+msgstr "Myaamia"
+
+msgctxt "mississippi_plain_area코1"
+msgid "Arkansas"
+msgstr "Arkansas"
+
+msgctxt "mississippi_plain_area_name코1"
+msgid "Ugakhpa"
+msgstr "Ugakhpa"
+
+msgctxt "mississippi_plain_area_name_adj코1"
+msgid "Ugakhpa"
+msgstr "Ugakhpa"
+
+msgctxt "ohio_country_area코0"
+msgid "Ohio"
+msgstr "Ohio"
+
+msgctxt "ohio_country_area_name코1"
+msgid "Wyandot"
+msgstr "Wyandot"
+
+msgctxt "ohio_country_area_adj코1"
+msgid "Wyandot"
+msgstr "Wyandot"
+
+msgctxt "illinois_country_area코0"
+msgid "Illinois"
+msgstr "Illinois"
+
+msgctxt "illinois_country_area_name코1"
+msgid "Cahokia"
+msgstr "Cahokia"
+
+msgctxt "illinois_country_area_adj코1"
+msgid "Cahokia"
+msgstr "Cahokia"
+
+msgctxt "michigan_area코0"
+msgid "Michigan"
+msgstr "Michigan"
+
+msgctxt "michigan_area_name코1"
+msgid "Mascouten"
+msgstr "Mascouten"
+
+msgctxt "michigan_area_adj코1"
+msgid "Mascouten"
+msgstr "Mascouten"
+
+msgctxt "wisconsin_area코0"
+msgid "Wisconsin"
+msgstr "Wisconsin"
+
+msgctxt "wisconsin_area_name코1"
+msgid "Ho-Chunk"
+msgstr "Ho-Chunk"
+
+msgctxt "wisconsin_area_adj코1"
+msgid "Ho-Chunk"
+msgstr "Ho-Chunk"
+
+msgctxt "lake_superior_area코0"
+msgid "Lake Superior"
+msgstr "Lake Superior"
+
+msgctxt "lake_superior_area_name코1"
+msgid "Chippewa"
+msgstr "Chippewa"
+
+msgctxt "lake_superior_area_adj코1"
+msgid "Chippewan"
+msgstr "Chippewan"
+
+msgctxt "lower_louisiana_area코1"
+msgid "Louisiana"
+msgstr "Louisiana"
+
+msgctxt "lower_louisiana_area_name코1"
+msgid "Tunica"
+msgstr "Tunica"
+
+msgctxt "lower_louisiana_area_adj코1"
+msgid "Tunica"
+msgstr "Tunica"
+
+msgctxt "upper_louisiana_area코0"
+msgid "Upper Louisiana"
+msgstr "Upper Louisiana"
+
+msgctxt "upper_louisiana_area_name코1"
+msgid "Inoka"
+msgstr "Inoka"
+
+msgctxt "upper_louisiana_area_adj코1"
+msgid "Inoka"
+msgstr "Inoka"
+
+msgctxt "ozarks_area코0"
+msgid "Ozarks"
+msgstr "Ozarks"
+
+msgctxt "ozarks_area_name코1"
+msgid "Niukonska"
+msgstr "Niukonska"
+
+msgctxt "ozarks_area_adj코1"
+msgid "Niukonska"
+msgstr "Niukonska"
+
+msgctxt "central_plains_area코0"
+msgid "Central Plains"
+msgstr "Central Plains"
+
+msgctxt "central_plains_area_name코1"
+msgid "Kanza"
+msgstr "Kanza"
+
+msgctxt "central_plains_area_adj코1"
+msgid "Kanza"
+msgstr "Kanza"
+
+msgctxt "lower_plains_area코1"
+msgid "Southern Plains"
+msgstr "Southern Plains"
+
+msgctxt "lower_plains_area_name코1"
+msgid "Kitkit'ish"
+msgstr "Kitkit'ish"
+
+msgctxt "lower_plains_area_adj코1"
+msgid "Kitkit'ish"
+msgstr "Kitkit'ish"
+
+msgctxt "high_plains_area코0"
+msgid "High Plains"
+msgstr "High Plains"
+
+msgctxt "high_plains_area_name코1"
+msgid "Hinono'eino"
+msgstr "Hinono'eino"
+
+msgctxt "high_plains_area_adj코1"
+msgid "Hinono'eino"
+msgstr "Hinono'eino"
+
+msgctxt "south_dakota_area코1"
+msgid "Minnessota"
+msgstr "Minnessota"
+
+msgctxt "south_dakota_area_name코1"
+msgid "Isayanthi"
+msgstr "Isayanthi"
+
+msgctxt "south_dakota_area_adj코1"
+msgid "Isayanthi"
+msgstr "Isayanthi"
+
+msgctxt "dakota_area코0"
+msgid "Dakota"
+msgstr "Dakota"
+
+msgctxt "dakota_area_name코1"
+msgid "Wichiyena"
+msgstr "Wichiyena"
+
+msgctxt "dakota_area_adj코1"
+msgid "Wichiyena"
+msgstr "Wichiyena"
+
+msgctxt "upper_missouri_area코0"
+msgid "Upper Missouri"
+msgstr "Upper Missouri"
+
+msgctxt "upper_missouri_area_name코1"
+msgid "Apsalooke"
+msgstr "Apsalooke"
+
+msgctxt "upper_missouri_area_adj코1"
+msgid "Apsalooke"
+msgstr "Apsalooke"
+
+msgctxt "badlands_area코0"
+msgid "Badlands"
+msgstr "Badlands"
+
+msgctxt "badlands_area_name코1"
+msgid "Tséhéstano"
+msgstr "Tsehestano"
+
+msgctxt "badlands_area_adj코1"
+msgid "Tséhéstano"
+msgstr "Tsehestano"
+
+msgctxt "llano_estacado_area코0"
+msgid "Llano Estacado"
+msgstr "Llano Estacado"
+
+msgctxt "llano_estacado_area_name코1"
+msgid "Numunuu"
+msgstr "Numunuu"
+
+msgctxt "llano_estacado_area_adj코1"
+msgid "Numunuu"
+msgstr "Numunuu"
+
+msgctxt "coastal_prarie_area코1"
+msgid "Texas Plains"
+msgstr "Texas Plains"
+
+msgctxt "coastal_prarie_area_name코1"
+msgid "Lépai-Ndé"
+msgstr "Lepai-Nde"
+
+msgctxt "coastal_prarie_area_adj코1"
+msgid "Lépai-Ndé"
+msgstr "Lepai-Nde"
+
+msgctxt "texas_area코0"
+msgid "Texas"
+msgstr "Texas"
+
+msgctxt "texas_area_name코1"
+msgid "Tickanwa'tic"
+msgstr "Tickanwa'tic"
+
+msgctxt "texas_area_adj코1"
+msgid "Tickanwa'tic"
+msgstr "Tickanwa'tic"
+
+msgctxt "rio_grande_area코1"
+msgid "Tamaulipas"
+msgstr "Tamaulipas"
+
+msgctxt "rio_grande_area_name코1"
+msgid "Tamaulipas"
+msgstr "Tamaulipas"
+
+msgctxt "rio_grande_area_adj코1"
+msgid "Tamaulipec"
+msgstr "Tamaulipec"
+
+msgctxt "new_mexico_area코0"
+msgid "New Mexico"
+msgstr "New Mexico"
+
+msgctxt "new_mexico_area_name코0"
+msgid "New Mexico"
+msgstr "New Mexico"
+
+msgctxt "new_mexico_area_adj코0"
+msgid "New Mexican"
+msgstr "New Mexican"
+
+msgctxt "colorado_plateau_area코0"
+msgid "Colorado Plateau"
+msgstr "Colorado Plateau"
+
+msgctxt "colorado_plateau_area_name코1"
+msgid "Dinétah"
+msgstr "Dinetah"
+
+msgctxt "colorado_plateau_area_adj코1"
+msgid "Diné"
+msgstr "Dine"
+
+msgctxt "arizona_area코0"
+msgid "Arizona"
+msgstr "Arizona"
+
+msgctxt "arizona_area_name코1"
+msgid "Yavapé"
+msgstr "Yavape"
+
+msgctxt "arizona_area_adj코1"
+msgid "Yavapé"
+msgstr "Yavape"
+
+msgctxt "california_area코1"
+msgid "Alta California"
+msgstr "Alta California"
+
+msgctxt "california_area_name코1"
+msgid "Chumash"
+msgstr "Chumash"
+
+msgctxt "california_area_adj코1"
+msgid "Chumash"
+msgstr "Chumash"
+
+msgctxt "central_valley_area코0"
+msgid "Central Valley"
+msgstr "Central Valley"
+
+msgctxt "central_valley_area_name코1"
+msgid "Yokuts"
+msgstr "Yokuts"
+
+msgctxt "central_valley_area_adj코1"
+msgid "Yokutsan"
+msgstr "Yokutsan"
+
+msgctxt "oregon_area코0"
+msgid "Oregon"
+msgstr "Oregon"
+
+msgctxt "oregon_area_name코1"
+msgid "Kalapuya"
+msgstr "Kalapuya"
+
+msgctxt "oregon_area_adj코1"
+msgid "Kalapuyan"
+msgstr "Kalapuyan"
+
+msgctxt "columbia_river_area코0"
+msgid "Columbia River"
+msgstr "Columbia River"
+
+msgctxt "columbia_river_area_name코1"
+msgid "Sqeliz"
+msgstr "Sqeliz"
+
+msgctxt "columbia_river_area_adj코1"
+msgid "Sqeliz"
+msgstr "Sqeliz"
+
+msgctxt "snake_river_area코0"
+msgid "Snake River"
+msgstr "Snake River"
+
+msgctxt "snake_river_area_name코0"
+msgid "Nimiipuu"
+msgstr "Nimiipuu"
+
+msgctxt "snake_river_area_adj코0"
+msgid "Nimiipuuan"
+msgstr "Nimiipuuan"
+
+msgctxt "salish_sea_area코1"
+msgid "Pugget Sound"
+msgstr "Pugget Sound"
+
+msgctxt "salish_sea_area_name코1"
+msgid "Suquamish"
+msgstr "Suquamish"
+
+msgctxt "salish_sea_area_adj코1"
+msgid "Suquamish"
+msgstr "Suquamish"
+
+msgctxt "interior_plateau_area코0"
+msgid "Interior Plateau"
+msgstr "Interior Plateau"
+
+msgctxt "interior_plateau_area_name코0"
+msgid "Dakelh"
+msgstr "Dakelh"
+
+msgctxt "interior_plateau_area_adj코1"
+msgid "Dakelh"
+msgstr "Dakelh"
+
+msgctxt "hecate_strait_area코0"
+msgid "Hecate Strait"
+msgstr "Hecate Strait"
+
+msgctxt "hecate_strait_area_name코1"
+msgid "Xa'Isla"
+msgstr "Xa'Isla"
+
+msgctxt "hecate_strait_area_adj코1"
+msgid "Xa'Isla"
+msgstr "Xa'Isla"
+
+msgctxt "alaska_area코1"
+msgid "Western Alaska"
+msgstr "Western Alaska"
+
+msgctxt "alaska_area_name코1"
+msgid "Unanga"
+msgstr "Unanga"
+
+msgctxt "alaska_area_adj코1"
+msgid "Unangan"
+msgstr "Unangan"
+
+msgctxt "lower_acadia_area코0"
+msgid "Lower Acadia"
+msgstr "Lower Acadia"
+
+msgctxt "lower_acadia_area_name코1"
+msgid "Lnu'k"
+msgstr "Lnu'k"
+
+msgctxt "lower_acadia_area_adj코1"
+msgid "Lnu'k"
+msgstr "Lnu'k"
+
+msgctxt "upper_acadia_area코0"
+msgid "Upper Acadia"
+msgstr "Upper Acadia"
+
+msgctxt "upper_acadia_area_name코1"
+msgid "Wolastoqiyik"
+msgstr "Wolastoqiyik"
+
+msgctxt "upper_acadia_area_adj코1"
+msgid "Wolastoqiyik"
+msgstr "Wolastoqiyik"
+
+msgctxt "newfoundland_area코0"
+msgid "Newfoundland"
+msgstr "Newfoundland"
+
+msgctxt "newfoundland_area_name코1"
+msgid "Beothuk"
+msgstr "Beothuk"
+
+msgctxt "newfoundland_area_adj코1"
+msgid "Beothuk"
+msgstr "Beothuk"
+
+msgctxt "labrador_area코0"
+msgid "Labrador"
+msgstr "Labrador"
+
+msgctxt "labrador_area_name코1"
+msgid "Naskapi"
+msgstr "Naskapi"
+
+msgctxt "labrador_area_adj코1"
+msgid "Naskapi"
+msgstr "Naskapi"
+
+msgctxt "cote_nord_area코0"
+msgid "Cote Nord"
+msgstr "Cote Nord"
+
+msgctxt "cote_nord_area_name코1"
+msgid "Innu"
+msgstr "Innu"
+
+msgctxt "cote_nord_area_adj코1"
+msgid "Innu"
+msgstr "Innu"
+
+msgctxt "notre_dame_mountains_area코1"
+msgid "Québec"
+msgstr "Quebec"
+
+msgctxt "notre_dame_mountains_area_name코1"
+msgid "Stadacona"
+msgstr "Stadacona"
+
+msgctxt "notre_dame_mountains_area_adj코1"
+msgid "Stadaconan"
+msgstr "Stadaconan"
+
+msgctxt "lower_canada_area코0"
+msgid "Lower Canada"
+msgstr "Lower Canada"
+
+msgctxt "lower_canada_area_name코1"
+msgid "Hochelaga"
+msgstr "Hochelaga"
+
+msgctxt "lower_canada_area_adj코1"
+msgid "Hochelagan"
+msgstr "Hochelagan"
+
+msgctxt "upper_canada_area코0"
+msgid "Upper Canada"
+msgstr "Upper Canada"
+
+msgctxt "upper_canada_area_name코1"
+msgid "Attiwandaronk"
+msgstr "Attiwandaronk"
+
+msgctxt "upper_canada_area_adj코1"
+msgid "Attiwandaronk"
+msgstr "Attiwandaronk"
+
+msgctxt "laurentian_area코0"
+msgid "Laurentia"
+msgstr "Laurentia"
+
+msgctxt "laurentian_area_name코1"
+msgid "Omamiwinini"
+msgstr "Omamiwinini"
+
+msgctxt "laurentian_area_adj코1"
+msgid "Omamiwinini"
+msgstr "Omamiwinini"
+
+msgctxt "inner_ontario_area코1"
+msgid "Abitibi"
+msgstr "Abitibi"
+
+msgctxt "inner_ontario_area_adj코1"
+msgid "Mosoni"
+msgstr "Mosoni"
+
+msgctxt "inner_ontario_area_name코1"
+msgid "Mosoni"
+msgstr "Mosoni"
+
+msgctxt "upper_ontario_area코0"
+msgid "Upper Ontario"
+msgstr "Upper Ontario"
+
+msgctxt "upper_ontario_area_name코1"
+msgid "Ojibwe"
+msgstr "Ojibwe"
+
+msgctxt "upper_ontario_area_adj코1"
+msgid "Ojibwe"
+msgstr "Ojibwe"
+
+msgctxt "huronia_area코0"
+msgid "Huronia"
+msgstr "Huronia"
+
+msgctxt "huronia_area_name코1"
+msgid "Wendake"
+msgstr "Wendake"
+
+msgctxt "huronia_area_adj코1"
+msgid "Wendat"
+msgstr "Wendat"
+
+msgctxt "james_bay_area코0"
+msgid "James Bay"
+msgstr "James Bay"
+
+msgctxt "james_bay_area_name코1"
+msgid "Iyiyiw"
+msgstr "Iyiyiw"
+
+msgctxt "james_bay_area_adj코1"
+msgid "Iyiyiw"
+msgstr "Iyiyiw"
+
+msgctxt "hudson_bay_area코0"
+msgid "Hudson Bay"
+msgstr "Hudson Bay"
+
+msgctxt "hudson_bay_area_name코1"
+msgid "Maskekowak"
+msgstr "Maskekowak"
+
+msgctxt "hudson_bay_area_adj코1"
+msgid "Maskekowak"
+msgstr "Maskekowak"
+
+msgctxt "red_river_area코1"
+msgid "Red River of the North"
+msgstr "Red River of the North"
+
+msgctxt "red_river_area_name코1"
+msgid "Saulteaux"
+msgstr "Saulteaux"
+
+msgctxt "red_river_area_adj코1"
+msgid "Saulteaux"
+msgstr "Saulteaux"
+
+msgctxt "saskatchewan_area코0"
+msgid "Saskatchewan"
+msgstr "Saskatchewan"
+
+msgctxt "saskatchewan_area_name코0"
+msgid "Saskatchewan"
+msgstr "Saskatchewan"
+
+msgctxt "saskatchewan_area_adj코0"
+msgid "Saskatchewan"
+msgstr "Saskatchewan"
+
+msgctxt "prairies_area코1"
+msgid "Alberta"
+msgstr "Alberta"
+
+msgctxt "prairies_area_name코1"
+msgid "Niitsitapi"
+msgstr "Niitsitapi"
+
+msgctxt "prairies_area_adj코1"
+msgid "Niitsitapi"
+msgstr "Niitsitapi"
+
+msgctxt "athabasca_area코0"
+msgid "Athabasca"
+msgstr "Athabasca"
+
+msgctxt "athabasca_area_name코1"
+msgid "Dénésoliné"
+msgstr "Denesoline"
+
+msgctxt "athabasca_area_adj코1"
+msgid "Dénésoliné"
+msgstr "Denesoline"
+
+msgctxt "northeast_mexico_area코1"
+msgid "Coahuila"
+msgstr "Coahuila"
+
+msgctxt "northeast_mexico_area_name코1"
+msgid "Coahuilteca"
+msgstr "Coahuilteca"
+
+msgctxt "northeast_mexico_area_adj코1"
+msgid "Coahuiltec"
+msgstr "Coahuiltec"
+
+msgctxt "durango_area코0"
+msgid "Durango"
+msgstr "Durango"
+
+msgctxt "durango_area_name코1"
+msgid "Shuma"
+msgstr "Shuma"
+
+msgctxt "durango_area_adj코1"
+msgid "Shuman"
+msgstr "Shuman"
+
+msgctxt "sonora_y_sinaloa_area코0"
+msgid "Sonora y Sinaloa"
+msgstr "Sonora y Sinaloa"
+
+msgctxt "sonora_y_sinaloa_area_name코1"
+msgid "O'odham"
+msgstr "O'odham"
+
+msgctxt "sonora_y_sinaloa_area_adj코1"
+msgid "O'odham"
+msgstr "O'odham"
+
+msgctxt "baja_california_area코0"
+msgid "Baja California"
+msgstr "Baja California"
+
+msgctxt "baja_california_area_name코0"
+msgid "Guaycura"
+msgstr "Guaycura"
+
+msgctxt "baja_california_area_adj코0"
+msgid "Guaycuran"
+msgstr "Guaycuran"
+
+msgctxt "jalisco_area코0"
+msgid "Jalisco"
+msgstr "Jalisco"
+
+msgctxt "jalisco_area_name코0"
+msgid "Jalisco"
+msgstr "Jalisco"
+
+msgctxt "jalisco_area_adj코0"
+msgid "Jaliscoan"
+msgstr "Jaliscoan"
+
+msgctxt "michoacan_area코0"
+msgid "Michoacan"
+msgstr "Michoacan"
+
+msgctxt "michoacan_area_name코0"
+msgid "Michoacan"
+msgstr "Michoacan"
+
+msgctxt "michoacan_area_adj코0"
+msgid "Michoacan"
+msgstr "Michoacan"
+
+msgctxt "gran_chichimeca_area코0"
+msgid "Gran Chichimeca"
+msgstr "Gran Chichimeca"
+
+msgctxt "gran_chichimeca_area_name코1"
+msgid "Chichimeca"
+msgstr "Chichimeca"
+
+msgctxt "gran_chichimeca_area_adj코0"
+msgid "Chichimecan"
+msgstr "Chichimecan"
+
+msgctxt "mexico_area코0"
+msgid "Mexico"
+msgstr "Mexico"
+
+msgctxt "mexico_area_name코0"
+msgid "Mexico"
+msgstr "Mexico"
+
+msgctxt "mexico_area_adj코0"
+msgid "Mexican"
+msgstr "Mexican"
+
+msgctxt "guerrero_area코0"
+msgid "Guerrero"
+msgstr "Guerrero"
+
+msgctxt "guerrero_area_name코0"
+msgid "Guerrero"
+msgstr "Guerrero"
+
+msgctxt "guerrero_area_adj코0"
+msgid "Guerreroan"
+msgstr "Guerreroan"
+
+msgctxt "oaxaca_area코0"
+msgid "Oaxaca"
+msgstr "Oaxaca"
+
+msgctxt "oaxaca_area_name코0"
+msgid "Oaxaca"
+msgstr "Oaxaca"
+
+msgctxt "oaxaca_area_adj코0"
+msgid "Oaxacan"
+msgstr "Oaxacan"
+
+msgctxt "eastern_mexico_area코1"
+msgid "Veracruz"
+msgstr "Veracruz"
+
+msgctxt "eastern_mexico_area_name코0"
+msgid "Xalapa"
+msgstr "Xalapa"
+
+msgctxt "eastern_mexico_area_adj코0"
+msgid "Xalapan"
+msgstr "Xalapan"
+
+msgctxt "chiapas_area코0"
+msgid "Chiapas"
+msgstr "Chiapas"
+
+msgctxt "chiapas_area_name코0"
+msgid "Chiapas"
+msgstr "Chiapas"
+
+msgctxt "chiapas_area_adj코0"
+msgid "Chiapan"
+msgstr "Chiapan"
+
+msgctxt "yucatan_area코1"
+msgid "West Yucatan"
+msgstr "West Yucatan"
+
+msgctxt "yucatan_area_name코1"
+msgid "Mayapan"
+msgstr "Mayapan"
+
+msgctxt "yucatan_area_adj코1"
+msgid "Mayapan"
+msgstr "Mayapan"
+
+msgctxt "east_yucatan_area코0"
+msgid "East Yucatan"
+msgstr "East Yucatan"
+
+msgctxt "east_yucatan_area_name코1"
+msgid "Cozumel"
+msgstr "Cozumel"
+
+msgctxt "east_yucatan_area_adj코1"
+msgid "Cozumel"
+msgstr "Cozumel"
+
+msgctxt "guatemala_area코0"
+msgid "Guatemala"
+msgstr "Guatemala"
+
+msgctxt "guatemala_area_name코1"
+msgid "Kaqchikel"
+msgstr "Kaqchikel"
+
+msgctxt "guatemala_area_adj코1"
+msgid "Kaqchikel"
+msgstr "Kaqchikel"
+
+msgctxt "honduras_area코0"
+msgid "Honduras"
+msgstr "Honduras"
+
+msgctxt "honduras_area_name코1"
+msgid "Choluteca"
+msgstr "Choluteca"
+
+msgctxt "honduras_area_adj코1"
+msgid "Cholutecan"
+msgstr "Cholutecan"
+
+msgctxt "nicaragua_area코0"
+msgid "Nicaragua"
+msgstr "Nicaragua"
+
+msgctxt "nicaragua_area_name코1"
+msgid "Mangue"
+msgstr "Mangue"
+
+msgctxt "nicaragua_area_adj코1"
+msgid "Manguan"
+msgstr "Manguan"
+
+msgctxt "assiniboia_area코0"
+msgid "Assiniboia"
+msgstr "Assiniboia"
+
+msgctxt "assiniboia_area_name코0"
+msgid "Nakoda"
+msgstr "Nakoda"
+
+msgctxt "assiniboia_area_adj코0"
+msgid "Nakoda"
+msgstr "Nakoda"
+
+msgctxt "maryland_area코0"
+msgid "Maryland"
+msgstr "Maryland"
+
+msgctxt "maryland_area_name코0"
+msgid "Piscataway"
+msgstr "Piscataway"
+
+msgctxt "maryland_area_adj코0"
+msgid "Piscataway"
+msgstr "Piscataway"
+
+msgctxt "straits_of_georgia_area코0"
+msgid "Straits of Georgia"
+msgstr "Straits of Georgia"
+
+msgctxt "straits_of_georgia_area_name코0"
+msgid "Shishalh"
+msgstr "Shishalh"
+
+msgctxt "straits_of_georgia_area_adj코0"
+msgid "Shishalh"
+msgstr "Shishalh"
+
+msgctxt "east_alaska_area코0"
+msgid "Alaska Panhandle"
+msgstr "Alaska Panhandle"
+
+msgctxt "east_alaska_area_name코0"
+msgid "Tlingit"
+msgstr "Tlingit"
+
+msgctxt "east_alaska_area_adj코0"
+msgid "Tlingit"
+msgstr "Tlingit"
+
+msgctxt "panama_area코0"
+msgid "Panama"
+msgstr "Panama"
+
+msgctxt "panama_area_name코0"
+msgid "Panama"
+msgstr "Panama"
+
+msgctxt "panama_area_adj코0"
+msgid "Panaman"
+msgstr "Panaman"
+
+msgctxt "cuba_area코1"
+msgid "West Cuba"
+msgstr "West Cuba"
+
+msgctxt "cuba_area_name코1"
+msgid "Ciboney"
+msgstr "Ciboney"
+
+msgctxt "cuba_area_adj코1"
+msgid "Ciboney"
+msgstr "Ciboney"
+
+msgctxt "east_cuba_area코0"
+msgid "East Cuba"
+msgstr "East Cuba"
+
+msgctxt "east_cuba_area_name코0"
+msgid "Baracoa"
+msgstr "Baracoa"
+
+msgctxt "east_cuba_area_adj코0"
+msgid "Baracoan"
+msgstr "Baracoan"
+
+msgctxt "hispaniola_area코0"
+msgid "Hispaniola"
+msgstr "Hispaniola"
+
+msgctxt "hispaniola_area_name코1"
+msgid "Taino"
+msgstr "Taino"
+
+msgctxt "hispaniola_area_adj코1"
+msgid "Taino"
+msgstr "Taino"
+
+msgctxt "greater_antilles_area코0"
+msgid "Greater Antilles"
+msgstr "Greater Antilles"
+
+msgctxt "greater_antilles_area_name코0"
+msgid "Jamaica"
+msgstr "Jamaica"
+
+msgctxt "greater_antilles_area_adj코0"
+msgid "Jamaican"
+msgstr "Jamaican"
+
+msgctxt "lucayan_area코0"
+msgid "Lucayan Archipelago"
+msgstr "Lucayan Archipelago"
+
+msgctxt "lucayan_area_name코0"
+msgid "Bahamas"
+msgstr "Bahamas"
+
+msgctxt "lucayan_area_adj코0"
+msgid "Bahaman"
+msgstr "Bahaman"
+
+msgctxt "leeward_islands_area코0"
+msgid "Leeward Islands"
+msgstr "Leeward Islands"
+
+msgctxt "leeward_islands_area_name코0"
+msgid "Guadelupe"
+msgstr "Guadelupe"
+
+msgctxt "leeward_islands_area_adj코0"
+msgid "Guadelupean"
+msgstr "Guadelupean"
+
+msgctxt "windward_islands_area코0"
+msgid "Windward Islands"
+msgstr "Windward Islands"
+
+msgctxt "windward_islands_area_name코0"
+msgid "Trinidad"
+msgstr "Trinidad"
+
+msgctxt "windward_islands_area_adj코0"
+msgid "Trinidadian"
+msgstr "Trinidadian"
+
+msgctxt "western_mediterrenean_area코0"
+msgid "Western Mediterranean"
+msgstr "Western Mediterranean"
+
+msgctxt "eastern_mediterrenean_area코0"
+msgid "Eastern Mediterranean"
+msgstr "Eastern Mediterranean"
+
+msgctxt "black_sea_area코0"
+msgid "Black Sea"
+msgstr "Black Sea"
+
+msgctxt "baltic_area코0"
+msgid "Baltic Sea"
+msgstr "Baltic Sea"
+
+msgctxt "kattegat_area코0"
+msgid "Kattegat"
+msgstr "Kattegat"
+
+msgctxt "north_sea_area코0"
+msgid "North Sea"
+msgstr "North Sea"
+
+msgctxt "norwegian_sea_area코0"
+msgid "Norwegian Sea"
+msgstr "Norwegian Sea"
+
+msgctxt "white_sea_area코0"
+msgid "White Sea"
+msgstr "White Sea"
+
+msgctxt "red_sea_area코0"
+msgid "Red Sea"
+msgstr "Red Sea"
+
+msgctxt "persian_gulf_area코0"
+msgid "Persian Gulf"
+msgstr "Persian Gulf"
+
+msgctxt "arabian_sea_area코0"
+msgid "Arabian Sea"
+msgstr "Arabian Sea"
+
+msgctxt "bay_of_bengal_area코0"
+msgid "Bay of Bengal"
+msgstr "Bay of Bengal"
+
+msgctxt "eastern_indian_ocean_area코0"
+msgid "Eastern Indian Ocean"
+msgstr "Eastern Indian Ocean"
+
+msgctxt "western_indian_ocean_area코0"
+msgid "Western Indian Ocean"
+msgstr "Western Indian Ocean"
+
+msgctxt "great_australian_bight_area코0"
+msgid "Great Australian Bight"
+msgstr "Great Australian Bight"
+
+msgctxt "swahili_coast_sea_area코0"
+msgid "Swahili Coast"
+msgstr "Swahili Coast"
+
+msgctxt "south_china_sea_area코0"
+msgid "South China Sea"
+msgstr "South China Sea"
+
+msgctxt "celebes_sea_area코0"
+msgid "Celebes Sea"
+msgstr "Celebes Sea"
+
+msgctxt "java_sea_area코0"
+msgid "Java Sea"
+msgstr "Java Sea"
+
+msgctxt "east_china_sea_area코0"
+msgid "East China Sea"
+msgstr "East China Sea"
+
+msgctxt "sea_of_japan_area코0"
+msgid "Sea of Japan"
+msgstr "Sea of Japan"
+
+msgctxt "sea_of_okhotsk_area코0"
+msgid "Sea of Okhotsk"
+msgstr "Sea of Okhotsk"
+
+msgctxt "berring_sea_area코0"
+msgid "Bering Sea"
+msgstr "Bering Sea"
+
+msgctxt "tasman_sea_area코0"
+msgid "Tasman Sea"
+msgstr "Tasman Sea"
+
+msgctxt "coral_sea_area코0"
+msgid "Coral Sea"
+msgstr "Coral Sea"
+
+msgctxt "philipine_sea_area코0"
+msgid "Philipine Sea"
+msgstr "Philipine Sea"
+
+msgctxt "banda_arafura_seas_area코0"
+msgid "Banda & Arafura"
+msgstr "Banda & Arafura"
+
+msgctxt "gulf_of_alaska_area코0"
+msgid "Gulf of Alaska"
+msgstr "Gulf of Alaska"
+
+msgctxt "sea_of_grau_area코0"
+msgid "Sea of Grau"
+msgstr "Sea of Grau"
+
+msgctxt "chilean_sea_area코0"
+msgid "Chilean Sea"
+msgstr "Chilean Sea"
+
+msgctxt "gulf_of_panama_area코0"
+msgid "Gulf of Panama"
+msgstr "Gulf of Panama"
+
+msgctxt "bay_of_biscay_area코0"
+msgid "Bay of Biscay"
+msgstr "Bay of Biscay"
+
+msgctxt "english_channel_area코0"
+msgid "English Channel"
+msgstr "English Channel"
+
+msgctxt "caribbean_sea_area코0"
+msgid "Caribbean Sea"
+msgstr "Caribbean Sea"
+
+msgctxt "gulf_of_mexico_area코0"
+msgid "Gulf of Mexico"
+msgstr "Gulf of Mexico"
+
+msgctxt "sea_of_labrador_area코0"
+msgid "Labrador Sea"
+msgstr "Labrador Sea"
+
+msgctxt "hudson_bay_sea_area코0"
+msgid "Hudson Bay"
+msgstr "Hudson Bay"
+
+msgctxt "denmark_strait_area코0"
+msgid "Denmark Strait"
+msgstr "Denmark Strait"
+
+msgctxt "gulf_of_guinea_sea_area코0"
+msgid "Gulf of Guinea Sea"
+msgstr "Gulf of Guinea Sea"
+
+msgctxt "cape_of_storms_area코0"
+msgid "Cape of Storms"
+msgstr "Cape of Storms"
+
+msgctxt "skeleton_coast_area코0"
+msgid "Skeleton Coast"
+msgstr "Skeleton Coast"
+
+msgctxt "east_pacific_ocean_area코0"
+msgid "East Pacific"
+msgstr "East Pacific"
+
+msgctxt "polynesian_triangle_area코0"
+msgid "Polynesian Triangle"
+msgstr "Polynesian Triangle"
+
+msgctxt "south_pacific_area코0"
+msgid "South Pacific"
+msgstr "South Pacific"
+
+msgctxt "north_pacific_area코0"
+msgid "North Pacific"
+msgstr "North Pacific"
+
+msgctxt "north_pacific_coast_area코0"
+msgid "Pacific Coast"
+msgstr "Pacific Coast"
+
+msgctxt "coast_of_brazil_sea_area코0"
+msgid "Coast of Brazil"
+msgstr "Coast of Brazil"
+
+msgctxt "coast_of_guyana_area코0"
+msgid "Coast of Guyana"
+msgstr "Coast of Guyana"
+
+msgctxt "celtic_sea_area코0"
+msgid "Celtic Sea"
+msgstr "Celtic Sea"
+
+msgctxt "west_african_coast_sea_area코0"
+msgid "West African Coast"
+msgstr "West African Coast"
+
+msgctxt "south_atlantic_area코0"
+msgid "South Atlantic"
+msgstr "South Atlantic"
+
+msgctxt "argentine_sea_area코0"
+msgid "Argentine Sea"
+msgstr "Argentine Sea"
+
+msgctxt "gulf_of_st_lawrence_area코0"
+msgid "Gulf of St Lawrence"
+msgstr "Gulf of St Lawrence"
+
+msgctxt "gulf_stream_area코0"
+msgid "Gulf Stream"
+msgstr "Gulf Stream"
+
+msgctxt "sargasso_sea_area코0"
+msgid "Sargasso Sea"
+msgstr "Sargasso Sea"
+
+msgctxt "north_atlantic_area코0"
+msgid "North Atlantic"
+msgstr "North Atlantic"
+
+msgctxt "bahama_channel_area코0"
+msgid "Bahama Channel"
+msgstr "Bahama Channel"
+
+msgctxt "france_region코0"
+msgid "France"
+msgstr "France"
+
+msgctxt "france_region_name코0"
+msgid "France"
+msgstr "France"
+
+msgctxt "france_region_adj코0"
+msgid "French"
+msgstr "French"
+
+msgctxt "scandinavia_region코0"
+msgid "Scandinavia"
+msgstr "Scandinavia"
+
+msgctxt "scandinavia_region_name코0"
+msgid "Scandinavia"
+msgstr "Scandinavia"
+
+msgctxt "scandinavia_region_adj코0"
+msgid "Scandinavian"
+msgstr "Scandinavian"
+
+msgctxt "low_countries_region코0"
+msgid "Low Countries"
+msgstr "Low Countries"
+
+msgctxt "low_countries_region_name코0"
+msgid "Low Countries"
+msgstr "Low Countries"
+
+msgctxt "low_countries_region_adj코0"
+msgid "Dutch"
+msgstr "Dutch"
+
+msgctxt "italy_region코0"
+msgid "Italy"
+msgstr "Italy"
+
+msgctxt "italy_region_name코0"
+msgid "Italy"
+msgstr "Italy"
+
+msgctxt "italy_region_adj코0"
+msgid "Italian"
+msgstr "Italian"
+
+msgctxt "iberia_region코0"
+msgid "Iberia"
+msgstr "Iberia"
+
+msgctxt "iberia_region_name코0"
+msgid "Iberia"
+msgstr "Iberia"
+
+msgctxt "iberia_region_adj코0"
+msgid "Iberian"
+msgstr "Iberian"
+
+msgctxt "germany_region코0"
+msgid "Germany"
+msgstr "Germany"
+
+msgctxt "germany_region_name코0"
+msgid "Germany"
+msgstr "Germany"
+
+msgctxt "germany_region_adj코0"
+msgid "German"
+msgstr "German"
+
+msgctxt "north_german_region코0"
+msgid "North Germany"
+msgstr "North Germany"
+
+msgctxt "north_german_region_name코0"
+msgid "North Germany"
+msgstr "North Germany"
+
+msgctxt "north_german_region_adj코0"
+msgid "North German"
+msgstr "North German"
+
+msgctxt "south_german_region코0"
+msgid "South Germany"
+msgstr "South Germany"
+
+msgctxt "south_german_region_name코0"
+msgid "South Germany"
+msgstr "South Germany"
+
+msgctxt "south_german_region_adj코0"
+msgid "South German"
+msgstr "South German"
+
+msgctxt "russia_region코0"
+msgid "Russia"
+msgstr "Russia"
+
+msgctxt "russia_region_name코0"
+msgid "Russia"
+msgstr "Russia"
+
+msgctxt "russia_region_adj코0"
+msgid "Russian"
+msgstr "Russian"
+
+msgctxt "ural_region코0"
+msgid "Ural"
+msgstr "Ural"
+
+msgctxt "ural_region_name코0"
+msgid "Ural"
+msgstr "Ural"
+
+msgctxt "ural_region_adj코0"
+msgid "Uralian"
+msgstr "Uralian"
+
+msgctxt "malaya_region코0"
+msgid "Malaya"
+msgstr "Malaya"
+
+msgctxt "malaya_region_name코0"
+msgid "Malaya"
+msgstr "Malaya"
+
+msgctxt "malaya_region_adj코0"
+msgid "Malayan"
+msgstr "Malayan"
+
+msgctxt "moluccas_region코0"
+msgid "Moluccas"
+msgstr "Moluccas"
+
+msgctxt "moluccas_region_name코0"
+msgid "Moluccas"
+msgstr "Moluccas"
+
+msgctxt "moluccas_region_adj코0"
+msgid "Moluccan"
+msgstr "Moluccan"
+
+msgctxt "java_region코0"
+msgid "Java"
+msgstr "Java"
+
+msgctxt "java_region_name코0"
+msgid "Java"
+msgstr "Java"
+
+msgctxt "java_region_adj코0"
+msgid "Javan"
+msgstr "Javan"
+
+msgctxt "british_isles_region코0"
+msgid "Britain"
+msgstr "Britain"
+
+msgctxt "british_isles_region_name코0"
+msgid "Britain"
+msgstr "Britain"
+
+msgctxt "british_isles_region_adj코0"
+msgid "British"
+msgstr "British"
+
+msgctxt "baltic_region코0"
+msgid "Baltic"
+msgstr "Baltic"
+
+msgctxt "baltic_region_name코0"
+msgid "Balticum"
+msgstr "Balticum"
+
+msgctxt "baltic_region_adj코0"
+msgid "Baltic"
+msgstr "Baltic"
+
+msgctxt "poland_region코0"
+msgid "Poland"
+msgstr "Poland"
+
+msgctxt "poland_region_name코0"
+msgid "Poland"
+msgstr "Poland"
+
+msgctxt "poland_region_adj코0"
+msgid "Polish"
+msgstr "Polish"
+
+msgctxt "ruthenia_region코0"
+msgid "Ruthenia"
+msgstr "Ruthenia"
+
+msgctxt "ruthenia_region_name코0"
+msgid "Ruthenia"
+msgstr "Ruthenia"
+
+msgctxt "ruthenia_region_adj코0"
+msgid "Ruthenian"
+msgstr "Ruthenian"
+
+msgctxt "crimea_region코1"
+msgid "Pontic Steppe"
+msgstr "Pontic Steppe"
+
+msgctxt "crimea_region_name코0"
+msgid "Crimea"
+msgstr "Crimea"
+
+msgctxt "crimea_region_adj코0"
+msgid "Crimean"
+msgstr "Crimean"
+
+msgctxt "balkan_region코0"
+msgid "Balkans"
+msgstr "Balkans"
+
+msgctxt "balkan_region_name코0"
+msgid "Yugoslavia"
+msgstr "Yugoslavia"
+
+msgctxt "balkan_region_adj코0"
+msgid "Yugoslavian"
+msgstr "Yugoslavian"
+
+msgctxt "carpathia_region코0"
+msgid "Carpathia"
+msgstr "Carpathia"
+
+msgctxt "carpathia_region_name코0"
+msgid "Carpathia"
+msgstr "Carpathia"
+
+msgctxt "carpathia_region_adj코0"
+msgid "Carpathian"
+msgstr "Carpathian"
+
+msgctxt "egypt_region코0"
+msgid "Egypt"
+msgstr "Egypt"
+
+msgctxt "egypt_region_name코0"
+msgid "Egypt"
+msgstr "Egypt"
+
+msgctxt "egypt_region_adj코0"
+msgid "Egyptian"
+msgstr "Egyptian"
+
+msgctxt "maghreb_region코0"
+msgid "Maghreb"
+msgstr "Maghreb"
+
+msgctxt "maghreb_region_name코0"
+msgid "Maghreb"
+msgstr "Maghreb"
+
+msgctxt "maghreb_region_adj코0"
+msgid "Maghrebi"
+msgstr "Maghrebi"
+
+msgctxt "mashriq_region코0"
+msgid "Mashriq"
+msgstr "Mashriq"
+
+msgctxt "mashriq_region_name코0"
+msgid "Mashriq"
+msgstr "Mashriq"
+
+msgctxt "mashriq_region_adj코0"
+msgid "Mashriqi"
+msgstr "Mashriqi"
+
+msgctxt "anatolia_region코0"
+msgid "Anatolia"
+msgstr "Anatolia"
+
+msgctxt "anatolia_region_name코0"
+msgid "Anatolia"
+msgstr "Anatolia"
+
+msgctxt "anatolia_region_adj코0"
+msgid "Anatolian"
+msgstr "Anatolian"
+
+msgctxt "persia_region코0"
+msgid "Persia"
+msgstr "Persia"
+
+msgctxt "persia_region_name코0"
+msgid "Persia"
+msgstr "Persia"
+
+msgctxt "persia_region_adj코0"
+msgid "Persian"
+msgstr "Persian"
+
+msgctxt "khorasan_region코0"
+msgid "Khorasan"
+msgstr "Khorasan"
+
+msgctxt "khorasan_region_name코0"
+msgid "Khorasan"
+msgstr "Khorasan"
+
+msgctxt "khorasan_region_adj코0"
+msgid "Khorasani"
+msgstr "Khorasani"
+
+msgctxt "baluchistan_region코0"
+msgid "Baluchistan"
+msgstr "Baluchistan"
+
+msgctxt "baluchistan_region_name코0"
+msgid "Baluchistan"
+msgstr "Baluchistan"
+
+msgctxt "baluchistan_region_adj코0"
+msgid "Baluchi"
+msgstr "Baluchi"
+
+msgctxt "caucasia_region코0"
+msgid "Caucasia"
+msgstr "Caucasia"
+
+msgctxt "caucasia_region_name코0"
+msgid "Caucasia"
+msgstr "Caucasia"
+
+msgctxt "caucasia_region_adj코0"
+msgid "Caucasian"
+msgstr "Caucasian"
+
+msgctxt "arabia_region코0"
+msgid "Arabia"
+msgstr "Arabia"
+
+msgctxt "arabia_region_name코0"
+msgid "Arabia"
+msgstr "Arabia"
+
+msgctxt "arabia_region_adj코0"
+msgid "Arabian"
+msgstr "Arabian"
+
+msgctxt "guinea_region코0"
+msgid "Guinea"
+msgstr "Guinea"
+
+msgctxt "guinea_region_name코0"
+msgid "Guinea"
+msgstr "Guinea"
+
+msgctxt "guinea_region_adj코0"
+msgid "Guinean"
+msgstr "Guinean"
+
+msgctxt "sao_tome_area코0"
+msgid "Sao Tome"
+msgstr "Sao Tome"
+
+msgctxt "sao_tome_area_name코0"
+msgid "Sao Tome"
+msgstr "Sao Tome"
+
+msgctxt "sao_tome_area_adj코0"
+msgid "Sao Tomean"
+msgstr "Sao Tomean"
+
+msgctxt "niger_region코0"
+msgid "Niger"
+msgstr "Niger"
+
+msgctxt "niger_region_name코0"
+msgid "Niger"
+msgstr "Niger"
+
+msgctxt "niger_region_adj코0"
+msgid "Nigerian"
+msgstr "Nigerian"
+
+msgctxt "horn_of_africa_region코0"
+msgid "Horn of Africa"
+msgstr "Horn of Africa"
+
+msgctxt "horn_of_africa_region_name코0"
+msgid "Somalia"
+msgstr "Somalia"
+
+msgctxt "horn_of_africa_region_adj코0"
+msgid "Somalian"
+msgstr "Somalian"
+
+msgctxt "east_africa_region코0"
+msgid "East Africa"
+msgstr "East Africa"
+
+msgctxt "east_africa_region_name코0"
+msgid "Swahilia"
+msgstr "Swahilia"
+
+msgctxt "east_africa_region_adj코0"
+msgid "Swahili"
+msgstr "Swahili"
+
+msgctxt "kongo_region코0"
+msgid "Kongo"
+msgstr "Kongo"
+
+msgctxt "kongo_region_name코0"
+msgid "Kongo"
+msgstr "Kongo"
+
+msgctxt "kongo_region_adj코0"
+msgid "Kongolese"
+msgstr "Kongolese"
+
+msgctxt "central_asia_region코0"
+msgid "Central Asia"
+msgstr "Central Asia"
+
+msgctxt "central_asia_region_name코0"
+msgid "Tartary"
+msgstr "Tartary"
+
+msgctxt "central_asia_region_adj코0"
+msgid "Tartar"
+msgstr "Tartar"
+
+msgctxt "south_africa_region코0"
+msgid "South Africa"
+msgstr "South Africa"
+
+msgctxt "south_africa_region_name코0"
+msgid "Cape"
+msgstr "Cape"
+
+msgctxt "south_africa_region_adj코0"
+msgid "Capish"
+msgstr "Capish"
+
+msgctxt "west_siberia_region코0"
+msgid "West Siberia"
+msgstr "West Siberia"
+
+msgctxt "west_siberia_region_name코0"
+msgid "West Siberia"
+msgstr "West Siberia"
+
+msgctxt "west_siberia_region_adj코0"
+msgid "West Siberian"
+msgstr "West Siberian"
+
+msgctxt "east_siberia_region코0"
+msgid "East Siberia"
+msgstr "East Siberia"
+
+msgctxt "east_siberia_region_name코0"
+msgid "East Siberia"
+msgstr "East Siberia"
+
+msgctxt "east_siberia_region_adj코0"
+msgid "East Siberian"
+msgstr "East Siberian"
+
+msgctxt "mongolia_region코0"
+msgid "Mongolia"
+msgstr "Mongolia"
+
+msgctxt "mongolia_region_name코0"
+msgid "Mongolia"
+msgstr "Mongolia"
+
+msgctxt "mongolia_region_adj코0"
+msgid "Mongolian"
+msgstr "Mongolian"
+
+msgctxt "manchuria_region코0"
+msgid "Manchuria"
+msgstr "Manchuria"
+
+msgctxt "manchuria_region_name코0"
+msgid "Manchuria"
+msgstr "Manchuria"
+
+msgctxt "manchuria_region_adj코0"
+msgid "Manchurian"
+msgstr "Manchurian"
+
+msgctxt "tibet_region코0"
+msgid "Tibet"
+msgstr "Tibet"
+
+msgctxt "tibet_region_name코0"
+msgid "Tibet"
+msgstr "Tibet"
+
+msgctxt "tibet_region_adj코0"
+msgid "Tibetan"
+msgstr "Tibetan"
+
+msgctxt "bengal_region코0"
+msgid "Bengal"
+msgstr "Bengal"
+
+msgctxt "bengal_region_name코0"
+msgid "Bengal"
+msgstr "Bengal"
+
+msgctxt "bengal_region_adj코0"
+msgid "Bengali"
+msgstr "Bengali"
+
+msgctxt "hindusthan_region코0"
+msgid "Hindustan"
+msgstr "Hindustan"
+
+msgctxt "hindusthan_region_name코0"
+msgid "Hindustan"
+msgstr "Hindustan"
+
+msgctxt "hindusthan_region_adj코0"
+msgid "Hindustani"
+msgstr "Hindustani"
+
+msgctxt "rajputana_region코0"
+msgid "Rajputana"
+msgstr "Rajputana"
+
+msgctxt "rajputana_region_name코0"
+msgid "Rajputana"
+msgstr "Rajputana"
+
+msgctxt "rajputana_region_adj코0"
+msgid "Rajput"
+msgstr "Rajput"
+
+msgctxt "deccan_region코0"
+msgid "Deccan"
+msgstr "Deccan"
+
+msgctxt "deccan_region_name코0"
+msgid "Deccan"
+msgstr "Deccan"
+
+msgctxt "deccan_region_adj코0"
+msgid "Deccani"
+msgstr "Deccani"
+
+msgctxt "coromandel_region코0"
+msgid "Coromandel"
+msgstr "Coromandel"
+
+msgctxt "coromandel_region_name코0"
+msgid "Coromandel"
+msgstr "Coromandel"
+
+msgctxt "coromandel_region_adj코0"
+msgid "Coromandel"
+msgstr "Coromandel"
+
+msgctxt "west_india_region코0"
+msgid "Western India"
+msgstr "Western India"
+
+msgctxt "west_india_region_name코0"
+msgid "Gujarat"
+msgstr "Gujarat"
+
+msgctxt "west_india_region_adj코0"
+msgid "Gujarati"
+msgstr "Gujarati"
+
+msgctxt "burma_region코0"
+msgid "Burma"
+msgstr "Burma"
+
+msgctxt "burma_region_name코0"
+msgid "Burma"
+msgstr "Burma"
+
+msgctxt "burma_region_adj코0"
+msgid "Burmese"
+msgstr "Burmese"
+
+msgctxt "japan_region코0"
+msgid "Japan"
+msgstr "Japan"
+
+msgctxt "japan_region_name코0"
+msgid "Japan"
+msgstr "Japan"
+
+msgctxt "japan_region_adj코0"
+msgid "Japanese"
+msgstr "Japanese"
+
+msgctxt "korea_region코0"
+msgid "Korea"
+msgstr "Korea"
+
+msgctxt "korea_region_name코0"
+msgid "Korea"
+msgstr "Korea"
+
+msgctxt "korea_region_adj코0"
+msgid "Korean"
+msgstr "Korean"
+
+msgctxt "australia_region코0"
+msgid "Australia"
+msgstr "Australia"
+
+msgctxt "australia_region_name코0"
+msgid "Australia"
+msgstr "Australia"
+
+msgctxt "australia_region_adj코0"
+msgid "Australian"
+msgstr "Australian"
+
+msgctxt "new_zealand_region코0"
+msgid "New Zealand"
+msgstr "New Zealand"
+
+msgctxt "new_zealand_region_name코0"
+msgid "New Zealand"
+msgstr "New Zealand"
+
+msgctxt "new_zealand_region_adj코0"
+msgid "New Zealand"
+msgstr "New Zealand"
+
+msgctxt "south_china_region코0"
+msgid "South China"
+msgstr "South China"
+
+msgctxt "south_china_region_name코0"
+msgid "Guangdong"
+msgstr "Guangdong"
+
+msgctxt "south_china_region_adj코0"
+msgid "Guangdongi"
+msgstr "Guangdongi"
+
+msgctxt "xinan_region코0"
+msgid "Xinan"
+msgstr "Xinan"
+
+msgctxt "xinan_region_name코0"
+msgid "Xinan"
+msgstr "Xinan"
+
+msgctxt "xinan_region_adj코0"
+msgid "Xinan"
+msgstr "Xinan"
+
+msgctxt "north_china_region코0"
+msgid "North China"
+msgstr "North China"
+
+msgctxt "north_china_region_name코0"
+msgid "China"
+msgstr "China"
+
+msgctxt "north_china_region_adj코0"
+msgid "Chinese"
+msgstr "Chinese"
+
+msgctxt "brazil_region코0"
+msgid "Brazil"
+msgstr "Brazil"
+
+msgctxt "brazil_region_name코0"
+msgid "Brazil"
+msgstr "Brazil"
+
+msgctxt "brazil_region_adj코0"
+msgid "Brazilian"
+msgstr "Brazilian"
+
+msgctxt "la_plata_region코0"
+msgid "La Plata"
+msgstr "La Plata"
+
+msgctxt "la_plata_region_name코0"
+msgid "La Plata"
+msgstr "La Plata"
+
+msgctxt "la_plata_region_adj코0"
+msgid "La Platan"
+msgstr "La Platan"
+
+msgctxt "upper_peru_region코0"
+msgid "Upper Peru"
+msgstr "Upper Peru"
+
+msgctxt "upper_peru_region_name코0"
+msgid "Bolivia"
+msgstr "Bolivia"
+
+msgctxt "upper_peru_region_adj코0"
+msgid "Bolivian"
+msgstr "Bolivian"
+
+msgctxt "colombia_region코0"
+msgid "Colombia"
+msgstr "Colombia"
+
+msgctxt "colombia_region_name코0"
+msgid "Colombia"
+msgstr "Colombia"
+
+msgctxt "colombia_region_adj코0"
+msgid "Colombian"
+msgstr "Colombian"
+
+msgctxt "peru_region코0"
+msgid "Peru"
+msgstr "Peru"
+
+msgctxt "peru_region_name코0"
+msgid "Peru"
+msgstr "Peru"
+
+msgctxt "peru_region_adj코0"
+msgid "Peruvian"
+msgstr "Peruvian"
+
+msgctxt "indonesia_region코0"
+msgid "Indonesia"
+msgstr "Indonesia"
+
+msgctxt "indonesia_region_name코0"
+msgid "Indonesia"
+msgstr "Indonesia"
+
+msgctxt "indonesia_region_adj코0"
+msgid "Indonesian"
+msgstr "Indonesian"
+
+msgctxt "oceanea_region코0"
+msgid "Oceania"
+msgstr "Oceania"
+
+msgctxt "oceanea_region_name코0"
+msgid "Oceania"
+msgstr "Oceania"
+
+msgctxt "oceanea_region_adj코0"
+msgid "Oceanian"
+msgstr "Oceanian"
+
+msgctxt "indo_china_region코0"
+msgid "Indochina"
+msgstr "Indochina"
+
+msgctxt "indo_china_region_name코0"
+msgid "Indochina"
+msgstr "Indochina"
+
+msgctxt "indo_china_region_adj코0"
+msgid "Indochinese"
+msgstr "Indochinese"
+
+msgctxt "canada_region코0"
+msgid "Canada"
+msgstr "Canada"
+
+msgctxt "canada_region_name코0"
+msgid "Canada"
+msgstr "Canada"
+
+msgctxt "canada_region_adj코0"
+msgid "Canadian"
+msgstr "Canadian"
+
+msgctxt "great_lakes_region코0"
+msgid "Great Lakes"
+msgstr "Great Lakes"
+
+msgctxt "great_lakes_region_name코0"
+msgid "Wisconsin"
+msgstr "Wisconsin"
+
+msgctxt "great_lakes_region_adj코0"
+msgid "Wisconsinian"
+msgstr "Wisconsinian"
+
+msgctxt "northeast_america_region코0"
+msgid "Northeast"
+msgstr "Northeast"
+
+msgctxt "northeast_america_region_name코0"
+msgid "Pennsylvania"
+msgstr "Pennsylvania"
+
+msgctxt "northeast_america_region_adj코0"
+msgid "Pennsylvanian"
+msgstr "Pennsylvanian"
+
+msgctxt "southeast_america_region코0"
+msgid "Southeast"
+msgstr "Southeast"
+
+msgctxt "southeast_america_region_name코0"
+msgid "Virginia"
+msgstr "Virginia"
+
+msgctxt "southeast_america_region_adj코0"
+msgid "Virginian"
+msgstr "Virginian"
+
+msgctxt "mississippi_region코0"
+msgid "Mississippi"
+msgstr "Mississippi"
+
+msgctxt "mississippi_region_name코1"
+msgid "Mississippi"
+msgstr "Mississippi"
+
+msgctxt "mississippi_region_adj코1"
+msgid "Mississippean"
+msgstr "Mississippean"
+
+msgctxt "choctaw_area코1"
+msgid "Tennessee"
+msgstr "Tennessee"
+
+msgctxt "choctaw_area_name코0"
+msgid "Choctaw"
+msgstr "Choctaw"
+
+msgctxt "choctaw_area_adj코0"
+msgid "Choctaw"
+msgstr "Choctaw"
+
+msgctxt "great_plains_region코0"
+msgid "Great Plains"
+msgstr "Great Plains"
+
+msgctxt "great_plains_region_name코0"
+msgid "Nebraska"
+msgstr "Nebraska"
+
+msgctxt "great_plains_region_adj코0"
+msgid "Nebraskan"
+msgstr "Nebraskan"
+
+msgctxt "california_region코0"
+msgid "California"
+msgstr "California"
+
+msgctxt "california_region_name코0"
+msgid "California"
+msgstr "California"
+
+msgctxt "california_region_adj코0"
+msgid "Californian"
+msgstr "Californian"
+
+msgctxt "cascadia_region코0"
+msgid "Cascadia"
+msgstr "Cascadia"
+
+msgctxt "cascadia_region_name코0"
+msgid "Cascadia"
+msgstr "Cascadia"
+
+msgctxt "cascadia_region_adj코0"
+msgid "Cascadian"
+msgstr "Cascadian"
+
+msgctxt "hudson_bay_region코0"
+msgid "Hudson Bay"
+msgstr "Hudson Bay"
+
+msgctxt "hudson_bay_region_name코0"
+msgid "Manitoba"
+msgstr "Manitoba"
+
+msgctxt "hudson_bay_region_adj코0"
+msgid "Manitoban"
+msgstr "Manitoban"
+
+msgctxt "mexico_region코0"
+msgid "Mexico"
+msgstr "Mexico"
+
+msgctxt "mexico_region_name코0"
+msgid "Mexico"
+msgstr "Mexico"
+
+msgctxt "mexico_region_adj코0"
+msgid "Mexican"
+msgstr "Mexican"
+
+msgctxt "central_america_region코0"
+msgid "Central America"
+msgstr "Central America"
+
+msgctxt "central_america_region_name코0"
+msgid "Guatemala"
+msgstr "Guatemala"
+
+msgctxt "central_america_region_adj코0"
+msgid "Guatemalan"
+msgstr "Guatemalan"
+
+msgctxt "carribeans_region코0"
+msgid "Caribbeans"
+msgstr "Caribbeans"
+
+msgctxt "carribeans_region_name코0"
+msgid "Caribbean"
+msgstr "Caribbean"
+
+msgctxt "carribeans_region_adj코0"
+msgid "Caribbean"
+msgstr "Caribbean"
+
+msgctxt "south_atlantic_region코0"
+msgid "South Atlantic"
+msgstr "South Atlantic"
+
+msgctxt "atlantic_south_america_region코0"
+msgid "Atlantic South America"
+msgstr "Atlantic South America"
+
+msgctxt "pacific_south_america_region코0"
+msgid "Pacific South America"
+msgstr "Pacific South America"
+
+msgctxt "north_west_pacific_region코0"
+msgid "North West Pacific"
+msgstr "North West Pacific"
+
+msgctxt "south_west_pacific_region코0"
+msgid "South West Pacific"
+msgstr "South West Pacific"
+
+msgctxt "south_east_pacific_region코0"
+msgid "South East Pacific"
+msgstr "South East Pacific"
+
+msgctxt "north_east_pacific_region코0"
+msgid "North East Pacific"
+msgstr "North East Pacific"
+
+msgctxt "east_china_sea_region코0"
+msgid "East China Sea"
+msgstr "East China Sea"
+
+msgctxt "south_china_sea_region코0"
+msgid "South China Sea"
+msgstr "South China Sea"
+
+msgctxt "east_indian_ocean_region코0"
+msgid "Eastern Indian Ocean"
+msgstr "Eastern Indian Ocean"
+
+msgctxt "arabian_sea_region코0"
+msgid "Arabian Sea"
+msgstr "Arabian Sea"
+
+msgctxt "west_indian_ocean_region코0"
+msgid "Western Indian Ocean"
+msgstr "Western Indian Ocean"
+
+msgctxt "west_african_sea_region코0"
+msgid "West African Sea"
+msgstr "West African Sea"
+
+msgctxt "caribbean_sea_region코0"
+msgid "Caribbean Sea"
+msgstr "Caribbean Sea"
+
+msgctxt "mediterrenean_region코0"
+msgid "Mediterranean"
+msgstr "Mediterranean"
+
+msgctxt "american_east_coast_region코0"
+msgid "American East Coast"
+msgstr "American East Coast"
+
+msgctxt "north_atlantic_region코0"
+msgid "North Atlantic"
+msgstr "North Atlantic"
+
+msgctxt "baltic_sea_region코0"
+msgid "Baltic Sea"
+msgstr "Baltic Sea"
+
+msgctxt "south_indian_ocean_area코0"
+msgid "South Indian Ocean"
+msgstr "South Indian Ocean"
+
+msgctxt "south_indian_ocean_region코0"
+msgid "South Indian Ocean"
+msgstr "South Indian Ocean"
+
+msgctxt "central_africa_region코0"
+msgid "Central Africa"
+msgstr "Central Africa"
+
+msgctxt "central_africa_region_name코0"
+msgid "Africa"
+msgstr "Africa"
+
+msgctxt "central_africa_region_adj코0"
+msgid "African"
+msgstr "African"
+
+msgctxt "europe_superregion코0"
+msgid "Western Europe"
+msgstr "Western Europe"
+
+msgctxt "europe_superregion_name코0"
+msgid "Francia"
+msgstr "Francia"
+
+msgctxt "europe_superregion_adj코0"
+msgid "Frank"
+msgstr "Frank"
+
+msgctxt "north_america_superregion코0"
+msgid "North America"
+msgstr "North America"
+
+msgctxt "north_america_superregion_name코0"
+msgid "America"
+msgstr "America"
+
+msgctxt "north_america_superregion_adj코0"
+msgid "American"
+msgstr "American"
+
+msgctxt "africa_superregion코0"
+msgid "Africa"
+msgstr "Africa"
+
+msgctxt "africa_superregion_name코0"
+msgid "Africa"
+msgstr "Africa"
+
+msgctxt "africa_superregion_adj코0"
+msgid "African"
+msgstr "African"
+
+msgctxt "south_america_superregion코0"
+msgid "South America"
+msgstr "South America"
+
+msgctxt "south_america_superregion_name코0"
+msgid "Colombia"
+msgstr "Colombia"
+
+msgctxt "south_america_superregion_adj코0"
+msgid "Colombian"
+msgstr "Colombian"
+
+msgctxt "central_america_superregion코0"
+msgid "Central America"
+msgstr "Central America"
+
+msgctxt "central_america_superregion_name코0"
+msgid "Mexico"
+msgstr "Mexico"
+
+msgctxt "central_america_superregion_adj코0"
+msgid "Mexican"
+msgstr "Mexican"
+
+msgctxt "china_superregion코0"
+msgid "China"
+msgstr "China"
+
+msgctxt "china_superregion_name코0"
+msgid "China"
+msgstr "China"
+
+msgctxt "china_superregion_adj코0"
+msgid "China"
+msgstr "China"
+
+msgctxt "east_indies_superregion코0"
+msgid "East Indies"
+msgstr "East Indies"
+
+msgctxt "east_indies_superregion_name코0"
+msgid "Indonesia"
+msgstr "Indonesia"
+
+msgctxt "east_indies_superregion_adj코0"
+msgid "Indonesian"
+msgstr "Indonesian"
+
+msgctxt "india_superregion코0"
+msgid "India"
+msgstr "India"
+
+msgctxt "india_superregion_name코0"
+msgid "India"
+msgstr "India"
+
+msgctxt "india_superregion_adj코0"
+msgid "Indian"
+msgstr "Indian"
+
+msgctxt "near_east_superregion코0"
+msgid "Near East"
+msgstr "Near East"
+
+msgctxt "near_east_superregion_name코0"
+msgid "Anatolia"
+msgstr "Anatolia"
+
+msgctxt "near_east_superregion_adj코0"
+msgid "Anatolian"
+msgstr "Anatolian"
+
+msgctxt "persia_superregion코0"
+msgid "Persia"
+msgstr "Persia"
+
+msgctxt "persia_superregion_name코0"
+msgid "Persia"
+msgstr "Persia"
+
+msgctxt "persia_superregion_adj코0"
+msgid "Persian"
+msgstr "Persian"
+
+msgctxt "kenya_area코0"
+msgid "Kenya"
+msgstr "Kenya"
+
+msgctxt "kenya_area_name코0"
+msgid "Kenya"
+msgstr "Kenya"
+
+msgctxt "kenya_area_adj코0"
+msgid "Kenyan"
+msgstr "Kenyan"
+
+msgctxt "andaman_sea_area코0"
+msgid "Andaman Sea"
+msgstr "Andaman Sea"
+
+msgctxt "limpopo_area코0"
+msgid "Natal"
+msgstr "Natal"
+
+msgctxt "limpopo_area_name코0"
+msgid "Natal"
+msgstr "Natal"
+
+msgctxt "limpopo_area_adj코0"
+msgid "Natalian"
+msgstr "Natalian"
+
+msgctxt "quelimane_area코0"
+msgid "Quelimane"
+msgstr "Quelimane"
+
+msgctxt "quelimane_area_name코0"
+msgid "Quelimane"
+msgstr "Quelimane"
+
+msgctxt "quelimane_area_adj코0"
+msgid "Quelimanian"
+msgstr "Quelimanian"
+
+msgctxt "southern_madagascar코0"
+msgid "Southern Madagascar"
+msgstr "Southern Madagascar"
+
+msgctxt "southern_madagascar_name코0"
+msgid "Bara"
+msgstr "Bara"
+
+msgctxt "southern_madagascar_adj코0"
+msgid "Baran"
+msgstr "Baran"
+
+msgctxt "sakalava_area코0"
+msgid "Sakalava"
+msgstr "Sakalava"
+
+msgctxt "sakalava_area_name코0"
+msgid "Sakalava"
+msgstr "Sakalava"
+
+msgctxt "sakalava_area_adj코0"
+msgid "Sakalavan"
+msgstr "Sakalavan"
+
+msgctxt "betsimasaraka_area코0"
+msgid "Betsimasaraka"
+msgstr "Betsimasaraka"
+
+msgctxt "betsimasaraka_area_name코0"
+msgid "Betsimasaraka"
+msgstr "Betsimasaraka"
+
+msgctxt "betsimasaraka_area_adj코0"
+msgid "Betsimasarakan"
+msgstr "Betsimasarakan"
+
+msgctxt "madagascar_highlands_area코0"
+msgid "Madagascar Highlands"
+msgstr "Madagascar Highlands"
+
+msgctxt "madagascar_highlands_area_name코0"
+msgid "Merina"
+msgstr "Merina"
+
+msgctxt "madagascar_highlands_area_adj코0"
+msgid "Merinan"
+msgstr "Merinan"
+
+msgctxt "bothnia_area코1"
+msgid "Ostrobothnia"
+msgstr "Ostrobothnia"
+
+msgctxt "bothnia_area_name코0"
+msgid "Bothnia"
+msgstr "Bothnia"
+
+msgctxt "bothnia_area_adj코0"
+msgid "Bothnian"
+msgstr "Bothnian"
+
+msgctxt "western_ireland_area코0"
+msgid "Western Ireland"
+msgstr "Western Ireland"
+
+msgctxt "western_ireland_area_name코0"
+msgid "Munster"
+msgstr "Munster"
+
+msgctxt "western_ireland_area_adj코0"
+msgid "Munstrian"
+msgstr "Munstrian"
+
+msgctxt "eastern_ireland_area코0"
+msgid "Eastern Ireland"
+msgstr "Eastern Ireland"
+
+msgctxt "eastern_ireland_area_name코0"
+msgid "Leinster"
+msgstr "Leinster"
+
+msgctxt "eastern_ireland_area_adj코0"
+msgid "Lenstrian"
+msgstr "Lenstrian"
+
+msgctxt "southern_jutland_area코0"
+msgid "Southern Denmark"
+msgstr "Southern Denmark"
+
+msgctxt "southern_jutland_area_name코0"
+msgid "Slesvig"
+msgstr "Slesvig"
+
+msgctxt "southern_jutland_area_adj코0"
+msgid "Slesvigian"
+msgstr "Slesvigian"
+
+msgctxt "eastern_europe_superregion코0"
+msgid "Eastern Europe"
+msgstr "Eastern Europe"
+
+msgctxt "eastern_europe_superregion_name코0"
+msgid "Rus"
+msgstr "Rus"
+
+msgctxt "eastern_europe_superregion_adj코0"
+msgid "Rus"
+msgstr "Rus"
+
+msgctxt "tartary_superregion코0"
+msgid "Tartary"
+msgstr "Tartary"
+
+msgctxt "tartary_superregion_name코0"
+msgid "Great Tartary"
+msgstr "Great Tartary"
+
+msgctxt "tartary_superregion_adj코0"
+msgid "Tartarian"
+msgstr "Tartarian"
+
+msgctxt "far_east_superregion코0"
+msgid "Far East"
+msgstr "Far East"
+
+msgctxt "far_east_superregion_name코0"
+msgid "Far East"
+msgstr "Far East"
+
+msgctxt "far_east_superregion_adj코0"
+msgid "Far Eastern"
+msgstr "Far Eastern"
+
+msgctxt "oceania_superregion코0"
+msgid "Oceania"
+msgstr "Oceania"
+
+msgctxt "oceania_superregion_name코0"
+msgid "Oceania"
+msgstr "Oceania"
+
+msgctxt "oceania_superregion_adj코0"
+msgid "Oceanian"
+msgstr "Oceanian"
+
+msgctxt "laponia_area코0"
+msgid "Laponia"
+msgstr "Laponia"
+
+msgctxt "laponia_area_name코0"
+msgid "Sapmi"
+msgstr "Sapmi"
+
+msgctxt "laponia_area_adj코0"
+msgid "Sami"
+msgstr "Sami"
+
+msgctxt "arabian_sea_islands_area코0"
+msgid "Arabian Sea Islands"
+msgstr "Arabian Sea Islands"
+
+msgctxt "arabian_sea_islands_area_name코0"
+msgid "Socotra"
+msgstr "Socotra"
+
+msgctxt "arabian_sea_islands_area_adj코0"
+msgid "Socotran"
+msgstr "Socotran"
+
+msgctxt "ad_dahna_area코0"
+msgid "ad-Dahna"
+msgstr "ad-Dahna"
+
+msgctxt "ad_dahna_area_name코0"
+msgid "Arabia"
+msgstr "Arabia"
+
+msgctxt "ad_dahna_area_adj코0"
+msgid "Arabian"
+msgstr "Arabian"
+
+msgctxt "central_heilongjiang_area코0"
+msgid "Central Heilongjiang"
+msgstr "Central Heilongjiang"
+
+msgctxt "central_heilongjiang_area_adj코0"
+msgid "Aiguni"
+msgstr "Aiguni"
+
+msgctxt "central_heilongjiang_area_name코0"
+msgid "Aigun"
+msgstr "Aigun"
+
+msgctxt "ningguta_area코0"
+msgid "Ningguta"
+msgstr "Ningguta"
+
+msgctxt "ningguta_area_adj코0"
+msgid "Ninggutan"
+msgstr "Ninggutan"
+
+msgctxt "ningguta_area_name코0"
+msgid "Ningguta"
+msgstr "Ningguta"
+
+msgctxt "uliastai_area코0"
+msgid "Uliastai"
+msgstr "Uliastai"
+
+msgctxt "uliastai_area_adj코0"
+msgid "Uliastai"
+msgstr "Uliastai"
+
+msgctxt "uliastai_area_name코0"
+msgid "Uliastai"
+msgstr "Uliastai"
+
+msgctxt "tannu_uriankhai_area코0"
+msgid "Tannu Uriankhai"
+msgstr "Tannu Uriankhai"
+
+msgctxt "east_altishahr_area코0"
+msgid "East Altishahr"
+msgstr "East Altishahr"
+
+msgctxt "east_altishahr_area_adj코0"
+msgid "Qarqani"
+msgstr "Qarqani"
+
+msgctxt "east_altishahr_area_name코0"
+msgid "Qarqan"
+msgstr "Qarqan"
+
+msgctxt "turpan_kumul_area코0"
+msgid "Turpan-Kumul"
+msgstr "Turpan-Kumul"
+
+msgctxt "turpan_kumul_area_adj코0"
+msgid "Hamiani"
+msgstr "Hamiani"
+
+msgctxt "turpan_kumul_area_name코0"
+msgid "Hamian"
+msgstr "Hamian"
+
+msgctxt "chuanbei_area코0"
+msgid "Chuanbei"
+msgstr "Chuanbei"
+
+msgctxt "chuanbei_area_adj코0"
+msgid "Langzhongi"
+msgstr "Langzhongi"
+
+msgctxt "chuanbei_area_name코0"
+msgid "Langzhong"
+msgstr "Langzhong"
+
+msgctxt "shanshan_area코0"
+msgid "Shanshan"
+msgstr "Shanshan"
+
+msgctxt "shanshan_area_adj코0"
+msgid "Shanshani"
+msgstr "Shanshani"
+
+msgctxt "shanshan_area_name코0"
+msgid "Shanshan"
+msgstr "Shanshan"
+
+msgctxt "minsk_area코0"
+msgid "Minsk"
+msgstr "Minsk"
+
+msgctxt "minsk_area_adj코0"
+msgid "Minskian"
+msgstr "Minskian"
+
+msgctxt "minsk_area_name코0"
+msgid "Minsk"
+msgstr "Minsk"
+
+msgctxt "tver_area코0"
+msgid "Tver"
+msgstr "Tver"
+
+msgctxt "tver_area_adj코0"
+msgid "Tverian"
+msgstr "Tverian"
+
+msgctxt "tver_area_name코0"
+msgid "Tver"
+msgstr "Tver"
+
+msgctxt "yaroslavl_area코0"
+msgid "Yarloslavl"
+msgstr "Yarloslavl"
+
+msgctxt "yaroslavl_area_name코0"
+msgid "Yarloslavl"
+msgstr "Yarloslavl"
+
+msgctxt "yaroslavl_area_adj코0"
+msgid "Yarloslavlian"
+msgstr "Yarloslavlian"
+
+msgctxt "vladimir_area코0"
+msgid "Vladimir"
+msgstr "Vladimir"
+
+msgctxt "vladimir_area_name코0"
+msgid "Vladimir"
+msgstr "Vladimir"
+
+msgctxt "vladimir_area_adj코0"
+msgid "Vladimirian"
+msgstr "Vladimirian"
+
+msgctxt "oka_area코0"
+msgid "Oka"
+msgstr "Oka"
+
+msgctxt "oka_area_name코0"
+msgid "Tula"
+msgstr "Tula"
+
+msgctxt "oka_area_adj코0"
+msgid "Tulan"
+msgstr "Tulan"
+
+msgctxt "arkhangelsk_area코0"
+msgid "Arkhangelsk"
+msgstr "Arkhangelsk"
+
+msgctxt "arkhangelsk_area_name코0"
+msgid "Arkhangelsk"
+msgstr "Arkhangelsk"
+
+msgctxt "arkhangelsk_area_adj코0"
+msgid "Arkhangelskian"
+msgstr "Arkhangelskian"
+
+msgctxt "vologda_area코0"
+msgid "Vologda"
+msgstr "Vologda"
+
+msgctxt "vologda_area_name코0"
+msgid "Vologda"
+msgstr "Vologda"
+
+msgctxt "vologda_area_adj코0"
+msgid "Vologdan"
+msgstr "Vologdan"
+
+msgctxt "volga_area코0"
+msgid "Volga"
+msgstr "Volga"
+
+msgctxt "volga_area_name코0"
+msgid "Bolgaria"
+msgstr "Bolgaria"
+
+msgctxt "volga_area_adj코0"
+msgid "Bolgarian"
+msgstr "Bolgarian"
+
+msgctxt "southern_najd_area코0"
+msgid "Southern Najd"
+msgstr "Southern Najd"
+
+msgctxt "southern_najd_area_name코0"
+msgid "Yamamah"
+msgstr "Yamamah"
+
+msgctxt "southern_najd_area_adj코0"
+msgid "Yamamahan"
+msgstr "Yamamahan"
+
+msgctxt "mahra_area코0"
+msgid "Mahra"
+msgstr "Mahra"
+
+msgctxt "mahra_area_name코0"
+msgid "Mahra"
+msgstr "Mahra"
+
+msgctxt "mahra_area_adj코0"
+msgid "Mahran"
+msgstr "Mahran"
+
+msgctxt "upper_yemen_area코0"
+msgid "Upper Yemen"
+msgstr "Upper Yemen"
+
+msgctxt "upper_yemen_area_name코0"
+msgid "Saana"
+msgstr "Saana"
+
+msgctxt "upper_yemen_area_adj코0"
+msgid "Saanan"
+msgstr "Saanan"
+
+msgctxt "tihama_al_yemen_area코0"
+msgid "Tihama al-Yemen"
+msgstr "Tihama al-Yemen"
+
+msgctxt "tihama_al_yemen_area_name코0"
+msgid "Zabid"
+msgstr "Zabid"
+
+msgctxt "tihama_al_yemen_area_adj코0"
+msgid "Zabidi"
+msgstr "Zabidi"
+
+msgctxt "asir_area코0"
+msgid "Asir"
+msgstr "Asir"
+
+msgctxt "asir_area_name코0"
+msgid "Mikhlaf"
+msgstr "Mikhlaf"
+
+msgctxt "asir_area_adj코0"
+msgid "Mikhlafi"
+msgstr "Mikhlafi"
+
+msgctxt "mecca_area코0"
+msgid "Mecca"
+msgstr "Mecca"
+
+msgctxt "mecca_area_name코0"
+msgid "Mecca"
+msgstr "Mecca"
+
+msgctxt "mecca_area_adj코0"
+msgid "Meccan"
+msgstr "Meccan"
+
+msgctxt "medina_area코0"
+msgid "Medina"
+msgstr "Medina"
+
+msgctxt "medina_area_name코0"
+msgid "Medina"
+msgstr "Medina"
+
+msgctxt "medina_area_adj코0"
+msgid "Medinan"
+msgstr "Medinan"
+
+msgctxt "nafud_area코0"
+msgid "An Nafud"
+msgstr "An Nafud"
+
+msgctxt "nafud_area_name코0"
+msgid "Shamar"
+msgstr "Shamar"
+
+msgctxt "nafud_area_adj코0"
+msgid "Shamari"
+msgstr "Shamari"
+
+msgctxt "trans_jordan_area코0"
+msgid "Transjordan"
+msgstr "Transjordan"
+
+msgctxt "trans_jordan_area_name코0"
+msgid "Jordan"
+msgstr "Jordan"
+
+msgctxt "trans_jordan_area_adj코0"
+msgid "Jordani"
+msgstr "Jordani"
+
+msgctxt "mascat_area코0"
+msgid "Muscat"
+msgstr "Muscat"
+
+msgctxt "mascat_area_name코0"
+msgid "Muscat"
+msgstr "Muscat"
+
+msgctxt "mascat_area_adj코0"
+msgid "Muscati"
+msgstr "Muscati"
+
+msgctxt "shahrizor_area코0"
+msgid "Shahrizor"
+msgstr "Shahrizor"
+
+msgctxt "shahrizor_area_name코0"
+msgid "Shahrizor"
+msgstr "Shahrizor"
+
+msgctxt "shahrizor_area_adj코0"
+msgid "Shahrizori"
+msgstr "Shahrizori"
+
+msgctxt "cukurova_area코0"
+msgid "Çukurova"
+msgstr "Cukurova"
+
+msgctxt "cukurova_area_name코0"
+msgid "Çukurova"
+msgstr "Cukurova"
+
+msgctxt "cukurova_area_adj코0"
+msgid "Çukurovan"
+msgstr "Cukurovan"
+
+msgctxt "syrian_desert_area코0"
+msgid "Syrian Desert"
+msgstr "Syrian Desert"
+
+msgctxt "syrian_desert_area_name코0"
+msgid "Palmyra"
+msgstr "Palmyra"
+
+msgctxt "syrian_desert_area_adj코0"
+msgid "Palmyran"
+msgstr "Palmyran"
+
+msgctxt "khuzestan_area코0"
+msgid "Khuzestan"
+msgstr "Khuzestan"
+
+msgctxt "khuzestan_area_name코0"
+msgid "Khuzestan"
+msgstr "Khuzestan"
+
+msgctxt "khuzestan_area_adj코0"
+msgid "Khuzestani"
+msgstr "Khuzestani"
+
+msgctxt "kartli_kakheti_area코0"
+msgid "Kartli-Kakheti"
+msgstr "Kartli-Kakheti"
+
+msgctxt "kartli_kakheti_area_name코0"
+msgid "Kartli-Kakheti"
+msgstr "Kartli-Kakheti"
+
+msgctxt "kartli_kakheti_area_adj코0"
+msgid "Kartli-Kakhetian"
+msgstr "Kartli-Kakhetian"
+
+msgctxt "samtskhe_area코0"
+msgid "Samtskhe"
+msgstr "Samtskhe"
+
+msgctxt "samtskhe_area_name코0"
+msgid "Samtskhe"
+msgstr "Samtskhe"
+
+msgctxt "samtskhe_area_adj코0"
+msgid "Samtskhan"
+msgstr "Samtskhan"
+
+msgctxt "imereti_area코0"
+msgid "Imereti"
+msgstr "Imereti"
+
+msgctxt "imereti_area_name코0"
+msgid "Imereti"
+msgstr "Imereti"
+
+msgctxt "imereti_area_adj코0"
+msgid "Imeretian"
+msgstr "Imeretian"
+
+msgctxt "aegean_archipelago_area코0"
+msgid "Aegean Archipelago"
+msgstr "Aegean Archipelago"
+
+msgctxt "aegean_archipelago_area_name코0"
+msgid "Naxos"
+msgstr "Naxos"
+
+msgctxt "aegean_archipelago_area_adj코0"
+msgid "Naxian"
+msgstr "Naxian"
+
+msgctxt "germiyan_area코0"
+msgid "Germiyan"
+msgstr "Germiyan"
+
+msgctxt "germiyan_area_name코0"
+msgid "Germiyan"
+msgstr "Germiyan"
+
+msgctxt "germiyan_area_adj코0"
+msgid "Germiyani"
+msgstr "Germiyani"
+
+msgctxt "ankara_area코0"
+msgid "Ankara"
+msgstr "Ankara"
+
+msgctxt "ankara_area_name코0"
+msgid "Ankara"
+msgstr "Ankara"
+
+msgctxt "ankara_area_adj코0"
+msgid "Ankaran"
+msgstr "Ankaran"
+
+msgctxt "gulf_of_arabia_area코0"
+msgid "Red Sea Hills"
+msgstr "Red Sea Hills"
+
+msgctxt "gulf_of_arabia_area_name코0"
+msgid "Suez"
+msgstr "Suez"
+
+msgctxt "gulf_of_arabia_area_adj코0"
+msgid "Suezian"
+msgstr "Suezian"
+
+msgctxt "al_wahat_area코0"
+msgid "al-Wahat"
+msgstr "al-Wahat"
+
+msgctxt "al_wahat_area_name코0"
+msgid "al-Wahat"
+msgstr "al-Wahat"
+
+msgctxt "al_wahat_area_adj코0"
+msgid "al-Wahati"
+msgstr "al-Wahati"
+
+msgctxt "delta_area코0"
+msgid "Delta"
+msgstr "Delta"
+
+msgctxt "delta_area_name코0"
+msgid "Rashid"
+msgstr "Rashid"
+
+msgctxt "delta_area_adj코0"
+msgid "Rashidian"
+msgstr "Rashidian"
+
+msgctxt "bahari_area코0"
+msgid "Bahari"
+msgstr "Bahari"
+
+msgctxt "bahari_area_name코0"
+msgid "Bahari"
+msgstr "Bahari"
+
+msgctxt "bahari_area_adj코0"
+msgid "Bahari"
+msgstr "Bahari"
+
+msgctxt "vostani_area코0"
+msgid "Vostani"
+msgstr "Vostani"
+
+msgctxt "vostani_area_name코0"
+msgid "Vostani"
+msgstr "Vostani"
+
+msgctxt "vostani_area_adj코0"
+msgid "Vostani"
+msgstr "Vostani"
+
+msgctxt "said_area코0"
+msgid "Said"
+msgstr "Said"
+
+msgctxt "said_area_name코0"
+msgid "Said"
+msgstr "Said"
+
+msgctxt "said_area_adj코0"
+msgid "Saidi"
+msgstr "Saidi"
+
+msgctxt "birjand_area코0"
+msgid "Birjand"
+msgstr "Birjand"
+
+msgctxt "birjand_area_name코0"
+msgid "Birjand"
+msgstr "Birjand"
+
+msgctxt "birjand_area_adj코0"
+msgid "Birjandi"
+msgstr "Birjandi"
+
+msgctxt "herat_area코0"
+msgid "Herat"
+msgstr "Herat"
+
+msgctxt "herat_area_name코0"
+msgid "Herat"
+msgstr "Herat"
+
+msgctxt "herat_area_adj코0"
+msgid "Herati"
+msgstr "Herati"
+
+msgctxt "mashhad_area코0"
+msgid "Mashhad"
+msgstr "Mashhad"
+
+msgctxt "mashhad_area_name코0"
+msgid "Khorasan"
+msgstr "Khorasan"
+
+msgctxt "mashhad_area_adj코0"
+msgid "Khorasani"
+msgstr "Khorasani"
+
+msgctxt "termez_area코0"
+msgid "Khuttalan"
+msgstr "Khuttalan"
+
+msgctxt "termez_area_name코0"
+msgid "Khuttalan"
+msgstr "Khuttalan"
+
+msgctxt "termez_area_adj코0"
+msgid "Khuttalani"
+msgstr "Khuttalani"
+
+msgctxt "mogostan_area코0"
+msgid "Mogostan"
+msgstr "Mogostan"
+
+msgctxt "mogostan_area_name코0"
+msgid "Mogostan"
+msgstr "Mogostan"
+
+msgctxt "mogostan_area_adj코0"
+msgid "Mogostani"
+msgstr "Mogostani"
+
+msgctxt "west_mindanao_area코0"
+msgid "West Mindanao"
+msgstr "West Mindanao"
+
+msgctxt "west_mindanao_area_name코0"
+msgid "Maguindanao"
+msgstr "Maguindanao"
+
+msgctxt "west_mindanao_area_adj코0"
+msgid "Maguindanaoan"
+msgstr "Maguindanaoan"
+
+msgctxt "visayas_area코0"
+msgid "Visayas"
+msgstr "Visayas"
+
+msgctxt "visayas_area_name코0"
+msgid "Visayas"
+msgstr "Visayas"
+
+msgctxt "visayas_area_adj코0"
+msgid "Visayan"
+msgstr "Visayan"
+
+msgctxt "palawan_area코0"
+msgid "Palawan"
+msgstr "Palawan"
+
+msgctxt "palawan_area_name코0"
+msgid "Palawan"
+msgstr "Palawan"
+
+msgctxt "palawan_area_adj코0"
+msgid "Palawani"
+msgstr "Palawani"
+
+msgctxt "southern_luzon_area코0"
+msgid "Southern Luzon"
+msgstr "Southern Luzon"
+
+msgctxt "southern_luzon_area_name코0"
+msgid "Manila"
+msgstr "Manila"
+
+msgctxt "southern_luzon_area_adj코0"
+msgid "Manilan"
+msgstr "Manilan"
+
+msgctxt "eastern_chubu_area코0"
+msgid "Eastern Chubu"
+msgstr "Eastern Chubu"
+
+msgctxt "eastern_chubu_area_name코0"
+msgid "Suruga"
+msgstr "Suruga"
+
+msgctxt "eastern_chubu_area_adj코0"
+msgid "Surugan"
+msgstr "Surugan"
+

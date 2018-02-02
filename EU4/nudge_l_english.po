@@ -1,0 +1,41 @@
+# badaim <imbada@outlook.com>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2017-04-11 12:10-0400\n"
+"Last-Translator: Copied by Zanata <copied-by-zanata@zanata.org>\n"
+"Language-Team: Korean (South Korea)\n"
+"Language: ko\n"
+"X-Generator: Zanata 3.9.6\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgctxt "NUDGE_0코0"
+msgid "City"
+msgstr "도시"
+
+msgctxt "NUDGE_1코0"
+msgid "Unit"
+msgstr "유닛"
+
+msgctxt "NUDGE_2코0"
+msgid "Text"
+msgstr "문서"
+
+msgctxt "NUDGE_3코0"
+msgid "Port"
+msgstr "항만"
+
+msgctxt "NUDGE_4코0"
+msgid "Trade route"
+msgstr "무역 경로"
+
+msgctxt "NUDGE_5코0"
+msgid "Unit Combat"
+msgstr "전투 유닛"
+
+msgctxt "NUDGE_6코0"
+msgid "Trade Wind"
+msgstr "무역 풍"
+

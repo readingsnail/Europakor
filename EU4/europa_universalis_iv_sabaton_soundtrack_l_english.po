@@ -1,0 +1,33 @@
+# badaim <imbada@outlook.com>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2017-04-11 12:06-0400\n"
+"Last-Translator: Copied by Zanata <copied-by-zanata@zanata.org>\n"
+"Language-Team: Korean (South Korea)\n"
+"Language: ko\n"
+"X-Generator: Zanata 3.9.6\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgctxt "euivss_alifetimeofwar코0"
+msgid "A Lifetime of War"
+msgstr "전쟁의 일생(A Lifetime of War)"
+
+msgctxt "euivss_sabatoncarolusrexenglish코0"
+msgid "Carolus Rex"
+msgstr "왕 카를(Carolus Rex)"
+
+msgctxt "euivss_theartofwar코0"
+msgid "The Art of War"
+msgstr "전쟁의 기술(The Art of War)"
+
+msgctxt "euivss_thecaroleansprayer코0"
+msgid "The Carolean's Prayer"
+msgstr "캐롤리언의 기도(The Carolean's Prayer)"
+
+msgctxt "euivss_thelionfromthenorth코0"
+msgid "The Lion From the North"
+msgstr "북방의 사자(The Lion From the North)"
+

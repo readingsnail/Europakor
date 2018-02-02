@@ -1,0 +1,173 @@
+# badaim <imbada@outlook.com>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2017-04-11 12:00-0400\n"
+"Last-Translator: Copied by Zanata <copied-by-zanata@zanata.org>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"X-Generator: Zanata 3.9.6\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgctxt "cushitic코0"
+msgid "Cushitic"
+msgstr "Cushitic"
+
+msgctxt "tigray코0"
+msgid "Tigray"
+msgstr "Tigray"
+
+msgctxt "sidamo코0"
+msgid "Sidamo"
+msgstr "Sidamo"
+
+msgctxt "amhara코0"
+msgid "Amhara"
+msgstr "Amhara"
+
+msgctxt "sudanese코0"
+msgid "Sudanese"
+msgstr "Sudanese"
+
+msgctxt "diaguita코0"
+msgid "Diaguita"
+msgstr "Diaguita"
+
+msgctxt "chimuan코0"
+msgid "Chimuan"
+msgstr "Chimuan"
+
+msgctxt "chachapoyan코0"
+msgid "Chachapoyan"
+msgstr "Chachapoyan"
+
+msgctxt "cara코0"
+msgid "Caran"
+msgstr "Caran"
+
+msgctxt "chibchan코0"
+msgid "Chibchan"
+msgstr "Chibchan"
+
+msgctxt "je코0"
+msgid "Je"
+msgstr "Je"
+
+msgctxt "charruan코0"
+msgid "Charruan"
+msgstr "Charruan"
+
+msgctxt "jivaro코0"
+msgid "Jivaro"
+msgstr "Jivaro"
+
+msgctxt "maranon코0"
+msgid "Marañón"
+msgstr "Marannon"
+
+msgctxt "muisca코0"
+msgid "Muisca"
+msgstr "Muisca"
+
+msgctxt "muiscan코0"
+msgid "Muiscan"
+msgstr "Muiscan"
+
+msgctxt "chacoan코0"
+msgid "Chacoan"
+msgstr "Chacoan"
+
+msgctxt "araucanian코0"
+msgid "Araucanian"
+msgstr "Araucanian"
+
+msgctxt "mapuche코0"
+msgid "Mapuche"
+msgstr "Mapuche"
+
+msgctxt "het코0"
+msgid "Het"
+msgstr "Het"
+
+msgctxt "huarpe코0"
+msgid "Huarpe"
+msgstr "Huarpe"
+
+msgctxt "maipurean코0"
+msgid "Maipurean"
+msgstr "Maipurean"
+
+msgctxt "nupe코0"
+msgid "Nupe"
+msgstr "Nupe"
+
+msgctxt "songhai코0"
+msgid "Songhai"
+msgstr "Songhai"
+
+msgctxt "sichuanese코0"
+msgid "Sichuanese"
+msgstr "Sichuanese"
+
+msgctxt "xiang코0"
+msgid "Xiang"
+msgstr "Xiang"
+
+msgctxt "gan코0"
+msgid "Gan"
+msgstr "Gan"
+
+msgctxt "hakka코0"
+msgid "Hakka"
+msgstr "Hakka"
+
+msgctxt "wu코0"
+msgid "Wu"
+msgstr "Wu"
+
+msgctxt "jin코0"
+msgid "Jin"
+msgstr "Jin"
+
+msgctxt "chipewyan코0"
+msgid "Chipewyan"
+msgstr "Chipewyan"
+
+msgctxt "arapaho코0"
+msgid "Arapaho"
+msgstr "Arapaho"
+
+msgctxt "ge코0"
+msgid "Ge"
+msgstr "Ge"
+
+msgctxt "otomanguean코0"
+msgid "Otomanguean"
+msgstr "Otomanguean"
+
+msgctxt "khorasani코0"
+msgid "Khorasani"
+msgstr "Khorasani"
+
+msgctxt "bornean코0"
+msgid "Bornean"
+msgstr "Bornean"
+
+msgctxt "harari코0"
+msgid "Harari"
+msgstr "Harari"
+
+msgctxt "afar코0"
+msgid "Afar"
+msgstr "Afar"
+
+msgctxt "beja코0"
+msgid "Beja"
+msgstr "Beja"
+
+msgctxt "oromo코0"
+msgid "Oromo"
+msgstr "Oromo"
+

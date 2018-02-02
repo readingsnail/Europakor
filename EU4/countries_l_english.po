@@ -1,0 +1,4918 @@
+# badaim <imbada@outlook.com>, 2017. #zanata
+# bjrj <asap1993@naver.com>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2017-12-13 02:02-0500\n"
+"Last-Translator: bjrj <asap1993@naver.com>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"X-Generator: Zanata 3.9.6\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgctxt "ADA코0"
+msgid "Adal"
+msgstr "Adal"
+
+msgctxt "ADE코1"
+msgid "Aden"
+msgstr "Aden"
+
+msgctxt "AKK코0"
+msgid "Aq Qoyunlu"
+msgstr "Aq Qoyunlu"
+
+msgctxt "ALB코0"
+msgid "Albania"
+msgstr "Albania"
+
+msgctxt "ALG코0"
+msgid "Algiers"
+msgstr "Algiers"
+
+msgctxt "ALH코0"
+msgid "Haasa"
+msgstr "Haasa"
+
+msgctxt "ALS코0"
+msgid "Alsace"
+msgstr "Alsace"
+
+msgctxt "AMG코0"
+msgid "Armagnac"
+msgstr "Armagnac"
+
+msgctxt "ANH코0"
+msgid "Anhalt"
+msgstr "Anhalt"
+
+msgctxt "ANN코0"
+msgid "Annam"
+msgstr "Annam"
+
+msgctxt "ANS코0"
+msgid "Ansbach"
+msgstr "Ansbach"
+
+msgctxt "ARA코0"
+msgid "Aragon"
+msgstr "Aragon"
+
+msgctxt "ARK코0"
+msgid "Arakan"
+msgstr "Arakan"
+
+msgctxt "ARM코0"
+msgid "Armenia"
+msgstr "Armenia"
+
+msgctxt "ASH코0"
+msgid "Ashanti"
+msgstr "Ashanti"
+
+msgctxt "ASS코0"
+msgid "Assam"
+msgstr "Assam"
+
+msgctxt "AST코0"
+msgid "Astrakhan"
+msgstr "Astrakhan"
+
+msgctxt "ATH코0"
+msgid "Athens"
+msgstr "Athens"
+
+msgctxt "ATJ코0"
+msgid "Aceh"
+msgstr "Aceh"
+
+msgctxt "AUV코0"
+msgid "Auvergne"
+msgstr "Auvergne"
+
+msgctxt "AVI코0"
+msgid "Avignon"
+msgstr "Avignon"
+
+msgctxt "AYU코0"
+msgid "Ayutthaya"
+msgstr "Ayutthaya"
+
+msgctxt "AZT코0"
+msgid "Aztec"
+msgstr "Aztec"
+
+msgctxt "BAD코0"
+msgid "Baden"
+msgstr "Baden"
+
+msgctxt "BLI코0"
+msgid "Bali"
+msgstr "Bali"
+
+msgctxt "BAN코0"
+msgid "Banten"
+msgstr "Banten"
+
+msgctxt "BAL코0"
+msgid "Baluchistan"
+msgstr "Baluchistan"
+
+msgctxt "BAV코0"
+msgid "Bavaria"
+msgstr "Bavaria"
+
+msgctxt "BEI코0"
+msgid "Brunei"
+msgstr "Brunei"
+
+msgctxt "BEN코0"
+msgid "Benin"
+msgstr "Benin"
+
+msgctxt "BHU코0"
+msgid "Bhutan"
+msgstr "Bhutan"
+
+msgctxt "BIJ코0"
+msgid "Bijapur"
+msgstr "Bijapur"
+
+msgctxt "BND코0"
+msgid "Bundelkhand"
+msgstr "Bundelkhand"
+
+msgctxt "BNG코0"
+msgid "Bengal"
+msgstr "Bengal"
+
+msgctxt "BOH코0"
+msgid "Bohemia"
+msgstr "Bohemia"
+
+msgctxt "BOS코0"
+msgid "Bosnia"
+msgstr "Bosnia"
+
+msgctxt "BOU코0"
+msgid "Bourbonnais"
+msgstr "Bourbonnais"
+
+msgctxt "BRA코0"
+msgid "Brandenburg"
+msgstr "Brandenburg"
+
+msgctxt "BRB코0"
+msgid "Brabant"
+msgstr "Brabant"
+
+msgctxt "BRE코0"
+msgid "Bremen"
+msgstr "Bremen"
+
+msgctxt "BRI코0"
+msgid "Brittany"
+msgstr "Brittany"
+
+msgctxt "BRR코0"
+msgid "Berar"
+msgstr "Berar"
+
+msgctxt "BRU코0"
+msgid "Brunswick"
+msgstr "Brunswick"
+
+msgctxt "BRZ코0"
+msgid "Brazil"
+msgstr "Brazil"
+
+msgctxt "BUL코0"
+msgid "Bulgaria"
+msgstr "Bulgaria"
+
+msgctxt "BUR코0"
+msgid "Burgundy"
+msgstr "Burgundy"
+
+msgctxt "CAN코0"
+msgid "Canada"
+msgstr "Canada"
+
+msgctxt "CAS코0"
+msgid "Castile"
+msgstr "Castile"
+
+msgctxt "CAT코0"
+msgid "Catalonia"
+msgstr "Catalonia"
+
+msgctxt "CEP코0"
+msgid "Corfu"
+msgstr "Corfu"
+
+msgctxt "CHA코0"
+msgid "Champa"
+msgstr "Champa"
+
+msgctxt "CHE코0"
+msgid "Cherokee"
+msgstr "Cherokee"
+
+msgctxt "CHG코0"
+msgid "Chagatai"
+msgstr "Chagatai"
+
+msgctxt "CHK코0"
+msgid "Champasak"
+msgstr "Champasak"
+
+msgctxt "CHL코0"
+msgid "Chile"
+msgstr "Chile"
+
+msgctxt "CHM코0"
+msgid "Chimu"
+msgstr "Chimu"
+
+msgctxt "CHP코0"
+msgid "Champagne"
+msgstr "Champagne"
+
+msgctxt "CND코0"
+msgid "Candar"
+msgstr "Candar"
+
+msgctxt "COL코0"
+msgid "Colombia"
+msgstr "Colombia"
+
+msgctxt "CNN코0"
+msgid "Clanricarde"
+msgstr "Clanricarde"
+
+msgctxt "COR코0"
+msgid "Corsica"
+msgstr "Corsica"
+
+msgctxt "CRE코0"
+msgid "Creek"
+msgstr "Creek"
+
+msgctxt "CRI코0"
+msgid "Crimea"
+msgstr "Crimea"
+
+msgctxt "CRN코0"
+msgid "Cornwall"
+msgstr "Cornwall"
+
+msgctxt "CRO코0"
+msgid "Croatia"
+msgstr "Croatia"
+
+msgctxt "CRT코0"
+msgid "Crete"
+msgstr "Crete"
+
+msgctxt "CYP코0"
+msgid "Cyprus"
+msgstr "Cyprus"
+
+msgctxt "DAI코0"
+msgid "Dai Viet"
+msgstr "Dai Viet"
+
+msgctxt "DAN코0"
+msgid "Denmark"
+msgstr "Denmark"
+
+msgctxt "DAU코0"
+msgid "Dauphine"
+msgstr "Dauphine"
+
+msgctxt "DLH코0"
+msgid "Delhi"
+msgstr "Delhi"
+
+msgctxt "DUL코0"
+msgid "Dulkadir"
+msgstr "Dulkadir"
+
+msgctxt "DUR코0"
+msgid "Durrani"
+msgstr "Durrani"
+
+msgctxt "ENG코0"
+msgid "England"
+msgstr "England"
+
+msgctxt "ETH코0"
+msgid "Ethiopia"
+msgstr "Ethiopia"
+
+msgctxt "FER코0"
+msgid "Ferrara"
+msgstr "Ferrara"
+
+msgctxt "FEZ코0"
+msgid "Fez"
+msgstr "Fez"
+
+msgctxt "FIN코0"
+msgid "Finland"
+msgstr "Finland"
+
+msgctxt "FLA코0"
+msgid "Flanders"
+msgstr "Flanders"
+
+msgctxt "FOI코0"
+msgid "Foix"
+msgstr "Foix"
+
+msgctxt "FRA코0"
+msgid "France"
+msgstr "France"
+
+msgctxt "FRI코0"
+msgid "Friesland"
+msgstr "Friesland"
+
+msgctxt "GBR코0"
+msgid "Great Britain"
+msgstr "Great Britain"
+
+msgctxt "GDW코0"
+msgid "Gondwana"
+msgstr "Gondwana"
+
+msgctxt "GEL코0"
+msgid "Gelre"
+msgstr "Gelre"
+
+msgctxt "GEN코0"
+msgid "Genoa"
+msgstr "Genoa"
+
+msgctxt "GEO코0"
+msgid "Georgia"
+msgstr "Georgia"
+
+msgctxt "GER코0"
+msgid "Germany"
+msgstr "Germany"
+
+msgctxt "GOL코0"
+msgid "Great Horde"
+msgstr "Great Horde"
+
+msgctxt "GOT코0"
+msgid "Gotland"
+msgstr "Gotland"
+
+msgctxt "GRA코0"
+msgid "Granada"
+msgstr "Granada"
+
+msgctxt "GRE코0"
+msgid "Greece"
+msgstr "Greece"
+
+msgctxt "GUJ코0"
+msgid "Gujarat"
+msgstr "Gujarat"
+
+msgctxt "GUY코0"
+msgid "Gascony"
+msgstr "Gascony"
+
+msgctxt "HAB코0"
+msgid "Austria"
+msgstr "Austria"
+
+msgctxt "HAI코0"
+msgid "Hainaut"
+msgstr "Hainaut"
+
+msgctxt "HAM코0"
+msgid "Hamburg"
+msgstr "Hamburg"
+
+msgctxt "HAN코0"
+msgid "Hanover"
+msgstr "Hanover"
+
+msgctxt "HAU코0"
+msgid "Hausa"
+msgstr "Hausa"
+
+msgctxt "HED코0"
+msgid "Hejaz"
+msgstr "Hejaz"
+
+msgctxt "HES코0"
+msgid "Hesse"
+msgstr "Hesse"
+
+msgctxt "HOL코0"
+msgid "Holland"
+msgstr "Holland"
+
+msgctxt "HUN코0"
+msgid "Hungary"
+msgstr "Hungary"
+
+msgctxt "HUR코0"
+msgid "Huron"
+msgstr "Huron"
+
+msgctxt "INC코0"
+msgid "Inca"
+msgstr "Inca"
+
+msgctxt "IRE코0"
+msgid "Ireland"
+msgstr "Ireland"
+
+msgctxt "IRO코0"
+msgid "Iroquois"
+msgstr "Iroquois"
+
+msgctxt "ITA코0"
+msgid "Italy"
+msgstr "Italy"
+
+msgctxt "JAP코0"
+msgid "Japan"
+msgstr "Japan"
+
+msgctxt "KAR코0"
+msgid "Karaman"
+msgstr "Karaman"
+
+msgctxt "KAZ코0"
+msgid "Kazan"
+msgstr "Kazan"
+
+msgctxt "KBO코0"
+msgid "Kanem Bornu"
+msgstr "Kanem Bornu"
+
+msgctxt "KHA코0"
+msgid "Mongolia"
+msgstr "Mongolia"
+
+msgctxt "KHD코0"
+msgid "Khandesh"
+msgstr "Khandesh"
+
+msgctxt "KHI코0"
+msgid "Khiva"
+msgstr "Khiva"
+
+msgctxt "KHM코0"
+msgid "Khmer"
+msgstr "Khmer"
+
+msgctxt "KLE코0"
+msgid "Cleves"
+msgstr "Cleves"
+
+msgctxt "KNI코0"
+msgid "The Knights"
+msgstr "The Knights"
+
+msgctxt "KOK코1"
+msgid "Ferghana"
+msgstr "Ferghana"
+
+msgctxt "KOL코0"
+msgid "Cologne"
+msgstr "Cologne"
+
+msgctxt "KON코0"
+msgid "Kongo"
+msgstr "Kongo"
+
+msgctxt "KOR코0"
+msgid "Korea"
+msgstr "Korea"
+
+msgctxt "KRK코0"
+msgid "Carnatic"
+msgstr "Carnatic"
+
+msgctxt "KSH코0"
+msgid "Kashmir"
+msgstr "Kashmir"
+
+msgctxt "KUR코0"
+msgid "Kurland"
+msgstr "Kurland"
+
+msgctxt "KZH코0"
+msgid "Kazakh"
+msgstr "Kazakh"
+
+msgctxt "LAN코0"
+msgid "Florence"
+msgstr "Florence"
+
+msgctxt "LAP코0"
+msgid "La Plata"
+msgstr "La Plata"
+
+msgctxt "LEI코0"
+msgid "Leinster"
+msgstr "Leinster"
+
+msgctxt "LIE코0"
+msgid "Liege"
+msgstr "Liege"
+
+msgctxt "LIT코0"
+msgid "Lithuania"
+msgstr "Lithuania"
+
+msgctxt "LNA코0"
+msgid "Lan Na"
+msgstr "Lan Na"
+
+msgctxt "LOA코0"
+msgid "Loango"
+msgstr "Loango"
+
+msgctxt "LOR코0"
+msgid "Lorraine"
+msgstr "Lorraine"
+
+msgctxt "LOU코0"
+msgid "Louisiana"
+msgstr "Louisiana"
+
+msgctxt "LUA코0"
+msgid "Luang Prabang"
+msgstr "Luang Prabang"
+
+msgctxt "LUN코0"
+msgid "Lüneburg"
+msgstr "Luneburg"
+
+msgctxt "LUX코0"
+msgid "Luxembourg"
+msgstr "Luxembourg"
+
+msgctxt "LXA코0"
+msgid "Lan Xang"
+msgstr "Lan Xang"
+
+msgctxt "MAD코0"
+msgid "Madurai"
+msgstr "Madurai"
+
+msgctxt "MAG코0"
+msgid "Magdeburg"
+msgstr "Magdeburg"
+
+msgctxt "MAI코0"
+msgid "Mainz"
+msgstr "Mainz"
+
+msgctxt "MAL코0"
+msgid "Mali"
+msgstr "Mali"
+
+msgctxt "MAM코0"
+msgid "Mamluks"
+msgstr "Mamluks"
+
+msgctxt "MAN코0"
+msgid "Mantua"
+msgstr "Mantua"
+
+msgctxt "MAY코0"
+msgid "Maya"
+msgstr "Maya"
+
+msgctxt "MAZ코0"
+msgid "Mazovia"
+msgstr "Mazovia"
+
+msgctxt "MCH코0"
+msgid "Manchu"
+msgstr "Manchu"
+
+msgctxt "MEX코0"
+msgid "Mexico"
+msgstr "Mexico"
+
+msgctxt "MKL코0"
+msgid "Mecklenburg"
+msgstr "Mecklenburg"
+
+msgctxt "MKS코0"
+msgid "Makassar"
+msgstr "Makassar"
+
+msgctxt "MLC코0"
+msgid "Malacca"
+msgstr "Malacca"
+
+msgctxt "MLO코0"
+msgid "Milan"
+msgstr "Milan"
+
+msgctxt "MLW코0"
+msgid "Malwa"
+msgstr "Malwa"
+
+msgctxt "MNG코0"
+msgid "Ming"
+msgstr "Ming"
+
+msgctxt "MNS코0"
+msgid "Thomond"
+msgstr "Thomond"
+
+msgctxt "MOD코0"
+msgid "Modena"
+msgstr "Modena"
+
+msgctxt "MOE코0"
+msgid "Morea"
+msgstr "Morea"
+
+msgctxt "MOL코0"
+msgid "Moldavia"
+msgstr "Moldavia"
+
+msgctxt "MON코0"
+msgid "Montenegro"
+msgstr "Montenegro"
+
+msgctxt "MOR코0"
+msgid "Morocco"
+msgstr "Morocco"
+
+msgctxt "MOS코0"
+msgid "Muscovy"
+msgstr "Muscovy"
+
+msgctxt "MTR코0"
+msgid "Mataram"
+msgstr "Mataram"
+
+msgctxt "MUG코0"
+msgid "Mughals"
+msgstr "Mughals"
+
+msgctxt "MUN코0"
+msgid "Münster"
+msgstr "Munster"
+
+msgctxt "MYS코0"
+msgid "Mysore"
+msgstr "Mysore"
+
+msgctxt "NAJ코0"
+msgid "Najd"
+msgstr "Najd"
+
+msgctxt "NAV코0"
+msgid "Navarra"
+msgstr "Navarra"
+
+msgctxt "NAX코0"
+msgid "Naxos"
+msgstr "Naxos"
+
+msgctxt "NED코0"
+msgid "Netherlands"
+msgstr "Netherlands"
+
+msgctxt "NEV코0"
+msgid "Nevers"
+msgstr "Nevers"
+
+msgctxt "NOG코0"
+msgid "Nogai"
+msgstr "Nogai"
+
+msgctxt "NOL코0"
+msgid "Northumberland"
+msgstr "Northumberland"
+
+msgctxt "NOR코0"
+msgid "Norway"
+msgstr "Norway"
+
+msgctxt "NOV코0"
+msgid "Novgorod"
+msgstr "Novgorod"
+
+msgctxt "NPL코0"
+msgid "Nepal"
+msgstr "Nepal"
+
+msgctxt "NRM코0"
+msgid "Normandy"
+msgstr "Normandy"
+
+msgctxt "NUB코0"
+msgid "Funj"
+msgstr "Funj"
+
+msgctxt "ODH코0"
+msgid "Oudh"
+msgstr "Oudh"
+
+msgctxt "OIR코0"
+msgid "Oirat"
+msgstr "Oirat"
+
+msgctxt "OLD코0"
+msgid "Oldenburg"
+msgstr "Oldenburg"
+
+msgctxt "OMA코0"
+msgid "Oman"
+msgstr "Oman"
+
+msgctxt "ORI코0"
+msgid "Orissa"
+msgstr "Orissa"
+
+msgctxt "ORL코0"
+msgid "Orleans"
+msgstr "Orleans"
+
+msgctxt "OYO코0"
+msgid "Oyo"
+msgstr "Oyo"
+
+msgctxt "PAL코0"
+msgid "The Palatinate"
+msgstr "The Palatinate"
+
+msgctxt "PAP코0"
+msgid "The Papal State"
+msgstr "The Papal State"
+
+msgctxt "PAR코0"
+msgid "Parma"
+msgstr "Parma"
+
+msgctxt "PAT코0"
+msgid "Pattani"
+msgstr "Pattani"
+
+msgctxt "PEG코0"
+msgid "Pegu"
+msgstr "Pegu"
+
+msgctxt "PER코0"
+msgid "Persia"
+msgstr "Persia"
+
+msgctxt "PEU코0"
+msgid "Peru"
+msgstr "Peru"
+
+msgctxt "PIC코0"
+msgid "Picardy"
+msgstr "Picardy"
+
+msgctxt "PIS코0"
+msgid "Pisa"
+msgstr "Pisa"
+
+msgctxt "POL코0"
+msgid "Poland"
+msgstr "Poland"
+
+msgctxt "POM코0"
+msgid "Pomerania"
+msgstr "Pomerania"
+
+msgctxt "POR코0"
+msgid "Portugal"
+msgstr "Portugal"
+
+msgctxt "PRO코0"
+msgid "Provence"
+msgstr "Provence"
+
+msgctxt "PRU코0"
+msgid "Prussia"
+msgstr "Prussia"
+
+msgctxt "PSK코0"
+msgid "Pskov"
+msgstr "Pskov"
+
+msgctxt "PUN코0"
+msgid "Punjab"
+msgstr "Punjab"
+
+msgctxt "QAR코0"
+msgid "Qara Qoyunlu"
+msgstr "Qara Qoyunlu"
+
+msgctxt "QAS코0"
+msgid "Qasim"
+msgstr "Qasim"
+
+msgctxt "QUE코0"
+msgid "Quebec"
+msgstr "Quebec"
+
+msgctxt "RAG코0"
+msgid "Ragusa"
+msgstr "Ragusa"
+
+msgctxt "RAJ코0"
+msgid "Rajputana"
+msgstr "Rajputana"
+
+msgctxt "REB코0"
+msgid "Rebels"
+msgstr "Rebels"
+
+msgctxt "RIG코0"
+msgid "Riga"
+msgstr "Riga"
+
+msgctxt "RUS코0"
+msgid "Russia"
+msgstr "Russia"
+
+msgctxt "RYA코0"
+msgid "Ryazan"
+msgstr "Ryazan"
+
+msgctxt "RYU코0"
+msgid "Ryukyu"
+msgstr "Ryukyu"
+
+msgctxt "SAR코0"
+msgid "Sardinia"
+msgstr "Sardinia"
+
+msgctxt "SAV코0"
+msgid "Savoy"
+msgstr "Savoy"
+
+msgctxt "SAX코0"
+msgid "Saxony"
+msgstr "Saxony"
+
+msgctxt "SCO코0"
+msgid "Scotland"
+msgstr "Scotland"
+
+msgctxt "SER코0"
+msgid "Serbia"
+msgstr "Serbia"
+
+msgctxt "SHA코0"
+msgid "Shawnee"
+msgstr "Shawnee"
+
+msgctxt "SHL코0"
+msgid "Holstein"
+msgstr "Holstein"
+
+msgctxt "SHR코0"
+msgid "Sharjah"
+msgstr "Sharjah"
+
+msgctxt "SHY코0"
+msgid "Uzbek"
+msgstr "Uzbek"
+
+msgctxt "SIB코0"
+msgid "Sibir"
+msgstr "Sibir"
+
+msgctxt "SIC코0"
+msgid "Sicily"
+msgstr "Sicily"
+
+msgctxt "SIE코0"
+msgid "Siena"
+msgstr "Siena"
+
+msgctxt "SIL코0"
+msgid "Silesia"
+msgstr "Silesia"
+
+msgctxt "SLZ코0"
+msgid "Salzburg"
+msgstr "Salzburg"
+
+msgctxt "SND코0"
+msgid "Sind"
+msgstr "Sind"
+
+msgctxt "SOF코0"
+msgid "Segu"
+msgstr "Segu"
+
+msgctxt "SON코0"
+msgid "Songhai"
+msgstr "Songhai"
+
+msgctxt "SPA코0"
+msgid "Spain"
+msgstr "Spain"
+
+msgctxt "SST코0"
+msgid "Shan"
+msgstr "Shan"
+
+msgctxt "STY코0"
+msgid "Styria"
+msgstr "Styria"
+
+msgctxt "SUL코0"
+msgid "Sulu"
+msgstr "Sulu"
+
+msgctxt "SWE코0"
+msgid "Sweden"
+msgstr "Sweden"
+
+msgctxt "SWI코0"
+msgid "Switzerland"
+msgstr "Switzerland"
+
+msgctxt "TAU코0"
+msgid "Taungu"
+msgstr "Taungu"
+
+msgctxt "TEU코0"
+msgid "Teutonic Order"
+msgstr "Teutonic Order"
+
+msgctxt "THU코0"
+msgid "Thuringia"
+msgstr "Thuringia"
+
+msgctxt "TIB코0"
+msgid "Tibet"
+msgstr "Tibet"
+
+msgctxt "TIM코0"
+msgid "Timurids"
+msgstr "Timurids"
+
+msgctxt "TIR코0"
+msgid "Tirol"
+msgstr "Tirol"
+
+msgctxt "TOK코0"
+msgid "Tonkin"
+msgstr "Tonkin"
+
+msgctxt "TOU코0"
+msgid "Toulouse"
+msgstr "Toulouse"
+
+msgctxt "TRA코0"
+msgid "Transylvania"
+msgstr "Transylvania"
+
+msgctxt "TRE코0"
+msgid "Trebizond"
+msgstr "Trebizond"
+
+msgctxt "TRI코0"
+msgid "Trier"
+msgstr "Trier"
+
+msgctxt "TRP코0"
+msgid "Tripoli"
+msgstr "Tripoli"
+
+msgctxt "TRV코0"
+msgid "Travanacore"
+msgstr "Travanacore"
+
+msgctxt "TUN코0"
+msgid "Tunis"
+msgstr "Tunis"
+
+msgctxt "TUR코0"
+msgid "Ottomans"
+msgstr "Ottomans"
+
+msgctxt "TUS코0"
+msgid "Tuscany"
+msgstr "Tuscany"
+
+msgctxt "TVE코0"
+msgid "Tver"
+msgstr "Tver"
+
+msgctxt "TYR코0"
+msgid "Tyrone"
+msgstr "Tyrone"
+
+msgctxt "UKR코0"
+msgid "Ruthenia"
+msgstr "Ruthenia"
+
+msgctxt "URB코0"
+msgid "Urbino"
+msgstr "Urbino"
+
+msgctxt "USA코1"
+msgid "United States"
+msgstr "United States"
+
+msgctxt "UTR코0"
+msgid "Utrecht"
+msgstr "Utrecht"
+
+msgctxt "WAL코0"
+msgid "Wallachia"
+msgstr "Wallachia"
+
+msgctxt "WBG코0"
+msgid "Wurzburg"
+msgstr "Wurzburg"
+
+msgctxt "VEN코0"
+msgid "Venice"
+msgstr "Venice"
+
+msgctxt "VIE코0"
+msgid "Vientiane"
+msgstr "Vientiane"
+
+msgctxt "VIJ코0"
+msgid "Vijayanagar"
+msgstr "Vijayanagar"
+
+msgctxt "WLS코0"
+msgid "Wales"
+msgstr "Wales"
+
+msgctxt "WUR코0"
+msgid "Wurttemberg"
+msgstr "Wurttemberg"
+
+msgctxt "YAR코0"
+msgid "Yaroslavl"
+msgstr "Yaroslavl"
+
+msgctxt "YOR코0"
+msgid "Andhra"
+msgstr "Andhra"
+
+msgctxt "ZAP코0"
+msgid "Zapotec"
+msgstr "Zapotec"
+
+msgctxt "ZAZ코0"
+msgid "Zaporozhie"
+msgstr "Zaporozhie"
+
+msgctxt "ZIM코0"
+msgid "Mutapa"
+msgstr "Mutapa"
+
+msgctxt "NIZ코0"
+msgid "Deva Bengal"
+msgstr "Deva Bengal"
+
+msgctxt "BAS코0"
+msgid "Ahmadnagar"
+msgstr "Ahmadnagar"
+
+msgctxt "NAT코0"
+msgid "Natives"
+msgstr "Natives"
+
+msgctxt "PIR코0"
+msgid "Pirates"
+msgstr "Pirates"
+
+msgctxt "PIR_ADJ코0"
+msgid "Piratic"
+msgstr "Piratic"
+
+msgctxt "NAT_ADJ코0"
+msgid "Native"
+msgstr "Native"
+
+msgctxt "ADA_ADJ코0"
+msgid "Adalan"
+msgstr "Adalan"
+
+msgctxt "ADE_ADJ코1"
+msgid "Adeni"
+msgstr "Adeni"
+
+msgctxt "AKK_ADJ코0"
+msgid "Aq Qoyunlu"
+msgstr "Aq Qoyunlu"
+
+msgctxt "ALB_ADJ코0"
+msgid "Albanian"
+msgstr "Albanian"
+
+msgctxt "ALG_ADJ코0"
+msgid "Algerian"
+msgstr "Algerian"
+
+msgctxt "ALH_ADJ코0"
+msgid "Haasalese"
+msgstr "Haasalese"
+
+msgctxt "ALS_ADJ코0"
+msgid "Alsatian"
+msgstr "Alsatian"
+
+msgctxt "AMG_ADJ코0"
+msgid "Armagnac"
+msgstr "Armagnac"
+
+msgctxt "ANH_ADJ코0"
+msgid "Anhaltian"
+msgstr "Anhaltian"
+
+msgctxt "ANN_ADJ코0"
+msgid "Annamese"
+msgstr "Annamese"
+
+msgctxt "ANS_ADJ코0"
+msgid "Ansbachian"
+msgstr "Ansbachian"
+
+msgctxt "ARA_ADJ코0"
+msgid "Aragonese"
+msgstr "Aragonese"
+
+msgctxt "ARK_ADJ코0"
+msgid "Arakani"
+msgstr "Arakani"
+
+msgctxt "ARM_ADJ코0"
+msgid "Armenian"
+msgstr "Armenian"
+
+msgctxt "ASH_ADJ코0"
+msgid "Ashanti"
+msgstr "Ashanti"
+
+msgctxt "ASS_ADJ코0"
+msgid "Assamese"
+msgstr "Assamese"
+
+msgctxt "AST_ADJ코0"
+msgid "Astrakhani"
+msgstr "Astrakhani"
+
+msgctxt "ATH_ADJ코0"
+msgid "Athenian"
+msgstr "Athenian"
+
+msgctxt "ATJ_ADJ코0"
+msgid "Atjehan"
+msgstr "Atjehan"
+
+msgctxt "AUV_ADJ코0"
+msgid "Auvergnese"
+msgstr "Auvergnese"
+
+msgctxt "AVI_ADJ코0"
+msgid "Avignonese"
+msgstr "Avignonese"
+
+msgctxt "AYU_ADJ코0"
+msgid "Ayutthayan"
+msgstr "Ayutthayan"
+
+msgctxt "AZT_ADJ코0"
+msgid "Aztec"
+msgstr "Aztec"
+
+msgctxt "BAD_ADJ코0"
+msgid "Badenese"
+msgstr "Badenese"
+
+msgctxt "BLI_ADJ코0"
+msgid "Balinese"
+msgstr "Balinese"
+
+msgctxt "BAN_ADJ코0"
+msgid "Banteni"
+msgstr "Banteni"
+
+msgctxt "BAL_ADJ코0"
+msgid "Baluchistani"
+msgstr "Baluchistani"
+
+msgctxt "BAV_ADJ코0"
+msgid "Bavarian"
+msgstr "Bavarian"
+
+msgctxt "BEI_ADJ코0"
+msgid "Bruneian"
+msgstr "Bruneian"
+
+msgctxt "BEN_ADJ코0"
+msgid "Beninese"
+msgstr "Beninese"
+
+msgctxt "BHU_ADJ코0"
+msgid "Bhutanese"
+msgstr "Bhutanese"
+
+msgctxt "BIJ_ADJ코0"
+msgid "Bijapuri"
+msgstr "Bijapuri"
+
+msgctxt "BND_ADJ코0"
+msgid "Bundelkhandi"
+msgstr "Bundelkhandi"
+
+msgctxt "BNG_ADJ코0"
+msgid "Bengalese"
+msgstr "Bengalese"
+
+msgctxt "BOH_ADJ코0"
+msgid "Bohemian"
+msgstr "Bohemian"
+
+msgctxt "BOS_ADJ코0"
+msgid "Bosnian"
+msgstr "Bosnian"
+
+msgctxt "BOU_ADJ코0"
+msgid "Bourbonnean"
+msgstr "Bourbonnean"
+
+msgctxt "BRA_ADJ코0"
+msgid "Brandenburgian"
+msgstr "Brandenburgian"
+
+msgctxt "BRB_ADJ코0"
+msgid "Brabantian"
+msgstr "Brabantian"
+
+msgctxt "BRE_ADJ코0"
+msgid "Bremian"
+msgstr "Bremian"
+
+msgctxt "BRI_ADJ코0"
+msgid "Breton"
+msgstr "Breton"
+
+msgctxt "BRR_ADJ코0"
+msgid "Berari"
+msgstr "Berari"
+
+msgctxt "BRU_ADJ코0"
+msgid "Brunswickian"
+msgstr "Brunswickian"
+
+msgctxt "BRZ_ADJ코0"
+msgid "Brazilian"
+msgstr "Brazilian"
+
+msgctxt "BUL_ADJ코0"
+msgid "Bulgarian"
+msgstr "Bulgarian"
+
+msgctxt "BUR_ADJ코0"
+msgid "Burgundian"
+msgstr "Burgundian"
+
+msgctxt "CAN_ADJ코0"
+msgid "Canadian"
+msgstr "Canadian"
+
+msgctxt "CAS_ADJ코0"
+msgid "Castilian"
+msgstr "Castilian"
+
+msgctxt "CAT_ADJ코0"
+msgid "Catalonian"
+msgstr "Catalonian"
+
+msgctxt "CEP_ADJ코0"
+msgid "Corfuan"
+msgstr "Corfuan"
+
+msgctxt "CHA_ADJ코0"
+msgid "Champani"
+msgstr "Champani"
+
+msgctxt "CHE_ADJ코0"
+msgid "Cherokee"
+msgstr "Cherokee"
+
+msgctxt "CHG_ADJ코0"
+msgid "Chagatai Khanate"
+msgstr "Chagatai Khanate"
+
+msgctxt "CHK_ADJ코0"
+msgid "Champassaki"
+msgstr "Champassaki"
+
+msgctxt "CHL_ADJ코0"
+msgid "Chilean"
+msgstr "Chilean"
+
+msgctxt "CHM_ADJ코0"
+msgid "Chimu"
+msgstr "Chimu"
+
+msgctxt "CHP_ADJ코0"
+msgid "Champagnian"
+msgstr "Champagnian"
+
+msgctxt "CND_ADJ코0"
+msgid "Candari"
+msgstr "Candari"
+
+msgctxt "COL_ADJ코0"
+msgid "Colombian"
+msgstr "Colombian"
+
+msgctxt "CNN_ADJ코0"
+msgid "Clanricarde"
+msgstr "Clanricarde"
+
+msgctxt "COR_ADJ코0"
+msgid "Corsican"
+msgstr "Corsican"
+
+msgctxt "CRE_ADJ코0"
+msgid "Creek"
+msgstr "Creek"
+
+msgctxt "CRI_ADJ코0"
+msgid "Crimean"
+msgstr "Crimean"
+
+msgctxt "CRN_ADJ코0"
+msgid "Cornish"
+msgstr "Cornish"
+
+msgctxt "CRO_ADJ코0"
+msgid "Croatian"
+msgstr "Croatian"
+
+msgctxt "CRT_ADJ코0"
+msgid "Cretan"
+msgstr "Cretan"
+
+msgctxt "CYP_ADJ코0"
+msgid "Cypriot"
+msgstr "Cypriot"
+
+msgctxt "DAI_ADJ코0"
+msgid "Dai Vietan"
+msgstr "Dai Vietan"
+
+msgctxt "DAN_ADJ코0"
+msgid "Danish"
+msgstr "Danish"
+
+msgctxt "DAU_ADJ코0"
+msgid "Dauphinese"
+msgstr "Dauphinese"
+
+msgctxt "DLH_ADJ코0"
+msgid "Delhian"
+msgstr "Delhian"
+
+msgctxt "DUL_ADJ코0"
+msgid "Dulkadiri"
+msgstr "Dulkadiri"
+
+msgctxt "DUR_ADJ코0"
+msgid "Durrani"
+msgstr "Durrani"
+
+msgctxt "ENG_ADJ코0"
+msgid "English"
+msgstr "English"
+
+msgctxt "ETH_ADJ코0"
+msgid "Ethiopian"
+msgstr "Ethiopian"
+
+msgctxt "FER_ADJ코0"
+msgid "Ferraranese"
+msgstr "Ferraranese"
+
+msgctxt "FEZ_ADJ코0"
+msgid "Fezian"
+msgstr "Fezian"
+
+msgctxt "FIN_ADJ코0"
+msgid "Finnish"
+msgstr "Finnish"
+
+msgctxt "FLA_ADJ코0"
+msgid "Flemish"
+msgstr "Flemish"
+
+msgctxt "FOI_ADJ코0"
+msgid "Foixian"
+msgstr "Foixian"
+
+msgctxt "FRA_ADJ코0"
+msgid "French"
+msgstr "French"
+
+msgctxt "FRI_ADJ코0"
+msgid "Frisian"
+msgstr "Frisian"
+
+msgctxt "GBR_ADJ코0"
+msgid "British"
+msgstr "British"
+
+msgctxt "GDW_ADJ코0"
+msgid "Gondwanese"
+msgstr "Gondwanese"
+
+msgctxt "GEL_ADJ코0"
+msgid "Gelren"
+msgstr "Gelren"
+
+msgctxt "GEN_ADJ코0"
+msgid "Genoese"
+msgstr "Genoese"
+
+msgctxt "GEO_ADJ코0"
+msgid "Georgian"
+msgstr "Georgian"
+
+msgctxt "GER_ADJ코0"
+msgid "German"
+msgstr "German"
+
+msgctxt "GOL_ADJ코0"
+msgid "Great Horde"
+msgstr "Great Horde"
+
+msgctxt "GOT_ADJ코0"
+msgid "Gotlander"
+msgstr "Gotlander"
+
+msgctxt "GRA_ADJ코0"
+msgid "Granadan"
+msgstr "Granadan"
+
+msgctxt "GRE_ADJ코0"
+msgid "Greek"
+msgstr "Greek"
+
+msgctxt "GUJ_ADJ코0"
+msgid "Gujarati"
+msgstr "Gujarati"
+
+msgctxt "GUY_ADJ코0"
+msgid "Gascon"
+msgstr "Gascon"
+
+msgctxt "HAB_ADJ코0"
+msgid "Austrian"
+msgstr "Austrian"
+
+msgctxt "HAI_ADJ코0"
+msgid "Hainautian"
+msgstr "Hainautian"
+
+msgctxt "HAM_ADJ코0"
+msgid "Hamburgian"
+msgstr "Hamburgian"
+
+msgctxt "HAN_ADJ코0"
+msgid "Hanoverian"
+msgstr "Hanoverian"
+
+msgctxt "HAU_ADJ코0"
+msgid "Hausan"
+msgstr "Hausan"
+
+msgctxt "HED_ADJ코0"
+msgid "Hejazi"
+msgstr "Hejazi"
+
+msgctxt "HES_ADJ코0"
+msgid "Hessian"
+msgstr "Hessian"
+
+msgctxt "HOL_ADJ코0"
+msgid "Dutch"
+msgstr "Dutch"
+
+msgctxt "HUN_ADJ코0"
+msgid "Hungarian"
+msgstr "Hungarian"
+
+msgctxt "HUR_ADJ코0"
+msgid "Huron"
+msgstr "Huron"
+
+msgctxt "INC_ADJ코0"
+msgid "Incan"
+msgstr "Incan"
+
+msgctxt "IRE_ADJ코0"
+msgid "Irish"
+msgstr "Irish"
+
+msgctxt "IRO_ADJ코0"
+msgid "Iroquois"
+msgstr "Iroquois"
+
+msgctxt "ITA_ADJ코0"
+msgid "Italian"
+msgstr "Italian"
+
+msgctxt "JAP_ADJ코0"
+msgid "Japanese"
+msgstr "Japanese"
+
+msgctxt "KAR_ADJ코0"
+msgid "Karamanese"
+msgstr "Karamanese"
+
+msgctxt "KAZ_ADJ코0"
+msgid "Kazani"
+msgstr "Kazani"
+
+msgctxt "KBO_ADJ코0"
+msgid "Kanem Bornuan"
+msgstr "Kanem Bornuan"
+
+msgctxt "KHA_ADJ코0"
+msgid "Mongol"
+msgstr "Mongol"
+
+msgctxt "KHD_ADJ코0"
+msgid "Khandeshi"
+msgstr "Khandeshi"
+
+msgctxt "KHI_ADJ코0"
+msgid "Khivan"
+msgstr "Khivan"
+
+msgctxt "KHM_ADJ코0"
+msgid "Cambodian"
+msgstr "Cambodian"
+
+msgctxt "KLE_ADJ코0"
+msgid "Clevian"
+msgstr "Clevian"
+
+msgctxt "KNI_ADJ코0"
+msgid "Knights'"
+msgstr "Knights'"
+
+msgctxt "KOK_ADJ코1"
+msgid "Ferghanan"
+msgstr "Ferghanan"
+
+msgctxt "KOL_ADJ코0"
+msgid "Colognian"
+msgstr "Colognian"
+
+msgctxt "KON_ADJ코0"
+msgid "Kongolese"
+msgstr "Kongolese"
+
+msgctxt "KOR_ADJ코0"
+msgid "Korean"
+msgstr "Korean"
+
+msgctxt "KRK_ADJ코0"
+msgid "Carnatic"
+msgstr "Carnatic"
+
+msgctxt "KSH_ADJ코0"
+msgid "Kashmiri"
+msgstr "Kashmiri"
+
+msgctxt "KUR_ADJ코0"
+msgid "Kurlandian"
+msgstr "Kurlandian"
+
+msgctxt "KZH_ADJ코0"
+msgid "Kazakhi"
+msgstr "Kazakhi"
+
+msgctxt "LAN_ADJ코0"
+msgid "Florentine"
+msgstr "Florentine"
+
+msgctxt "LAP_ADJ코0"
+msgid "La Platan"
+msgstr "La Platan"
+
+msgctxt "LEI_ADJ코0"
+msgid "Leinster"
+msgstr "Leinster"
+
+msgctxt "LIE_ADJ코0"
+msgid "Liegian"
+msgstr "Liegian"
+
+msgctxt "LIT_ADJ코0"
+msgid "Lithuanian"
+msgstr "Lithuanian"
+
+msgctxt "LNA_ADJ코0"
+msgid "Lan Nan"
+msgstr "Lan Nan"
+
+msgctxt "LOA_ADJ코0"
+msgid "Loangoni"
+msgstr "Loangoni"
+
+msgctxt "LOR_ADJ코0"
+msgid "Lorrainian"
+msgstr "Lorrainian"
+
+msgctxt "LOU_ADJ코0"
+msgid "Louisianan"
+msgstr "Louisianan"
+
+msgctxt "LUA_ADJ코0"
+msgid "Luang Prabangi"
+msgstr "Luang Prabangi"
+
+msgctxt "LUN_ADJ코0"
+msgid "Luneburgian"
+msgstr "Luneburgian"
+
+msgctxt "LUX_ADJ코0"
+msgid "Luxembourgian"
+msgstr "Luxembourgian"
+
+msgctxt "LXA_ADJ코0"
+msgid "Lan Xangi"
+msgstr "Lan Xangi"
+
+msgctxt "MAD_ADJ코0"
+msgid "Madurain"
+msgstr "Madurain"
+
+msgctxt "MAG_ADJ코0"
+msgid "Magdeburgian"
+msgstr "Magdeburgian"
+
+msgctxt "MAI_ADJ코0"
+msgid "Mainzian"
+msgstr "Mainzian"
+
+msgctxt "MAL_ADJ코0"
+msgid "Malian"
+msgstr "Malian"
+
+msgctxt "MAM_ADJ코0"
+msgid "Mamlukean"
+msgstr "Mamlukean"
+
+msgctxt "MAN_ADJ코0"
+msgid "Mantuan"
+msgstr "Mantuan"
+
+msgctxt "MAY_ADJ코0"
+msgid "Mayan"
+msgstr "Mayan"
+
+msgctxt "MAZ_ADJ코0"
+msgid "Mazovian"
+msgstr "Mazovian"
+
+msgctxt "MCH_ADJ코0"
+msgid "Manchurian"
+msgstr "Manchurian"
+
+msgctxt "MEX_ADJ코0"
+msgid "Mexican"
+msgstr "Mexican"
+
+msgctxt "MKL_ADJ코0"
+msgid "Mecklenburgian"
+msgstr "Mecklenburgian"
+
+msgctxt "MKS_ADJ코0"
+msgid "Makassari"
+msgstr "Makassari"
+
+msgctxt "MLC_ADJ코0"
+msgid "Malaccan"
+msgstr "Malaccan"
+
+msgctxt "MLO_ADJ코0"
+msgid "Milanese"
+msgstr "Milanese"
+
+msgctxt "MLW_ADJ코0"
+msgid "Malwani"
+msgstr "Malwani"
+
+msgctxt "MNG_ADJ코0"
+msgid "Ming"
+msgstr "Ming"
+
+msgctxt "MNS_ADJ코0"
+msgid "Thomondian"
+msgstr "Thomondian"
+
+msgctxt "MOD_ADJ코0"
+msgid "Modenan"
+msgstr "Modenan"
+
+msgctxt "MOE_ADJ코0"
+msgid "Morean"
+msgstr "Morean"
+
+msgctxt "MOL_ADJ코0"
+msgid "Moldavian"
+msgstr "Moldavian"
+
+msgctxt "MON_ADJ코0"
+msgid "Montenegrin"
+msgstr "Montenegrin"
+
+msgctxt "MOR_ADJ코0"
+msgid "Moroccan"
+msgstr "Moroccan"
+
+msgctxt "MOS_ADJ코0"
+msgid "Muscovite"
+msgstr "Muscovite"
+
+msgctxt "MTR_ADJ코0"
+msgid "Matarami"
+msgstr "Matarami"
+
+msgctxt "MUG_ADJ코0"
+msgid "Mughal"
+msgstr "Mughal"
+
+msgctxt "MUN_ADJ코0"
+msgid "Münster"
+msgstr "Munster"
+
+msgctxt "MYS_ADJ코0"
+msgid "Mysorian"
+msgstr "Mysorian"
+
+msgctxt "NAJ_ADJ코0"
+msgid "Najdi"
+msgstr "Najdi"
+
+msgctxt "NAV_ADJ코0"
+msgid "Navarran"
+msgstr "Navarran"
+
+msgctxt "NAX_ADJ코0"
+msgid "Naxosian"
+msgstr "Naxosian"
+
+msgctxt "NED_ADJ코0"
+msgid "Dutch"
+msgstr "Dutch"
+
+msgctxt "NEV_ADJ코0"
+msgid "Neveriase"
+msgstr "Neveriase"
+
+msgctxt "NOG_ADJ코0"
+msgid "Nogai"
+msgstr "Nogai"
+
+msgctxt "NOL_ADJ코0"
+msgid "Northumbrian"
+msgstr "Northumbrian"
+
+msgctxt "NOR_ADJ코0"
+msgid "Norwegian"
+msgstr "Norwegian"
+
+msgctxt "NOV_ADJ코0"
+msgid "Novgorodian"
+msgstr "Novgorodian"
+
+msgctxt "NPL_ADJ코0"
+msgid "Nepalese"
+msgstr "Nepalese"
+
+msgctxt "NRM_ADJ코0"
+msgid "Norman"
+msgstr "Norman"
+
+msgctxt "NUB_ADJ코0"
+msgid "Funj"
+msgstr "Funj"
+
+msgctxt "ODH_ADJ코0"
+msgid "Oudh"
+msgstr "Oudh"
+
+msgctxt "OIR_ADJ코0"
+msgid "Oirat"
+msgstr "Oirat"
+
+msgctxt "OLD_ADJ코0"
+msgid "Oldenburgian"
+msgstr "Oldenburgian"
+
+msgctxt "OMA_ADJ코0"
+msgid "Omani"
+msgstr "Omani"
+
+msgctxt "ORI_ADJ코0"
+msgid "Orissi"
+msgstr "Orissi"
+
+msgctxt "ORL_ADJ코0"
+msgid "Orleanaise"
+msgstr "Orleanaise"
+
+msgctxt "OYO_ADJ코0"
+msgid "Oyo"
+msgstr "Oyo"
+
+msgctxt "PAL_ADJ코0"
+msgid "Palatine"
+msgstr "Palatine"
+
+msgctxt "PAP_ADJ코0"
+msgid "Papal"
+msgstr "Papal"
+
+msgctxt "PAR_ADJ코0"
+msgid "Parman"
+msgstr "Parman"
+
+msgctxt "PAT_ADJ코0"
+msgid "Pattani"
+msgstr "Pattani"
+
+msgctxt "PEG_ADJ코0"
+msgid "Pegu"
+msgstr "Pegu"
+
+msgctxt "PER_ADJ코0"
+msgid "Persian"
+msgstr "Persian"
+
+msgctxt "PEU_ADJ코0"
+msgid "Peruvian"
+msgstr "Peruvian"
+
+msgctxt "PIC_ADJ코0"
+msgid "Picardian"
+msgstr "Picardian"
+
+msgctxt "PIS_ADJ코0"
+msgid "Pisan"
+msgstr "Pisan"
+
+msgctxt "POL_ADJ코0"
+msgid "Polish"
+msgstr "Polish"
+
+msgctxt "POM_ADJ코0"
+msgid "Pomeranian"
+msgstr "Pomeranian"
+
+msgctxt "POR_ADJ코0"
+msgid "Portuguese"
+msgstr "Portuguese"
+
+msgctxt "PRO_ADJ코0"
+msgid "Provencal"
+msgstr "Provencal"
+
+msgctxt "PRU_ADJ코0"
+msgid "Prussian"
+msgstr "Prussian"
+
+msgctxt "PSK_ADJ코0"
+msgid "Pskovian"
+msgstr "Pskovian"
+
+msgctxt "PUN_ADJ코0"
+msgid "Punjabi"
+msgstr "Punjabi"
+
+msgctxt "QAR_ADJ코0"
+msgid "Qara Qoyunlu"
+msgstr "Qara Qoyunlu"
+
+msgctxt "QAS_ADJ코0"
+msgid "Qasim"
+msgstr "Qasim"
+
+msgctxt "QUE_ADJ코0"
+msgid "Quebec"
+msgstr "Quebec"
+
+msgctxt "RAG_ADJ코0"
+msgid "Ragusan"
+msgstr "Ragusan"
+
+msgctxt "RAJ_ADJ코0"
+msgid "Rajputni"
+msgstr "Rajputni"
+
+msgctxt "REB_ADJ코0"
+msgid "Rebel Alliance"
+msgstr "Rebel Alliance"
+
+msgctxt "RIG_ADJ코0"
+msgid "Rigan"
+msgstr "Rigan"
+
+msgctxt "RUS_ADJ코0"
+msgid "Russian"
+msgstr "Russian"
+
+msgctxt "RYA_ADJ코0"
+msgid "Ryazanian"
+msgstr "Ryazanian"
+
+msgctxt "RYU_ADJ코0"
+msgid "Ryukyuan"
+msgstr "Ryukyuan"
+
+msgctxt "SAR_ADJ코0"
+msgid "Sardinian"
+msgstr "Sardinian"
+
+msgctxt "SAV_ADJ코0"
+msgid "Savoyard"
+msgstr "Savoyard"
+
+msgctxt "SAX_ADJ코0"
+msgid "Saxon"
+msgstr "Saxon"
+
+msgctxt "SCO_ADJ코0"
+msgid "Scottish"
+msgstr "Scottish"
+
+msgctxt "SER_ADJ코0"
+msgid "Serbian"
+msgstr "Serbian"
+
+msgctxt "SHA_ADJ코0"
+msgid "Shawnee"
+msgstr "Shawnee"
+
+msgctxt "SHL_ADJ코0"
+msgid "Holsteinian"
+msgstr "Holsteinian"
+
+msgctxt "SHR_ADJ코0"
+msgid "Sharjahi"
+msgstr "Sharjahi"
+
+msgctxt "SHY_ADJ코0"
+msgid "Uzbek"
+msgstr "Uzbek"
+
+msgctxt "SIB_ADJ코0"
+msgid "Sibirian"
+msgstr "Sibirian"
+
+msgctxt "SIC_ADJ코0"
+msgid "Sicilian"
+msgstr "Sicilian"
+
+msgctxt "SIE_ADJ코0"
+msgid "Sienese"
+msgstr "Sienese"
+
+msgctxt "SIL_ADJ코0"
+msgid "Silesian"
+msgstr "Silesian"
+
+msgctxt "SLZ_ADJ코0"
+msgid "Salzburgian"
+msgstr "Salzburgian"
+
+msgctxt "SND_ADJ코0"
+msgid "Sindi"
+msgstr "Sindi"
+
+msgctxt "SOF_ADJ코0"
+msgid "Seguian"
+msgstr "Seguian"
+
+msgctxt "SON_ADJ코0"
+msgid "Songhain"
+msgstr "Songhain"
+
+msgctxt "SPA_ADJ코0"
+msgid "Spanish"
+msgstr "Spanish"
+
+msgctxt "SST_ADJ코0"
+msgid "Shan"
+msgstr "Shan"
+
+msgctxt "STY_ADJ코0"
+msgid "Styrian"
+msgstr "Styrian"
+
+msgctxt "SUL_ADJ코0"
+msgid "Sulu"
+msgstr "Sulu"
+
+msgctxt "SWE_ADJ코0"
+msgid "Swedish"
+msgstr "Swedish"
+
+msgctxt "SWI_ADJ코0"
+msgid "Swiss"
+msgstr "Swiss"
+
+msgctxt "TAU_ADJ코0"
+msgid "Taunguan"
+msgstr "Taunguan"
+
+msgctxt "TEU_ADJ코0"
+msgid "Teutonic"
+msgstr "Teutonic"
+
+msgctxt "THU_ADJ코0"
+msgid "Thuringian"
+msgstr "Thuringian"
+
+msgctxt "TIB_ADJ코0"
+msgid "Tibetan"
+msgstr "Tibetan"
+
+msgctxt "TIM_ADJ코0"
+msgid "Timurid"
+msgstr "Timurid"
+
+msgctxt "TIR_ADJ코0"
+msgid "Tyrolean"
+msgstr "Tyrolean"
+
+msgctxt "TOK_ADJ코0"
+msgid "Tonkini"
+msgstr "Tonkini"
+
+msgctxt "TOU_ADJ코0"
+msgid "Toulousian"
+msgstr "Toulousian"
+
+msgctxt "TRA_ADJ코0"
+msgid "Transylvanian"
+msgstr "Transylvanian"
+
+msgctxt "TRE_ADJ코0"
+msgid "Trebizondian"
+msgstr "Trebizondian"
+
+msgctxt "TRI_ADJ코0"
+msgid "Trierian"
+msgstr "Trierian"
+
+msgctxt "TRP_ADJ코0"
+msgid "Tripolitanian"
+msgstr "Tripolitanian"
+
+msgctxt "TRV_ADJ코0"
+msgid "Travanacori"
+msgstr "Travanacori"
+
+msgctxt "TUN_ADJ코0"
+msgid "Tunisian"
+msgstr "Tunisian"
+
+msgctxt "TUR_ADJ코0"
+msgid "Ottoman"
+msgstr "Ottoman"
+
+msgctxt "TUS_ADJ코0"
+msgid "Tuscan"
+msgstr "Tuscan"
+
+msgctxt "TVE_ADJ코0"
+msgid "Tverian"
+msgstr "Tverian"
+
+msgctxt "TYR_ADJ코0"
+msgid "Tyrone"
+msgstr "Tyrone"
+
+msgctxt "UKR_ADJ코0"
+msgid "Ruthenian"
+msgstr "Ruthenian"
+
+msgctxt "URB_ADJ코0"
+msgid "Urbinese"
+msgstr "Urbinese"
+
+msgctxt "USA_ADJ코0"
+msgid "American"
+msgstr "American"
+
+msgctxt "UTR_ADJ코0"
+msgid "Utrechtian"
+msgstr "Utrechtian"
+
+msgctxt "WAL_ADJ코0"
+msgid "Wallachian"
+msgstr "Wallachian"
+
+msgctxt "WBG_ADJ코0"
+msgid "Wurzburgian"
+msgstr "Wurzburgian"
+
+msgctxt "VEN_ADJ코0"
+msgid "Venetian"
+msgstr "Venetian"
+
+msgctxt "VIE_ADJ코0"
+msgid "Vientianese"
+msgstr "Vientianese"
+
+msgctxt "VIJ_ADJ코0"
+msgid "Vijaynagari"
+msgstr "Vijaynagari"
+
+msgctxt "WLS_ADJ코0"
+msgid "Welsh"
+msgstr "Welsh"
+
+msgctxt "WUR_ADJ코0"
+msgid "Wurttembergian"
+msgstr "Wurttembergian"
+
+msgctxt "YAR_ADJ코0"
+msgid "Yaroslavlian"
+msgstr "Yaroslavlian"
+
+msgctxt "YOR_ADJ코0"
+msgid "Andhran"
+msgstr "Andhran"
+
+msgctxt "ZAP_ADJ코0"
+msgid "Zapotec"
+msgstr "Zapotec"
+
+msgctxt "ZAZ_ADJ코0"
+msgid "Zaporozhian"
+msgstr "Zaporozhian"
+
+msgctxt "ZIM_ADJ코0"
+msgid "Mutapan"
+msgstr "Mutapan"
+
+msgctxt "NIZ_ADJ코0"
+msgid "Deva Bengali"
+msgstr "Deva Bengali"
+
+msgctxt "BAS_ADJ코0"
+msgid "Ahmadnagari"
+msgstr "Ahmadnagari"
+
+msgctxt "AMA코0"
+msgid "Amago"
+msgstr "Amago"
+
+msgctxt "ASA코0"
+msgid "Asakura"
+msgstr "Asakura"
+
+msgctxt "CSK코0"
+msgid "Chosokabe"
+msgstr "Chosokabe"
+
+msgctxt "DTE코0"
+msgid "Date"
+msgstr "Date"
+
+msgctxt "HJO코0"
+msgid "Hojo"
+msgstr "Hojo"
+
+msgctxt "HSK코0"
+msgid "Hosokawa"
+msgstr "Hosokawa"
+
+msgctxt "HTK코0"
+msgid "Hatakeyama"
+msgstr "Hatakeyama"
+
+msgctxt "IKE코0"
+msgid "Ikeda"
+msgstr "Ikeda"
+
+msgctxt "IMG코0"
+msgid "Imagawa"
+msgstr "Imagawa"
+
+msgctxt "MAE코0"
+msgid "Maeda"
+msgstr "Maeda"
+
+msgctxt "MRI코0"
+msgid "Mori"
+msgstr "Mori"
+
+msgctxt "ODA코0"
+msgid "Oda"
+msgstr "Oda"
+
+msgctxt "OTM코0"
+msgid "Otomo"
+msgstr "Otomo"
+
+msgctxt "OUC코0"
+msgid "Ouchi"
+msgstr "Ouchi"
+
+msgctxt "SBA코0"
+msgid "Shiba"
+msgstr "Shiba"
+
+msgctxt "SMZ코0"
+msgid "Shimazu"
+msgstr "Shimazu"
+
+msgctxt "TKD코0"
+msgid "Takeda"
+msgstr "Takeda"
+
+msgctxt "TKG코0"
+msgid "Tokugawa"
+msgstr "Tokugawa"
+
+msgctxt "UES코0"
+msgid "Uesugi"
+msgstr "Uesugi"
+
+msgctxt "YMN코0"
+msgid "Yamana"
+msgstr "Yamana"
+
+msgctxt "AMA_ADJ코0"
+msgid "Amago"
+msgstr "Amago"
+
+msgctxt "ASA_ADJ코0"
+msgid "Asakura"
+msgstr "Asakura"
+
+msgctxt "CSK_ADJ코0"
+msgid "Chosokabe"
+msgstr "Chosokabe"
+
+msgctxt "DTE_ADJ코0"
+msgid "Date"
+msgstr "Date"
+
+msgctxt "HJO_ADJ코0"
+msgid "Hojo"
+msgstr "Hojo"
+
+msgctxt "HSK_ADJ코0"
+msgid "Hosokawa"
+msgstr "Hosokawa"
+
+msgctxt "HTK_ADJ코0"
+msgid "Hatakeyama"
+msgstr "Hatakeyama"
+
+msgctxt "IKE_ADJ코0"
+msgid "Ikeda"
+msgstr "Ikeda"
+
+msgctxt "IMG_ADJ코0"
+msgid "Imagawa"
+msgstr "Imagawa"
+
+msgctxt "MAE_ADJ코0"
+msgid "Maeda"
+msgstr "Maeda"
+
+msgctxt "MRI_ADJ코0"
+msgid "Mori"
+msgstr "Mori"
+
+msgctxt "ODA_ADJ코0"
+msgid "Oda"
+msgstr "Oda"
+
+msgctxt "OTM_ADJ코0"
+msgid "Otomo"
+msgstr "Otomo"
+
+msgctxt "OUC_ADJ코0"
+msgid "Ouchi"
+msgstr "Ouchi"
+
+msgctxt "SBA_ADJ코0"
+msgid "Shiba"
+msgstr "Shiba"
+
+msgctxt "SMZ_ADJ코0"
+msgid "Shimazu"
+msgstr "Shimazu"
+
+msgctxt "TKD_ADJ코0"
+msgid "Takeda"
+msgstr "Takeda"
+
+msgctxt "TKG_ADJ코0"
+msgid "Tokugawa"
+msgstr "Tokugawa"
+
+msgctxt "UES_ADJ코0"
+msgid "Uesugi"
+msgstr "Uesugi"
+
+msgctxt "YMN_ADJ코0"
+msgid "Yamana"
+msgstr "Yamana"
+
+msgctxt "JNP코0"
+msgid "Jaunpur"
+msgstr "Jaunpur"
+
+msgctxt "MAW코0"
+msgid "Marwar"
+msgstr "Marwar"
+
+msgctxt "MER코0"
+msgid "Mewar"
+msgstr "Mewar"
+
+msgctxt "MUL코0"
+msgid "Multan"
+msgstr "Multan"
+
+msgctxt "JAN코0"
+msgid "Jangladesh"
+msgstr "Jangladesh"
+
+msgctxt "GRJ코0"
+msgid "Garjat"
+msgstr "Garjat"
+
+msgctxt "GWA코0"
+msgid "Gwalior"
+msgstr "Gwalior"
+
+msgctxt "DHU코0"
+msgid "Dhundhar"
+msgstr "Dhundhar"
+
+msgctxt "KLN코0"
+msgid "Keladi"
+msgstr "Keladi"
+
+msgctxt "MAB코0"
+msgid "Malabar"
+msgstr "Malabar"
+
+msgctxt "MEW코0"
+msgid "Mewat"
+msgstr "Mewat"
+
+msgctxt "BST코0"
+msgid "Bastar"
+msgstr "Bastar"
+
+msgctxt "JSL코0"
+msgid "Jaisalmer"
+msgstr "Jaisalmer"
+
+msgctxt "KAC코0"
+msgid "Kachar"
+msgstr "Kachar"
+
+msgctxt "KMT코0"
+msgid "Koch"
+msgstr "Koch"
+
+msgctxt "KGR코0"
+msgid "Kangra"
+msgstr "Kangra"
+
+msgctxt "KAT코0"
+msgid "Kathiawar"
+msgstr "Kathiawar"
+
+msgctxt "KOC코0"
+msgid "Kochin"
+msgstr "Kochin"
+
+msgctxt "AHM코0"
+msgid "Ahmednagar"
+msgstr "Ahmednagar"
+
+msgctxt "BAH코0"
+msgid "Bahmanis"
+msgstr "Bahmanis"
+
+msgctxt "NAG코0"
+msgid "Nagpur"
+msgstr "Nagpur"
+
+msgctxt "BDA코0"
+msgid "Baroda"
+msgstr "Baroda"
+
+msgctxt "GOC코0"
+msgid "Golkonda"
+msgstr "Golkonda"
+
+msgctxt "MAR코0"
+msgid "Marathas"
+msgstr "Marathas"
+
+msgctxt "VND코0"
+msgid "Venad"
+msgstr "Venad"
+
+msgctxt "DEC코0"
+msgid "Deccan"
+msgstr "Deccan"
+
+msgctxt "CZH코0"
+msgid "Zhou"
+msgstr "Zhou"
+
+msgctxt "CSH코0"
+msgid "Shun"
+msgstr "Shun"
+
+msgctxt "CXI코0"
+msgid "Xi"
+msgstr "Xi"
+
+msgctxt "JOL코0"
+msgid "Jolof"
+msgstr "Jolof"
+
+msgctxt "JOL_ADJ코0"
+msgid "Jolofian"
+msgstr "Jolofian"
+
+msgctxt "JNP_ADJ코0"
+msgid "Jaunpuri"
+msgstr "Jaunpuri"
+
+msgctxt "MAW_ADJ코0"
+msgid "Marwari"
+msgstr "Marwari"
+
+msgctxt "MER_ADJ코0"
+msgid "Mewari"
+msgstr "Mewari"
+
+msgctxt "MUL_ADJ코0"
+msgid "Multani"
+msgstr "Multani"
+
+msgctxt "JAN_ADJ코0"
+msgid "Jangladeshi"
+msgstr "Jangladeshi"
+
+msgctxt "GRJ_ADJ코0"
+msgid "Garjati"
+msgstr "Garjati"
+
+msgctxt "GWA_ADJ코0"
+msgid "Gwaliori"
+msgstr "Gwaliori"
+
+msgctxt "DHU_ADJ코0"
+msgid "Dhundhari"
+msgstr "Dhundhari"
+
+msgctxt "KLN_ADJ코0"
+msgid "Keladi"
+msgstr "Keladi"
+
+msgctxt "MAB_ADJ코0"
+msgid "Malabari"
+msgstr "Malabari"
+
+msgctxt "MEW_ADJ코0"
+msgid "Mewati"
+msgstr "Mewati"
+
+msgctxt "BST_ADJ코0"
+msgid "Bastari"
+msgstr "Bastari"
+
+msgctxt "JSL_ADJ코0"
+msgid "Jaisalmer"
+msgstr "Jaisalmer"
+
+msgctxt "KAC_ADJ코0"
+msgid "Kachari"
+msgstr "Kachari"
+
+msgctxt "KMT_ADJ코0"
+msgid "Kochi"
+msgstr "Kochi"
+
+msgctxt "KGR_ADJ코0"
+msgid "Kangri"
+msgstr "Kangri"
+
+msgctxt "KAT_ADJ코0"
+msgid "Kathiawar"
+msgstr "Kathiawar"
+
+msgctxt "KOC_ADJ코0"
+msgid "Kochi"
+msgstr "Kochi"
+
+msgctxt "AHM_ADJ코0"
+msgid "Ahmednagari"
+msgstr "Ahmednagari"
+
+msgctxt "BAH_ADJ코0"
+msgid "Bahmani"
+msgstr "Bahmani"
+
+msgctxt "NAG_ADJ코0"
+msgid "Nagpuri"
+msgstr "Nagpuri"
+
+msgctxt "BDA_ADJ코0"
+msgid "Barodan"
+msgstr "Barodan"
+
+msgctxt "GOC_ADJ코0"
+msgid "Golkondan"
+msgstr "Golkondan"
+
+msgctxt "MAR_ADJ코0"
+msgid "Maratha"
+msgstr "Maratha"
+
+msgctxt "VND_ADJ코0"
+msgid "Venadi"
+msgstr "Venadi"
+
+msgctxt "DEC_ADJ코0"
+msgid "Deccani"
+msgstr "Deccani"
+
+msgctxt "CZH_ADJ코0"
+msgid "Zhou"
+msgstr "Zhou"
+
+msgctxt "CSH_ADJ코0"
+msgid "Shun"
+msgstr "Shun"
+
+msgctxt "CXI_ADJ코0"
+msgid "Xi"
+msgstr "Xi"
+
+msgctxt "PLC코0"
+msgid "Commonwealth"
+msgstr "Commonwealth"
+
+msgctxt "PLC_ADJ코0"
+msgid "Commonwealth"
+msgstr "Commonwealth"
+
+msgctxt "PRM코0"
+msgid "Perm"
+msgstr "Perm"
+
+msgctxt "PRM_ADJ코0"
+msgid "Permian"
+msgstr "Permian"
+
+msgctxt "CEY코0"
+msgid "Ceylon"
+msgstr "Ceylon"
+
+msgctxt "CEY_ADJ코0"
+msgid "Ceylonese"
+msgstr "Ceylonese"
+
+msgctxt "AFG코0"
+msgid "Afghanistan"
+msgstr "Afghanistan"
+
+msgctxt "AFG_ADJ코0"
+msgid "Afghan"
+msgstr "Afghan"
+
+msgctxt "QNG코0"
+msgid "Qing"
+msgstr "Qing"
+
+msgctxt "QNG_ADJ코0"
+msgid "Qing"
+msgstr "Qing"
+
+msgctxt "ABE코0"
+msgid "Abenaki"
+msgstr "Abenaki"
+
+msgctxt "APA코0"
+msgid "Apache"
+msgstr "Apache"
+
+msgctxt "ASI코0"
+msgid "Assiniboine"
+msgstr "Assiniboine"
+
+msgctxt "BLA코0"
+msgid "Blackfoot"
+msgstr "Blackfoot"
+
+msgctxt "CAD코0"
+msgid "Caddo"
+msgstr "Caddo"
+
+msgctxt "CHI코0"
+msgid "Chickasaw"
+msgstr "Chickasaw"
+
+msgctxt "CHO코0"
+msgid "Choctaw"
+msgstr "Choctaw"
+
+msgctxt "CHY코0"
+msgid "Cheyenne"
+msgstr "Cheyenne"
+
+msgctxt "COM코0"
+msgid "Comanche"
+msgstr "Comanche"
+
+msgctxt "FOX코0"
+msgid "Fox"
+msgstr "Fox"
+
+msgctxt "ILL코0"
+msgid "Illiniwek"
+msgstr "Illiniwek"
+
+msgctxt "LEN코0"
+msgid "Lenape"
+msgstr "Lenape"
+
+msgctxt "MIK코0"
+msgid "Mikmaq"
+msgstr "Mikmaq"
+
+msgctxt "MMI코0"
+msgid "Miami"
+msgstr "Miami"
+
+msgctxt "MAH코0"
+msgid "Mahican"
+msgstr "Mahican"
+
+msgctxt "NAH코0"
+msgid "Navajo"
+msgstr "Navajo"
+
+msgctxt "OJI코0"
+msgid "Ojibwe"
+msgstr "Ojibwe"
+
+msgctxt "OSA코0"
+msgid "Osage"
+msgstr "Osage"
+
+msgctxt "OTT코0"
+msgid "Ottawa"
+msgstr "Ottawa"
+
+msgctxt "PAW코0"
+msgid "Pawnee"
+msgstr "Pawnee"
+
+msgctxt "PEQ코0"
+msgid "Pequot"
+msgstr "Pequot"
+
+msgctxt "PIM코0"
+msgid "Pima"
+msgstr "Pima"
+
+msgctxt "POT코0"
+msgid "Potawatomi"
+msgstr "Potawatomi"
+
+msgctxt "POW코0"
+msgid "Powhatan"
+msgstr "Powhatan"
+
+msgctxt "PUE코0"
+msgid "Pueblo"
+msgstr "Pueblo"
+
+msgctxt "SIO코0"
+msgid "Sioux"
+msgstr "Sioux"
+
+msgctxt "SHO코0"
+msgid "Shoshone"
+msgstr "Shoshone"
+
+msgctxt "SUS코0"
+msgid "Susquehannock"
+msgstr "Susquehannock"
+
+msgctxt "WCR코0"
+msgid "Cree"
+msgstr "Cree"
+
+msgctxt "ABE_ADJ코0"
+msgid "Abenaki"
+msgstr "Abenaki"
+
+msgctxt "APA_ADJ코0"
+msgid "Apache"
+msgstr "Apache"
+
+msgctxt "ASI_ADJ코0"
+msgid "Assiniboine"
+msgstr "Assiniboine"
+
+msgctxt "BLA_ADJ코0"
+msgid "Blackfoot"
+msgstr "Blackfoot"
+
+msgctxt "CAD_ADJ코0"
+msgid "Caddoan"
+msgstr "Caddoan"
+
+msgctxt "CHI_ADJ코0"
+msgid "Chickasaw"
+msgstr "Chickasaw"
+
+msgctxt "CHO_ADJ코0"
+msgid "Choctaw"
+msgstr "Choctaw"
+
+msgctxt "CHY_ADJ코0"
+msgid "Cheyenne"
+msgstr "Cheyenne"
+
+msgctxt "COM_ADJ코0"
+msgid "Comanche"
+msgstr "Comanche"
+
+msgctxt "FOX_ADJ코0"
+msgid "Fox"
+msgstr "Fox"
+
+msgctxt "ILL_ADJ코0"
+msgid "Illiniwek"
+msgstr "Illiniwek"
+
+msgctxt "LEN_ADJ코0"
+msgid "Lenape"
+msgstr "Lenape"
+
+msgctxt "MIK_ADJ코0"
+msgid "Mikmaq"
+msgstr "Mikmaq"
+
+msgctxt "MMI_ADJ코0"
+msgid "Miami"
+msgstr "Miami"
+
+msgctxt "MAH_ADJ코0"
+msgid "Mahican"
+msgstr "Mahican"
+
+msgctxt "NAH_ADJ코0"
+msgid "Navajo"
+msgstr "Navajo"
+
+msgctxt "OJI_ADJ코0"
+msgid "Ojibwe"
+msgstr "Ojibwe"
+
+msgctxt "OSA_ADJ코0"
+msgid "Osage"
+msgstr "Osage"
+
+msgctxt "OTT_ADJ코0"
+msgid "Ottawa"
+msgstr "Ottawa"
+
+msgctxt "PAW_ADJ코0"
+msgid "Pawnee"
+msgstr "Pawnee"
+
+msgctxt "PEQ_ADJ코0"
+msgid "Pequot"
+msgstr "Pequot"
+
+msgctxt "PIM_ADJ코0"
+msgid "Piman"
+msgstr "Piman"
+
+msgctxt "POT_ADJ코0"
+msgid "Potawatomi"
+msgstr "Potawatomi"
+
+msgctxt "POW_ADJ코0"
+msgid "Powhatan"
+msgstr "Powhatan"
+
+msgctxt "PUE_ADJ코0"
+msgid "Pueblo"
+msgstr "Pueblo"
+
+msgctxt "SIO_ADJ코0"
+msgid "Sioux"
+msgstr "Sioux"
+
+msgctxt "SHO_ADJ코0"
+msgid "Shoshone"
+msgstr "Shoshone"
+
+msgctxt "SUS_ADJ코0"
+msgid "Susquehannock"
+msgstr "Susquehannock"
+
+msgctxt "WCR_ADJ코0"
+msgid "Cree"
+msgstr "Cree"
+
+msgctxt "ZAN코0"
+msgid "Kilwa"
+msgstr "Kilwa"
+
+msgctxt "ZAN_ADJ코0"
+msgid "Kilwan"
+msgstr "Kilwan"
+
+msgctxt "AJU코0"
+msgid "Ajuuraan"
+msgstr "Ajuuraan"
+
+msgctxt "AJU_ADJ코0"
+msgid "Ajuuraan"
+msgstr "Ajuuraan"
+
+msgctxt "MBA코0"
+msgid "Mombasa"
+msgstr "Mombasa"
+
+msgctxt "MBA_ADJ코0"
+msgid "Mombasan"
+msgstr "Mombasan"
+
+msgctxt "MDI코0"
+msgid "Mogadishu"
+msgstr "Mogadishu"
+
+msgctxt "MDI_ADJ코0"
+msgid "Mogadishan"
+msgstr "Mogadishan"
+
+msgctxt "MLI코0"
+msgid "Malindi"
+msgstr "Malindi"
+
+msgctxt "MLI_ADJ코0"
+msgid "Malindian"
+msgstr "Malindian"
+
+msgctxt "SFA코0"
+msgid "Sofala"
+msgstr "Sofala"
+
+msgctxt "SFA_ADJ코0"
+msgid "Sofalan"
+msgstr "Sofalan"
+
+msgctxt "EGY코0"
+msgid "Egypt"
+msgstr "Egypt"
+
+msgctxt "EGY_ADJ코0"
+msgid "Egyptian"
+msgstr "Egyptian"
+
+msgctxt "BUK코0"
+msgid "Bukhara"
+msgstr "Bukhara"
+
+msgctxt "BUK_ADJ코0"
+msgid "Bukharan"
+msgstr "Bukharan"
+
+msgctxt "BGA코0"
+msgid "Baglana"
+msgstr "Baglana"
+
+msgctxt "BGA_ADJ코0"
+msgid "Baglani"
+msgstr "Baglani"
+
+msgctxt "BGL코0"
+msgid "Bagelkhand"
+msgstr "Bagelkhand"
+
+msgctxt "BGL_ADJ코0"
+msgid "Bagelkhandi"
+msgstr "Bagelkhandi"
+
+msgctxt "CHD코0"
+msgid "Chanda"
+msgstr "Chanda"
+
+msgctxt "CHD_ADJ코0"
+msgid "Chandi"
+msgstr "Chandi"
+
+msgctxt "CMP코0"
+msgid "Rewa Kantha"
+msgstr "Rewa Kantha"
+
+msgctxt "CMP_ADJ코0"
+msgid "Rewa Kanthi"
+msgstr "Rewa Kanthi"
+
+msgctxt "GHR코0"
+msgid "Garhwal"
+msgstr "Garhwal"
+
+msgctxt "GHR_ADJ코0"
+msgid "Garhwali"
+msgstr "Garhwali"
+
+msgctxt "HAD코0"
+msgid "Hadoti"
+msgstr "Hadoti"
+
+msgctxt "HAD_ADJ코0"
+msgid "Hadoti"
+msgstr "Hadoti"
+
+msgctxt "JAJ코0"
+msgid "Habsan"
+msgstr "Habsan"
+
+msgctxt "JAJ_ADJ코0"
+msgid "Habsani"
+msgstr "Habsani"
+
+msgctxt "JFN코0"
+msgid "Jaffna"
+msgstr "Jaffna"
+
+msgctxt "JFN_ADJ코0"
+msgid "Jaffna"
+msgstr "Jaffna"
+
+msgctxt "LDK코0"
+msgid "Ladakh"
+msgstr "Ladakh"
+
+msgctxt "LDK_ADJ코0"
+msgid "Ladakhi"
+msgstr "Ladakhi"
+
+msgctxt "MLB코0"
+msgid "Manipur"
+msgstr "Manipur"
+
+msgctxt "MLB_ADJ코0"
+msgid "Manipuri"
+msgstr "Manipuri"
+
+msgctxt "NGA코0"
+msgid "Nagaur"
+msgstr "Nagaur"
+
+msgctxt "NGA_ADJ코0"
+msgid "Nagauri"
+msgstr "Nagauri"
+
+msgctxt "NGP코0"
+msgid "Jharkhand"
+msgstr "Jharkhand"
+
+msgctxt "NGP_ADJ코0"
+msgid "Jharkhandi"
+msgstr "Jharkhandi"
+
+msgctxt "PTA코0"
+msgid "Patiala"
+msgstr "Patiala"
+
+msgctxt "PTA_ADJ코0"
+msgid "Patialan"
+msgstr "Patialan"
+
+msgctxt "RMP코0"
+msgid "Rohilkhand"
+msgstr "Rohilkhand"
+
+msgctxt "RMP_ADJ코0"
+msgid "Rohilla"
+msgstr "Rohilla"
+
+msgctxt "SDY코0"
+msgid "Sadiya"
+msgstr "Sadiya"
+
+msgctxt "SDY_ADJ코0"
+msgid "Sadiyan"
+msgstr "Sadiyan"
+
+msgctxt "TPR코0"
+msgid "Tripura"
+msgstr "Tripura"
+
+msgctxt "TPR_ADJ코0"
+msgid "Tripuran"
+msgstr "Tripuran"
+
+msgctxt "TRT코0"
+msgid "Tirhut"
+msgstr "Tirhut"
+
+msgctxt "TRT_ADJ코0"
+msgid "Tirhuti"
+msgstr "Tirhuti"
+
+msgctxt "CIR코0"
+msgid "Circassia"
+msgstr "Circassia"
+
+msgctxt "CIR_ADJ코0"
+msgid "Circassian"
+msgstr "Circassian"
+
+msgctxt "GAZ코0"
+msgid "Gazikumukh"
+msgstr "Gazikumukh"
+
+msgctxt "GAZ_ADJ코0"
+msgid "Gazikumukhan"
+msgstr "Gazikumukhan"
+
+msgctxt "IME코0"
+msgid "Imereti"
+msgstr "Imereti"
+
+msgctxt "IME_ADJ코0"
+msgid "Imeretian"
+msgstr "Imeretian"
+
+msgctxt "TAB코1"
+msgid "Mazandaran"
+msgstr "Mazandaran"
+
+msgctxt "TAB_ADJ코1"
+msgid "Mazandarani"
+msgstr "Mazandarani"
+
+msgctxt "MYR코0"
+msgid "Yeren"
+msgstr "Yeren"
+
+msgctxt "MYR_ADJ코0"
+msgid "Yeren"
+msgstr "Yeren"
+
+msgctxt "MHX코0"
+msgid "Haixi"
+msgstr "Haixi"
+
+msgctxt "MHX_ADJ코0"
+msgid "Haixi"
+msgstr "Haixi"
+
+msgctxt "KRC코0"
+msgid "Korchin"
+msgstr "Korchin"
+
+msgctxt "KRC_ADJ코0"
+msgid "Korchin"
+msgstr "Korchin"
+
+msgctxt "KLK코0"
+msgid "Khalkha"
+msgstr "Khalkha"
+
+msgctxt "KLK_ADJ코0"
+msgid "Khalkha"
+msgstr "Khalkha"
+
+msgctxt "DGL코0"
+msgid "Maldives"
+msgstr "Maldives"
+
+msgctxt "DGL_ADJ코0"
+msgid "Maldivian"
+msgstr "Maldivian"
+
+msgctxt "HMI코0"
+msgid "Kara Del"
+msgstr "Kara Del"
+
+msgctxt "HMI_ADJ코0"
+msgid "Kara Del"
+msgstr "Kara Del"
+
+msgctxt "ZUN코0"
+msgid "Zunghar"
+msgstr "Zunghar"
+
+msgctxt "ZUN_ADJ코0"
+msgid "Zunghar"
+msgstr "Zunghar"
+
+msgctxt "KAS코0"
+msgid "Yarkand"
+msgstr "Yarkand"
+
+msgctxt "KAS_ADJ코0"
+msgid "Yarkand"
+msgstr "Yarkand"
+
+msgctxt "KSD코0"
+msgid "Khoshuud"
+msgstr "Khoshuud"
+
+msgctxt "KSD_ADJ코0"
+msgid "Khoshuud"
+msgstr "Khoshuud"
+
+msgctxt "SYG코0"
+msgid "Sarig Yogir"
+msgstr "Sarig Yogir"
+
+msgctxt "SYG_ADJ코0"
+msgid "Sarig Yogir"
+msgstr "Sarig Yogir"
+
+msgctxt "UTS코0"
+msgid "U-tsang"
+msgstr "U-tsang"
+
+msgctxt "UTS_ADJ코0"
+msgid "U-tsang"
+msgstr "U-tsang"
+
+msgctxt "KAM코0"
+msgid "Kham"
+msgstr "Kham"
+
+msgctxt "KAM_ADJ코0"
+msgid "Kham"
+msgstr "Kham"
+
+msgctxt "GUG코0"
+msgid "Guge"
+msgstr "Guge"
+
+msgctxt "GUG_ADJ코0"
+msgid "Gugi"
+msgstr "Gugi"
+
+msgctxt "TMB코0"
+msgid "Timbuktu"
+msgstr "Timbuktu"
+
+msgctxt "TMB_ADJ코0"
+msgid "Timbuktuan"
+msgstr "Timbuktuan"
+
+msgctxt "AIR코0"
+msgid "Air"
+msgstr "Air"
+
+msgctxt "AIR_ADJ코0"
+msgid "Air"
+msgstr "Air"
+
+msgctxt "MSI코0"
+msgid "Mossi"
+msgstr "Mossi"
+
+msgctxt "MSI_ADJ코0"
+msgid "Mossi"
+msgstr "Mossi"
+
+msgctxt "KTS코0"
+msgid "Katsina"
+msgstr "Katsina"
+
+msgctxt "KTS_ADJ코0"
+msgid "Katsinan"
+msgstr "Katsinan"
+
+msgctxt "KAN코0"
+msgid "Kano"
+msgstr "Kano"
+
+msgctxt "KAN_ADJ코0"
+msgid "Kano"
+msgstr "Kano"
+
+msgctxt "FUL코0"
+msgid "Fulo"
+msgstr "Fulo"
+
+msgctxt "FUL_ADJ코0"
+msgid "Fulani"
+msgstr "Fulani"
+
+msgctxt "BON코0"
+msgid "Bonoman"
+msgstr "Bonoman"
+
+msgctxt "BON_ADJ코0"
+msgid "Bonoman"
+msgstr "Bonoman"
+
+msgctxt "DAH코0"
+msgid "Dahomey"
+msgstr "Dahomey"
+
+msgctxt "DAH_ADJ코0"
+msgid "Dahomeyan"
+msgstr "Dahomeyan"
+
+msgctxt "DGB코0"
+msgid "Dagbon"
+msgstr "Dagbon"
+
+msgctxt "DGB_ADJ코0"
+msgid "Dagbani"
+msgstr "Dagbani"
+
+msgctxt "JNN코0"
+msgid "Jenné"
+msgstr "Jenne"
+
+msgctxt "JNN_ADJ코0"
+msgid "Jennéan"
+msgstr "Jennean"
+
+msgctxt "KBU코0"
+msgid "Kaabu"
+msgstr "Kaabu"
+
+msgctxt "KBU_ADJ코0"
+msgid "Kaabu"
+msgstr "Kaabu"
+
+msgctxt "KNG코0"
+msgid "Kong"
+msgstr "Kong"
+
+msgctxt "KNG_ADJ코0"
+msgid "Kong"
+msgstr "Kong"
+
+msgctxt "NUP코0"
+msgid "Nupe"
+msgstr "Nupe"
+
+msgctxt "NUP_ADJ코0"
+msgid "Nupe"
+msgstr "Nupe"
+
+msgctxt "YAO코0"
+msgid "Yao"
+msgstr "Yao"
+
+msgctxt "YAO_ADJ코0"
+msgid "Yao"
+msgstr "Yao"
+
+msgctxt "YAT코0"
+msgid "Yatenga"
+msgstr "Yatenga"
+
+msgctxt "YAT_ADJ코0"
+msgid "Yatenga"
+msgstr "Yatenga"
+
+msgctxt "ZAF코0"
+msgid "Macina"
+msgstr "Macina"
+
+msgctxt "ZAF_ADJ코0"
+msgid "Macina"
+msgstr "Macina"
+
+msgctxt "ZZZ코0"
+msgid "Zazzau"
+msgstr "Zazzau"
+
+msgctxt "ZZZ_ADJ코0"
+msgid "Zazzauan"
+msgstr "Zazzauan"
+
+msgctxt "ARD코0"
+msgid "Ardalan"
+msgstr "Ardalan"
+
+msgctxt "ARD_ADJ코0"
+msgid "Ardalan"
+msgstr "Ardalan"
+
+msgctxt "BHT코1"
+msgid "Soran"
+msgstr "Soran"
+
+msgctxt "BHT_ADJ코1"
+msgid "Sorani"
+msgstr "Sorani"
+
+msgctxt "ERE코0"
+msgid "Eretna"
+msgstr "Eretna"
+
+msgctxt "ERE_ADJ코0"
+msgid "Eretnid"
+msgstr "Eretnid"
+
+msgctxt "LEB코0"
+msgid "Lebanon"
+msgstr "Lebanon"
+
+msgctxt "LEB_ADJ코0"
+msgid "Lebanese"
+msgstr "Lebanese"
+
+msgctxt "MAK코0"
+msgid "Makuria"
+msgstr "Makuria"
+
+msgctxt "MAK_ADJ코0"
+msgid "Makurian"
+msgstr "Makurian"
+
+msgctxt "SHM코0"
+msgid "Shammar"
+msgstr "Shammar"
+
+msgctxt "SHM_ADJ코0"
+msgid "Shammari"
+msgstr "Shammari"
+
+msgctxt "ARB코0"
+msgid "Arabia"
+msgstr "Arabia"
+
+msgctxt "ARB_ADJ코0"
+msgid "Arabian"
+msgstr "Arabian"
+
+msgctxt "GRM코0"
+msgid "Germiyan"
+msgstr "Germiyan"
+
+msgctxt "GRM_ADJ코0"
+msgid "Germiyanid"
+msgstr "Germiyanid"
+
+msgctxt "MPH코0"
+msgid "Muan Phuang"
+msgstr "Muan Phuang"
+
+msgctxt "MPH_ADJ코0"
+msgid "Muan Phuang"
+msgstr "Muan Phuang"
+
+msgctxt "LIG코0"
+msgid "Ligor"
+msgstr "Ligor"
+
+msgctxt "LIG_ADJ코0"
+msgid "Ligori"
+msgstr "Ligori"
+
+msgctxt "JOH코0"
+msgid "Johor"
+msgstr "Johor"
+
+msgctxt "JOH_ADJ코0"
+msgid "Johori"
+msgstr "Johori"
+
+msgctxt "KED코0"
+msgid "Kedah"
+msgstr "Kedah"
+
+msgctxt "KED_ADJ코0"
+msgid "Kedah"
+msgstr "Kedah"
+
+msgctxt "PRK코0"
+msgid "Perak"
+msgstr "Perak"
+
+msgctxt "PRK_ADJ코0"
+msgid "Perakian"
+msgstr "Perakian"
+
+msgctxt "HSE코0"
+msgid "Hsenwi"
+msgstr "Hsenwi"
+
+msgctxt "HSE_ADJ코0"
+msgid "Hsenwi"
+msgstr "Hsenwi"
+
+msgctxt "MYA코0"
+msgid "Mong Yang"
+msgstr "Mong Yang"
+
+msgctxt "MYA_ADJ코0"
+msgid "Mong Yang"
+msgstr "Mong Yang"
+
+msgctxt "AVA코0"
+msgid "Ava"
+msgstr "Ava"
+
+msgctxt "AVA_ADJ코0"
+msgid "Avan"
+msgstr "Avan"
+
+msgctxt "FEO코0"
+msgid "Theodoro"
+msgstr "Theodoro"
+
+msgctxt "FEO_ADJ코0"
+msgid "Theodorian"
+msgstr "Theodorian"
+
+msgctxt "VOL코0"
+msgid "Galicia–Volhynia"
+msgstr "Galicia-Volhynia"
+
+msgctxt "VOL_ADJ코0"
+msgid "Volhynian"
+msgstr "Volhynian"
+
+msgctxt "KIE코0"
+msgid "Kiev"
+msgstr "Kiev"
+
+msgctxt "KIE_ADJ코0"
+msgid "Kievian"
+msgstr "Kievian"
+
+msgctxt "CHR코0"
+msgid "Chernigov"
+msgstr "Chernigov"
+
+msgctxt "CHR_ADJ코0"
+msgid "Chernihiv"
+msgstr "Chernihiv"
+
+msgctxt "CHU코0"
+msgid "Chukchi"
+msgstr "Chukchi"
+
+msgctxt "CHU_ADJ코0"
+msgid "Chukchian"
+msgstr "Chukchian"
+
+msgctxt "HOD코0"
+msgid "Khodynt"
+msgstr "Khodynt"
+
+msgctxt "HOD_ADJ코0"
+msgid "Khodyntian"
+msgstr "Khodyntian"
+
+msgctxt "CHV코0"
+msgid "Chavchuveny"
+msgstr "Chavchuveny"
+
+msgctxt "CHV_ADJ코0"
+msgid "Chavchuvenian"
+msgstr "Chavchuvenian"
+
+msgctxt "KMC코0"
+msgid "Kamchadals"
+msgstr "Kamchadals"
+
+msgctxt "KMC_ADJ코0"
+msgid "Kamchadese"
+msgstr "Kamchadese"
+
+msgctxt "BRT코0"
+msgid "Buryatia"
+msgstr "Buryatia"
+
+msgctxt "BRT_ADJ코0"
+msgid "Buriat"
+msgstr "Buriat"
+
+msgctxt "BSH코0"
+msgid "Bashkiria"
+msgstr "Bashkiria"
+
+msgctxt "BSH_ADJ코0"
+msgid "Bashkirian"
+msgstr "Bashkirian"
+
+msgctxt "TLC코0"
+msgid "Tlemcen"
+msgstr "Tlemcen"
+
+msgctxt "TLC_ADJ코0"
+msgid "Tlemceni"
+msgstr "Tlemceni"
+
+msgctxt "MZB코0"
+msgid "Mzab"
+msgstr "Mzab"
+
+msgctxt "MZB_ADJ코0"
+msgid "Mozabite"
+msgstr "Mozabite"
+
+msgctxt "TGT코0"
+msgid "Touggourt"
+msgstr "Touggourt"
+
+msgctxt "TGT_ADJ코0"
+msgid "Touggourtian"
+msgstr "Touggourtian"
+
+msgctxt "GHD코0"
+msgid "Djerid"
+msgstr "Djerid"
+
+msgctxt "GHD_ADJ코0"
+msgid "Djeridi"
+msgstr "Djeridi"
+
+msgctxt "FZA코0"
+msgid "Fezzan"
+msgstr "Fezzan"
+
+msgctxt "FZA_ADJ코0"
+msgid "Fezzani"
+msgstr "Fezzani"
+
+msgctxt "KBA코0"
+msgid "Kabylia"
+msgstr "Kabylia"
+
+msgctxt "KBA_ADJ코0"
+msgid "Kabyle"
+msgstr "Kabyle"
+
+msgctxt "SOS코0"
+msgid "Sus"
+msgstr "Sus"
+
+msgctxt "SOS_ADJ코0"
+msgid "Susian"
+msgstr "Susian"
+
+msgctxt "TFL코0"
+msgid "Tafilalt"
+msgstr "Tafilalt"
+
+msgctxt "TFL_ADJ코0"
+msgid "Tafilalti"
+msgstr "Tafilalti"
+
+msgctxt "ARP코0"
+msgid "Arapaho"
+msgstr "Arapaho"
+
+msgctxt "ARP_ADJ코0"
+msgid "Arapahoan"
+msgstr "Arapahoan"
+
+msgctxt "CNK코0"
+msgid "Chinook"
+msgstr "Chinook"
+
+msgctxt "CNK_ADJ코0"
+msgid "Chinookan"
+msgstr "Chinookan"
+
+msgctxt "COC코0"
+msgid "Cocomes"
+msgstr "Cocomes"
+
+msgctxt "COC_ADJ코0"
+msgid "Cocomes"
+msgstr "Cocomes"
+
+msgctxt "XIU코0"
+msgid "Xiu"
+msgstr "Xiu"
+
+msgctxt "XIU_ADJ코0"
+msgid "Xiu"
+msgstr "Xiu"
+
+msgctxt "HDA코0"
+msgid "Haida"
+msgstr "Haida"
+
+msgctxt "HDA_ADJ코0"
+msgid "Haida"
+msgstr "Haida"
+
+msgctxt "ITZ코0"
+msgid "Itza"
+msgstr "Itza"
+
+msgctxt "ITZ_ADJ코0"
+msgid "Itza"
+msgstr "Itza"
+
+msgctxt "KIC코0"
+msgid "Kiche"
+msgstr "Kiche"
+
+msgctxt "KIC_ADJ코0"
+msgid "Kiche"
+msgstr "Kiche"
+
+msgctxt "KIO코0"
+msgid "Kiowa"
+msgstr "Kiowa"
+
+msgctxt "KIO_ADJ코0"
+msgid "Kiowa"
+msgstr "Kiowa"
+
+msgctxt "MIX코0"
+msgid "Mixtec"
+msgstr "Mixtec"
+
+msgctxt "MIX_ADJ코0"
+msgid "Mixtecan"
+msgstr "Mixtecan"
+
+msgctxt "SAL코0"
+msgid "Salish"
+msgstr "Salish"
+
+msgctxt "SAL_ADJ코0"
+msgid "Salishan"
+msgstr "Salishan"
+
+msgctxt "TAR코0"
+msgid "Tarascan"
+msgstr "Tarascan"
+
+msgctxt "TAR_ADJ코0"
+msgid "Tzintzuntzani"
+msgstr "Tzintzuntzani"
+
+msgctxt "TLA코0"
+msgid "Tlapanec"
+msgstr "Tlapanec"
+
+msgctxt "TLA_ADJ코0"
+msgid "Tlapanecan"
+msgstr "Tlapanecan"
+
+msgctxt "TLX코0"
+msgid "Tlaxcala"
+msgstr "Tlaxcala"
+
+msgctxt "TLX_ADJ코0"
+msgid "Tlaxcalan"
+msgstr "Tlaxcalan"
+
+msgctxt "TOT코0"
+msgid "Totonac"
+msgstr "Totonac"
+
+msgctxt "TOT_ADJ코0"
+msgid "Totonac"
+msgstr "Totonac"
+
+msgctxt "WIC코0"
+msgid "Wichita"
+msgstr "Wichita"
+
+msgctxt "WIC_ADJ코0"
+msgid "Wichita"
+msgstr "Wichita"
+
+msgctxt "CLM코0"
+msgid "Colima"
+msgstr "Colima"
+
+msgctxt "CLM_ADJ코0"
+msgid "Colima"
+msgstr "Colima"
+
+msgctxt "BLM코0"
+msgid "Blambangan"
+msgstr "Blambangan"
+
+msgctxt "BLM_ADJ코0"
+msgid "Blambangan"
+msgstr "Blambangan"
+
+msgctxt "CRB코0"
+msgid "Cirebon"
+msgstr "Cirebon"
+
+msgctxt "CRB_ADJ코0"
+msgid "Cirebonese"
+msgstr "Cirebonese"
+
+msgctxt "DMK코0"
+msgid "Demak"
+msgstr "Demak"
+
+msgctxt "DMK_ADJ코0"
+msgid "Demakan"
+msgstr "Demakan"
+
+msgctxt "PGR코0"
+msgid "Pagarruyung"
+msgstr "Pagarruyung"
+
+msgctxt "PGR_ADJ코0"
+msgid "Pagarruyungan"
+msgstr "Pagarruyungan"
+
+msgctxt "PLB코0"
+msgid "Palembang"
+msgstr "Palembang"
+
+msgctxt "PLB_ADJ코0"
+msgid "Palembangan"
+msgstr "Palembangan"
+
+msgctxt "PSA코0"
+msgid "Pasai"
+msgstr "Pasai"
+
+msgctxt "PSA_ADJ코0"
+msgid "Pasai"
+msgstr "Pasai"
+
+msgctxt "SAK코0"
+msgid "Siak"
+msgstr "Siak"
+
+msgctxt "SAK_ADJ코0"
+msgid "Siakian"
+msgstr "Siakian"
+
+msgctxt "SUN코0"
+msgid "Sunda"
+msgstr "Sunda"
+
+msgctxt "SUN_ADJ코0"
+msgid "Sundanese"
+msgstr "Sundanese"
+
+msgctxt "MJZ코0"
+msgid "Jianzhou"
+msgstr "Jianzhou"
+
+msgctxt "MJZ_ADJ코0"
+msgid "Jianzhou"
+msgstr "Jianzhou"
+
+msgctxt "SRV코0"
+msgid "Shirvan"
+msgstr "Shirvan"
+
+msgctxt "SRV_ADJ코0"
+msgid "Shirvani"
+msgstr "Shirvani"
+
+msgctxt "MIN코0"
+msgid "Min"
+msgstr "Min"
+
+msgctxt "MIN_ADJ코0"
+msgid "Min"
+msgstr "Min"
+
+msgctxt "YUE코0"
+msgid "Yue"
+msgstr "Yue"
+
+msgctxt "YUE_ADJ코0"
+msgid "Yue"
+msgstr "Yue"
+
+msgctxt "SHU코0"
+msgid "Shu"
+msgstr "Shu"
+
+msgctxt "SHU_ADJ코0"
+msgid "Shu"
+msgstr "Shu"
+
+msgctxt "NNG코0"
+msgid "Ning"
+msgstr "Ning"
+
+msgctxt "NNG_ADJ코0"
+msgid "Ning"
+msgstr "Ning"
+
+msgctxt "CHC코0"
+msgid "Chu"
+msgstr "Chu"
+
+msgctxt "CHC_ADJ코0"
+msgid "Chu"
+msgstr "Chu"
+
+msgctxt "TNG코0"
+msgid "Tang"
+msgstr "Tang"
+
+msgctxt "TNG_ADJ코0"
+msgid "Tang"
+msgstr "Tang"
+
+msgctxt "QIC코0"
+msgid "Qi"
+msgstr "Qi"
+
+msgctxt "QIC_ADJ코0"
+msgid "Qi"
+msgstr "Qi"
+
+msgctxt "YAN코0"
+msgid "Yan"
+msgstr "Yan"
+
+msgctxt "YAN_ADJ코0"
+msgid "Yan"
+msgstr "Yan"
+
+msgctxt "JIN코0"
+msgid "Jin"
+msgstr "Jin"
+
+msgctxt "JIN_ADJ코0"
+msgid "Jin"
+msgstr "Jin"
+
+msgctxt "LNG코0"
+msgid "Liang"
+msgstr "Liang"
+
+msgctxt "LNG_ADJ코0"
+msgid "Liang"
+msgstr "Liang"
+
+msgctxt "HUA코0"
+msgid "Huai"
+msgstr "Huai"
+
+msgctxt "HUA_ADJ코0"
+msgid "Huai"
+msgstr "Huai"
+
+msgctxt "CGS코0"
+msgid "Changsheng"
+msgstr "Changsheng"
+
+msgctxt "CGS_ADJ코0"
+msgid "Changsheng"
+msgstr "Changsheng"
+
+msgctxt "CAB코0"
+msgid "Carib"
+msgstr "Carib"
+
+msgctxt "CAB_ADJ코0"
+msgid "Cariban"
+msgstr "Cariban"
+
+msgctxt "LON코0"
+msgid "León"
+msgstr "Leon"
+
+msgctxt "LON_ADJ코0"
+msgid "Leonese"
+msgstr "Leonese"
+
+msgctxt "ICM코0"
+msgid "Ichma"
+msgstr "Ichma"
+
+msgctxt "ICM_ADJ코0"
+msgid "Ichman"
+msgstr "Ichman"
+
+msgctxt "NUM코0"
+msgid "Nuremberg"
+msgstr "Nuremberg"
+
+msgctxt "NUM_ADJ코0"
+msgid "Nuremberger"
+msgstr "Nuremberger"
+
+msgctxt "AUS코0"
+msgid "Australia"
+msgstr "Australia"
+
+msgctxt "AUS_ADJ코0"
+msgid "Australian"
+msgstr "Australian"
+
+msgctxt "BTI코0"
+msgid "Semien"
+msgstr "Semien"
+
+msgctxt "BTI_ADJ코0"
+msgid "Beta Israel"
+msgstr "Beta Israel"
+
+msgctxt "MTH코0"
+msgid "Meath"
+msgstr "Meath"
+
+msgctxt "MTH_ADJ코0"
+msgid "Meathian"
+msgstr "Meathian"
+
+msgctxt "ADU코0"
+msgid "Andalusia"
+msgstr "Andalusia"
+
+msgctxt "ADU_ADJ코0"
+msgid "Andalusian"
+msgstr "Andalusian"
+
+msgctxt "MEM코0"
+msgid "Memmingen"
+msgstr "Memmingen"
+
+msgctxt "MEM_ADJ코0"
+msgid "Memminger"
+msgstr "Memminger"
+
+msgctxt "VER코0"
+msgid "Verden"
+msgstr "Verden"
+
+msgctxt "VER_ADJ코0"
+msgid "Verdner"
+msgstr "Verdner"
+
+msgctxt "NSA코0"
+msgid "Nassau"
+msgstr "Nassau"
+
+msgctxt "NSA_ADJ코0"
+msgid "Nassau"
+msgstr "Nassau"
+
+msgctxt "RVA코0"
+msgid "Ravensburg"
+msgstr "Ravensburg"
+
+msgctxt "RVA_ADJ코0"
+msgid "Ravensburger"
+msgstr "Ravensburger"
+
+msgctxt "MFA코0"
+msgid "Montferrat"
+msgstr "Montferrat"
+
+msgctxt "MFA_ADJ코0"
+msgid "Montferratian"
+msgstr "Montferratian"
+
+msgctxt "LUC코0"
+msgid "Lucca"
+msgstr "Lucca"
+
+msgctxt "LUC_ADJ코0"
+msgid "Luccan"
+msgstr "Luccan"
+
+msgctxt "LVA코0"
+msgid "Livonia"
+msgstr "Livonia"
+
+msgctxt "LVA_ADJ코0"
+msgid "Livonian"
+msgstr "Livonian"
+
+msgctxt "EST코0"
+msgid "Estonia"
+msgstr "Estonia"
+
+msgctxt "EST_ADJ코0"
+msgid "Estonian"
+msgstr "Estonian"
+
+msgctxt "SMI코0"
+msgid "Sapmi"
+msgstr "Sapmi"
+
+msgctxt "SMI_ADJ코0"
+msgid "Sami"
+msgstr "Sami"
+
+msgctxt "ORM코0"
+msgid "Hormuz"
+msgstr "Hormuz"
+
+msgctxt "ORM_ADJ코0"
+msgid "Hormuzi"
+msgstr "Hormuzi"
+
+msgctxt "KRL코0"
+msgid "Karelia"
+msgstr "Karelia"
+
+msgctxt "KRL_ADJ코0"
+msgid "Karelian"
+msgstr "Karelian"
+
+msgctxt "JAI코0"
+msgid "Malta"
+msgstr "Malta"
+
+msgctxt "JAI_ADJ코0"
+msgid "Maltese"
+msgstr "Maltese"
+
+msgctxt "KUB코0"
+msgid "Kuba"
+msgstr "Kuba"
+
+msgctxt "KUB_ADJ코0"
+msgid "Kuban"
+msgstr "Kuban"
+
+msgctxt "KLD코0"
+msgid "Kalundwe"
+msgstr "Kalundwe"
+
+msgctxt "KLD_ADJ코0"
+msgid "Kalundwe"
+msgstr "Kalundwe"
+
+msgctxt "YAK코0"
+msgid "Yaka"
+msgstr "Yaka"
+
+msgctxt "YAK_ADJ코0"
+msgid "Yakan"
+msgstr "Yakan"
+
+msgctxt "KZB코0"
+msgid "Kazembe"
+msgstr "Kazembe"
+
+msgctxt "KZB_ADJ코0"
+msgid "Kazemban"
+msgstr "Kazemban"
+
+msgctxt "KIK코0"
+msgid "Kikondja"
+msgstr "Kikondja"
+
+msgctxt "KIK_ADJ코0"
+msgid "Kikondja"
+msgstr "Kikondja"
+
+msgctxt "CKW코0"
+msgid "Chokwe"
+msgstr "Chokwe"
+
+msgctxt "CKW_ADJ코0"
+msgid "Chokwan"
+msgstr "Chokwan"
+
+msgctxt "LND코0"
+msgid "Lunda"
+msgstr "Lunda"
+
+msgctxt "LND_ADJ코0"
+msgid "Lundan"
+msgstr "Lundan"
+
+msgctxt "LUB코0"
+msgid "Luba"
+msgstr "Luba"
+
+msgctxt "LUB_ADJ코0"
+msgid "Luban"
+msgstr "Luban"
+
+msgctxt "KSJ코0"
+msgid "Kasanje"
+msgstr "Kasanje"
+
+msgctxt "KSJ_ADJ코0"
+msgid "Kasanjean"
+msgstr "Kasanjean"
+
+msgctxt "SYO코0"
+msgid "Soyo"
+msgstr "Soyo"
+
+msgctxt "SYO_ADJ코0"
+msgid "Soyan"
+msgstr "Soyan"
+
+msgctxt "TYO코0"
+msgid "Tyo"
+msgstr "Tyo"
+
+msgctxt "TYO_ADJ코0"
+msgid "Tyoan"
+msgstr "Tyoan"
+
+msgctxt "BSG코0"
+msgid "Busoga"
+msgstr "Busoga"
+
+msgctxt "BSG_ADJ코0"
+msgid "Busogan"
+msgstr "Busogan"
+
+msgctxt "BNY코0"
+msgid "Bunyoro"
+msgstr "Bunyoro"
+
+msgctxt "BNY_ADJ코0"
+msgid "Bunyoroan"
+msgstr "Bunyoroan"
+
+msgctxt "KRW코0"
+msgid "Karagwe"
+msgstr "Karagwe"
+
+msgctxt "KRW_ADJ코0"
+msgid "Karagwan"
+msgstr "Karagwan"
+
+msgctxt "BUG코0"
+msgid "Buganda"
+msgstr "Buganda"
+
+msgctxt "BUG_ADJ코0"
+msgid "Bugandan"
+msgstr "Bugandan"
+
+msgctxt "RWA코0"
+msgid "Rwanda"
+msgstr "Rwanda"
+
+msgctxt "RWA_ADJ코0"
+msgid "Rwandan"
+msgstr "Rwandan"
+
+msgctxt "NKO코0"
+msgid "Nkore"
+msgstr "Nkore"
+
+msgctxt "NKO_ADJ코0"
+msgid "Nkorian"
+msgstr "Nkorian"
+
+msgctxt "BUU코0"
+msgid "Burundi"
+msgstr "Burundi"
+
+msgctxt "BUU_ADJ코0"
+msgid "Burundian"
+msgstr "Burundian"
+
+msgctxt "UBH코0"
+msgid "Buha"
+msgstr "Buha"
+
+msgctxt "UBH_ADJ코0"
+msgid "Buhan"
+msgstr "Buhan"
+
+msgctxt "MRA코0"
+msgid "Maravi"
+msgstr "Maravi"
+
+msgctxt "MRA_ADJ코0"
+msgid "Maravian"
+msgstr "Maravian"
+
+msgctxt "LDU코0"
+msgid "Lundu"
+msgstr "Lundu"
+
+msgctxt "LDU_ADJ코0"
+msgid "Lundian"
+msgstr "Lundian"
+
+msgctxt "TBK코0"
+msgid "Tumbuka"
+msgstr "Tumbuka"
+
+msgctxt "TBK_ADJ코0"
+msgid "Tumbukan"
+msgstr "Tumbukan"
+
+msgctxt "MKU코0"
+msgid "Makua"
+msgstr "Makua"
+
+msgctxt "MKU_ADJ코0"
+msgid "Makuan"
+msgstr "Makuan"
+
+msgctxt "RZW코0"
+msgid "Butua"
+msgstr "Butua"
+
+msgctxt "RZW_ADJ코0"
+msgid "Butuan"
+msgstr "Butuan"
+
+msgctxt "MIR코0"
+msgid "Imerina"
+msgstr "Imerina"
+
+msgctxt "MIR_ADJ코0"
+msgid "Imerinan"
+msgstr "Imerinan"
+
+msgctxt "ANT코0"
+msgid "Antemoro"
+msgstr "Antemoro"
+
+msgctxt "ANT_ADJ코0"
+msgid "Antemorian"
+msgstr "Antemorian"
+
+msgctxt "SKA코0"
+msgid "Sakalava"
+msgstr "Sakalava"
+
+msgctxt "SKA_ADJ코0"
+msgid "Sakalavan"
+msgstr "Sakalavan"
+
+msgctxt "MFY코0"
+msgid "Mahafaly"
+msgstr "Mahafaly"
+
+msgctxt "MFY_ADJ코0"
+msgid "Mahafaly"
+msgstr "Mahafaly"
+
+msgctxt "BTS코0"
+msgid "Betsimisaraka"
+msgstr "Betsimisaraka"
+
+msgctxt "BTS_ADJ코0"
+msgid "Betsimisarakan"
+msgstr "Betsimisarakan"
+
+msgctxt "ULS코0"
+msgid "Ulster"
+msgstr "Ulster"
+
+msgctxt "ULS_ADJ코0"
+msgid "Ulstrian"
+msgstr "Ulstrian"
+
+msgctxt "DMS코0"
+msgid "Desmond"
+msgstr "Desmond"
+
+msgctxt "DMS_ADJ코0"
+msgid "Desmond"
+msgstr "Desmond"
+
+msgctxt "KID코0"
+msgid "Kildare"
+msgstr "Kildare"
+
+msgctxt "KID_ADJ코0"
+msgid "Kildarean"
+msgstr "Kildarean"
+
+msgctxt "SLN코0"
+msgid "Sligo"
+msgstr "Sligo"
+
+msgctxt "SLN_ADJ코0"
+msgid "Sligonian"
+msgstr "Sligonian"
+
+msgctxt "OKA코0"
+msgid "Odoyev"
+msgstr "Odoyev"
+
+msgctxt "OKA_ADJ코0"
+msgid "Odoyevan"
+msgstr "Odoyevan"
+
+msgctxt "ICE코0"
+msgid "Iceland"
+msgstr "Iceland"
+
+msgctxt "ICE_ADJ코0"
+msgid "Icelandic"
+msgstr "Icelandic"
+
+msgctxt "SLO코0"
+msgid "Nitra"
+msgstr "Nitra"
+
+msgctxt "SLO_ADJ코0"
+msgid "Nitran"
+msgstr "Nitran"
+
+msgctxt "HSC코0"
+msgid "Gaeldom"
+msgstr "Gaeldom"
+
+msgctxt "HSC_ADJ코0"
+msgid "Gaelic"
+msgstr "Gaelic"
+
+msgctxt "ROM코0"
+msgid "Roman Empire"
+msgstr "Roman Empire"
+
+msgctxt "ROM_ADJ코0"
+msgid "Roman"
+msgstr "Roman"
+
+msgctxt "DTT코0"
+msgid "Dithmarschen"
+msgstr "Dithmarschen"
+
+msgctxt "DTT_ADJ코0"
+msgid "Dithmarscher"
+msgstr "Dithmarscher"
+
+msgctxt "GLH코0"
+msgid "Golden Horde"
+msgstr "Golden Horde"
+
+msgctxt "GLH_ADJ코0"
+msgid "Golden Horde"
+msgstr "Golden Horde"
+
+msgctxt "BEJ코0"
+msgid "Beja"
+msgstr "Beja"
+
+msgctxt "BEJ_ADJ코0"
+msgid "Bejan"
+msgstr "Bejan"
+
+msgctxt "JIM코0"
+msgid "Jimma"
+msgstr "Jimma"
+
+msgctxt "JIM_ADJ코0"
+msgid "Jimman"
+msgstr "Jimman"
+
+msgctxt "WLY코0"
+msgid "Welayta"
+msgstr "Welayta"
+
+msgctxt "WLY_ADJ코0"
+msgid "Welaytan"
+msgstr "Welaytan"
+
+msgctxt "DAM코0"
+msgid "Damot"
+msgstr "Damot"
+
+msgctxt "DAM_ADJ코0"
+msgid "Damotian"
+msgstr "Damotian"
+
+msgctxt "HDY코0"
+msgid "Hadiya"
+msgstr "Hadiya"
+
+msgctxt "HDY_ADJ코0"
+msgid "Hadiyan"
+msgstr "Hadiyan"
+
+msgctxt "SOA코0"
+msgid "Shewa"
+msgstr "Shewa"
+
+msgctxt "SOA_ADJ코0"
+msgid "Shewan"
+msgstr "Shewan"
+
+msgctxt "JJI코0"
+msgid "Janjiro"
+msgstr "Janjiro"
+
+msgctxt "JJI_ADJ코0"
+msgid "Janjiroan"
+msgstr "Janjiroan"
+
+msgctxt "ENA코0"
+msgid "Ennarea"
+msgstr "Ennarea"
+
+msgctxt "ENA_ADJ코0"
+msgid "Ennarean"
+msgstr "Ennarean"
+
+msgctxt "ABB코0"
+msgid "Dongola"
+msgstr "Dongola"
+
+msgctxt "ABB_ADJ코0"
+msgid "Dongolan"
+msgstr "Dongolan"
+
+msgctxt "AKM코0"
+msgid "Akamatsu"
+msgstr "Akamatsu"
+
+msgctxt "AKT코0"
+msgid "Ando"
+msgstr "Ando"
+
+msgctxt "CBA코0"
+msgid "Chiba"
+msgstr "Chiba"
+
+msgctxt "ISK코0"
+msgid "Isshiki"
+msgstr "Isshiki"
+
+msgctxt "ITO코0"
+msgid "Ito"
+msgstr "Ito"
+
+msgctxt "KKC코0"
+msgid "Kikuchi"
+msgstr "Kikuchi"
+
+msgctxt "KNO코0"
+msgid "Kono"
+msgstr "Kono"
+
+msgctxt "OGS코0"
+msgid "Ogasawara"
+msgstr "Ogasawara"
+
+msgctxt "SHN코0"
+msgid "Shoni"
+msgstr "Shoni"
+
+msgctxt "STK코0"
+msgid "Satake"
+msgstr "Satake"
+
+msgctxt "TKI코0"
+msgid "Toki"
+msgstr "Toki"
+
+msgctxt "UTN코0"
+msgid "Utsunomiya"
+msgstr "Utsunomiya"
+
+msgctxt "TTI코0"
+msgid "Tsutsui"
+msgstr "Tsutsui"
+
+msgctxt "AKM_ADJ코0"
+msgid "Akamatsu"
+msgstr "Akamatsu"
+
+msgctxt "AKT_ADJ코0"
+msgid "Ando"
+msgstr "Ando"
+
+msgctxt "CBA_ADJ코0"
+msgid "Chiba"
+msgstr "Chiba"
+
+msgctxt "ISK_ADJ코0"
+msgid "Isshiki"
+msgstr "Isshiki"
+
+msgctxt "ITO_ADJ코0"
+msgid "Ito"
+msgstr "Ito"
+
+msgctxt "KKC_ADJ코0"
+msgid "Kikuchi"
+msgstr "Kikuchi"
+
+msgctxt "KNO_ADJ코0"
+msgid "Kono"
+msgstr "Kono"
+
+msgctxt "OGS_ADJ코0"
+msgid "Ogasawara"
+msgstr "Ogasawara"
+
+msgctxt "SHN_ADJ코0"
+msgid "Shoni"
+msgstr "Shoni"
+
+msgctxt "STK_ADJ코0"
+msgid "Satake"
+msgstr "Satake"
+
+msgctxt "TKI_ADJ코0"
+msgid "Toki"
+msgstr "Toki"
+
+msgctxt "UTN_ADJ코0"
+msgid "Utsunomiya"
+msgstr "Utsunomiya"
+
+msgctxt "TTI_ADJ코0"
+msgid "Tsutsui"
+msgstr "Tsutsui"
+
+msgctxt "ASK코0"
+msgid "Ashikaga"
+msgstr "Ashikaga"
+
+msgctxt "ASK_ADJ코0"
+msgid "Ashikaga"
+msgstr "Ashikaga"
+
+msgctxt "MVA코0"
+msgid "Moravia"
+msgstr "Moravia"
+
+msgctxt "MVA_ADJ코0"
+msgid "Moravian"
+msgstr "Moravian"
+
+msgctxt "YUA코0"
+msgid "Yuan"
+msgstr "Yuan"
+
+msgctxt "YUA_ADJ코0"
+msgid "Yuan"
+msgstr "Yuan"
+
+msgctxt "BLO코0"
+msgid "Beloozero"
+msgstr "Beloozero"
+
+msgctxt "BLO_ADJ코0"
+msgid "Beloozeroan"
+msgstr "Beloozeroan"
+
+msgctxt "RSO코0"
+msgid "Rostov"
+msgstr "Rostov"
+
+msgctxt "RSO_ADJ코0"
+msgid "Rostovian"
+msgstr "Rostovian"
+
+msgctxt "MHR코0"
+msgid "Mahra"
+msgstr "Mahra"
+
+msgctxt "MHR_ADJ코0"
+msgid "Mahri"
+msgstr "Mahri"
+
+msgctxt "HDR코0"
+msgid "Hadramut"
+msgstr "Hadramut"
+
+msgctxt "HDR_ADJ코0"
+msgid "Hadramhi"
+msgstr "Hadramhi"
+
+msgctxt "MDA코0"
+msgid "Medina"
+msgstr "Medina"
+
+msgctxt "MDA_ADJ코0"
+msgid "Medinan"
+msgstr "Medinan"
+
+msgctxt "ANZ코0"
+msgid "Anizah"
+msgstr "Anizah"
+
+msgctxt "ANZ_ADJ코0"
+msgid "Anizah"
+msgstr "Anizah"
+
+msgctxt "FAD코0"
+msgid "Fadl"
+msgstr "Fadl"
+
+msgctxt "FAD_ADJ코0"
+msgid "Fadli"
+msgstr "Fadli"
+
+msgctxt "YAS코0"
+msgid "Yas"
+msgstr "Yas"
+
+msgctxt "YAS_ADJ코0"
+msgid "Yasi"
+msgstr "Yasi"
+
+msgctxt "RAS코1"
+msgid "Rassids"
+msgstr "Rassids"
+
+msgctxt "RAS_ADJ코0"
+msgid "Rassid"
+msgstr "Rassid"
+
+msgctxt "YEM코0"
+msgid "Yemen"
+msgstr "Yemen"
+
+msgctxt "YEM_ADJ코0"
+msgid "Yemeni"
+msgstr "Yemeni"
+
+msgctxt "DAW코0"
+msgid "Dawasir"
+msgstr "Dawasir"
+
+msgctxt "DAW_ADJ코0"
+msgid "Dawasiri"
+msgstr "Dawasiri"
+
+msgctxt "MFL코0"
+msgid "Mikhlaf"
+msgstr "Mikhlaf"
+
+msgctxt "MFL_ADJ코0"
+msgid "Mikhlafi"
+msgstr "Mikhlafi"
+
+msgctxt "NJR코0"
+msgid "Najran"
+msgstr "Najran"
+
+msgctxt "NJR_ADJ코0"
+msgid "Najrani"
+msgstr "Najrani"
+
+msgctxt "HSN코0"
+msgid "Hisn Kayfa"
+msgstr "Hisn Kayfa"
+
+msgctxt "HSN_ADJ코0"
+msgid "Hisn Kayfan"
+msgstr "Hisn Kayfan"
+
+msgctxt "BTL코0"
+msgid "Bitlis"
+msgstr "Bitlis"
+
+msgctxt "BTL_ADJ코0"
+msgid "Bitlisi"
+msgstr "Bitlisi"
+
+msgctxt "AVR코0"
+msgid "Avaria"
+msgstr "Avaria"
+
+msgctxt "AVR_ADJ코0"
+msgid "Avarian"
+msgstr "Avarian"
+
+msgctxt "MLK코0"
+msgid "Kharabakh"
+msgstr "Kharabakh"
+
+msgctxt "MLK_ADJ코0"
+msgid "Kharabakhi"
+msgstr "Kharabakhi"
+
+msgctxt "SME코0"
+msgid "Samtskhe"
+msgstr "Samtskhe"
+
+msgctxt "SME_ADJ코0"
+msgid "Samtskhean"
+msgstr "Samtskhean"
+
+msgctxt "ARL코0"
+msgid "Ardabil"
+msgstr "Ardabil"
+
+msgctxt "ARL_ADJ코0"
+msgid "Ardabili"
+msgstr "Ardabili"
+
+msgctxt "MSY코0"
+msgid "Mushasha"
+msgstr "Mushasha"
+
+msgctxt "MSY_ADJ코0"
+msgid "Mushashan"
+msgstr "Mushashan"
+
+msgctxt "RUM코0"
+msgid "Rûm"
+msgstr "Rum"
+
+msgctxt "RUM_ADJ코0"
+msgid "Rûmi"
+msgstr "Rumi"
+
+msgctxt "KRY코0"
+msgid "Gilan"
+msgstr "Gilan"
+
+msgctxt "KRY_ADJ코0"
+msgid "Gilani"
+msgstr "Gilani"
+
+msgctxt "LRI코0"
+msgid "Luristan"
+msgstr "Luristan"
+
+msgctxt "LRI_ADJ코0"
+msgid "Luristani"
+msgstr "Luristani"
+
+msgctxt "SIS코0"
+msgid "Sistan"
+msgstr "Sistan"
+
+msgctxt "SIS_ADJ코0"
+msgid "Sistani"
+msgstr "Sistani"
+
+msgctxt "BPI코0"
+msgid "Biapas"
+msgstr "Biapas"
+
+msgctxt "BPI_ADJ코0"
+msgid "Biapasi"
+msgstr "Biapasi"
+
+msgctxt "FRS코0"
+msgid "Fars"
+msgstr "Fars"
+
+msgctxt "FRS_ADJ코0"
+msgid "Farsi"
+msgstr "Farsi"
+
+msgctxt "KRM코0"
+msgid "Kerman"
+msgstr "Kerman"
+
+msgctxt "KRM_ADJ코0"
+msgid "Kermani"
+msgstr "Kermani"
+
+msgctxt "YZD코0"
+msgid "Yazd"
+msgstr "Yazd"
+
+msgctxt "YZD_ADJ코0"
+msgid "Yazdi"
+msgstr "Yazdi"
+
+msgctxt "ISF코0"
+msgid "Isfahan"
+msgstr "Isfahan"
+
+msgctxt "ISF_ADJ코0"
+msgid "Isfahani"
+msgstr "Isfahani"
+
+msgctxt "TBR코0"
+msgid "Tabriz"
+msgstr "Tabriz"
+
+msgctxt "TBR_ADJ코0"
+msgid "Tabrizi"
+msgstr "Tabrizi"
+
+msgctxt "BSR코0"
+msgid "Basra"
+msgstr "Basra"
+
+msgctxt "BSR_ADJ코0"
+msgid "Basran"
+msgstr "Basran"
+
+msgctxt "MGR코0"
+msgid "Maregheh"
+msgstr "Maregheh"
+
+msgctxt "MGR_ADJ코0"
+msgid "Mareghehi"
+msgstr "Mareghehi"
+
+msgctxt "QOM코0"
+msgid "Ajam"
+msgstr "Ajam"
+
+msgctxt "QOM_ADJ코0"
+msgid "Ajami"
+msgstr "Ajami"
+
+msgctxt "TRS코0"
+msgid "Transoxiana"
+msgstr "Transoxiana"
+
+msgctxt "TRS_ADJ코0"
+msgid "Transoxianian"
+msgstr "Transoxianian"
+
+msgctxt "MAS코0"
+msgid "Madyas"
+msgstr "Madyas"
+
+msgctxt "MAS_ADJ코0"
+msgid "Madyas"
+msgstr "Madyas"
+
+msgctxt "PGS코0"
+msgid "Pangasinan"
+msgstr "Pangasinan"
+
+msgctxt "PGS_ADJ코0"
+msgid "Pangasinan"
+msgstr "Pangasinan"
+
+msgctxt "TDO코0"
+msgid "Tondo"
+msgstr "Tondo"
+
+msgctxt "TDO_ADJ코0"
+msgid "Tondoan"
+msgstr "Tondoan"
+
+msgctxt "MNA코0"
+msgid "Maynila"
+msgstr "Maynila"
+
+msgctxt "MNA_ADJ코0"
+msgid "Maynilan"
+msgstr "Maynilan"
+
+msgctxt "CEB코0"
+msgid "Cebu"
+msgstr "Cebu"
+
+msgctxt "CEB_ADJ코0"
+msgid "Cebuan"
+msgstr "Cebuan"
+
+msgctxt "BTU코0"
+msgid "Butuan"
+msgstr "Butuan"
+
+msgctxt "BTU_ADJ코0"
+msgid "Butuan"
+msgstr "Butuan"
+
+msgctxt "KTB코0"
+msgid "Kitabatake"
+msgstr "Kitabatake"
+
+msgctxt "KTB_ADJ코0"
+msgid "Kitabatake"
+msgstr "Kitabatake"
+

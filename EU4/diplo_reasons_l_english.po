@@ -1,0 +1,1462 @@
+# badaim <imbada@outlook.com>, 2017. #zanata
+# bjrj <asap1993@naver.com>, 2017. #zanata
+# muelleri2075 <sukjinkim321@naver.com>, 2017. #zanata
+# snowfall <deluxe2k2@naver.com>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2017-12-13 01:59-0500\n"
+"Last-Translator: bjrj <asap1993@naver.com>\n"
+"Language-Team: Korean (South Korea)\n"
+"Language: ko\n"
+"X-Generator: Zanata 3.9.6\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgctxt "DIPLO_NO_FIGHTING코0"
+msgid "No ongoing fighting: "
+msgstr "진행중인 전쟁이 없음:"
+
+msgctxt "DIPLO_UNCONDITIONALLY_SURRENDERED코1"
+msgid "$WHO$ has §YUnconditionally Surrendered§! to $THEM$: "
+msgstr "$WHO$은(는) $THEM$에게 §Y무조건 항복§!했습니다: "
+
+msgctxt "DIPLO_SET_PROVINCES_AS_VITAL코0"
+msgid "$THEM$ considers $WE$ provinces to be of vital interest: "
+msgstr "$THEM$은(는) $WE$ 지역들에 사활적 이익이 걸렸다고 생각합니다:"
+
+msgctxt "DIPLO_SET_MUTUAL_PROVINCES_AS_VITAL코0"
+msgid ""
+"$THEM$ and $WE$ consider the same $NUM$ provinces to be of vital interest: "
+msgstr "$THEM$과(와) $WE$ 양 측 모두 사활적 이익이 걸렸다고 생각하는 지역이 $NUM$ 개입니다:"
+
+msgctxt "DIPLO_ALREADY_TRANSFERING_TRADE_POWER코0"
+msgid "Already giving trade power to $WHO$: "
+msgstr "이미 $WHO$에게 무역력을 보내는 중: "
+
+msgctxt "DIPLO_TRADE_VASSALS코0"
+msgid "Number of countries transferring trade power to $WHO$: "
+msgstr "$WHO$에게 무역력을 보내는 국가의 수: "
+
+msgctxt "DIPLO_ACTIVE_RELATION코0"
+msgid "Treaty is already active: "
+msgstr "협정이 이미 체결됨: "
+
+msgctxt "DIPLO_FIGHTING_OTHER_WAR_TOGETHER코0"
+msgid "Fighting in another war together: "
+msgstr "다른 전쟁에서 함께 싸움: "
+
+msgctxt "DIPLO_MULTI_WARS코0"
+msgid "Would be called into multiple wars: "
+msgstr "여러 개의 전쟁에 참전하게 될 것입니다: "
+
+msgctxt "DIPLO_FIGHTING_OTHER_WAR코0"
+msgid "Fighting in another war: "
+msgstr "다른 전쟁에서 싸움: "
+
+msgctxt "DIPLO_POSITIVE코0"
+msgid "Positive: $VAL|G$"
+msgstr "긍정적 영향: $VAL|G$"
+
+msgctxt "DIPLO_NEGATIVE코0"
+msgid "Negative: $VAL|R$"
+msgstr "부정적 영향: $VAL|R$"
+
+msgctxt "DIPLO_UNSTABLE코0"
+msgid "Nation is too unstable: "
+msgstr "국가가 너무 불안정함: "
+
+msgctxt "DIPLO_ALLIANCE_IS_BREAKING코0"
+msgid "No longer desires $WHO$ as an ally: "
+msgstr "더 이상 $WHO$을(를) 동맹국으로 원하지 않음:"
+
+msgctxt "DIPLO_BLOCKED_OFFENSIVE_CALLS코0"
+msgid "$THEM$ is unwilling to join our offensive wars: "
+msgstr "$THEM$은(는) 우리의 공격전쟁에 참여하길 꺼립니다:"
+
+msgctxt "DIPLO_SET_AS_ENEMY코0"
+msgid "The player of $THEM$ is Hostile towards $WHO$: "
+msgstr "$THEM$의 플레이어는 $WHO$에 대해 적대적입니다: "
+
+msgctxt "DIPLO_SET_AS_FRIENDLY코0"
+msgid "The player of $THEM$ is Friendly towards $WHO$: "
+msgstr "$THEM$의 플레이어는 $WHO$에 대해 우호적입니다: "
+
+msgctxt "DIPLO_SET_AS_NEUTRAL코0"
+msgid "The player of $THEM$ is Neutral towards $WHO$: "
+msgstr "$THEM$의 플레이어는 $WHO$에 대해 중립적입니다: "
+
+msgctxt "DIPLO_NOT_ENOUGH_FAVORS코0"
+msgid "$WHO$ does not owe $US$ at least $AMT$ favors: "
+msgstr "$WHO$은(는) $US$에게 $AMT$ 이상의 호의를 가지고 있지 않습니다: "
+
+msgctxt "DIPLO_ENEMIES_TOO_FAR_AWAY코0"
+msgid "Distant war: "
+msgstr "원거리 전쟁: "
+
+msgctxt "DIPLO_DEFENSIVE_WAR코0"
+msgid "Defensive War: "
+msgstr "방어 전쟁: "
+
+msgctxt "DIPLO_BANKRUPT코0"
+msgid "$WHO$ is Bankrupt: "
+msgstr "$WHO$은(는) 파산했습니다: "
+
+msgctxt "DIPLO_STABILITY_HIT코0"
+msgid "Accepting would destabilize $WHO$: "
+msgstr "받아들이는 것은 $WHO$을(를) 불안정화함: "
+
+msgctxt "DIPLO_OLD_WAR코0"
+msgid "War started more than $MONTHS$ months ago: "
+msgstr "전쟁이 시작된 지 $MONTHS$개월 이상 지남: "
+
+msgctxt "DIPLO_RECENT_OFFENSIVE_CALL코0"
+msgid "Not willing to join another $WHO$ offensive war until §Y$DATE$§!: "
+msgstr " §Y$DATE$§!까지는 $WHO$의 또다른 공격전쟁에 참전하길 꺼림: "
+
+msgctxt "DIPLO_HAS_ALLIANCE코0"
+msgid "Has alliance: "
+msgstr "동맹 상태: "
+
+msgctxt "DIPLO_NOT_BORDERING_RIVAL코0"
+msgid "$WHO$ is not bordering a $OVERLORD$ rival or enemy: "
+msgstr "$WHO$은(는) $OVERLORD$의 경쟁국이나 적국과 경계를 접하고 있지 않습니다:"
+
+msgctxt "DIPLO_BORDERING_UNCOLONIZED코0"
+msgid "$WHO$ is bordering colonizable territory: "
+msgstr "$WHO$은(는) 개척할 수 있는 지역과 경계를 접하고 있습니다:"
+
+msgctxt "DIPLO_UNLAWFUL_TERRITORY코0"
+msgid "Unlawful Territory in the Empire: "
+msgstr "제국 내 불법 영토: "
+
+msgctxt "DIPLO_NOT_DEMAND코0"
+msgid "Not demand: "
+msgstr "요구하지 않음: "
+
+msgctxt "DIPLO_TOO_LARGE_MARCH코0"
+msgid "Too high development compared to $OVERLORD$: "
+msgstr "$OVERLORD$에 비해 너무 높은 개발도:"
+
+msgctxt "DIPLO_TOO_SMALL_MARCH코0"
+msgid "Too low development compared to $OVERLORD$: "
+msgstr "$OVERLORD$에 비해 너무 낮은 개발도:"
+
+msgctxt "DIPLO_NOT_SMALL_NATION코0"
+msgid "$WHO$ is too large for vassalization: "
+msgstr "$WHO$(은)는 속국으로 만들기엔 너무 큽니다: "
+
+msgctxt "DIPLO_EMBARGO_AGAINST코0"
+msgid "$WHO$ is embargoing $AGAINST$: "
+msgstr "$WHO$이(가) $AGAINST$에게 무역 금지중: "
+
+msgctxt "DIPLO_POPE코0"
+msgid "$WHO$ is the Pope: "
+msgstr "$WHO$은(는) 교황입니다:"
+
+msgctxt "DIPLO_DISHONORED_ALLIANCE_RECENTLY코0"
+msgid "$WHO$ recently dishonored their alliance with $US$: "
+msgstr "$WHO$은(는) 최근 $US$와의 동맹 조약을 어겼습니다."
+
+msgctxt "DIPLO_ELECTOR코0"
+msgid "$WHO$ is an Elector: "
+msgstr "$WHO$ 은(는) 선제후국입니다: "
+
+msgctxt "DIPLO_MERCHANT_REPUBLIC코0"
+msgid "$WHO$ is a Merchant Republic: "
+msgstr "$WHO$은(는) 상인공화국입니다:"
+
+msgctxt "DIPLO_THEOCRACY코0"
+msgid "$WHO$ is a Theocracy: "
+msgstr "$WHO$은(는) 신정제입니다:"
+
+msgctxt "DIPLO_MONARCHY코0"
+msgid "$WHO$ is a Monarchy: "
+msgstr "$WHO$은(는) 군주제입니다:"
+
+msgctxt "DIPLO_FREECITY코0"
+msgid "$WHO$ is a Free City: "
+msgstr "$WHO$은(는) 자유시입니다:"
+
+msgctxt "DIPLO_GOV_RANK코0"
+msgid "$WHO$ government rank: "
+msgstr "$WHO$ 정부 등급:"
+
+msgctxt "DIPLO_GOV_RANK_DIFF코0"
+msgid "Difference in government ranks: "
+msgstr "정부 등급의 차이:"
+
+msgctxt "DIPLO_HOSTILE_CORE_CREATION코0"
+msgid "Hostile Core-Creation Cost on $WHO$: "
+msgstr "$WHO$에 대한 적대적 코어 생성 비용:"
+
+msgctxt "DIPLO_REVOLUTIONARY_WAR코0"
+msgid "It's a revolutionary war: "
+msgstr "혁명 전쟁중: "
+
+msgctxt "DIPLO_NOT_NATIVE코0"
+msgid "Can't use native diplomatic actions."
+msgstr "원주민 외교 행동을 사용할 수 없습니다."
+
+msgctxt "DIPLO_NOT_WANT_GOLD코0"
+msgid "Wants other concessions than gold: "
+msgstr "금보다는 다른 이득을 원함: "
+
+msgctxt "DIPLO_NOT_WANT_BRIBE코0"
+msgid "Will not betray their ally for gold: "
+msgstr "금 때문에 동맹을 배신하지는 않음: "
+
+msgctxt "DIPLO_STABILITY코0"
+msgid "Stability of $WHO$: "
+msgstr "$WHO$의 안정도: "
+
+msgctxt "DIPLO_IS_COLONY코0"
+msgid "$PROV$ is a colony: "
+msgstr "$PROV$은(는) 식민지임: "
+
+msgctxt "DIPLO_DEMAND_TOO_MUCH코0"
+msgid "You demand too much: "
+msgstr "요구사항이 너무 많음: "
+
+msgctxt "DIPLO_DEMAND_ALL_PROVINCES코0"
+msgid "Demand all provinces: "
+msgstr "모든 지역을 요구: "
+
+msgctxt "DIPLO_RELEASE_COUNTRIES코0"
+msgid "Release countries: "
+msgstr "국가 해방: "
+
+msgctxt "DIPLO_EMPEROR_CANDIDATE코0"
+msgid "$WHO$ is a candidate for emperor: "
+msgstr "$WHO$ 은(는) 황제 후보국임: "
+
+msgctxt "DIPLO_FORM_PERSONAL_UNION코0"
+msgid "Form personal union: "
+msgstr "동군 연합 구성: "
+
+msgctxt "DIPLO_CAN_BE_ANNEXED코0"
+msgid "Can be annexed: "
+msgstr "합병 가능: "
+
+msgctxt "DIPLO_WAITING_FOR_ANNEXED코0"
+msgid "Waiting for annexation: "
+msgstr "합병을 기다리는 중: "
+
+msgctxt "DIPLO_BETTER_OFFER코0"
+msgid "Someone else got a better offer: "
+msgstr "타국은 더 나은 제안을 받음: "
+
+msgctxt "DIPLO_ARE_WINNING코0"
+msgid "$WHO$ are winning: "
+msgstr "$WHO$ 은(는) 승리중입니다: "
+
+msgctxt "DIPLO_NOT_LEADER코0"
+msgid "$WHO$ not leader of the war: "
+msgstr "$WHO$ 은(는) 전쟁의 지도자가 아님: "
+
+msgctxt "DIPLO_STRATEGIC_INTERESTS코0"
+msgid "Strategic interests: "
+msgstr "전략적 이해관계: "
+
+msgctxt "DIPLO_STRATEGIC_INTEREST코0"
+msgid "Strategic interest: "
+msgstr "전략적 이해관계: "
+
+msgctxt "DIPLO_NO_STRATEGIC_INTEREST코0"
+msgid "No strategic interest: "
+msgstr "전략적 이해관계 없음: "
+
+msgctxt "DIPLO_TOO_EARLY코0"
+msgid "It's too early in the war: "
+msgstr "전쟁이 시작된 지 얼마 되지 않았음: "
+
+msgctxt "DIPLO_COALITION코0"
+msgid "Coalition war: "
+msgstr "반국가동맹 전쟁: "
+
+msgctxt "DIPLO_IS_REVOLUTION_TARGET코0"
+msgid "$WHO$ is revolution target: "
+msgstr "$WHO$ 은(는) 혁명의 대상임: "
+
+msgctxt "DIPLO_NOT_HAVE_LOCATION코0"
+msgid "Doesn't have control over $NAME$: "
+msgstr "$NAME$을(를) 지배하고 있지 않음: "
+
+msgctxt "DIPLO_WAR_PEACE_SCORE코0"
+msgid "War score is bigger than peace offer: "
+msgstr "승점이 평화제안에 비해 많음 : "
+
+msgctxt "DIPLO_QUIET_BONUS코0"
+msgid "Inactivity in war: "
+msgstr "전쟁에 소극적: "
+
+msgctxt "DIPLO_PEACE_SCORE_TOO_HIGH코0"
+msgid "Peace offer unreasonably big: "
+msgstr "평화 제안이 불합리함: "
+
+msgctxt "DIPLO_PEACE_OFFER_TOO_MUCH코0"
+msgid "Offer is too generous: "
+msgstr "평화 제안이 너무 관대함: "
+
+msgctxt "DIPLO_WAR_DESPERATION코0"
+msgid "Occupied and besieged provinces: "
+msgstr "점령되거나 공성을 당하고 있는 지역: "
+
+msgctxt "DIPLO_CRUSADE코0"
+msgid "$WHO$ is crusade target: "
+msgstr "$WHO$는 십자군 대상: "
+
+msgctxt "DIPLO_WAR_REBELS코0"
+msgid "Revolts in $WHO$: "
+msgstr "$WHO$ 에서의 반란: "
+
+msgctxt "DIPLO_WAR_CB코0"
+msgid "$CB$ Casus Belli: "
+msgstr "$CB$ 전쟁 명분: "
+
+msgctxt "DIPLO_DEFEATED코0"
+msgid "Utterly defeated: "
+msgstr "완전히 패배함: "
+
+msgctxt "DIPLO_PEACE_SCORE코0"
+msgid "Peace offer value: "
+msgstr "평화 제안의 가치: "
+
+msgctxt "DIPLO_PERSONALITY_MILITARIST코0"
+msgid "The $WHO$ ruler is a Militarist: "
+msgstr "$WHO$의 통치자는 군국주의자입니다:"
+
+msgctxt "DIPLO_HAS_PERSONALITY코0"
+msgid "The $WHO$ ruler is $TRAIT$: "
+msgstr "$WHO$ 통치자는 $TRAIT$ 입니다: "
+
+msgctxt "DIPLO_LACKS_PERSONALITY코0"
+msgid "The $WHO$ ruler lacks matching personality."
+msgstr "$WHO$ 통치자는 적합한 개성을 찾을 수 없습니다."
+
+msgctxt "DIPLO_DIFFICULTY코0"
+msgid "Difficulty level."
+msgstr "난이도."
+
+msgctxt "DIPLO_MILITARY_STRENGTH코0"
+msgid "$WHO$ military strength: "
+msgstr "$WHO$ 의 군사적 역량: "
+
+msgctxt "DIPLO_WAR_SCORE코0"
+msgid "War Score: "
+msgstr "승점: "
+
+msgctxt "DIPLO_WAR_SCORE_INDIVIDUAL코0"
+msgid "Individual war score against:"
+msgstr "개별 국가에 대한 승점:"
+
+msgctxt "DIPLO_PEACEOFFER_VALUE코0"
+msgid "Current peace offer: "
+msgstr "현재의 평화 제안: "
+
+msgctxt "DIPLO_ANNEX_US코0"
+msgid "Would result in $WHO$'s annexation or vassalization: "
+msgstr "$WHO$는 합병되거나 속국화될 것입니다: "
+
+msgctxt "DIPLO_PUNISH_TRIBUTARY코0"
+msgid "$THEM$ refused to subjugate to $WHO$: "
+msgstr "$THEM$은(는) $WHO$과의 조공국 관계 수립을 거절했습니다: "
+
+msgctxt "DIPLO_WAR_BASE_RELUCTANCE코0"
+msgid "Base reluctance: "
+msgstr "기본적 저항: "
+
+msgctxt "DIPLO_WAR_BATTLE_RELUCTANCE코0"
+msgid "Ongoing battles: "
+msgstr "지속중인 전투: "
+
+msgctxt "DIPLO_IN_HRE코0"
+msgid "$WHO$ is a member of the Empire: "
+msgstr "$WHO$(은)는 제국의 일원임: "
+
+msgctxt "DIPLO_NOT_IN_HRE코0"
+msgid "$WHO$ is not a member of the Empire: "
+msgstr "$WHO$(은)는 제국의 일원이 아님: "
+
+msgctxt "DIPLO_CORE_PROCESS코0"
+msgid "Making it into a core: "
+msgstr "이를 코어로 만드는 중: "
+
+msgctxt "DIPLO_RICHNESS코0"
+msgid "Province Value: "
+msgstr "지역 가치: "
+
+msgctxt "DIPLO_WAR_TIME_PASSED코0"
+msgid "Length of war: "
+msgstr "전쟁 기간: "
+
+msgctxt "DIPLO_THEY_WON_WAR코0"
+msgid "$WHO$ won war: "
+msgstr "$WHO$은(는) 전쟁에 승리했습니다: "
+
+msgctxt "DIPLO_WAR_STALLED코0"
+msgid "War is stalled: "
+msgstr "전쟁이 지연됨: "
+
+msgctxt "DIPLO_RIVAL_COLONIST코0"
+msgid "$WHO$ is a colonial power: "
+msgstr "$WHO$은(는) 식민지를 개척하는 국가임:"
+
+msgctxt "DIPLO_WAR_UNOCCUPIED_FORTS코0"
+msgid "Demanding $PROV$ without occupying any forts in the area: "
+msgstr "$PROV$이(가) 위치한 지방의 어떤 요새도 점령하지 않고 요구중:"
+
+msgctxt "DIPLO_WAR_INCONCLUSIVE코0"
+msgid "Need at least $VAL$ war score to make demands: "
+msgstr "요구를 하기 위해서는 적어도 전쟁 점수가 $VAL$이(가) 필요합니다: "
+
+msgctxt "DIPLO_UNREASONABLE_DEMANDS코0"
+msgid "Unreasonable demands: "
+msgstr "불합리한 요구: "
+
+msgctxt "DIPLO_UNDESIRABLE_PEACE코0"
+msgid "Undesirable terms: "
+msgstr "달갑지 않은 조건: "
+
+msgctxt "DIPLO_UNACCEPTABLE_PEACE코0"
+msgid "$WHO$ does not want parts of the offer: "
+msgstr "$WHO$ 은(는) 제안의 일부를 원하지 않음: "
+
+msgctxt "DIPLO_WANTS_OTHER_OFFER코0"
+msgid "$WHO$ requires '$NAME$' to be part of the offer: "
+msgstr "$WHO$ (은)는 '$NAME$' 가 제안에 포함되기를 원합니다: "
+
+msgctxt "DIPLO_WANTS_ANNEX코0"
+msgid "Wants to annex $COUNTRY$: "
+msgstr "$COUNTRY$ 의 합병을 원함: "
+
+msgctxt "DIPLO_WANTS_END_TO_WAR코0"
+msgid "Wants an end to the war: "
+msgstr "전쟁이 끝나기를 원함: "
+
+msgctxt "DIPLO_BEST_POSSIBLE_PEACE_OFFER코0"
+msgid "$TARGET$ does not want anything more from $WHO$: "
+msgstr "$WHO$ 은(는) $TARGET$ 에게서 더 이상을 원하지 않음: "
+
+msgctxt "DIPLO_HIGH_DEMANDS코0"
+msgid "Demands exceed war score: "
+msgstr "승점을 초과한 요구사항: "
+
+msgctxt "DIPLO_OCCUPYING_WARLEADER코0"
+msgid "Fully occupying enemy war leader: "
+msgstr "적의 전쟁 지도자를 완전히 점령: "
+
+msgctxt "DIPLO_WAR_EXHAUSTION코0"
+msgid "$WHO$ War Exhaustion: "
+msgstr "$WHO$ 의 전쟁 피로도: "
+
+msgctxt "DIPLO_CALL_FOR_PEACE코0"
+msgid "Call for Peace: "
+msgstr "평화 요구:"
+
+msgctxt "DIPLO_WAR_DIRECTION코0"
+msgid "$WHO$ is making gains: "
+msgstr "$WHO$이(가) 이득을 보는 중: "
+
+msgctxt "DIPLO_WAR_FORCE_BALANCE코0"
+msgid "Relative strength of alliances: "
+msgstr "동맹의 상대적 세력: "
+
+msgctxt "DIPLO_WAR_COALITION_BALANCE코0"
+msgid "Relative strength of coalition: "
+msgstr "반국가동맹의 상대적 세력"
+
+msgctxt "DIPLO_CONTROLLING_DESIRED_PROVINCES코0"
+msgid "Controlling desired provinces in $WHO$'s territory: "
+msgstr "$WHO$의 영토에서 원하는 지역들 중 점령한 곳 : "
+
+msgctxt "DIPLO_DESIRE_YOUR_PROVINCES코0"
+msgid "Desires provinces in $WHO$'s territory: "
+msgstr "$WHO$의 영토에서 원하는 지역들: "
+
+msgctxt "DIPLO_DESIRED_PROVINCES코0"
+msgid "Offers desired provinces: "
+msgstr "원하는 지역 제의: "
+
+msgctxt "DIPLO_UNDESIRED_PROVINCES코0"
+msgid "Offers undesired provinces: "
+msgstr "원하지 않는 지역을 제의: "
+
+msgctxt "DIPLO_HOLD_CAPITAL코0"
+msgid "$WHO$ holds $CAPITAL$: "
+msgstr "$WHO$ 이(가) $CAPITAL$ 을(를) 점령중: "
+
+msgctxt "DIPLO_HOLD_WARGOAL코0"
+msgid "$WHO$ holds wargoal: "
+msgstr "$WHO$ 이(가) 전쟁목표를 달성: "
+
+msgctxt "DIPLO_WANT_INDEPENDENCE코0"
+msgid "$WHO$ wants independence: "
+msgstr "$WHO$이(가) 독립을 원함:"
+
+msgctxt "DIPLO_WAR_CAPACITY코0"
+msgid "$WHO$'s war capacity: "
+msgstr "$WHO$ 의 전쟁 지속능력: "
+
+msgctxt "DIPLO_IS_NOMADS코0"
+msgid "Is nomad: "
+msgstr "유목민임: "
+
+msgctxt "DIPLO_BADNESS코0"
+msgid "Badness: "
+msgstr "나쁨: "
+
+msgctxt "DIPLO_WEARINESS코0"
+msgid "Weariness: "
+msgstr "지침: "
+
+msgctxt "DIPLO_NO_THREAT코0"
+msgid "They are no threat: "
+msgstr "그들은 위협적이지 않음: "
+
+msgctxt "DIPLO_IS_NOT_OCCUPYING코0"
+msgid "Is not occupying $WHO$: "
+msgstr "$WHO$을(를) 점령하고 있지 않음:"
+
+msgctxt "DIPLO_OWNS_CORE_PROVINES코0"
+msgid "$WHO$ owns $ADJ$ core provinces: "
+msgstr "$WHO$은(는) $ADJ$ 코어 지역을 소유 중: "
+
+msgctxt "DIPLO_WAR_SCORE_AND_CAPACITY_BIGGER코0"
+msgid "War Score and capacity bigger than $VAL$: "
+msgstr "승점과 전쟁 지속능력이 $VAL$ 보다 높음: "
+
+msgctxt "DIPLO_WAR_SCORE_AND_CAPACITY_LESSER코0"
+msgid "War Score and capacity less than $VAL$: "
+msgstr "승점과 전쟁 지속능력이 $VAL$ 보다 낮음: "
+
+msgctxt "DIPLO_WAR_CAPACITY_TOO_LOW코0"
+msgid "$WHO$'s war capacity is pitiful: "
+msgstr "$WHO$ 의 전쟁 지속능력이 한심함: "
+
+msgctxt "DIPLO_WAR_CAPACITY_TOO_HIGH코0"
+msgid "$WHO$'s war capacity is terrific: "
+msgstr "$WHO$의 전쟁 지속능력이 훌륭함: "
+
+msgctxt "DIPLO_OFFERS_WARSCORE코0"
+msgid "Offer compared to war score: "
+msgstr "승점과 비교했을 때의 제안 : "
+
+msgctxt "DIPLO_WAR_DURATION코0"
+msgid "War duration: "
+msgstr "전쟁 기간: "
+
+msgctxt "DIPLO_DESPERATE코0"
+msgid "$WHO$ is desperate for peace: "
+msgstr "$WHO$ 은(는) 평화를 위해 필사적임: "
+
+msgctxt "DIPLO_PEACE_ABOVE_WAR_SCORE코0"
+msgid "Peace offer bigger than war score: "
+msgstr "평화 제안이 승점보다 큼: "
+
+msgctxt "DIPLO_PEACE_SCORE_UNDER코0"
+msgid "Peace offer smaller than $SCORE$: "
+msgstr "평화 제안이 $SCORE$ 보다 적음: "
+
+msgctxt "DIPLO_PEACE_SCORE_OVER코0"
+msgid "Peace offer larger than $SCORE$: "
+msgstr "평화 제안이 $SCORE$ 보다 많음: "
+
+msgctxt "DIPLO_NO_UNION_AND_VASSAL코0"
+msgid "Won't be in union and a vassal: "
+msgstr "동군 연합이나 속국이 되지 않음: "
+
+msgctxt "DIPLO_NEED_MORE_PROVINCES코0"
+msgid "$WHO$ needs more provinces ($VAL$): "
+msgstr "$WHO$ 은(는) ($VAL$) 보다 많은 지역들이 필요함: "
+
+msgctxt "DIPLO_NEED_MORE_MILITARY코0"
+msgid "$WHO$ needs a stronger army ($VAL$): "
+msgstr "$WHO$ 은(는) ($VAL$) 보다 많은 군대가 필요함: "
+
+msgctxt "DIPLO_NEED_MORE_IN_INCOME코0"
+msgid "$WHO$ needs a larger monthly income ($VAL$): "
+msgstr "$WHO$ 은(는) ($VAL$) 보다 많은 월수입이 필요함: "
+
+msgctxt "DIPLO_SUPERIORITY_IN_PROV_MIL_INC코0"
+msgid "Superiority in provinces, military and economy: "
+msgstr "영토 및 군사적, 경제적으로 우월: "
+
+msgctxt "DIPLO_IS_DEPENDENT_ON코0"
+msgid "Is dependent on $WHO$: "
+msgstr "$WHO$ 에게 의존함: "
+
+msgctxt "DIPLO_NUM_OF_PROVINCES코0"
+msgid "Number of provinces: "
+msgstr "지역의 수: "
+
+msgctxt "DIPLO_HAS_NO_PROVINCES코0"
+msgid "Has no provinces: "
+msgstr "가진 지역이 없음: "
+
+msgctxt "DIPLO_BASE_TAX코0"
+msgid "$WHO$ economic base compared to $OTHER$: "
+msgstr "$OTHER$ 대비 $WHO$의 경제적 조건: "
+
+msgctxt "DIPLO_MORE_BASE_TAX_THAN코0"
+msgid "$WHO$ has more than $VAL$ total development: "
+msgstr "$WHO$의 총 개발도가 $VAL$보다 더 많음: "
+
+msgctxt "DIPLO_LESS_BASE_TAX_THAN코0"
+msgid "$WHO$ has less than $VAL$ total development: "
+msgstr "$WHO$의 총 개발도가 $VAL$보다 더 적음: "
+
+msgctxt "DIPLO_TOTAL_DEVELOPMENT코0"
+msgid "$TARGET$ has $VAL$ development: "
+msgstr "$TARGET$은(는) $VAL$의 개발도를 갖습니다: "
+
+msgctxt "DIPLO_MILITARY_POWER코0"
+msgid "$WHO$ military power compared to $OTHER$: "
+msgstr "$OTHER$ 대비 $WHO$의 군사력: "
+
+msgctxt "DIPLO_HAS_MORE_PROVINCES_THAN코0"
+msgid "$WHO$ has more than $VAL$ provinces: "
+msgstr "$WHO$ 은(는) $VAL$ 개 이상의 지역을 가지고 있음: "
+
+msgctxt "DIPLO_WAR_ON_OVERLORD코0"
+msgid "The war is on the overlord of $WHO$: "
+msgstr "이 전쟁은 $WHO$ 이(가) 지배함: "
+
+msgctxt "DIPLO_NO_ENEMIES코0"
+msgid "No valid enemy: "
+msgstr "유효한 적국이 없음: "
+
+msgctxt "DIPLO_IS_CONSOLIDATING코0"
+msgid "Have plans on their own: "
+msgstr "그들 자신의 계획을 가지고 있음: "
+
+msgctxt "DIPLO_HAS_TRUCE_WITH코0"
+msgid "$WHO1$ has a truce with $WHO2$: "
+msgstr "$WHO1$ 은(는) $WHO2$ 와 평화 조약중임: "
+
+msgctxt "DIPLO_FEAR_OF_BEING_ANNEXED코0"
+msgid "Is being annexed: "
+msgstr "합병되는 중: "
+
+msgctxt "DIPLO_TRADING_CITY코0"
+msgid "Is Trading City: "
+msgstr "은(는) 무역 도시임:"
+
+msgctxt "DIPLO_SELL_PROVINCE_FREE_CITY코0"
+msgid "Would lose §YFree City§! status: "
+msgstr "§Y자유시§! 지위를 상실합니다: "
+
+msgctxt "DIPLO_SELL_PROVINCE_TRADE_LEAGUE코0"
+msgid "Would have to leave a §YTrade League§!: "
+msgstr "§Y무역 연합§!을 떠나야만 할 것입니다: "
+
+msgctxt "DIPLO_WANT_WAR코0"
+msgid "Attitude towards enemies: "
+msgstr "적들에 대한 태도: "
+
+msgctxt "DIPLO_OVERLORDS_ATTITUDE코0"
+msgid "Overlord's $ATTITUDE$ attitude towards $COUNTRY$: "
+msgstr "$COUNTRY$을(를) 향한 종주국의 $ATTITUDE$ 태도: "
+
+msgctxt "DIPLO_TO_LOW_WAR_CAPACITY코0"
+msgid "$WHO$ have too low war capacity."
+msgstr "$WHO$ 은(는) 너무 낮은 전쟁 지속능력을 가지고 있음."
+
+msgctxt "DIPLO_OVERLORD코0"
+msgid "$WHO$ are the overlord: "
+msgstr "$WHO$ 은(는) 종주국임: "
+
+msgctxt "DIPLO_WAR_NOT_ACTIVE코0"
+msgid "The war is not active: "
+msgstr "이 전쟁은 소강상태임: "
+
+msgctxt "DIPLO_ONLY_CALL_PRIMITIVES코1"
+msgid "This is not suitable for a $SUBJECTTYPE$: "
+msgstr "이는 $SUBJECTTYPE$에게 적합하지 않습니다: "
+
+msgctxt "DIPLO_COALITION_VS_SUBJECT코0"
+msgid "Our $SUBJECTTYPE$ has brought this coalition upon themselves: "
+msgstr "우리의 $SUBJECTTYPE$은(는) 이 반국가동맹을 자초하였습니다."
+
+msgctxt "DIPLO_CURRENT_WARSCORE코0"
+msgid "Current war score: "
+msgstr "현재 승점: "
+
+msgctxt "DIPLO_WARSCORE_LESSER_THAN코0"
+msgid "War score less than $VAL$: "
+msgstr "승점이 $VAL$ 보다 적음: "
+
+msgctxt "DIPLO_WARSCORE_LARGER_THAN코0"
+msgid "War score larger than $VAL$: "
+msgstr "승점이 $VAL$ 보다 많음: "
+
+msgctxt "DIPLO_WAREXHAUSTION코0"
+msgid "War exhaustion: "
+msgstr "전쟁 피로도: "
+
+msgctxt "DIPLO_WAREXHAUSTION_LARGER_THAN코0"
+msgid "War exhaustion larger than $VAL$: "
+msgstr "전쟁 피로도가 $VAL$ 보다 많음: "
+
+msgctxt "DIPLO_PART_OF_EMPIRE코0"
+msgid "$PART$ is part of the empire and $EMPEROR$ is the emperor: "
+msgstr "$PART$ 은(는) 신성로마제국의 일원이며 $EMPEROR$ 은(는) 황제입니다: "
+
+msgctxt "DIPLO_NOT_WANT_BIG_SHIP코0"
+msgid "$WHO$ has no use for Big Ships: "
+msgstr "$WHO$ (은)는 대형선을 원하지 않습니다: "
+
+msgctxt "DIPLO_NOT_WANT_GALLEY코0"
+msgid "$WHO$ has no use for Galleys: "
+msgstr "$WHO$ (은)는 갤리선을 원하지 않습니다: "
+
+msgctxt "DIPLO_TOO_MANY_BIG_SHIP코0"
+msgid "$WHO$ wants §R$NUM$§! fewer Big Ships: "
+msgstr "$WHO$ (은)는 §R$NUM$§! 만큼 적은 대형선을 원합니다: "
+
+msgctxt "DIPLO_TOO_MANY_LIGHT_SHIP코0"
+msgid "$WHO$ wants §R$NUM$§! fewer Light Ships: "
+msgstr "$WHO$ (은)는 §R$NUM$§ 만큼 적은 소형선을 원합니다: "
+
+msgctxt "DIPLO_TOO_MANY_GALLEY코0"
+msgid "$WHO$ wants §R$NUM$§! fewer Galleys: "
+msgstr "$WHO$ (은)는 §R$NUM$§! 만큼 적은 갤리선을 원합니다: "
+
+msgctxt "DIPLO_TOO_MANY_TRANSPORT코0"
+msgid "$WHO$ wants §R$NUM$§! fewer Transports: "
+msgstr "$WHO$ (은)는 §R$NUM$§! 만큼 적은 수송선을 원합니다: "
+
+msgctxt "DIPLO_MORE_THAN코0"
+msgid "more than "
+msgstr "다음보다 많은 "
+
+msgctxt "DIPLO_ALLYS_FOR_YEARS코0"
+msgid "$ALLY1$ has been an ally with $ALLY2$ for $YEARS$ years: "
+msgstr "$ALLY1$ 은(는) $ALLY2$ 과(와) $YEARS$ 년간 동맹임: "
+
+msgctxt "DIPLO_NOT_BEEN_ALLYS_FOR_YEARS코0"
+msgid "$ALLY1$ has not been an ally with $ALLY2$ for $YEARS$ years: "
+msgstr "$ALLY1$ 은(는) $ALLY2$ 과(와) $YEARS$ 년간 동맹이 되지 않음: "
+
+msgctxt "DIPLO_DEFENSIVE_BAD_WARSCORE코0"
+msgid "It's a defensive war and your war score is less than $VAL$: "
+msgstr "이것은 방어전이며 당신의 승점은 $VAL$ 보다 적음: "
+
+msgctxt "DIPLO_DIPLOMATIC_REP코0"
+msgid "$WHO$ diplomatic reputation: "
+msgstr "$WHO$ 의 외교적 평판: "
+
+msgctxt "DIPLO_FED_DIPLOMATIC_REP코0"
+msgid "Total diplomatic reputation in $WHO$: "
+msgstr "$WHO$에서의 총 외교적 평판: "
+
+msgctxt "DIPLO_DIPLOMATIC_SKILL코0"
+msgid "$WHO$ diplomatic skill: "
+msgstr "$WHO$ 의 외교 능력: "
+
+msgctxt "DIPLO_DIPLOMATIC_SKILL_MODIFIERS코0"
+msgid "$WHO$ diplomatic skill modifiers: "
+msgstr "$WHO$ 의 외교 능력 변동치: "
+
+msgctxt "DIPLO_DIPLOMATIC_SKILL_DIFF코0"
+msgid "$WHO$ and $WHO2$ diplomatic skill difference: "
+msgstr "$WHO$ 과(와) $WHO2$ 사이의 외교 능력 차이: "
+
+msgctxt "DIPLO_DIPLOMATIC_SKILL_MODIFIERS_DIFF코0"
+msgid "$WHO$ and $WHO2$ diplomatic skill modifiers difference: "
+msgstr "$WHO$ 과(와) $WHO2$ 사이의 외교 능력 변동치 차이: "
+
+msgctxt "DIPLO_NUMBER_OF_ALLIES코0"
+msgid "Number of allies for $WHO$: "
+msgstr "$WHO$ 의 동맹국 개수: "
+
+msgctxt "DIPLO_NUMBER_OF_GREAT_POWER_ALLIES코0"
+msgid "Number of Great Power allies for $WHO$: "
+msgstr "$WHO$이(가) 동맹을 맺은 열강 수: "
+
+msgctxt "DIPLO_GREAT_POWER코0"
+msgid "$WHO$ is a Great Power: "
+msgstr "$WHO$ 은 열강에 포함됩니다: "
+
+msgctxt "DIPLO_TRUST_WITH코0"
+msgid "Trust towards $WHO$: "
+msgstr "$WHO$에 대한 신뢰도: "
+
+msgctxt "DIPLO_NUMBER_OF_POWERFUL_ALLIES코0"
+msgid "$WHO$ already has powerful allies: "
+msgstr "$WHO$은(는) 이미 강력한 동맹을 가지고 있습니다:"
+
+msgctxt "DIPLO_THREATENED_BY_RIVAL코0"
+msgid "$WHO$ is threatened by $RIVAL$: "
+msgstr "$WHO$은(는) $RIVAL$에게 위협받고 있습니다: "
+
+msgctxt "DIPLO_RIVAL_ALLIES코0"
+msgid "$WHO$ is allied to $ADJ$ rival $RIVAL$: "
+msgstr "$WHO$은(는) $ADJ$ 경쟁국 $RIVAL$와 동맹중입니다: "
+
+msgctxt "DIPLO_HISTORICAL_RIVAL코0"
+msgid "Historical Rival: "
+msgstr "역사적 경쟁국:"
+
+msgctxt "DIPLO_HISTORICAL_NEUTRAL코0"
+msgid "Historical Neutral: "
+msgstr "역사적 중립:"
+
+msgctxt "DIPLO_SIZE_OF_WAR코0"
+msgid "Size of war: "
+msgstr "전쟁 규모: "
+
+msgctxt "DIPLO_ROYAL_MARRIAGE_BETWEEN코0"
+msgid "Royal marriage between $WHO1$ and $WHO2$: "
+msgstr "$WHO1$ 과(와) $WHO2$ 사이의 왕실 결혼: "
+
+msgctxt "DIPLO_CANNOT_MARRY코0"
+msgid "$WHO$ cannot enter into a Royal Marriage: "
+msgstr "$WHO$은(는) 왕실 결혼을 할 수 없음: "
+
+msgctxt "DIPLO_WHO_TRUST코0"
+msgid "$WHO1$ trusts $WHO2$: "
+msgstr "$WHO1$ 은(는) $WHO2$ 을(를) 신뢰함: "
+
+msgctxt "DIPLO_TRUST코0"
+msgid "Trust: "
+msgstr "신뢰: "
+
+msgctxt "DIPLO_TRUST_BELOW코0"
+msgid "Trust below $TRUSTVALUE|Y$: "
+msgstr "$TRUSTVALUE|Y$보다 낮은 신뢰: "
+
+msgctxt "DIPLO_DISTRUST코0"
+msgid "Distrust: "
+msgstr "불신: "
+
+msgctxt "DIPLO_THREAT코0"
+msgid "Threat: "
+msgstr "위협: "
+
+msgctxt "DIPLO_RIVALS코0"
+msgid "Rival bonus: "
+msgstr "경쟁국 보너스: "
+
+msgctxt "DIPLO_COMMON_RIVALS코0"
+msgid "Common Rivals: "
+msgstr "공통의 경쟁국: "
+
+msgctxt "DIPLO_NUM_OF_RIVALS코0"
+msgid "Number of rivals: "
+msgstr "경쟁국의 수: "
+
+msgctxt "DIPLO_GAVE_WAR_ACCESS_TO_ENEMY코0"
+msgid "Gave military access to enemies: "
+msgstr "적국에 군사 통행권을 줌:"
+
+msgctxt "DIPLO_WAR_WITH_RIVAL코0"
+msgid "At war with rival: "
+msgstr "경쟁국과 전쟁 중: "
+
+msgctxt "DIPLO_WAR_WITH_OVERLORDS_RIVAL코0"
+msgid "At war with rival of overlord: "
+msgstr "종주국의 경쟁국과 전쟁 중:"
+
+msgctxt "DIPLO_WAR_WITH_ALLY코0"
+msgid "At war with ally: "
+msgstr "동맹국과 전쟁 중:"
+
+msgctxt "DIPLO_WAR_WITH_NEIGHBOUR_RIVAL코0"
+msgid "At war with neighboring rival: "
+msgstr "이웃하는 경쟁국과 전쟁 중: "
+
+msgctxt "DIPLO_WAR_WITH_NEIGHBOUR_OVERLORDS_RIVAL코0"
+msgid "At war with neighboring rival of overlord: "
+msgstr "종주국의 이웃하는 경쟁국과 전쟁 중:"
+
+msgctxt "DIPLO_WAR_WITH_NEIGHBOUR_ALLY코0"
+msgid "At war with neighboring ally: "
+msgstr "이웃하는 동맹국과 전쟁 중:"
+
+msgctxt "DIPLO_SAME_CULTURE_GROUP코0"
+msgid "Same culture group: "
+msgstr "같은 문화권: "
+
+msgctxt "DIPLO_SAME_RELIGION_GROUP코0"
+msgid "Same religious group: "
+msgstr "같은 종교권: "
+
+msgctxt "DIPLO_NOT_SAME_CULTURE_GROUP코0"
+msgid "Not the same culture group: "
+msgstr "다른 문화권: "
+
+msgctxt "DIPLO_NOT_SAME_RELIGION_GROUP코0"
+msgid "Not the same religious group: "
+msgstr "다른 종교권: "
+
+msgctxt "DIPLO_SAME_RELIGION코0"
+msgid "Both countries are $NAME$: "
+msgstr "두 나라 모두 $NAME$입니다: "
+
+msgctxt "DIPLO_SAME_CULTURE코0"
+msgid "Same culture: "
+msgstr "같은 문화: "
+
+msgctxt "DIPLO_NOT_SAME_RELIGION코0"
+msgid "Not same religion: "
+msgstr "같은 종교가 아님: "
+
+msgctxt "DIPLO_NOT_SAME_LEAGUE_LEADER코0"
+msgid "Leader of opposing league: "
+msgstr "상대 연맹의 주도국:"
+
+msgctxt "DIPLO_NOT_SAME_CULTURE코0"
+msgid "Not same culture: "
+msgstr "같은 문화가 아님: "
+
+msgctxt "DIPLO_RELIGIOUS_SCHOOL_RELATIONS코0"
+msgid "Religious school relations: "
+msgstr "종교 학파 친밀도: "
+
+msgctxt "DIPLO_SAME_RELIGIOUS_SCHOOL코0"
+msgid "Same religious school: "
+msgstr "같은 종교 학파: "
+
+msgctxt "DIPLO_NOT_ACCEPTED_CULTURE코0"
+msgid "$WHO$ does not accept $CULTURE$ culture: "
+msgstr "$WHO$ 은(는) $CULTURE$ 문화를 수용하지 않음: "
+
+msgctxt "DIPLO_SUPERIOR_SIZE코0"
+msgid "$WHO$ is superior in land and army size: "
+msgstr "$WHO$ 은(는) 압도적인 군대 규모 및 영토를 가지고 있음: "
+
+msgctxt "DIPLO_SUPERIOR_ARMY_SIZE코0"
+msgid "$WHO$ is superior in army size: "
+msgstr "$WHO$ 은(는) 압도적인 군대 규모를 가지고 있음: "
+
+msgctxt "DIPLO_RELATIVE_POWER_ALLIANCE코0"
+msgid "Power of $WHO$ alliance compared to $US$: "
+msgstr "$US$과 비교한 $WHO$ 동맹의 상대적 세력: "
+
+msgctxt "DIPLO_RECENTLY_FORCED_TO_RETURN_TERRITORY코0"
+msgid "$WHO$ recently forced $US$ to return territory: "
+msgstr "$WHO$은(는) 최근 $US$에게 영토를 반환하라고 강요했습니다:"
+
+msgctxt "DIPLO_MANPOWER코0"
+msgid "$WHO$ Manpower: "
+msgstr "$WHO$ 의 인력: "
+
+msgctxt "DIPLO_LOW_MANPOWER코0"
+msgid "$WHO$ has low Manpower: "
+msgstr "$WHO$은(는) 적은 인력을 가지고 있습니다:"
+
+msgctxt "DIPLO_LOANS코0"
+msgid "$WHO$ is $GOLD|0$¤ in debt: "
+msgstr "$WHO$은(는) $GOLD|0$¤의 빚을 지고 있습니다:"
+
+msgctxt "DIPLO_TRADE_POWER_ASKED_FOR코0"
+msgid "Amount of Trade power asked for: "
+msgstr "요청받은 무역력의 크기: "
+
+msgctxt "DIPLO_ARMY_SIZE코0"
+msgid "$WHO$ Army Strength: "
+msgstr "$WHO$ 의 육군 전력: "
+
+msgctxt "DIPLO_NAVY_SIZE코0"
+msgid "$WHO$ Navy Strength: "
+msgstr "$WHO$ 의 해군 전력: "
+
+msgctxt "DIPLO_FELLOW_VASSAL코0"
+msgid "$COUNTRY01$ is a fellow subject of $COUNTRY02$: "
+msgstr "$COUNTRY01$은(는) $COUNTRY02$의 종속국임: "
+
+msgctxt "DIPLO_HALF_LAND_SIZE코0"
+msgid "$COUNTRY01$ has half the amount of provinces compared to $COUNTRY02$: "
+msgstr "$COUNTRY01$ 은(는) $COUNTRY02$ 과(와) 비교해 절반의 지역만을 가지고 있음: "
+
+msgctxt "DIPLO_LESSER_IN_VASSAL코0"
+msgid "$WHO$ is a vassal: "
+msgstr "$WHO$ 은(는) 속국임: "
+
+msgctxt "DIPLO_BETRAYED_ALLY코0"
+msgid "$WHO$ recently broke a promise to give land: "
+msgstr "$WHO$은(는) 최근 영토를 준다는 약속을 깨트렸습니다."
+
+msgctxt "DIPLO_NOT_WANT_PROVINCES_NOT_ENOUGH_FAVORS코0"
+msgid "Not enough favors and does not want any land: "
+msgstr "충분한 호의가 없고 어떤 영토도 원하지 않습니다:"
+
+msgctxt "DIPLO_NOT_WANT_PROVINCES코0"
+msgid "Does not want any $WHO$ land that $CALLER$ hasn't claimed: "
+msgstr "$CALLER$이(가) 클레임을 갖고 있지 않은 어떤 $WHO$ 영토도 원하지 않습니다: "
+
+msgctxt "DIPLO_WANTS_PROVINCES코0"
+msgid "Promised $WHO$ land: "
+msgstr "약속된 $WHO$ 영토: "
+
+msgctxt "DIPLO_PREPARED_FOR_WAR코0"
+msgid "Prepared for War: "
+msgstr "전쟁을 준비하다:"
+
+msgctxt "DIPLO_PLAYER_AI_PREFS_KEEP_ALLY코1"
+msgid "$WHO$ §GKeep Allies and Rivals§! AI setting is §Genabled§!: "
+msgstr "$WHO$은(는) §G동맹과 경쟁국 유지§! AI 설정을 §G허용했습니다§!: "
+
+msgctxt "DIPLO_UNION_WAR_GREAT_POWER코0"
+msgid "$WHO$ does not want $TARGET$ in a union under $THEM$: "
+msgstr "$WHO$은(는) $THEM$과(와) 연합 중인 상황에서 $TARGET$을(를) 원하지 않습니다:"
+
+msgctxt "DIPLO_PLAYER_AI_PREFS_FIGHT_TO_DEATH코0"
+msgid "$WHO$ §GSeek Fast Peace§! AI setting is §Genabled§!: "
+msgstr "$WHO$은(는) §G빠른 평화 추구§! AI 설정을 §G허용했습니다§!: "
+
+msgctxt "DIPLO_VASSAL_UNDER코0"
+msgid "$VASSAL$ is a vassal under $LEADER$: "
+msgstr "$VASSAL$ 은(는) $LEADER$ 의 속국임: "
+
+msgctxt "DIPLO_VASSAL_LOYAL코0"
+msgid "$VASSAL$ is loyal to $OVERLORD$"
+msgstr "$VASSAL$ 은 $OVERLORD$ 에 충성합니다."
+
+msgctxt "DIPLO_UNION_UNDER코0"
+msgid "$UNDER$ is in a personal union under $LEADER$: "
+msgstr "$UNDER$ 은(는) $LEADER$ 과(와) 동군 연합중임: "
+
+msgctxt "DIPLO_IN_OUR_UNION코0"
+msgid "$WHO$ is in our union: "
+msgstr "$WHO$ 은(는) 우리의 동군 연합임: "
+
+msgctxt "DIPLO_SUPPORTING_INDEPENDENCE코0"
+msgid "$COUNTRY01$ is supporting $COUNTRY02_ADJ$ independence: "
+msgstr "$COUNTRY01$은(는) $COUNTRY02_ADJ$의 독립을 지원하고 있음: "
+
+msgctxt "DIPLO_OPINION코0"
+msgid "$COUNTRY01$ opinion about $COUNTRY02$: "
+msgstr "$COUNTRY01$ 의 $COUNTRY02$ 에 대한 관계도: "
+
+msgctxt "DIPLO_FED_OPINION코0"
+msgid "$COUNTRY01$ total opinion about $COUNTRY02$: "
+msgstr "$COUNTRY02$에 대한 $COUNTRY01$의 관계도 총합: "
+
+msgctxt "DIPLO_OPINION_LESSER_THAN코0"
+msgid "$COUNTRY01$ opinion about $COUNTRY02$ is less than $VAL|Y$: "
+msgstr "$COUNTRY01$ 의 $COUNTRY02$ 에 대한 관계도가 $VAL|Y$ 보다 낮음: "
+
+msgctxt "DIPLO_OPINION_LARGER_THAN코0"
+msgid "$COUNTRY01$ opinion about $COUNTRY02$ is larger than $VAL|Y$: "
+msgstr "$COUNTRY01$ 의 $COUNTRY02$ 에 대한 관계도가 $VAL|Y$ 보다 높음: "
+
+msgctxt "DIPLO_CANT_AFFORD코0"
+msgid "$WHO$ can't afford another diplomatic relation: "
+msgstr "$WHO$ 은(는) 더이상의 외교적 관계를 맺을 여유가 없음: "
+
+msgctxt "DIPLO_FRIENDLINESS코0"
+msgid "Desire for Friendship: "
+msgstr "우정에 대한 갈망: "
+
+msgctxt "DIPLO_ANTAGONISM코0"
+msgid "Antagonism: "
+msgstr "적대감: "
+
+msgctxt "DIPLO_MORE_OWNED_PROVINCES코0"
+msgid "$WHO$ is larger: "
+msgstr "$WHO$ 은(는) 거대함: "
+
+msgctxt "DIPLO_AT_WAR_OFFENSIVE코0"
+msgid "$WHO$ is in an offensive war: "
+msgstr "$WHO$은(는) 공격전쟁 중입니다:"
+
+msgctxt "DIPLO_AT_WAR코0"
+msgid "$WHO$ is at war: "
+msgstr "$WHO$ 은(는) 전쟁중임: "
+
+msgctxt "DIPLO_IN_IMPORTANT_WAR코0"
+msgid "$WHO$ is in an important war: "
+msgstr "$WHO$은(는) 중요한 전쟁에 참여하고 있습니다:"
+
+msgctxt "DIPLO_AT_WAR_AGAINST코0"
+msgid "$WHO$ is at war against $AGAINST$: "
+msgstr "$WHO$ 은(는) $AGAINST$ 과(와) 전쟁중임: "
+
+msgctxt "DIPLO_NOT_VALID_FOR_SUPPORT_INDEPENDENCE코0"
+msgid "Not a valid target for Support Independence: "
+msgstr "독립을 지원할 수 있는 유효한 대상이 아님: "
+
+msgctxt "DIPLO_DIPLOMATIC_DISTANCE코0"
+msgid "Distance between capitals: "
+msgstr "수도 사이의 거리: "
+
+msgctxt "DIPLO_ORIGINAL_ENEMY_NOT_BEATEN코0"
+msgid "$COUNTRY$ not fully occupied: "
+msgstr "$COUNTRY$ 은(는) 모두 점령되지 않음: "
+
+msgctxt "DIPLO_BORDER_DISTANCE코0"
+msgid "Distance between borders: "
+msgstr "국경 사이의 거리: "
+
+msgctxt "DIPLO_PROTECTORATES코0"
+msgid "Number of protectorates: "
+msgstr "보호국의 수: "
+
+msgctxt "DIPLO_OTHER_PROTECTORATE코0"
+msgid "$WHO$ is a protectorate in the same trade node: "
+msgstr "$WHO$은(는) 같은 무역 노드의 보호국임: "
+
+msgctxt "DIPLO_FED_BORDER_DISTANCE코0"
+msgid "Average distance to $FEDNAME$: "
+msgstr "$FEDNAME$까지의 평균 거리: "
+
+msgctxt "DIPLO_CANNOT_REACH코0"
+msgid "$WHO$ cannot reach $TARGET$: "
+msgstr "$WHO$은(는) $TARGET$에 접근할 수 없음: "
+
+msgctxt "DIPLO_ROYAL_MARRIAGES_FOR코0"
+msgid "Number of royal marriages for $WHO$: "
+msgstr "$WHO$ 의 왕실 결혼 갯수: "
+
+msgctxt "DIPLO_LIBERTY_DESIRE_BELOW코0"
+msgid "$WHO$'s Liberty Desire is less than $VAL$: "
+msgstr "$WHO$의 독립 열망이 $VAL$보다 낮음: "
+
+msgctxt "DIPLO_LIBERTY_DESIRE_ABOVE코0"
+msgid "$WHO$'s Liberty Desire is more than $VAL$: "
+msgstr "$WHO$의 독립 열망이 $VAL$보다 높습니다: "
+
+msgctxt "DIPLO_STABHIT_FROM_NO_CB코0"
+msgid "No Casus Belli: "
+msgstr "전쟁명분 없음: "
+
+msgctxt "DIPLO_RECENTLY_DID_ACTION코0"
+msgid "Recently did $ACTION$: "
+msgstr "최근에 $ACTION$ 을 행함: "
+
+msgctxt "DIPLO_MSG_FILTER_NEIGHBOURS코0"
+msgid "Neighbors: "
+msgstr "이웃: "
+
+msgctxt "DIPLO_IS_EMPEROR코0"
+msgid "$WHO$ is the Holy Roman Emperor: "
+msgstr "$WHO$(은)는 신성로마제국의 황제 입니다: "
+
+msgctxt "DIPLO_IS_EMPEROR_ALLY코0"
+msgid "$WHO$ is allied to the Holy Roman Emperor: "
+msgstr "$WHO$은(는) 신성로마제국의 황제와 동맹 중입니다:"
+
+msgctxt "DIPLO_INVALID_TARGET코0"
+msgid "Invalid target: "
+msgstr "잘못된 대상: "
+
+msgctxt "DIPLO_SAME_CONTINENT코0"
+msgid "Has province on same continent: "
+msgstr "같은 대륙의 지역을 가짐: "
+
+msgctxt "DIPLO_TOO_LARGE_FREE_CITY코0"
+msgid "$WHO$ is too large to become a free city: "
+msgstr "$WHO$은(는) 자유시가 되기에는 너무 큽니다."
+
+msgctxt "DIPLO_HAS_SUBJECTS코0"
+msgid "$WHO$ has subjects of its own: "
+msgstr "$WHO$은(는) 자신의 종속국을 가지고 있음: "
+
+msgctxt "DIPLO_IS_LESSERVASSAL_OR_UNION코0"
+msgid "Is vassal or union member: "
+msgstr "속국 혹은 동군 연합의 일원임: "
+
+msgctxt "DIPLO_IS_STRONGER코0"
+msgid "We are much stronger: "
+msgstr "우리가 더 강력함: "
+
+msgctxt "DIPLO_IS_SUBJECT코0"
+msgid "$WHO$ is a subject: "
+msgstr "$WHO$은(는) 종속국임: "
+
+msgctxt "DIPLO_IS_THREAT코0"
+msgid "They view us as a Threat: "
+msgstr "그들은 우리를 위협적으로 바라봄: "
+
+msgctxt "DIPLO_MAY_REPLACE_WAR코0"
+msgid "May replace $WHO$ as the leader of the war: "
+msgstr "$WHO$ 을(를) 전쟁의 주도국으로 만듬: "
+
+msgctxt "DIPLO_WE_HAVE_ROYAL_MARRIAGE코0"
+msgid "We have a royal marriage: "
+msgstr "왕실 결혼을 맺음: "
+
+msgctxt "DIPLO_GOVERNMENT코0"
+msgid "$COUNTRY$ is a $GOVERNMENT$: "
+msgstr "$COUNTRY$은(는) $GOVERNMENT$: "
+
+msgctxt "DIPLO_CHANCE_LESSER_THAN코0"
+msgid "Reasons less than $VAL|Y$: "
+msgstr "명분이 $VAL|Y$ 보다 적음: \""
+
+msgctxt "DIPLO_CHANCE_LARGER_THAN코0"
+msgid "Reasons larger than $VAL|Y$: "
+msgstr "명분이 $VAL|Y$ 보다 많음: \""
+
+msgctxt "DIPLO_PEACE_ACCEPTABLE코0"
+msgid "Peace acceptable: "
+msgstr "평화가 받아들여짐: "
+
+msgctxt "DIPLO_ENFORCE_PEACE_WILLINGNESS코0"
+msgid "Desire for peace: "
+msgstr "평화에의 갈망: "
+
+msgctxt "DIPLO_ENFORCE_PEACE_FEAR코0"
+msgid "Fear of $WHO$: "
+msgstr "$WHO$ 의 공포: "
+
+msgctxt "DIPLO_MAY_NOT_DECLARE_WAR코0"
+msgid "May not declare war against $WHO$: "
+msgstr "$WHO$ 에 대해 전쟁을 선포하지 않을 것임: "
+
+msgctxt "DIPLO_IS_DOF코0"
+msgid "$WHO$ is Defender of the faith ($RELIGION$): "
+msgstr "$WHO$ 은(는) ($RELIGION$) 의 신앙의 수호자임: "
+
+msgctxt "DIPLO_PRESTIGE코0"
+msgid "Prestige: "
+msgstr "위신: "
+
+msgctxt "DIPLO_OVER_FORCE_LIMIT코0"
+msgid "Buying the fleet would exceed force limit: "
+msgstr "함대를 획득하는 것은 함대 한계치를 초과할 것입니다: "
+
+msgctxt "DIPLO_OVEREXTENDED코0"
+msgid "$WHO$ is overextended: "
+msgstr "$WHO$ 은(는) 과확장 상태: "
+
+msgctxt "DIPLO_PROVINCE_PRICE코0"
+msgid "Price: "
+msgstr "가치: "
+
+msgctxt "DIPLO_PROVINCE_CORE코0"
+msgid "$PROV$ is a core of $WHO$: "
+msgstr "$WHO$은(는) $PROV$에 코어를 갖고 있습니다:"
+
+msgctxt "DIPLO_PROVINCE_CLAIM코0"
+msgid "$PROV$ is a $WHO$ claim: "
+msgstr "$WHO$은(는) $PROV$에 클레임을 갖고 있습니다:"
+
+msgctxt "DIPLO_PROVINCE_NO_STRATEGIC_INTEREST코0"
+msgid ""
+"$PROV$ is not a core, a claim, or a previously owned province of $WHO$: "
+msgstr "$PROV$은(는) $WHO$의 코어 지역이거나, 클레임을 가진 지역이거나, 이전에 소유했던 지역이 아님: "
+
+msgctxt "DIPLO_PROVINCE_SAME_RELIGION코0"
+msgid "$PROV$ and $WHO$ are $RELIGION$: "
+msgstr "$PROV$ 지역과 $WHO$ 은(는) $RELIGION$: "
+
+msgctxt "DIPLO_NOT_NEIGHBOURS코0"
+msgid "Are not neighbors: "
+msgstr "이웃이 아님: "
+
+msgctxt "DIPLO_SELLPROV_NEIGHBOUR_AND_PRICE코0"
+msgid "$PROV$ is neighbor to $WHO$ and the price is $VAL$: "
+msgstr "$PROV$ 지역은 $WHO$ 와 이웃하며 $VAL$ 의 가치를 지님: "
+
+msgctxt "DIPLO_SELLPROV_NOPORT_NOCORE코0"
+msgid "$PROV$ cannot be made into a core of $WHO$: "
+msgstr "$PROV$ 지역은 $WHO$ 의 코어 지역으로 만들 수 없음: "
+
+msgctxt "DIPLO_PROVINCE_ISCORE_OFNUM코0"
+msgid "$PROV$ is the core of $NUM$ countries: "
+msgstr "$PROV$ 지역은 $NUM$ 개 국가의 코어 지역임: "
+
+msgctxt "DIPLO_UNOCCUPIED코0"
+msgid "$WHO1$ is not occupied by $WHO2$: "
+msgstr "$WHO1$ 은(는) $WHO2$ 에 의해 점령당하지 않았음: "
+
+msgctxt "DIPLO_CONQUER_VALUE코0"
+msgid "Conquer value: "
+msgstr "정복 수치: "
+
+msgctxt "DIPLO_TREASURY코0"
+msgid "$WHO$ treasury: "
+msgstr "$WHO$ 의 재정: "
+
+msgctxt "DIPLO_DIPLOMATIC_REPUTATION코0"
+msgid "Diplomatic Reputation: "
+msgstr "외교적 평판: "
+
+msgctxt "DIPLO_SELLPROV_ABOVE_TREASURY코0"
+msgid "Price is above $WHO$ treasury: "
+msgstr "가격이 $WHO$ 의 보유금보다 높음: "
+
+msgctxt "DIPLO_INVALID_LOAN코0"
+msgid "Loan is invalid: "
+msgstr "채무의 효력이 사라짐: "
+
+msgctxt "DIPLO_LOAN_INTEREST_ABOVE코0"
+msgid "Loan interest is above $VAL|Y%$: "
+msgstr "채무에 대한 이자가 $VAL|Y%$ 보다 높음: "
+
+msgctxt "DIPLO_LOAN_TOO_MANY코0"
+msgid "$WHO$ has too many loans: "
+msgstr "$WHO$ 은(는) 너무 많은 채무를 가지고 있음: "
+
+msgctxt "DIPLO_LOAN_CANT_AFFORD_INTEREST코0"
+msgid "$WHO$ can't afford the interest $INTEREST|Y%$: "
+msgstr "$WHO$ 은(는) 이자 $INTEREST|Y%$ 을 지불할 여유가 없음: "
+
+msgctxt "DIPLO_LOAN_NOT_NEED_LOAN코0"
+msgid "$WHO$ is not in need of any loan: "
+msgstr "$WHO$ 은(는) 채무를 질 이유가 없음: "
+
+msgctxt "DIPLO_LOAN_EARNS_ENOUGH코0"
+msgid "$WHO$ earns too much: "
+msgstr "$WHO$ 의 수익이 높음: "
+
+msgctxt "DIPLO_LOAN_EXPIRY_SOON코0"
+msgid "Expiry date is too soon: "
+msgstr "유효 기간이 다 되어감: "
+
+msgctxt "DIPLO_LOAN_COST_SOON코0"
+msgid "Loan will cost too much, too soon: "
+msgstr "채무의 비용이 너무 높고 유효기간이 너무 짧음: "
+
+msgctxt "DIPLO_LOAN_TOO_SMALL코0"
+msgid "Loan is too small to bother: "
+msgstr "융자가 너무 적어 문제가 되지 않습니다: "
+
+msgctxt "DIPLO_ALREADY_HAVE_LOAN코0"
+msgid "$LENDER$ already lent $WHO$ money."
+msgstr "$LENDER$ 은 이미 $WHO$ 에게 융자해 줬습니다."
+
+msgctxt "DIPLO_TOO_MANY_RELATIONS코0"
+msgid "$WHO$ have too many diplomatic relations: "
+msgstr "$WHO$은(는) 너무 많은 외교 관계를 가지고 있습니다."
+
+msgctxt "DIPLO_BASE코0"
+msgid "Base: "
+msgstr "기본: "
+
+msgctxt "DIPLO_DIP_POWER_COST_ABOVE코0"
+msgid "$WHO$ has a Diplomatic Power cost above $VAL|Y$: "
+msgstr "$WHO$이(가) 지불할 수 있는 외교력이 $VAL|Y$ 이상: "
+
+msgctxt "DIPLO_NO_ALLIANCE_NO_GUARANTEE코0"
+msgid "$COUNTRY01$ is not allied with or guaranteeing $COUNTRY02$: "
+msgstr "$COUNTRY01$은(는) $COUNTRY02$와(과) 동맹 중이거나 독립 보장 중이지 않음: "
+
+msgctxt "DIPLO_ALLIANCE코0"
+msgid "$COUNTRY01$ is allied with $COUNTRY02$: "
+msgstr "$COUNTRY01$은(는) $COUNTRY02$와(과) 동맹 중: "
+
+msgctxt "DIPLO_TOO_SMALL코0"
+msgid "Not enough provinces: "
+msgstr "지역이 충분하지 않습니다: "
+
+msgctxt "DIPLO_RELATIVE_WORTH_OF_PROV코0"
+msgid "Relative worth of province: "
+msgstr "상대적인 지역들의 가치:"
+
+msgctxt "DIPLO_RECENTLY_THREATENED코0"
+msgid "Recently gave in to threat: "
+msgstr "최근에 위협에 굴복함:"
+
+msgctxt "DIPLO_NOT_OUR_CORE코0"
+msgid "Province is not a $ADJ$ core: "
+msgstr "지역이 $ADJ$ 코어가 아닙니다: "
+
+msgctxt "DIPLO_BASE_VALUE코0"
+msgid "Base value: "
+msgstr "기본값:"
+
+msgctxt "DIPLO_INTERESTS_IN_REGION코0"
+msgid "$ADJ$ interests in region: "
+msgstr "$ADJ$의 지역적 이해관계:"
+
+msgctxt "DIPLO_RIVALS_INTERESTS_IN_REGION코0"
+msgid "Rivals' interests in region: "
+msgstr "경쟁국의 지역적 이해관계:"
+
+msgctxt "DIPLO_IS_COLONIZER코0"
+msgid "$WHO$ is a colonizer: "
+msgstr "$WHO$은 식민지를 개척하는 국가입니다:"
+
+msgctxt "DIPLO_NO_TRADE_LEAGUE_LEAD코0"
+msgid "$WHO$ could have led the league: "
+msgstr "$WHO$은(는) 연맹을 이끌 수 있습니다:"
+
+msgctxt "DIPLO_TRADE_LEAGUE_MORE코0"
+msgid "Another member of their league: "
+msgstr "연맹의 또다른 일원:"
+
+msgctxt "DIPLO_TRADE_LEAGUE_SIZE코0"
+msgid "Size of Trade League ($NUM$): "
+msgstr "무역 연합의 크기 ($NUM$):"
+
+msgctxt "DIPLO_WOULD_DISMISS코0"
+msgid "Would dismiss troops: "
+msgstr "군대를 해산할 것입니다:"
+
+msgctxt "DIPLO_FREE_TROOPS코0"
+msgid "Free troops: "
+msgstr "공짜 군대:"
+
+msgctxt "DIPLO_TROOP_QUALITY코0"
+msgid "Quality of troops: "
+msgstr "군대의 질:"
+
+msgctxt "DIPLO_TROOP_QUANTITY코0"
+msgid "Quantity of troops: "
+msgstr "군대의 양:"
+
+msgctxt "DIPLO_TOO_EXPENSIVE코0"
+msgid "Too expensive: "
+msgstr "너무 비쌈:"
+
+msgctxt "DIPLO_NOT_AT_WAR코0"
+msgid "Not at war: "
+msgstr "전쟁 중이 아님:"
+
+msgctxt "DIPLO_NOT_IN_IMPORTANT_WAR코0"
+msgid "Not in important war: "
+msgstr "중요한 전쟁 중이 아님:"
+
+msgctxt "DIPLO_CANT_PAY_UPFRONT코0"
+msgid "Can't afford upfront cost: "
+msgstr "선불 비용을 감당할 수 없습니다:"
+
+msgctxt "DIPLO_BUDGET_SURPLUS코0"
+msgid "Budget surplus of $GOLD|1$¤: "
+msgstr "$GOLD|1$¤의 흑자 예산:"
+
+msgctxt "DIPLO_UNFAVORABLE_COST코0"
+msgid "Unfavorable cost: "
+msgstr "지나친 비용:"
+
+msgctxt "DIPLO_MONTHLY_COST코0"
+msgid "Monthly cost of $GOLD|1$¤: "
+msgstr "$GOLD|1$¤의 매월 비용: "
+
+msgctxt "DIPLO_WAR_BALANCE_GOOD코0"
+msgid "War balance looks good: "
+msgstr "전쟁 상황이 나쁘지 않음:"
+
+msgctxt "DIPLO_IS_RIVAL코0"
+msgid "Is Rival: "
+msgstr "경쟁국임:"
+
+msgctxt "DIPLO_NO_ACCESS_TO_CAPITAL코0"
+msgid "No land access to capital: "
+msgstr "수도에 육로로 접근이 불가능:"
+
+msgctxt "DIPLO_CONDOTTIERI_MALUS코0"
+msgid "Don't trust you will participate: "
+msgstr "당신이 참가할 것이라고 믿지 않음:"
+
+msgctxt "DIPLO_VASSAL_WAR코0"
+msgid "Government Form allows Vassal War: "
+msgstr "정부 형태가 속국전쟁이 가능한 상태입니다: "
+
+msgctxt "DIPLO_TRIBUTARIES코0"
+msgid "Number of Tributary States: "
+msgstr "조공국들의 수:"
+
+msgctxt "DIPLO_IS_CELESTIAL_EMPEROR코0"
+msgid "$WHO$ is the Celestial Emperor: "
+msgstr "$WHO$은(는) 천자이다: "
+
+msgctxt "DIPLO_IS_HORDE_EMPIRE코0"
+msgid "$WHO$ is a Horde Empire: "
+msgstr "$WHO$은(는) 유목민 제국이다: "
+

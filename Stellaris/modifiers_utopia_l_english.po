@@ -1,0 +1,253 @@
+# DrawnA <klaus18@naver.com>, 2017. #zanata
+# Ellende <leemys2004@naver.com>, 2017. #zanata
+# Hyeonseok <hso6112@naver.com>, 2017. #zanata
+# Kim Hongmin <hongmin96@naver.com>, 2017. #zanata
+# SCR <pukpuk88@naver.com>, 2017. #zanata
+# amumustella123 <qaswde1234@naver.com>, 2017. #zanata
+# bjrj <asap1993@naver.com>, 2017. #zanata
+# kmkim <mkyung85@gmail.com>, 2017. #zanata
+# sacredcapitalist <gh9803@naver.com>, 2017. #zanata
+# seawave <cogotn111@naver.com>, 2017. #zanata
+# woomoo <shniceman@naver.com>, 2017. #zanata
+# 김건우 <rlarjsdn122@naver.com>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2017-10-26 10:36-0400\n"
+"Last-Translator: kmkim <mkyung85@gmail.com>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"X-Generator: Zanata 3.9.6\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgctxt "megastructure_demands_rejected코1"
+msgid "Megastructure demands rejected"
+msgstr "거대 구조물 요구가 거절됨"
+
+msgctxt "megastructure_demands_rejected_desc코1"
+msgid "Pops are disappointed about concerns not being heard."
+msgstr "POP들은 관심사가 수용되지 않는 것에 대해 실망합니다."
+
+msgctxt "opinion_ringworld_terms_denied코0"
+msgid "Request Refused"
+msgstr "요구가 거부됨"
+
+msgctxt "opinion_ringworld_terms_accepted코0"
+msgid "Request Accepted"
+msgstr "요구가 수락됨"
+
+msgctxt "mod_tradition_harmony_natural_equilibrium코0"
+msgid "From §Y$tr_harmony_natural_equilibrium$§! Tradition:"
+msgstr "§Y$tr_harmony_natural_equilibrium$§! 전통으로부터 :"
+
+msgctxt "mod_tradition_purity_the_chosen코0"
+msgid "From §Y$tr_purity_the_chosen$§! Tradition:"
+msgstr "§Y$tr_purity_the_chosen$§! 전통으로부터 :"
+
+msgctxt "faith_in_science코0"
+msgid "Faith in Science"
+msgstr "과학에 대한 믿음"
+
+msgctxt "faith_in_science_desc코0"
+msgid ""
+"The presence of a Science Ship that is actively assisting research has "
+"increased the spirits of the citizens on this planet."
+msgstr "활발하게 연구를 지원하는 과학선의 존재가 이 행성 시민들의 의욕을 증진시켰습니다."
+
+msgctxt "colonization_fever코0"
+msgid "Colonization Fever"
+msgstr "개척 열망"
+
+msgctxt "ms_build_speed_mult코0"
+msgid "Favorable Conditions"
+msgstr "호의적인 환경"
+
+msgctxt "lower_build_speed_mult코0"
+msgid "Construction Delayed"
+msgstr "건설이 지연됨"
+
+msgctxt "ring_world_halted코0"
+msgid "Construction Halted"
+msgstr "건설이 정지됨"
+
+msgctxt "unity_reduction_diplomatic_18코0"
+msgid "Cultural Indentity Wounded"
+msgstr "문화적 정체성이 훼손됨"
+
+msgctxt "unity_reduction_diplomatic_18_desc코0"
+msgid ""
+"The population's cultural identity has been wounded by the debunking of some "
+"of their most treasured legends."
+msgstr "주민들의 매우 소중한 전설이 거짓이라는 게 폭로되며 그들의 문화적 정체성이 훼손되었습니다."
+
+msgctxt "unity_reduction_akx_9541코0"
+msgid "The Waiting World Purged"
+msgstr "정체된 세상이 제거됐다"
+
+msgctxt "unity_reduction_akx_9541_desc코0"
+msgid ""
+"The citizens have lost faith in their leaders, and now live in fear that a "
+"similar fate could befall them."
+msgstr "시민들은 그들의 지도자에 대한 신뢰를 잃었고, 비슷한 운명이 그들에게 닥칠 수 있다는 공포에 빠져있습니다."
+
+msgctxt "unity_reduction_observation_47코0"
+msgid "Hostages Executed"
+msgstr "인질이 처형되다"
+
+msgctxt "unity_reduction_observation_47_desc코0"
+msgid ""
+"The public execution of several of our scientists, by a nation state, has "
+"shaken our citizens."
+msgstr "원시 국가에 의해 일부 과학자가 대한 공개 처형됨으로써 시민들이 우려하고 있습니다."
+
+msgctxt "unity_reduction_crisis_2204코0"
+msgid "Synth Bombing"
+msgstr "신스 폭격"
+
+msgctxt "unity_reduction_crisis_2204_desc코0"
+msgid ""
+"Our people are losing faith in the government's ability to protect them."
+msgstr "우리나라 사람들은 그들을 지킬수 없는 무능한 정부에 대하여 믿음을 잃고 있습니다"
+
+msgctxt "opinion_dysonsphere_terms_denied코0"
+msgid "The Blind Wanderer"
+msgstr "눈이 먼 방랑자"
+
+msgctxt "opinion_dysonsphere_terms_denied_desc코0"
+msgid "We ruined their constellation."
+msgstr "우리는 그들의 별자리를 망쳤습니다."
+
+msgctxt "opinion_dysonsphere_apology_rejected코0"
+msgid "Apology Rejected"
+msgstr "사과가 거부됨"
+
+msgctxt "opinion_dysonsphere_apology_rejected_desc코0"
+msgid "We rejected their apology."
+msgstr "우리는 그들의 사과를 거부했습니다."
+
+msgctxt "unity_reduction_utopia_30코0"
+msgid "A Blind Eye"
+msgstr "멀어버린 눈"
+
+msgctxt "unity_reduction_utopia_30_desc코0"
+msgid ""
+"The citizens are disappointed that we turned a blind eye when another empire "
+"blinded the formerly one-eyed Wanderer."
+msgstr "시민들은 다른 제국이 외눈의 방랑자를 눈 멀게 만든것에 우리가 아무런 성명 발표도 하지 않은 것에 실망했습니다."
+
+msgctxt "unity_increase_utopia_30코0"
+msgid "People Pleaser"
+msgstr "앞잡이"
+
+msgctxt "unity_increase_utopia_30_desc코0"
+msgid ""
+"We looked out for the interests of our people and demanded due payment for "
+"the damage done to the star constellation the One-eyed Wanderer."
+msgstr "우리는 국민들의 이익을 생각하여 별자리의 외눈의 방랑자 별에 대한 피해 보상금을 요구했습니다"
+
+msgctxt "opinion_dysonsphere_insult코0"
+msgid "Shots Fired"
+msgstr "발포"
+
+msgctxt "opinion_dysonsphere_insult_desc코0"
+msgid "They insulted our physique."
+msgstr "그들이 우리의 체격에 대해 모욕적인 반응을 보였다."
+
+msgctxt "energy_utopia_57코0"
+msgid "Fountain of Gold"
+msgstr "황금의 분수"
+
+msgctxt "energy_utopia_57_desc코0"
+msgid "Our new miracle anti-aging cream is in demand."
+msgstr "우리가 개발한 새 기적의 노화 방지 크림에 대한 수요가 많습니다."
+
+msgctxt "research_utopia_60코0"
+msgid "Neural Bank"
+msgstr "신경계 저장소"
+
+msgctxt "research_utopia_60_desc코0"
+msgid ""
+"The invention of a neural bank has allowed us to improve our engineering "
+"research speed."
+msgstr "신경계 저장소의 발명으로 우리는 공학 연구 속도를 향상시킬 수있었습니다."
+
+msgctxt "adding_unrest_slaves코0"
+msgid "Slaves Radicalizing"
+msgstr "과격해지는 노예들"
+
+msgctxt "adding_unrest_slaves_desc코0"
+msgid "Radical slave elements are rallying, spreading unrest."
+msgstr "과격파 노예들이 시위를 벌이며 폭동을 일으키고 있습니다."
+
+msgctxt "withdrawal_symptoms코0"
+msgid "Withdrawal Symptoms"
+msgstr "금단 현상"
+
+msgctxt "withdrawal_symptoms_desc코0"
+msgid ""
+"Emergence from §YChemical Bliss§! and its detached, cushioned world of "
+"instant gratification is often painful, but pain is fleeting. It is the "
+"deeper scars - from realizing that one's favorite colorful animations are "
+"not real - that may never heal."
+msgstr ""
+"§Y화학적 만족§!이 시행되었습니다! 빠른 행복을 위한 완충 세계는 가끔 고통스럽습니다만, 고통은 순간입니다. 자신이 좋아하는 화려한 "
+"환상이 현실이 아니라는 것을 깨닫는 것은 절대 치유되지 않을지도 모르는 깊은 상처입니다."
+
+msgctxt "slave_riots코0"
+msgid "Slave Riots"
+msgstr "노예의 폭동"
+
+msgctxt "slave_riots_desc코0"
+msgid "Slave riots inhibit population growth."
+msgstr "노예 폭동으로 인구 증가가 억제됩니다."
+
+msgctxt "slave_hunger_strike코0"
+msgid "Hunger Strike"
+msgstr "단식 투쟁"
+
+msgctxt "slave_hunger_strike_desc코0"
+msgid "It's hard to work when you're doubled over from hunger pangs."
+msgstr "극심한 배고픔에 시달리면서 두배로 일하기는 어렵습니다."
+
+msgctxt "revolt_suppressed코0"
+msgid "Slave Revolt Suppressed"
+msgstr "노예 반란 진압"
+
+msgctxt "slaves_defected코0"
+msgid "Free at Last"
+msgstr "마침내 찾아온 자유"
+
+msgctxt "slaves_defected_desc코0"
+msgid "The former slaves are pleased to be a part of our nation."
+msgstr "이전의 노예들이 그들이 국가의 한 부분이 되었다는 것에 즐거워합니다"
+
+msgctxt "revolt_suppressed_desc코0"
+msgid "The slaves will not dare to reconsolidate anytime soon."
+msgstr "그 노예들은 당분간 건방지게 대들려고 하진 않을 것 입니다."
+
+msgctxt "free_at_last코0"
+msgid "Free at Last"
+msgstr "마침내 찾아온 자유"
+
+msgctxt "free_at_last_desc코0"
+msgid "The former slaves are finally free from their oppressors."
+msgstr "모든 노예들은 압제자들로부터 자유롭습니다."
+
+msgctxt "insurgents_free코0"
+msgid "$free_at_last$"
+msgstr "$free_at_last$"
+
+msgctxt "insurgents_free_desc코0"
+msgid "At last the rebels are free from the tyranny of the occupying power."
+msgstr "마침네 반란군들은 힘으로 억누르던 폭군으로부터 자유로워 졌습니다."
+
+msgctxt "revolt_suppressed_2코0"
+msgid "Revolt Suppressed"
+msgstr "반란 진압"
+
+msgctxt "revolt_suppressed_2_desc코0"
+msgid "The rebels will not dare to reconsolidate anytime soon."
+msgstr "그 반란군들은 당분간 감히 결집하려 들지는 않을 것입니다."
+

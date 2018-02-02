@@ -1,0 +1,4967 @@
+# Ellende <leemys2004@naver.com>, 2016. #zanata
+# badaim <imbada@outlook.com>, 2016. #zanata
+# woomoo <shniceman@naver.com>, 2016. #zanata
+# DrawnA <klaus18@naver.com>, 2017. #zanata
+# Ellende <leemys2004@naver.com>, 2017. #zanata
+# Hyeonseok <hso6112@naver.com>, 2017. #zanata
+# Jerome Park <jerome01208@gmail.com>, 2017. #zanata
+# SCR <pukpuk88@naver.com>, 2017. #zanata
+# badaim <imbada@outlook.com>, 2017. #zanata
+# bjrj <asap1993@naver.com>, 2017. #zanata
+# dhdltlfj <theonaute@naver.com>, 2017. #zanata
+# kmkim <mkyung85@gmail.com>, 2017. #zanata
+# readingsnail <bjh13579@gmail.com>, 2017. #zanata
+# tyranny01 <tyranny01@naver.com>, 2017. #zanata
+# woomoo <shniceman@naver.com>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2017-12-11 06:49-0500\n"
+"Last-Translator: bjrj <asap1993@naver.com>\n"
+"Language-Team: Korean (South Korea)\n"
+"Language: ko\n"
+"X-Generator: Zanata 3.9.6\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgctxt "MOD_COUNTRY_FORTIFICATION_STRENGTH코0"
+msgid "Fortification Toughness"
+msgstr "방어시설 강도"
+
+msgctxt "MOD_COUNTRY_BORDER_MULT코0"
+msgid "Border Range"
+msgstr "국경 범위"
+
+msgctxt "MOD_COUNTRY_INFLUENCE_GAIN_ADD코0"
+msgid "Monthly Influence"
+msgstr "월간 영향력"
+
+msgctxt "MOD_COUNTRY_INFLUENCE_GAIN_MULT코0"
+msgid "Monthly Influence"
+msgstr "월간 영향력"
+
+msgctxt "MOD_COUNTRY_DEFENSIVE_WAR_INFLUENCE_GAIN_ADD코0"
+msgid "Monthly Influence (Defensive War)"
+msgstr "월간 영향력(방어 전쟁)"
+
+msgctxt "MOD_COUNTRY_TRUST_GROWTH코0"
+msgid "Trust Growth"
+msgstr "신뢰 성장"
+
+msgctxt "MOD_COUNTRY_TRUST_CAP_ADD코0"
+msgid "Trust Cap"
+msgstr "최대 신뢰"
+
+msgctxt "MOD_COUNTRY_TRUST_CAP_MULT코0"
+msgid "Trust Cap"
+msgstr "최대 신뢰"
+
+msgctxt "MOD_COUNTRY_SUBJECT_POWER_PENALTY코0"
+msgid "Subject Power Relations Penalty"
+msgstr "속국 세력 관계도 페널티"
+
+msgctxt "MOD_COUNTRY_SUBJECT_TRUST_CAP_ADD코0"
+msgid "Subject Trust Cap"
+msgstr "속국 신뢰 한도"
+
+msgctxt "MOD_COUNTRY_SYNTHETIC_TRUST_CAP_ADD코0"
+msgid "Trust Cap for Synthetics"
+msgstr "신스에 대한 신뢰 상한"
+
+msgctxt "MOD_COUNTRY_ORGANIC_TRUST_CAP_ADD코0"
+msgid "Trust Cap for Organics"
+msgstr "유기체에 대한 신뢰 상한"
+
+msgctxt "MOD_COUNTRY_ELECTION_INFLUENCE_COST코0"
+msgid "Election Influence Cost"
+msgstr "선거 영향 비용"
+
+msgctxt "MOD_COUNTRY_EDICT_INFLUENCE_COST코0"
+msgid "Edict Cost"
+msgstr "시행령 비용"
+
+msgctxt "MOD_COUNTRY_EDICT_INFLUENCE_COST_DESC코0"
+msgid ""
+"Affects the cost of all Edicts enacted within the Empire, increasing or "
+"reducing the cost of enabling them."
+msgstr "제국에서 시행령 반포 비용에 영향을 줍니다."
+
+msgctxt "MOD_COUNTRY_LEADER_CAP코0"
+msgid "Empire Leader Capacity"
+msgstr "제국 지도자 정원"
+
+msgctxt "MOD_COUNTRY_SENSOR_RANGE_MULT코0"
+msgid "Country Sensor Range"
+msgstr "국가 센서 범위"
+
+msgctxt "MOD_COUNTRY_EDICT_LENGTH_MULT코2"
+msgid "Edict Duration"
+msgstr "시행령 기간"
+
+msgctxt "MOD_COUNTRY_EDICT_LENGTH_MULT_DESC코1"
+msgid ""
+"Affects the duration of all Planetary Edicts enacted within the Empire, "
+"increasing or reducing the amount of time they are active."
+msgstr "행성에서 발령된 모든 시행령의 유지 기간에 영향을 줍니다."
+
+msgctxt "MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED코0"
+msgid "Research Speed"
+msgstr "연구 속도"
+
+msgctxt "MOD_COUNTRY_PHYSICS_TECH_RESEARCH_SPEED코0"
+msgid "Research Speed (£physics  Physics)"
+msgstr "연구 속도(£physics  물리학)"
+
+msgctxt "MOD_COUNTRY_SOCIETY_TECH_RESEARCH_SPEED코0"
+msgid "Research Speed (£society  Society)"
+msgstr "연구 속도(£society  사회학)"
+
+msgctxt "MOD_COUNTRY_ENGINEERING_TECH_RESEARCH_SPEED코0"
+msgid "Research Speed (£engineering  Engineering)"
+msgstr "연구 속도(£engineering  공학)"
+
+msgctxt "MOD_COUNTRY_MINING_STATION_COST_MULT코0"
+msgid "Mining Station Cost"
+msgstr "채굴 스테이션 비용"
+
+msgctxt "MOD_COUNTRY_RESEARCH_STATION_COST_MULT코0"
+msgid "Research Station Cost"
+msgstr "연구 스테이션 비용"
+
+msgctxt "MOD_COUNTRY_SHIP_UPGRADE_COST_MULT코0"
+msgid "Ship Upgrade Cost"
+msgstr "함선 업그레이드 비용"
+
+msgctxt "MOD_COUNTRY_LEADER_POOL_SIZE코0"
+msgid "Leader Pool Size"
+msgstr "고용 가능한 지도자 수"
+
+msgctxt "MOD_COUNTRY_CORE_SECTOR_SYSTEM_CAP코0"
+msgid "Core Sector Systems"
+msgstr "직할령 행성계들"
+
+msgctxt "MOD_COUNTRY_SECTOR_CAP_ADD코0"
+msgid "Sector Limit"
+msgstr "자치령 제한"
+
+msgctxt "country_resource_energy_mult코0"
+msgid "Empire Energy Generation"
+msgstr "제국 에너지 생산량"
+
+msgctxt "country_resource_minerals_mult코0"
+msgid "Empire Minerals Production"
+msgstr "제국 광물 생산량"
+
+msgctxt "MOD_COUNTRY_NUM_TECH_ALTERNATIVES_ADD코0"
+msgid "Research Alternatives"
+msgstr "연구 대안"
+
+msgctxt "MOD_COUNTRY_PREVIOUS_DEALS코0"
+msgid "Previous Deals"
+msgstr "이전 거래"
+
+msgctxt "MOD_COUNTRY_INSULT_EFFICIENCY코0"
+msgid "Insult Efficiency"
+msgstr "모욕 효율"
+
+msgctxt "MOD_COUNTRY_DIPLOMACY_INFLUENCE_COST코1"
+msgid "Diplomatic Influence Cost"
+msgstr "외교적 영향력 비용"
+
+msgctxt "MOD_COUNTRY_RIVALRY_INFLUENCE_GAIN코0"
+msgid "Rivalry Influence Gain"
+msgstr "경쟁자로 영향력 획득"
+
+msgctxt "MOD_COUNTRY_MAX_RIVALRIES코0"
+msgid "Maximum Rivalries"
+msgstr "최대 경쟁자 수"
+
+msgctxt "MOD_COUNTRY_MAX_EMBASSIES코0"
+msgid "Maximum Embassies"
+msgstr "최대 대사관 수"
+
+msgctxt "MOD_COUNTRY_TRADE_ATTRACTIVENESS코0"
+msgid "Trade Attractiveness"
+msgstr "거래 매력도"
+
+msgctxt "WAR_ECONOMY_MOD코0"
+msgid "§HModifiers at §R-100§! Defensive War Score:§!"
+msgstr "§H§R-100§! 방어 전쟁 점수로 인해 변동됩니다 :§!"
+
+msgctxt "MOD_COUNTRY_RESETTLEMENT_COST_MULT코1"
+msgid "Resettlement Cost"
+msgstr "재정착 비용"
+
+msgctxt "MOD_POP_CONSUMER_GOODS_MULT코0"
+msgid "Consumer Goods Cost"
+msgstr "소비재 비용"
+
+msgctxt "MOD_POP_CONSUMER_GOODS_ADD코0"
+msgid "Consumer Goods Use"
+msgstr "소비재 사용"
+
+msgctxt "MOD_POP_RESETTLEMENT_COST_MULT코0"
+msgid "Resettlement Cost"
+msgstr "재정착 비용"
+
+msgctxt "MOD_TRADITION_COST_NUM_COLONIES_MULT코1"
+msgid "Tradition Cost from Colonies"
+msgstr "식민지로부터의 전통 비용"
+
+msgctxt "MOD_TRADITION_COST_NUM_POPS_MULT코1"
+msgid "Tradition Cost from Pops"
+msgstr "POP들로부터의 전통 비용"
+
+msgctxt "MOD_TRADITION_COST_NUM_SLAVES_MULT코1"
+msgid "Tradition Cost from Slave Pops"
+msgstr "노예 POP으로부터의 전통 비용"
+
+msgctxt "MOD_TRADITION_COST_NUM_FOUNDER_POPS_MULT코1"
+msgid "Tradition Cost from Founder Pops"
+msgstr "창립 종족 POP으로부터의 전통 비용"
+
+msgctxt "MOD_TRADITION_COST_NUM_XENOS_MULT코1"
+msgid "Tradition Cost from Xeno Pops"
+msgstr "외계종 POP으로부터의 전통 비용"
+
+msgctxt "MOD_TRADITION_COST_NUM_XENO_SLAVES_MULT코1"
+msgid "Tradition Cost from Xeno Slaves"
+msgstr "외계종 노예 POP으로부터의 전통 비용"
+
+msgctxt "MOD_TRADITION_COST_NUM_SAPIENT_ROBOTS_MULT코1"
+msgid "Tradition Cost from Robot Pops"
+msgstr "로봇 POP으로부터의 전통 비용"
+
+msgctxt "MOD_COLONY_START_NUM_POPS_ADD코0"
+msgid "Extra pops when establishing colony"
+msgstr "식민지 정착시 추가 POP"
+
+msgctxt "MOD_COUNTRY_TERRAFORM_SPEED_MULT코0"
+msgid "Terraforming Speed"
+msgstr "테라포밍 속도"
+
+msgctxt "MOD_MEGASTRUCTURE_BUILD_SPEED_MULT코0"
+msgid "Megastructure Build Speed"
+msgstr "거대 구조물 건설 속도"
+
+msgctxt "MOD_MEGASTRUCTURE_BUILD_SPEED_ADD코0"
+msgid "Megastructure Build Speed"
+msgstr "거대 구조물 건설 속도"
+
+msgctxt "MOD_MEGASTRUCTURE_PRODUCTION_MULT코0"
+msgid "Megastructure Resource Production"
+msgstr "거대 구조물 자원 생산"
+
+msgctxt "MOD_MEGASTRUCTURE_BUILD_COST_MULT코0"
+msgid "Megastructure Build Cost"
+msgstr "거대 구조물 건설 비용"
+
+msgctxt "MOD_DISTANCE_TO_CAPITAL_STATIC_MODIFIER_EFFICIENCY_MULT코0"
+msgid "Penalties due to Distance from Capital"
+msgstr "수도로부터의 거리로 인한 불이익"
+
+msgctxt "MOD_COUNTRY_ASCENSION_PERKS_ADD코0"
+msgid "Ascension Perks"
+msgstr "승천 특전"
+
+msgctxt "MOD_COUNTRY_MODIFY_SPECIES_COST_MULT코0"
+msgid "Modify Species Special Project Cost"
+msgstr "\"종족 특별 변형 계획 비용"
+
+msgctxt "MOD_COUNTRY_SUBJECT_INTEGRATION_INFLUENCE_COST_MULT코0"
+msgid "Subject Integration Influence Cost"
+msgstr "종속국 병합 영향력 비용"
+
+msgctxt "MOD_COUNTRY_SUBJECT_INFLUENCE_GAIN_MULT코0"
+msgid "Influence from Subjects"
+msgstr "종속국의로부터의 영향력"
+
+msgctxt "MOD_COUNTRY_SUBJECT_ACCEPTANCE_ADD코0"
+msgid "Subjugation Acceptance"
+msgstr "종속 수용"
+
+msgctxt "MOD_COUNTRY_FACTION_INFLUENCE_MULT코0"
+msgid "Faction Influence Gain"
+msgstr "파벌 영향력 획득"
+
+msgctxt "MOD_COUNTRY_FACTION_INFLUENCE_ADD코0"
+msgid "Max Influence from Factions"
+msgstr "파벌에서의 최대 영향력"
+
+msgctxt "MOD_COUNTRY_CLEAR_BLOCKER_COST_MULT코0"
+msgid "Clear blocker cost"
+msgstr "장애물 제거 비용"
+
+msgctxt "MOD_COUNTRY_DISTANT_COLONY_INFLUENCE_COST_MULT코0"
+msgid "Distant Colony Influence Cost"
+msgstr "거리가 먼 식민지 영향력 비용"
+
+msgctxt "MOD_COUNTRY_SUBJECT_INTEGRATION_SPEED_ADD코0"
+msgid "Subject Integration Speed"
+msgstr "종속국 병합 속도"
+
+msgctxt "MOD_COUNTRY_INTEGRATION_COOLDOWN_MULT코0"
+msgid "Subject Integration Cooldown"
+msgstr "종속국 병합 대기시간"
+
+msgctxt "MOD_COUNTRY_VASSAL_NAVAL_CAPACITY_CONTRIBUTION_MULT코0"
+msgid "Vassal Naval Capacity Contribution"
+msgstr "속국의 함대 수용력 기여"
+
+msgctxt "MOD_COUNTRY_SUBJECT_TRIBUTE_MULT코0"
+msgid "Subject Tax"
+msgstr "조공액"
+
+msgctxt "MOD_COUNTRY_SUBJECT_TECHNOLOGY_SHARING_MULT코0"
+msgid "Technology Sharing"
+msgstr "기술공유"
+
+msgctxt "MOD_COUNTRY_EXPANSION_DISTANCE_MULT코0"
+msgid "Expansion Distance"
+msgstr "확장 거리"
+
+msgctxt "MOD_COUNTRY_GOVERNMENT_CIVIC_POINTS_ADD코0"
+msgid "Civic Slots"
+msgstr "사회 제도 슬롯"
+
+msgctxt "MOD_POP_FERTILITY코0"
+msgid "Fertility"
+msgstr "생식력"
+
+msgctxt "MOD_POP_HAPPINESS코0"
+msgid "Happiness"
+msgstr "행복도"
+
+msgctxt "MOD_POP_HAPPINESS_DESC코0"
+msgid ""
+"All Pops within the Empire will have their Happiness adjusted by this value."
+msgstr "제국의 모든 POP들의 행복도는 이 값에 영향을 받습니다"
+
+msgctxt "MOD_BIOLOGICAL_POP_HAPPINESS코0"
+msgid "Biological Pop Happiness"
+msgstr "생체 POP 행복도"
+
+msgctxt "MOD_BIOLOGICAL_POP_HAPPINESS_DESC코0"
+msgid "Non-Robotic Pops have their Happiness adjusted by this value."
+msgstr "비로봇 POP의 행복도는 이 수치에 의해 영향을 받습니다."
+
+msgctxt "MOD_FACTION_HAPPINESS코0"
+msgid "Faction Happiness"
+msgstr "파벌 행복도"
+
+msgctxt "MOD_FACTION_HAPPINESS_DESC코0"
+msgid "The affected Faction will have its Happiness adjusted by this value."
+msgstr "영향을 받은 파벌은 이 수치에 의해 행복도가 조정될것입니다."
+
+msgctxt "MOD_POP_RADIATION_HAPPINESS코0"
+msgid "Happiness due to radiation"
+msgstr "방사능에 의한 행복도"
+
+msgctxt "MOD_POP_RADIATION_HAPPINESS_DESC코0"
+msgid ""
+"All Mechanical Pops within the Empire will have their Happiness adjusted by "
+"this value."
+msgstr "제국의 모든 기계 POP들의 행복도는 이 값의 영향을 받습니다."
+
+msgctxt "MOD_POP_ENVIRONMENT_TOLERANCE코1"
+msgid "Habitability"
+msgstr "거주 적합성"
+
+msgctxt "MOD_POP_SLAVERY_TOLERANCE코0"
+msgid "Slavery Tolerance"
+msgstr "노예 관용도"
+
+msgctxt "MOD_POP_ALIEN_SLAVERY_TOLERANCE코0"
+msgid "Alien Slavery Tolerance"
+msgstr "외계인 노예 관용도"
+
+msgctxt "MOD_POP_WAR_TOLERANCE코0"
+msgid "War Tolerance"
+msgstr "전쟁 관용도"
+
+msgctxt "MOD_POP_WAR_HAPPINESS코0"
+msgid "War Happiness"
+msgstr "전쟁 행복도"
+
+msgctxt "MOD_POP_PEACE_HAPPINESS코0"
+msgid "Peace Happiness"
+msgstr "평화 행복도"
+
+msgctxt "MOD_POP_XENOPHOBIA코0"
+msgid "Xenophobia"
+msgstr "외계종 혐오"
+
+msgctxt "MOD_POP_GOVERNMENT_ETHIC_ATTRACTION코1"
+msgid "Governing Ethics Attraction"
+msgstr "통치 윤리관 선호도"
+
+msgctxt "MOD_POP_GOVERNMENT_ETHIC_ATTRACTION_DESC코0"
+msgid ""
+"The base attraction of Pops to the government's ethos is adjusted by this "
+"value."
+msgstr "이 수치에 의해 POP들의 정부의 윤리관에 대한 기본 선호도가  조정됩니다."
+
+msgctxt "MOD_POP_ROBOT_UPKEEP_MULT코0"
+msgid "Robot Upkeep"
+msgstr "로봇 유지비"
+
+msgctxt "MOD_POP_ROBOT_UPKEEP_MULT_DESC코0"
+msgid "Affects the energy maintenance cost of robotic Pops."
+msgstr "로봇 POP 에너지 유지비에 영향"
+
+msgctxt "MOD_POP_ROBOT_BUILD_SPEED_MULT코0"
+msgid "Robot Build Speed"
+msgstr "로봇 제작 속도"
+
+msgctxt "MOD_POP_ROBOT_BUILD_SPEED_MULT_DESC코0"
+msgid "Affects the speed at which robotic Pops are built."
+msgstr "로봇 POP이 제작되는 속도에 영향"
+
+msgctxt "MOD_POP_ROBOT_BUILD_COST_MULT코0"
+msgid "Robot Build Cost"
+msgstr "로봇 제작 비용"
+
+msgctxt "MOD_COUNTRY_COLONY_INFLUENCE_COST_MULT코0"
+msgid "Colony Influence Cost"
+msgstr "식민지 영향력 비용"
+
+msgctxt "MOD_COUNTRY_FACTION_SURPRESSION_COST_MULT코0"
+msgid "Faction Suppression Cost"
+msgstr "파벌 탄압 비용"
+
+msgctxt "MOD_COUNTRY_POLICY_HAPPINESS_MULT코0"
+msgid "Policy Happiness Impact"
+msgstr "정책 행복도 영향"
+
+msgctxt "MOD_POP_ETHICS_SHIFT_SPEED코0"
+msgid "Ethics Shift Chance"
+msgstr "윤리관 변동 확률"
+
+msgctxt "MOD_POP_ETHICS_SHIFT_SPEED_DESC코0"
+msgid ""
+"The likelihood of a Pop changing its ethics is increased or reduced by this "
+"value."
+msgstr "이 값은 POP 스스로 자신들의 윤리관을 변경할 가능성에 영향을 줍니다."
+
+msgctxt "MOD_POP_SLOTS코0"
+msgid "Pop Slots"
+msgstr "POP 칸들"
+
+msgctxt "MOD_POP_FOOD_REQ코1"
+msgid "Food Consumption"
+msgstr "식량 소비량"
+
+msgctxt "MOD_POP_FOOD_REQ_DESC코0"
+msgid ""
+"All Pops within the Empire will have their Food requirement adjusted by this "
+"value."
+msgstr "제국의 모든 POP들의 식량 소모는 이 값에 영향을 받습니다"
+
+msgctxt "MOD_POP_FOOD_REQ_MULT코0"
+msgid "$MOD_POP_FOOD_REQ$"
+msgstr "\"$MOD_POP_FOOD_REQ$\""
+
+msgctxt "MOD_POP_FOOD_REQ_MULT_DESC코0"
+msgid ""
+"All Pops within the Empire will have their Food requirement adjusted by this "
+"value."
+msgstr "\"제국의 모든 POP들의 식량 소모는 이 값에 영향을 받습니다\""
+
+msgctxt "MOD_POP_GROWTH_SPEED코0"
+msgid "Growth Speed"
+msgstr "성장 속도"
+
+msgctxt "MOD_POP_GROWTH_SPEED_DESC코0"
+msgid "This value affects the speed at which new Pops are grown."
+msgstr "이 값은 새로운 POP이 성장하는 속도에 영향을 줍니다."
+
+msgctxt "MOD_POP_GROWTH_REQ코1"
+msgid "Growth Time"
+msgstr "\"성장 시간\""
+
+msgctxt "MOD_POP_GROWTH_REQ_DESC코1"
+msgid ""
+"This value affects the amount of Food required for a new Pop to be fully "
+"grown."
+msgstr "\"이 값은 새로운 POP이 완전히 성장하는데 필요한 식량 요구량에 영향을 줍니다.\""
+
+msgctxt "MOD_POP_GROWTH_REQ_MULT코1"
+msgid "Growth Time"
+msgstr "\"성장 시간\""
+
+msgctxt "MOD_POP_GROWTH_REQ_MULT_DESC코1"
+msgid ""
+"This value affects the amount of Food required for a new Pop to be fully "
+"grown."
+msgstr "\"이 값은 새로운 POP이 성장하는데 필요한 식량 요구량에 영향을 줍니다.\""
+
+msgctxt "MOD_POP_EFF_WO_SLAVES코3"
+msgid "Happiness without Owned Pop"
+msgstr "종속된 POP이 없을때 행복도"
+
+msgctxt "pop_happiness_without_slaves코1"
+msgid "Lacks Owned Pop"
+msgstr "종속된 POP 부족"
+
+msgctxt "MOD_POP_FORTIFICATION_DEFENSE코0"
+msgid "Fortification Defensive Bonus"
+msgstr "방어시설 지원 보너스"
+
+msgctxt "MOD_POP_OTHER_SPECIES_HAPPINESS코0"
+msgid "Other Species Happiness"
+msgstr "\"타 종족 행복도\""
+
+msgctxt "MOD_POP_CITIZEN_HAPPINESS코0"
+msgid "Citizen Pop Happiness"
+msgstr "시민 POP 행복도"
+
+msgctxt "MOD_POP_OWNER_HAPPINESS코0"
+msgid "Owner Pop Happiness"
+msgstr "주인 POP 행복도"
+
+msgctxt "MOD_POP_OTHER_SPECIES_OWNER_HAPPINESS코0"
+msgid "Other Species Owner Happiness"
+msgstr "타 종족 주인 POP 행복도"
+
+msgctxt "MOD_POP_MIGRATION_SPEED코1"
+msgid "Migration Speed"
+msgstr "이주 속도"
+
+msgctxt "MOD_POP_MIGRATION_SPEED_DESC코0"
+msgid ""
+"The time it takes for Pops to spontaneously move between planets within our "
+"Empire is adjusted by this value."
+msgstr "POP들이 제국내 다른 행성으로 자발적으로 이주하는 시간은 이 수치에 영향을 받습니다."
+
+msgctxt "MOD_POP_PROCESSING_OUTPUT코1"
+msgid "Purged Pop Resource Output"
+msgstr "제거된 POP 자원 산출량"
+
+msgctxt "MOD_POP_RESOURCE_OUTPUT코0"
+msgid "Pop Resource Prod."
+msgstr "POP 자원 생산"
+
+msgctxt "MOD_POP_SLAVE_RESOURCE_OUTPUT코3"
+msgid "Slave Resource Production"
+msgstr "노예 자원 생산"
+
+msgctxt "MOD_POP_NON_SLAVE_RESOURCE_OUTPUT코0"
+msgid "Free Pop Resource Prod."
+msgstr "자유 POP 자원 생산"
+
+msgctxt "MOD_POP_SLAVE_MINERAL_OUTPUT코3"
+msgid "Slave Mineral Production"
+msgstr "노예 광물 생산"
+
+msgctxt "MOD_POP_SLAVE_FOOD_OUTPUT코1"
+msgid "Slave Food Production"
+msgstr "노예 식량 생산"
+
+msgctxt "MOD_POP_ROBOT_PRODUCTION_OUTPUT코1"
+msgid "Robot Resource Production"
+msgstr "로봇 자원 생산"
+
+msgctxt "MOD_POP_ROBOT_NON_ENERGY_OUTPUT코0"
+msgid "$MOD_POP_ROBOT_PRODUCTION_OUTPUT$"
+msgstr "$MOD_POP_ROBOT_PRODUCTION_OUTPUT$"
+
+msgctxt "MOD_POP_FOOD_ADD코1"
+msgid "Processing Food Production"
+msgstr "가공된 식량 생산"
+
+msgctxt "MOD_POP_FOOD_MULT코2"
+msgid "$MOD_POP_FOOD_ADD$"
+msgstr "$MOD_POP_FOOD_ADD$"
+
+msgctxt "MOD_POP_ENERGY_ADD코0"
+msgid "Processing Energy Production"
+msgstr "가공된 에너지 생산"
+
+msgctxt "MOD_POP_ENERGY_MULT코0"
+msgid "$MOD_POP_ENERGY_ADD$"
+msgstr "$MOD_POP_ENERGY_ADD$"
+
+msgctxt "MOD_POP_MINERALS_ADD코0"
+msgid "Processing Minerals Production"
+msgstr "가공된 광물 생산"
+
+msgctxt "MOD_POP_MINERALS_MULT코0"
+msgid "$MOD_POP_MINERALS_ADD$"
+msgstr "$MOD_POP_MINERALS_ADD$"
+
+msgctxt "MOD_SHIP_ARMOR_ADD코0"
+msgid "Armor"
+msgstr "\"장갑\""
+
+msgctxt "MOD_SHIP_ARMOR_MULT코0"
+msgid "Armor"
+msgstr "\"장갑\""
+
+msgctxt "MOD_SHIP_SHIELD_DAMAGE_MULT코0"
+msgid "Shield Damage"
+msgstr "\"보호막 피해량\""
+
+msgctxt "MOD_SHIP_SHIELD_PENETRATION_MULT코0"
+msgid "Shield Penetration"
+msgstr "\"보호막 관통력\""
+
+msgctxt "MOD_SHIP_ARMOR_PENETRATION_MULT코0"
+msgid "Armor Penetration"
+msgstr "\"장갑 관통력\""
+
+msgctxt "MOD_SHIP_SPEED_MULT코0"
+msgid "Sublight Speed"
+msgstr "\"아광속 속도\""
+
+msgctxt "MOD_SHIP_LANDING_TIME_MULT코0"
+msgid "Landing Time"
+msgstr "상륙 시간"
+
+msgctxt "MOD_SHIP_UPKEEP_MULT코0"
+msgid "Ship Upkeep"
+msgstr "함선 유지비"
+
+msgctxt "MOD_SHIP_UPKEEP_MULT_DESC코0"
+msgid ""
+"Affects the maintenance cost of all ships within the Empire, increasing or "
+"reducing the monthly cost of keeping them active."
+msgstr "제국의 월간 함선 유지비에 영향을 줍니다."
+
+msgctxt "MOD_SHIP_FTL_WARP_RANGE_MULT코0"
+msgid "Warp Range"
+msgstr "워프 범위"
+
+msgctxt "MOD_SHIP_FTL_HYPER_RANGE_MULT코0"
+msgid "Hyper Range"
+msgstr "하이퍼 드라이브 범위"
+
+msgctxt "MOD_SHIP_FTL_JUMPDRIVE_RANGE_MULT코0"
+msgid "Jump Drive Range"
+msgstr "점프 드라이브 범위"
+
+msgctxt "MOD_SHIP_FTL_WORMHOLE_RANGE_MULT코0"
+msgid "Wormhole Range"
+msgstr "웜홀 범위"
+
+msgctxt "MOD_SHIP_FTL_WORMHOLE_SPEED_MULT코0"
+msgid "Wormhole Generation Rate"
+msgstr "웜홀 생성 속도"
+
+msgctxt "MOD_SHIP_FTL_WORMHOLES_PER_STATION코0"
+msgid "Active Wormholes per Station"
+msgstr "스테이션 당 생성 가능한 웜홀 갯수"
+
+msgctxt "MOD_SHIP_HITPOINTS_ADD코1"
+msgid "Ship Hull Points"
+msgstr "선체 내구도"
+
+msgctxt "MOD_SHIP_HITPOINTS_MULT코1"
+msgid "Ship Hull Points"
+msgstr "선체 내구도"
+
+msgctxt "MOD_SHIP_AUTO_REPAIR_ADD코1"
+msgid "Monthly Hull Regeneration"
+msgstr "월간 선체 내구도 회복량"
+
+msgctxt "MOD_SHIP_AUTO_REPAIR_MULT코1"
+msgid "Monthly Hull Regeneration"
+msgstr "월간 선체 내구도 회복량"
+
+msgctxt "MOD_SHIP_SHIELD_HP_ADD코0"
+msgid "Shield Hit Points"
+msgstr "보호막 내구도"
+
+msgctxt "MOD_SHIP_SHIELD_HP_MULT코0"
+msgid "Shield Hit Points"
+msgstr "보호막 내구도"
+
+msgctxt "MOD_SHIP_SHIELD_REGEN_ADD코0"
+msgid "Shield Regeneration"
+msgstr "보호막 재생량"
+
+msgctxt "MOD_SHIP_SHIELD_REGEN_ADD_PERC코0"
+msgid "Monthly Shield Regeneration"
+msgstr "월간 보호막 재생량"
+
+msgctxt "MOD_SHIP_SHIELD_REGEN_MULT코0"
+msgid "Shield Regeneration"
+msgstr "보호막 재생량"
+
+msgctxt "MOD_SHIP_WEAPON_DAMAGE코0"
+msgid "Weapons Damage"
+msgstr "무기 피해량"
+
+msgctxt "MOD_SHIP_BUILD_SPEED_MULT코0"
+msgid "Ship Build Speed"
+msgstr "함선 건조 속도"
+
+msgctxt "MOD_SHIP_REPARATION_SPEED_MULT코0"
+msgid "Ship Repair Speed"
+msgstr "함선 수리 속도"
+
+msgctxt "MOD_SHIP_REPARATION_COST_MULT코0"
+msgid "Ship Repair Cost"
+msgstr "함선 수리 비용"
+
+msgctxt "MOD_SHIP_WEAPON_RANGE_MULT코0"
+msgid "Weapons Range"
+msgstr "무기 사정거리"
+
+msgctxt "MOD_SHIP_FIRE_RATE_MULT코0"
+msgid "Fire Rate"
+msgstr "연사 속도"
+
+msgctxt "MOD_SHIP_HOME_TERRITORY_FIRE_RATE_MULT코0"
+msgid "Home Territory Fire Rate"
+msgstr "자국 영토에서의 연사 속도"
+
+msgctxt "MOD_SHIP_COMBAT_SPEED_MULT코2"
+msgid "Combat Speed"
+msgstr "전투 속도"
+
+msgctxt "MOD_SHIP_EVASION_MULT코0"
+msgid "Evasion"
+msgstr "회피"
+
+msgctxt "MOD_SHIP_EVASION_ADD코1"
+msgid "Chance to Evade"
+msgstr "회피 확률"
+
+msgctxt "MOD_SHIP_ACCURACY_MULT코0"
+msgid "Accuracy"
+msgstr "정확도"
+
+msgctxt "MOD_SHIP_ACCURACY_ADD코0"
+msgid "Chance to Hit"
+msgstr "명중률"
+
+msgctxt "MOD_SHIP_SENSOR_RANGE_MULT코0"
+msgid "Sensor Range"
+msgstr "센서 범위"
+
+msgctxt "MOD_SHIP_WINDDOWN_MULT코0"
+msgid "Jump Cooldown"
+msgstr "점프 재사용 대기시간"
+
+msgctxt "MOD_SHIP_WINDUP_MULT코0"
+msgid "Jump Charge Time"
+msgstr "점프 충전 시간"
+
+msgctxt "MOD_SHIP_INTERSTELLAR_SPEED_MULT코1"
+msgid "FTL Speed"
+msgstr "초광속 속도"
+
+msgctxt "MOD_SHIP_EMERGENCY_FTL코1"
+msgid "Emergency FTL Damage"
+msgstr "긴급 FTL 피해량"
+
+msgctxt "EMERGENCY_JUMP코0"
+msgid "Emergency Jump"
+msgstr "긴급 점프"
+
+msgctxt "MOD_SHIP_ANOMALY_FAIL_RISK코0"
+msgid "Anomaly Fail Risk"
+msgstr "이상 현상 연구 실패 확률"
+
+msgctxt "MOD_SHIP_ANOMALY_RESEARCH_SPEED코0"
+msgid "Anomaly Research Speed"
+msgstr "이상 현상 연구 속도"
+
+msgctxt "MOD_SHIP_ANOMALY_GENERATION_CHANCE코0"
+msgid "Anomaly Discovery Chance"
+msgstr "이상 현상 발견 확률"
+
+msgctxt "MOD_SHIP_SCIENCE_SURVEY_SPEED코0"
+msgid "Survey Speed"
+msgstr "탐사 속도"
+
+msgctxt "MOD_SHIP_TRACKING_ADD코0"
+msgid "Tracking"
+msgstr "추적"
+
+msgctxt "MOD_SHIP_TRACKING_MULT코0"
+msgid "Tracking"
+msgstr "추적"
+
+msgctxt "MOD_ARMY_UPKEEP_MULT코0"
+msgid "Army Upkeep"
+msgstr "지상군 유지비"
+
+msgctxt "MOD_ARMY_UPKEEP_MULT_DESC코0"
+msgid ""
+"Affects the maintenance cost of all active armies within the Empire, "
+"increasing or reducing the monthly cost of keeping them in service."
+msgstr "제국내의 모든 지상군을 유지하는데 드는 비용에 영향을 줍니다."
+
+msgctxt "MOD_ARMY_HEALTH코0"
+msgid "Army Health"
+msgstr "지상군 체력"
+
+msgctxt "MOD_ARMY_DAMAGE_MULT코0"
+msgid "Army Damage"
+msgstr "지상군 피해량"
+
+msgctxt "MOD_ARMY_MORALE_DAMAGE_MULT코0"
+msgid "Morale Damage"
+msgstr "사기 피해량"
+
+msgctxt "MOD_ARMY_GARRISON_HEALTH코1"
+msgid "Garrison Health"
+msgstr "주둔군 체력"
+
+msgctxt "MOD_ARMY_BUILD_SPEED_MULT코0"
+msgid "Army Build Speed"
+msgstr "지상군 모병 속도"
+
+msgctxt "MOD_ARMY_MORALE코0"
+msgid "Army Morale"
+msgstr "지상군 사기"
+
+msgctxt "MOD_ARMY_DEFENSE_MORALE_MULT코0"
+msgid "Army Morale on Defense"
+msgstr "방어시 지상군 사기"
+
+msgctxt "MOD_ARMY_DEFENSE_DAMAGE_MULT코0"
+msgid "Army Damage on Defense"
+msgstr "방어시 지상군 피해량"
+
+msgctxt "MOD_ARMY_ATTACK_MORALE_MULT코0"
+msgid "Army Morale on Attack"
+msgstr "공격시 지상군 사기"
+
+msgctxt "MOD_ARMY_ATTACK_DAMAGE_MULT코0"
+msgid "Army Damage on Attack"
+msgstr "공격시 지상군 피해량"
+
+msgctxt "MOD_ARMY_RANK_INCREASE코1"
+msgid "Army Rank"
+msgstr "지상군 등급"
+
+msgctxt "MOD_PLANET_FORTIFICATION_STRENGTH코0"
+msgid "Planet Fortification Toughness"
+msgstr "행성 방어시설 강도"
+
+msgctxt "MOD_PLANET_ADD_SPACEPORT코0"
+msgid "Additional Orbital Building Slot"
+msgstr "추가적인 궤도 건물 칸"
+
+msgctxt "MOD_PLANET_SENSOR_RANGE_ADD코0"
+msgid "Planet Sensor Range"
+msgstr "행성 센서 범위"
+
+msgctxt "MOD_PLANET_SENSOR_RANGE_MULT코0"
+msgid "Planet Sensor Range"
+msgstr "행성 센서 범위"
+
+msgctxt "MOD_PLANET_COLONY_DEVELOPMENT_SPEED_MULT코1"
+msgid "Colony Development Speed"
+msgstr "개척지 개발 속도"
+
+msgctxt "MOD_PLANET_BUILDING_TIME_MULT코0"
+msgid "Construction Time"
+msgstr "건설 시간"
+
+msgctxt "MOD_PLANET_CLEAR_BLOCKER_TIME_MULT코0"
+msgid "Clear Blocker Time"
+msgstr "장애물 제거 시간"
+
+msgctxt "MOD_PLANET_BUILDING_COST_MULT코0"
+msgid "Building Cost"
+msgstr "건설 비용"
+
+msgctxt "MOD_PLANET_BUILDING_COST_MULT_DESC코0"
+msgid ""
+"Affects the resources needed to construct various buildings within the "
+"Empire, increasing or reducing the upfront cost."
+msgstr "모든 건설시 필요한 자원량에 영향을 줍니다."
+
+msgctxt "MOD_PLANET_BUILDING_UPKEEP_MULT코0"
+msgid "Building Upkeep"
+msgstr "건물 유지 비용"
+
+msgctxt "MOD_PLANET_BUILDING_UPKEEP_MULT_DESC코0"
+msgid ""
+"Affects the upkeep neded to maintain various buildings within the Empire."
+msgstr "제국 내부 여러 건물 유지 비용에 대한 영향"
+
+msgctxt "MOD_PLANET_CLEAR_BLOCKER_COST_MULT코0"
+msgid "Clear Blocker Cost"
+msgstr "장애물 제거 비용"
+
+msgctxt "MOD_PLANET_CLEAR_BLOCKER_COST_MULT_DESC코0"
+msgid "Affects the resources required to clear a surface tile of a blocker."
+msgstr "지표면의 장애물을 제거하는데 드는 비용에 영향을 줍니다."
+
+msgctxt "MOD_PLANET_MIGRATION_XENO_PULL코0"
+msgid "Alien Migration Attraction"
+msgstr "외계인 이주 선호도"
+
+msgctxt "MOD_PLANET_MIGRATION_SAME_PULL코0"
+msgid "Same Species Migration Attraction"
+msgstr "동족 이주 선호도"
+
+msgctxt "MOD_PLANET_MIGRATION_ALL_PULL코0"
+msgid "Migration Attraction"
+msgstr "이주 선호도"
+
+msgctxt "MOD_PLANET_ARMY_BUILD_SPEED_MULT코0"
+msgid "Army Build Speed"
+msgstr "지상군 모병 속도"
+
+msgctxt "MOD_PLANET_ARMY_BUILD_TIME_MULT코1"
+msgid "Army Build Time"
+msgstr "지상군 모병 시간"
+
+msgctxt "MOD_PLANET_ARMY_BUILD_TIME_MULT_DESC코0"
+msgid "Affects the time required to build armies within the Empire."
+msgstr "제국내의 지상군 모집시간에 영향을 줍니다."
+
+msgctxt "MOD_PLANET_ARMY_BUILD_COST_MULT코0"
+msgid "Army Cost"
+msgstr "지상군 비용"
+
+msgctxt "MOD_PLANET_ARMY_BUILD_COST_MULT_DESC코0"
+msgid ""
+"Affects the resources required to equip armies within the Empire, increasing "
+"or reducing the cost of recruitment."
+msgstr "제국 내에서 지상군을 무장시키는데 필요한 자원들에 영향을 주며, 신병의 고용 비용이 증가 또는 감소할 수 있습니다."
+
+msgctxt "MOD_PLANET_BORDER_MULT코0"
+msgid "Planet Border Extrusion"
+msgstr "행성 국경 범위 확장"
+
+msgctxt "MOD_COUNTRY_BORDER_FRICTION_MULT코0"
+msgid "Border Friction"
+msgstr "국경 충돌"
+
+msgctxt "MOD_PLANET_BUILDING_BUILD_SPEED_MULT코0"
+msgid "Building Build Speed"
+msgstr "건물 건설 속도"
+
+msgctxt "MOD_NAVY_SIZE_ADD코0"
+msgid "$NAVY_SIZE_TITLE$"
+msgstr "$NAVY_SIZE_TITLE$"
+
+msgctxt "MOD_NAVY_SIZE_MULT코0"
+msgid "$MOD_NAVY_SIZE_ADD$"
+msgstr "$MOD_NAVY_SIZE_ADD$"
+
+msgctxt "MOD_NAVY_SIZE_ADD_DESC코0"
+msgid ""
+"§E§H$MOD_NAVY_SIZE_ADD$§! determines the amount of ships that an empire can "
+"effectively supply. Larger ships require a higher §H$MOD_NAVY_SIZE_ADD$§! "
+"than smaller ships.§!"
+msgstr ""
+"§E§H$MOD_NAVY_SIZE_ADD$§!은 제국이 효과적으로 보급할 수 있는 함선의 수를 결정합니다. 대형함은 소형함보다 더 높은 "
+"§H$MOD_NAVY_SIZE_ADD$§!을 요구합니다.§!"
+
+msgctxt "MOD_FLEET_TERRAFORMING_COST_MULT코0"
+msgid "Terraforming Cost"
+msgstr "테라포밍 비용"
+
+msgctxt "MOD_FLEET_EMERGENCY_FTL_MIN_DAYS_ADD코1"
+msgid "Emergency FTL Jump Cooldown"
+msgstr "긴급 FTL 점프 대기시간"
+
+msgctxt "MOD_FLEET_EMERGENCY_FTL_MIN_DAYS_MULT코0"
+msgid "$MOD_FLEET_EMERGENCY_FTL_MIN_DAYS_ADD$"
+msgstr "$MOD_FLEET_EMERGENCY_FTL_MIN_DAYS_ADD$"
+
+msgctxt "MOD_FLEET_FEDERATION_NAVAL_CAP_CONTRIBUTION_MULT코0"
+msgid "Federation Naval Capacity Contribution"
+msgstr "연방 함대 수용력 기여도"
+
+msgctxt "MOD_LEADER_RULER_SKILL_LEVELS코0"
+msgid "Ruler Level Cap"
+msgstr "통치자 레벨 상한"
+
+msgctxt "MOD_LEADER_SKILL_LEVELS코0"
+msgid "Leader Level Cap"
+msgstr "지도자 레벨 상한"
+
+msgctxt "MOD_LEADER_AGE코0"
+msgid "Leader Lifespan"
+msgstr "지도자 수명"
+
+msgctxt "MOD_LEADER_ADMIRAL_SKILL_LEVELS코0"
+msgid "Admiral Level Cap"
+msgstr "제독 레벨 상한"
+
+msgctxt "MOD_LEADER_GENERAL_SKILL_LEVELS코0"
+msgid "General Level Cap"
+msgstr "장군 레벨 상한"
+
+msgctxt "MOD_LEADER_GOVERNOR_SKILL_LEVELS코0"
+msgid "Governor Level Cap"
+msgstr "총독 레벨 상한"
+
+msgctxt "MOD_LEADER_INFLUENCE_COST코0"
+msgid "Leader Recruitment Cost"
+msgstr "지도자 고용 비용"
+
+msgctxt "MOD_LEADER_ADMIRAL_INFLUENCE_COST코0"
+msgid "Admiral Recruitment Cost"
+msgstr "제독 고용 비용"
+
+msgctxt "MOD_LEADER_GENERAL_INFLUENCE_COST코0"
+msgid "General Recruitment Cost"
+msgstr "장군 고용 비용"
+
+msgctxt "MOD_LEADER_SCIENTIST_INFLUENCE_COST코0"
+msgid "Scientist Recruitment Cost"
+msgstr "과학자 고용 비용"
+
+msgctxt "MOD_LEADER_GOVERNOR_INFLUENCE_COST코0"
+msgid "Governor Recruitment Cost"
+msgstr "총독 고용 비용"
+
+msgctxt "MOD_LEADER_SPECIES_EXP_GAIN코0"
+msgid "Leader Experience Gain"
+msgstr "지도자 경험 획득"
+
+msgctxt "MOD_COMPONENT_RANGE_MULT코0"
+msgid "Component Range"
+msgstr "부품 사거리"
+
+msgctxt "MOD_POP_FACTION_SUPPORT_INCREASE_CHANCE_ADD코0"
+msgid "Faction Support Increase Chance"
+msgstr "파벌 지지도 증가 확률"
+
+msgctxt "MOD_POP_FACTION_SUPPORT_INCREASE_CHANCE_MULT코0"
+msgid "Faction Support Increase Chance"
+msgstr "파벌 지지도 증가 확률"
+
+msgctxt "MOD_POP_FACTION_SUPPORT_INCREASE_ADD코0"
+msgid "Faction Support Increase value"
+msgstr "파벌 지지도 증가 값"
+
+msgctxt "MOD_POP_FACTION_SUPPORT_INCREASE_MULT코0"
+msgid "Faction Support Increase value"
+msgstr "파벌 지지도 증가 값"
+
+msgctxt "MOD_PLANET_UNREST_ADD코0"
+msgid "Unrest"
+msgstr "불만도"
+
+msgctxt "MOD_PLANET_UNREST_MULT코0"
+msgid "$MOD_PLANET_UNREST_ADD$"
+msgstr "$MOD_PLANET_UNREST_ADD$"
+
+msgctxt "MOD_COUNTRY_UNREST_HAPPY_POP_EFFECT_MULT코0"
+msgid "Pop Unrest Reduction"
+msgstr "POP 불만도 감소"
+
+msgctxt "MOD_COUNTRY_UNREST_UNHAPPY_POP_EFFECT_MULT코0"
+msgid "Pop Unrest"
+msgstr "POP 불만도"
+
+msgctxt "MOD_COUNTRY_UNREST_HAPPY_SLAVE_EFFECT_MULT코0"
+msgid "Slave Unrest Reduction"
+msgstr "노예 불만도 감소"
+
+msgctxt "MOD_COUNTRY_UNREST_UNHAPPY_SLAVE_EFFECT_MULT코0"
+msgid "Slave Unrest"
+msgstr "노예 불만도"
+
+msgctxt "MOD_SPACEPORT_SHIP_BUILD_COST_MULT코0"
+msgid "Ship Cost"
+msgstr "함선 비용"
+
+msgctxt "MOD_SPACEPORT_SHIP_BUILD_COST_MULT_DESC코0"
+msgid ""
+"Affects the resources required to build ships within the Empire, increasing "
+"or reducing the cost of construction."
+msgstr "함선을 건조시 필요한 비용에 영향을 줍니다"
+
+msgctxt "MOD_SPACEPORT_SHIP_BUILD_TIME_MULT코1"
+msgid "Ship Build Time"
+msgstr "함선 건조 시간"
+
+msgctxt "MOD_SPACEPORT_SHIP_BUILD_TIME_MULT_DESC코0"
+msgid "Affects the time required to build ships within the Empire."
+msgstr "함선을 건조시 필요한 시간에 영향을 줍니다"
+
+msgctxt "MOD_SPACEPORT_MODULE_COST_MULT코0"
+msgid "Spaceport Module Cost"
+msgstr "우주항 모듈 비용"
+
+msgctxt "MOD_SPACEPORT_MODULE_COST_MULT_DESC코0"
+msgid ""
+"Modifies the cost of adding Modules to a Spaceport, increasing or reducing "
+"the resources required."
+msgstr "우주항 모듈의 설치 비용에 영향을 줍니다."
+
+msgctxt "MOD_SPACEPORT_SHIP_BUILD_SPEED_MULT코0"
+msgid "Ship Build Speed"
+msgstr "함선 건조 속도"
+
+msgctxt "MOD_SPACEPORT_DEFENSIVE_WAR_SHIP_BUILD_SPEED_MULT코0"
+msgid "Ship Build Speed (Defensive War)"
+msgstr "함선 건조 속도 (방어적 전쟁)"
+
+msgctxt "energy_deficit코1"
+msgid "Energy Shortage"
+msgstr "에너지 부족"
+
+msgctxt "mineral_deficit코0"
+msgid "Mineral Shortage"
+msgstr "광물 부족"
+
+msgctxt "influence_deficit코0"
+msgid "Influence Shortage"
+msgstr "영향력 부족"
+
+msgctxt "tile_resource_energy_mult코0"
+msgid "Energy Credits"
+msgstr "에너지 크레딧"
+
+msgctxt "tile_resource_energy_mult_DESC코0"
+msgid ""
+"The output of Energy Credits by all Pops within the Empire is adjusted by "
+"this value."
+msgstr "제국 내의 모든 POP의 에너지 크레딧 생산량은 이 값의 영향을 받습니다."
+
+msgctxt "tile_resource_minerals_mult코0"
+msgid "Minerals"
+msgstr "광물"
+
+msgctxt "tile_resource_minerals_mult_DESC코0"
+msgid ""
+"The Mineral production of all Pops within the Empire is adjusted by this "
+"value."
+msgstr "제국 내의 모든 POP의 광물 생산량은 이 값의 영향을 받습니다"
+
+msgctxt "tile_resource_physics_research_mult코1"
+msgid "Physics Output"
+msgstr "물리학 생산량"
+
+msgctxt "tile_resource_physics_research_mult_DESC코0"
+msgid ""
+"The Physics Research produced by all Pops within the Empire is adjusted by "
+"this value."
+msgstr "제국 내의 모든 POP의 물리학 생산량은 이 값의 영향을 받습니다."
+
+msgctxt "tile_resource_society_research_mult코1"
+msgid "Society Output"
+msgstr "사회학 생산량"
+
+msgctxt "tile_resource_society_research_mult_DESC코0"
+msgid ""
+"The Society Research produced by all Pops within the Empire is adjusted by "
+"this value."
+msgstr "제국 내의 모든 POP의 사회학 생산량은 이 값의 영향을 받습니다."
+
+msgctxt "tile_resource_engineering_research_mult코1"
+msgid "Engineering Output"
+msgstr "공학 생산량"
+
+msgctxt "tile_resource_engineering_research_mult_DESC코0"
+msgid ""
+"The Engineering Research produced by all Pops within the Empire is adjusted "
+"by this value."
+msgstr "제국 내의 모든 POP의 공학 생산량은 이 값의 영향을 받습니다."
+
+msgctxt "tile_resource_food_mult코0"
+msgid "Food"
+msgstr "식량"
+
+msgctxt "tile_resource_food_mult_DESC코0"
+msgid ""
+"The Food produced by all Pops within the Empire is adjusted by this value."
+msgstr "제국 내의 모든 POP의 식량 생산량은 이 값의 영향을 받습니다"
+
+msgctxt "tile_resource_energy_add코0"
+msgid "Energy Credits"
+msgstr "에너지 크레딧"
+
+msgctxt "tile_building_resource_energy_add코0"
+msgid "$tile_resource_energy_add$"
+msgstr "$tile_resource_energy_add$"
+
+msgctxt "tile_resource_minerals_add코0"
+msgid "Mineral Output"
+msgstr "광물 생산량"
+
+msgctxt "tile_building_resource_minerals_add코0"
+msgid "$tile_resource_minerals_add$"
+msgstr "$tile_resource_minerals_add$"
+
+msgctxt "tile_resource_physics_research_add코0"
+msgid "Physics Research"
+msgstr "물리학 연구"
+
+msgctxt "tile_resource_society_research_add코0"
+msgid "Society Research"
+msgstr "사회학 연구"
+
+msgctxt "tile_resource_engineering_research_add코0"
+msgid "Engineering Research"
+msgstr "공학 연구"
+
+msgctxt "tile_building_resource_physics_research_add코0"
+msgid "Physics Research"
+msgstr "물리학 연구"
+
+msgctxt "tile_building_resource_society_research_add코0"
+msgid "Society Research"
+msgstr "사회학 연구"
+
+msgctxt "tile_building_resource_engineering_research_add코0"
+msgid "Engineering Research"
+msgstr "공학 연구"
+
+msgctxt "tile_resource_food_add코0"
+msgid "Food Output"
+msgstr "식량 생산량"
+
+msgctxt "tile_building_resource_food_add코0"
+msgid "Food Output"
+msgstr "식량 생산량"
+
+msgctxt "planet_resource_food_add코0"
+msgid "Planet Food"
+msgstr "행성 식량"
+
+msgctxt "planet_resource_minerals_add코0"
+msgid "Planet Minerals"
+msgstr "행성 광물"
+
+msgctxt "max_minerals코0"
+msgid "Mineral Storage Capacity"
+msgstr "광물 저장 용량"
+
+msgctxt "max_food코0"
+msgid "Food Storage Capacity"
+msgstr "식량 저장 한도"
+
+msgctxt "max_energy코0"
+msgid "Energy Storage Capacity"
+msgstr "에너지 저장 용량"
+
+msgctxt "max_influence코0"
+msgid "Influence Storage Capacity"
+msgstr "영향력 저장 용량"
+
+msgctxt "country_resource_energy_add코1"
+msgid "Monthly Energy"
+msgstr "월간 에너지"
+
+msgctxt "country_resource_minerals_add코1"
+msgid "Monthly Minerals"
+msgstr "월간 광물"
+
+msgctxt "tile_resource_unity_mult코0"
+msgid "Unity Output"
+msgstr "통합력 생산"
+
+msgctxt "tile_building_resource_unity_mult코0"
+msgid "$tile_resource_unity_mult$"
+msgstr "$tile_resource_unity_mult$"
+
+msgctxt "tile_resource_unity_mult_DESC코0"
+msgid ""
+"The Unity produced by all Pops within the Empire is adjusted by this value."
+msgstr "제국의 모든 POP들이 생산하는 통합력의 양이 이 수치에 따라 조정됩니다."
+
+msgctxt "country_resource_unity_mult코0"
+msgid "Monthly Unity"
+msgstr "매월 통합력"
+
+msgctxt "planet_resource_unity_add코0"
+msgid "Planet Unity Output"
+msgstr "행성 통합력 생산량"
+
+msgctxt "country_resource_unity_add코0"
+msgid "Monthly Unity"
+msgstr "매월 통합력"
+
+msgctxt "tile_resource_unity_add코0"
+msgid "Unity Output"
+msgstr "통합력 생산량"
+
+msgctxt "country_resource_food_mult코0"
+msgid "Food Output"
+msgstr "식량 생산량"
+
+msgctxt "country_resource_influence_add코0"
+msgid "Monthly Influence"
+msgstr "월간 영향력"
+
+msgctxt "planet_resource_influence_add코0"
+msgid "Planet Influence Output"
+msgstr "행성 영향력 생산량"
+
+msgctxt "tile_resource_influence_add코0"
+msgid "Tile Influence Output"
+msgstr "타일 영향력 생산량"
+
+msgctxt "tile_building_resource_influence_add코0"
+msgid "$tile_resource_influence_add$"
+msgstr "$tile_resource_influence_add$"
+
+msgctxt "tile_resource_influence_mult코1"
+msgid "$tile_resource_influence_add$"
+msgstr "$tile_resource_influence_add$"
+
+msgctxt "country_resource_influence_mult코0"
+msgid "Empire Influence Gain"
+msgstr "제국 영향력 획득"
+
+msgctxt "country_resource_physics_research_mult코0"
+msgid "Physics Research"
+msgstr "물리학 연구"
+
+msgctxt "country_subjects_resource_unity_mult코0"
+msgid "$tr_domination_vassal_acculturation$"
+msgstr "$tr_domination_vassal_acculturation$"
+
+msgctxt "country_subjects_resource_unity_max_mult코0"
+msgid "$tr_domination_vassal_acculturation$ Max Effect"
+msgstr "$tr_domination_vassal_acculturation$ 최대 효과"
+
+msgctxt "country_federation_member_resource_unity_mult코0"
+msgid "$tr_diplomacy_federal_unity$"
+msgstr "$tr_diplomacy_federal_unity$"
+
+msgctxt "country_federation_member_resource_unity_max_mult코0"
+msgid "$tr_diplomacy_federal_unity$ Max Effect"
+msgstr "$tr_diplomacy_federal_unity$ 최대 효과"
+
+msgctxt "country_strategic_resources_resource_unity_mult코0"
+msgid "$tr_versatility_material_analysis$"
+msgstr "$tr_versatility_material_analysis$"
+
+msgctxt "country_strategic_resources_resource_unity_max_mult코0"
+msgid "$tr_versatility_material_analysis$ Max Effect"
+msgstr "$tr_versatility_material_analysis$ 최대 효과"
+
+msgctxt "country_planet_classes_resource_unity_mult코0"
+msgid "$tr_adaptability_environmental_diversification$"
+msgstr "$tr_adaptability_environmental_diversification$"
+
+msgctxt "country_planet_classes_resource_unity_max_mult코0"
+msgid "$tr_adaptability_environmental_diversification$ Max Effect"
+msgstr "$tr_adaptability_environmental_diversification$ 최대 효과"
+
+msgctxt "pop_ethic_pacifist_attraction_mult코0"
+msgid "Pacifist Ethics Attraction"
+msgstr "평화주의 윤리관 선호도"
+
+msgctxt "pop_ethic_militarist_attraction_mult코0"
+msgid "Militarist Ethics Attraction"
+msgstr "군국주의 윤리관 선호도"
+
+msgctxt "pop_ethic_materialist_attraction_mult코0"
+msgid "Materialist Ethics Attraction"
+msgstr "물질주의 윤리관 선호도"
+
+msgctxt "pop_ethic_spiritualist_attraction_mult코0"
+msgid "Spiritualist Ethics Attraction"
+msgstr "정신주의 윤리관 선호도"
+
+msgctxt "pop_ethic_xenophile_attraction_mult코0"
+msgid "Xenophile Ethics Attraction"
+msgstr "외계종 선호 윤리관 선호도"
+
+msgctxt "pop_ethic_xenophobe_attraction_mult코0"
+msgid "Xenophobe Ethics Attraction"
+msgstr "외계종 혐오 윤리관 선호도"
+
+msgctxt "pop_ethic_egalitarian_attraction_mult코0"
+msgid "Egalitarian Ethics Attraction"
+msgstr "평등주의 윤리관 선호도"
+
+msgctxt "pop_ethic_authoritarian_attraction_mult코0"
+msgid "Authoritarian Ethics Attraction"
+msgstr "권위주의 윤리관 선호도"
+
+msgctxt "shipsize_corvette_construction_speed_mult코0"
+msgid "Corvette Build Speed"
+msgstr "초계함 건조 속도"
+
+msgctxt "shipsize_destroyer_construction_speed_mult코0"
+msgid "Destroyer Build Speed"
+msgstr "구축함 건조 속도"
+
+msgctxt "shipsize_cruiser_construction_speed_mult코0"
+msgid "Cruiser Build Speed"
+msgstr "순양함 건조 속도"
+
+msgctxt "shipsize_battleship_construction_speed_mult코0"
+msgid "Battleship Build Speed"
+msgstr "전함 건조 속도"
+
+msgctxt "shipsize_colonizer_construction_speed_mult코0"
+msgid "Colony Ship Build Speed"
+msgstr "개척선 건조 속도"
+
+msgctxt "shipsize_outpost_station_speed_mult코0"
+msgid "Frontier Outpost Build Speed"
+msgstr "전초 기지 건설 속도"
+
+msgctxt "shipsize_corvette_build_cost_mult코0"
+msgid "Corvette Build Cost"
+msgstr "초계함 건조 비용"
+
+msgctxt "shipsize_destroyer_build_cost_mult코0"
+msgid "Destroyer Build Cost"
+msgstr "구축함 건조 비용"
+
+msgctxt "shipsize_cruiser_build_cost_mult코0"
+msgid "Cruiser Build Cost"
+msgstr "순양함 건조 비용"
+
+msgctxt "shipsize_battleship_build_cost_mult코0"
+msgid "Battleship Build Cost"
+msgstr "전함 건조 비용"
+
+msgctxt "shipsize_orbital_station_build_cost_mult코0"
+msgid "Spaceport Build Cost"
+msgstr "우주항 건설 비용"
+
+msgctxt "shipsize_mining_station_build_cost_mult코0"
+msgid "Mining Station Build Cost"
+msgstr "채광 스테이션 건설 비용"
+
+msgctxt "shipsize_research_station_build_cost_mult코0"
+msgid "Research Station Build Cost"
+msgstr "연구 스테이션 건설 비용"
+
+msgctxt "shipsize_science_build_cost_mult코0"
+msgid "Science Ship Build Cost"
+msgstr "과학선 건조 비용"
+
+msgctxt "shipsize_constructor_build_cost_mult코0"
+msgid "Constructor Build Cost"
+msgstr "건설선 건조 비용"
+
+msgctxt "shipsize_colonizer_build_cost_mult코0"
+msgid "Colony Ship Build Cost"
+msgstr "개척선 건조 비용"
+
+msgctxt "shipsize_military_station_small_build_cost_mult코0"
+msgid "Defense Platform Build Cost"
+msgstr "방위 플랫폼 건설 비용"
+
+msgctxt "shipsize_military_station_medium_build_cost_mult코0"
+msgid "Defense Station Build Cost"
+msgstr "방위 스테이션 건설 비용"
+
+msgctxt "shipsize_military_station_large_build_cost_mult코0"
+msgid "Fortress Build Cost"
+msgstr "요새 건설 비용"
+
+msgctxt "shipsize_terraform_station_build_cost_mult코0"
+msgid "Terraforming Station Build Cost"
+msgstr "테라포밍 스테이션 건설 비용"
+
+msgctxt "shipsize_outpost_station_build_cost_mult코0"
+msgid "Frontier Outpost Build Cost"
+msgstr "전초 기지 건설 비용"
+
+msgctxt "shipsize_wormhole_station_build_cost_mult코0"
+msgid "Wormhole Station Build Cost"
+msgstr "웜홀 스테이션 건설 비용"
+
+msgctxt "shipsize_observation_station_build_cost_mult코0"
+msgid "Observation Station Build Cost"
+msgstr "관찰 스테이션 건설 비용"
+
+msgctxt "shipsize_corvette_upkeep_mult코0"
+msgid "Corvette Upkeep"
+msgstr "초계함 유지비"
+
+msgctxt "shipsize_destroyer_upkeep_mult코0"
+msgid "Destroyer Upkeep"
+msgstr "구축함 유지비"
+
+msgctxt "shipsize_cruiser_upkeep_mult코0"
+msgid "Cruiser Upkeep"
+msgstr "순양함 유지비"
+
+msgctxt "shipsize_battleship_upkeep_mult코0"
+msgid "Battleship Upkeep"
+msgstr "전함 유지비"
+
+msgctxt "shipsize_spaceport_upkeep_mult코0"
+msgid "Spaceport Upkeep"
+msgstr "우주항 유지비"
+
+msgctxt "shipsize_mining_station_upkeep_mult코0"
+msgid "Mining Station Upkeep"
+msgstr "채광 스테이션 유지비"
+
+msgctxt "shipsize_research_station_upkeep_mult코0"
+msgid "Research Station Upkeep"
+msgstr "연구 스테이션 유지비"
+
+msgctxt "shipsize_science_upkeep_mult코0"
+msgid "Science Ship Upkeep"
+msgstr "과학선 유지비"
+
+msgctxt "shipclass_science_ship_evasion_add코0"
+msgid "Science Ship Combat Evasion"
+msgstr "과학선 전투 회피"
+
+msgctxt "shipsize_constructor_upkeep_mult코0"
+msgid "Constructor Upkeep"
+msgstr "건설선 유지비"
+
+msgctxt "shipsize_colonizer_upkeep_mult코0"
+msgid "Colony Ship Upkeep"
+msgstr "개척선 유지비"
+
+msgctxt "shipsize_military_station_small_upkeep_mult코1"
+msgid "Defense Platform Upkeep"
+msgstr "방위 플랫폼 유지비"
+
+msgctxt "shipsize_military_station_medium_upkeep_mult코1"
+msgid "Defense Station Upkeep"
+msgstr "방위 스테이션 유지비"
+
+msgctxt "shipsize_military_station_large_upkeep_mult코1"
+msgid "Fortress Upkeep"
+msgstr "요새 유지비"
+
+msgctxt "shipsize_terraform_station_upkeep_mult코0"
+msgid "Terraforming Station Upkeep"
+msgstr "테라포밍 스테이션 유지비"
+
+msgctxt "shipsize_outpost_station_upkeep_mult코0"
+msgid "Frontier Outpost Upkeep"
+msgstr "전초 기지 유지비"
+
+msgctxt "shipsize_wormhole_station_upkeep_mult코0"
+msgid "Wormhole Station Upkeep"
+msgstr "웜홀 스테이션 유지비"
+
+msgctxt "shipsize_observation_station_upkeep_mult코0"
+msgid "Observation Station Upkeep"
+msgstr "관찰 스테이션 유지비"
+
+msgctxt "shipclass_military_station_damage_mult코0"
+msgid "Military Station Damage"
+msgstr "군사 스테이션 피해량"
+
+msgctxt "shipclass_military_station_hit_points_mult코0"
+msgid "Military Station Health"
+msgstr "군사 스테이션 내구도"
+
+msgctxt "shipclass_military_station_build_cost_mult코0"
+msgid "Military Station Build Cost"
+msgstr "군사 스테이션 건설 비용"
+
+msgctxt "weapon_type_explosive_weapon_damage_mult코0"
+msgid "Explosive Weapon Damage"
+msgstr "폭발형 무기 피해량"
+
+msgctxt "weapon_type_explosive_weapon_fire_rate_mult코0"
+msgid "Explosive Weapon Attack Speed"
+msgstr "폭발형 무기 공격 속도"
+
+msgctxt "weapon_type_kinetic_weapon_damage_mult코0"
+msgid "Kinetic Weapon Damage"
+msgstr "실탄 투사형 무기 피해량"
+
+msgctxt "weapon_type_kinetic_weapon_fire_rate_mult코0"
+msgid "Kinetic Weapon Attack Speed"
+msgstr "실탄 투사형 무기 공격 속도"
+
+msgctxt "weapon_type_energy_weapon_damage_mult코0"
+msgid "Energy Weapon Damage"
+msgstr "에너지 무기 피해량"
+
+msgctxt "weapon_type_energy_weapon_fire_rate_mult코0"
+msgid "Energy Weapon Attack Speed"
+msgstr "에너지 무기 공격 속도"
+
+msgctxt "weapon_type_strike_craft_weapon_damage_mult코0"
+msgid "Strike Craft Damage"
+msgstr "공격기 피해량"
+
+msgctxt "weapon_type_strike_craft_weapon_fire_rate_mult코0"
+msgid "Strike Craft Attack Speed"
+msgstr "공격기 공격 속도"
+
+msgctxt "weapon_type_strike_craft_speed_mult코0"
+msgid "Strike Craft Speed"
+msgstr "공격기 속도"
+
+msgctxt "vultaum_asteroid_category_research_speed_mult코0"
+msgid "Anomaly Research Speed (Precursors)"
+msgstr "이상 현상 연구 속도 (선구자)"
+
+msgctxt "vultaum_asteroid_category_research_fail_risk_mult코0"
+msgid "Anomaly Fail Risk (Precursors)"
+msgstr "이상 현상 연구 실패 확률 (선구자)"
+
+msgctxt "vultaum_gasgiant_category_research_speed_mult코0"
+msgid "Anomaly Research Speed (Precursors)"
+msgstr "이상 현상 연구 속도 (선구자)"
+
+msgctxt "vultaum_gasgiant_category_research_fail_risk_mult코0"
+msgid "Anomaly Fail Risk (Precursors)"
+msgstr "이상 현상 연구 실패 확률 (선구자)"
+
+msgctxt "vultaum_uninhabitable_category_research_speed_mult코0"
+msgid "Anomaly Research Speed (Precursors)"
+msgstr "이상 현상 연구 속도 (선구자)"
+
+msgctxt "vultaum_uninhabitable_category_research_fail_risk_mult코0"
+msgid "Anomaly Fail Risk (Precursors)"
+msgstr "이상 현상 연구 실패 확률 (선구자)"
+
+msgctxt "vultaum_habitable_category_research_speed_mult코0"
+msgid "Anomaly Research Speed (Precursors)"
+msgstr "이상 현상 연구 속도 (선구자)"
+
+msgctxt "vultaum_habitable_category_research_fail_risk_mult코0"
+msgid "Anomaly Fail Risk (Precursors)"
+msgstr "이상 현상 실패 확률 (선구자)"
+
+msgctxt "yuht_asteroid_category_research_speed_mult코0"
+msgid "Anomaly Research Speed (Precursors)"
+msgstr "이상 현상 연구 속도 (선구자)"
+
+msgctxt "yuht_asteroid_category_research_fail_risk_mult코0"
+msgid "Anomaly Fail Risk (Precursors)"
+msgstr "이상 현상 연구 실패 확률 (선구자)"
+
+msgctxt "yuht_gasgiant_category_research_speed_mult코0"
+msgid "Anomaly Research Speed (Precursors)"
+msgstr "이상 현상 연구 속도 (선구자)"
+
+msgctxt "yuht_gasgiant_category_research_fail_risk_mult코0"
+msgid "Anomaly Fail Risk (Precursors)"
+msgstr "이상 현상 연구 실패 확률 (선구자)"
+
+msgctxt "yuht_uninhabitable_category_research_speed_mult코0"
+msgid "Anomaly Research Speed (Precursors)"
+msgstr "이상 현상 연구 속도 (선구자)"
+
+msgctxt "yuht_uninhabitable_category_research_fail_risk_mult코0"
+msgid "Anomaly Fail Risk (Precursors)"
+msgstr "이상 현상 연구 실패 확률 (선구자)"
+
+msgctxt "yuht_habitable_category_research_speed_mult코0"
+msgid "Anomaly Research Speed (Precursors)"
+msgstr "이상 현상 연구 속도 (선구자)"
+
+msgctxt "yuht_habitable_category_research_fail_risk_mult코0"
+msgid "Anomaly Fail Risk (Precursors)"
+msgstr "이상 현상 연구 실패 확률 (선구자)"
+
+msgctxt "league_asteroid_category_research_speed_mult코0"
+msgid "Anomaly Research Speed (Precursors)"
+msgstr "이상 현상 연구 속도 (선구자)"
+
+msgctxt "league_asteroid_category_research_fail_risk_mult코0"
+msgid "Anomaly Fail Risk (Precursors)"
+msgstr "이상 현상 연구 실패 확률 (선구자)"
+
+msgctxt "league_gasgiant_category_research_speed_mult코0"
+msgid "Anomaly Research Speed (Precursors)"
+msgstr "이상 현상 연구 속도 (선구자)"
+
+msgctxt "league_gasgiant_category_research_fail_risk_mult코0"
+msgid "Anomaly Fail Risk (Precursors)"
+msgstr "이상 현상 연구 실패 확률 (선구자)"
+
+msgctxt "league_uninhabitable_category_research_speed_mult코0"
+msgid "Anomaly Research Speed (Precursors)"
+msgstr "이상 현상 연구 속도 (선구자)"
+
+msgctxt "league_uninhabitable_category_research_fail_risk_mult코0"
+msgid "Anomaly Fail Risk (Precursors)"
+msgstr "이상 현상 연구 실패 확률 (선구자)"
+
+msgctxt "league_habitable_category_research_speed_mult코0"
+msgid "Anomaly Research Speed (Precursors)"
+msgstr "이상 현상 연구 속도 (선구자)"
+
+msgctxt "league_habitable_category_research_fail_risk_mult코0"
+msgid "Anomaly Fail Risk (Precursors)"
+msgstr "이상 현상 연구 실패 확률 (선구자)"
+
+msgctxt "irassian_asteroid_category_research_speed_mult코0"
+msgid "Anomaly Research Speed (Precursors)"
+msgstr "이상 현상 연구 속도 (선구자)"
+
+msgctxt "irassian_asteroid_category_research_fail_risk_mult코0"
+msgid "Anomaly Fail Risk (Precursors)"
+msgstr "이상 현상 연구 실패 확률 (선구자)"
+
+msgctxt "irassian_gasgiant_category_research_speed_mult코0"
+msgid "Anomaly Research Speed (Precursors)"
+msgstr "이상 현상 연구 속도 (선구자)"
+
+msgctxt "irassian_gasgiant_category_research_fail_risk_mult코0"
+msgid "Anomaly Fail Risk (Precursors)"
+msgstr "이상 현상 연구 실패 확률 (선구자)"
+
+msgctxt "irassian_uninhabitable_category_research_speed_mult코0"
+msgid "Anomaly Research Speed (Precursors)"
+msgstr "이상 현상 연구 속도 (선구자)"
+
+msgctxt "irassian_uninhabitable_category_research_fail_risk_mult코0"
+msgid "Anomaly Fail Risk (Precursors)"
+msgstr "이상 현상 연구 실패 확률 (선구자)"
+
+msgctxt "irassian_habitable_category_research_speed_mult코0"
+msgid "Anomaly Research Speed (Precursors)"
+msgstr "이상 현상 연구 속도 (선구자)"
+
+msgctxt "irassian_habitable_category_research_fail_risk_mult코0"
+msgid "Anomaly Fail Risk (Precursors)"
+msgstr "이상 현상 연구 실패 확률 (선구자)"
+
+msgctxt "cybrex_asteroid_category_research_speed_mult코0"
+msgid "Anomaly Research Speed (Precursors)"
+msgstr "이상 현상 연구 속도 (선구자)"
+
+msgctxt "cybrex_asteroid_category_research_fail_risk_mult코0"
+msgid "Anomaly Fail Risk (Precursors)"
+msgstr "이상 현상 연구 실패 확률 (선구자)"
+
+msgctxt "cybrex_gasgiant_category_research_speed_mult코0"
+msgid "Anomaly Research Speed (Precursors)"
+msgstr "이상 현상 연구 속도 (선구자)"
+
+msgctxt "cybrex_gasgiant_category_research_fail_risk_mult코0"
+msgid "Anomaly Fail Risk (Precursors)"
+msgstr "이상 현상 연구 실패 확률 (선구자)"
+
+msgctxt "cybrex_uninhabitable_category_research_speed_mult코0"
+msgid "Anomaly Research Speed (Precursors)"
+msgstr "이상 현상 연구 속도 (선구자)"
+
+msgctxt "cybrex_uninhabitable_category_research_fail_risk_mult코0"
+msgid "Anomaly Fail Risk (Precursors)"
+msgstr "이상 현상 연구 실패 확률 (선구자)"
+
+msgctxt "cybrex_habitable_category_research_speed_mult코0"
+msgid "Anomaly Research Speed (Precursors)"
+msgstr "이상 현상 연구 속도 (선구자)"
+
+msgctxt "cybrex_habitable_category_research_fail_risk_mult코0"
+msgid "Anomaly Fail Risk (Precursors)"
+msgstr "이상 현상 연구 실패 확률 (선구자)"
+
+msgctxt "vultaum_asteroid_category_research_speed_add코0"
+msgid "$vultaum_asteroid_category_research_speed_mult$"
+msgstr "\"$vultaum_asteroid_category_research_speed_mult$\""
+
+msgctxt "vultaum_asteroid_category_research_fail_risk_add코0"
+msgid "$vultaum_asteroid_category_research_fail_risk_mult$"
+msgstr "\"$vultaum_asteroid_category_research_fail_risk_mult$\""
+
+msgctxt "vultaum_gasgiant_category_research_speed_add코0"
+msgid "$vultaum_gasgiant_category_research_speed_mult$"
+msgstr "\"$vultaum_gasgiant_category_research_speed_mult$\""
+
+msgctxt "vultaum_gasgiant_category_research_fail_risk_add코0"
+msgid "$vultaum_gasgiant_category_research_fail_risk_mult$"
+msgstr "\"$vultaum_gasgiant_category_research_fail_risk_mult$\""
+
+msgctxt "vultaum_uninhabitable_category_research_speed_add코0"
+msgid "$vultaum_uninhabitable_category_research_speed_mult$"
+msgstr "\"$vultaum_uninhabitable_category_research_speed_mult$\""
+
+msgctxt "vultaum_uninhabitable_category_research_fail_risk_add코0"
+msgid "$vultaum_uninhabitable_category_research_fail_risk_mult$"
+msgstr "\"$vultaum_uninhabitable_category_research_fail_risk_mult$\""
+
+msgctxt "vultaum_habitable_category_research_speed_add코0"
+msgid "$vultaum_habitable_category_research_speed_mult$"
+msgstr "\"$vultaum_habitable_category_research_speed_mult$\""
+
+msgctxt "vultaum_habitable_category_research_fail_risk_add코0"
+msgid "$vultaum_habitable_category_research_fail_risk_mult$"
+msgstr "\"$vultaum_habitable_category_research_fail_risk_mult$\""
+
+msgctxt "yuht_asteroid_category_research_speed_add코0"
+msgid "$yuht_asteroid_category_research_speed_mult$"
+msgstr "\"$yuht_asteroid_category_research_speed_mult$\""
+
+msgctxt "yuht_asteroid_category_research_fail_risk_add코0"
+msgid "$yuht_asteroid_category_research_fail_risk_mult$"
+msgstr "\"$yuht_asteroid_category_research_fail_risk_mult$\""
+
+msgctxt "yuht_gasgiant_category_research_speed_add코0"
+msgid "$yuht_gasgiant_category_research_speed_mult$"
+msgstr "\"$yuht_gasgiant_category_research_speed_mult$\""
+
+msgctxt "yuht_gasgiant_category_research_fail_risk_add코0"
+msgid "$yuht_gasgiant_category_research_fail_risk_mult$"
+msgstr "\"$yuht_gasgiant_category_research_fail_risk_mult$\""
+
+msgctxt "yuht_uninhabitable_category_research_speed_add코0"
+msgid "$yuht_uninhabitable_category_research_speed_mult$"
+msgstr "\"$yuht_uninhabitable_category_research_speed_mult$\""
+
+msgctxt "yuht_uninhabitable_category_research_fail_risk_add코0"
+msgid "$yuht_uninhabitable_category_research_fail_risk_mult$"
+msgstr "\"$yuht_uninhabitable_category_research_fail_risk_mult$\""
+
+msgctxt "yuht_habitable_category_research_speed_add코0"
+msgid "$yuht_habitable_category_research_speed_mult$"
+msgstr "\"$yuht_habitable_category_research_speed_mult$\""
+
+msgctxt "yuht_habitable_category_research_fail_risk_add코0"
+msgid "$yuht_habitable_category_research_fail_risk_mult$"
+msgstr "\"$yuht_habitable_category_research_fail_risk_mult$\""
+
+msgctxt "league_asteroid_category_research_speed_add코0"
+msgid "$league_asteroid_category_research_speed_mult$"
+msgstr "\"$league_asteroid_category_research_speed_mult$\""
+
+msgctxt "league_asteroid_category_research_fail_risk_add코0"
+msgid "$league_asteroid_category_research_fail_risk_mult$"
+msgstr "\"$league_asteroid_category_research_fail_risk_mult$\""
+
+msgctxt "league_gasgiant_category_research_speed_add코0"
+msgid "$league_gasgiant_category_research_speed_mult$"
+msgstr "\"$league_gasgiant_category_research_speed_mult$\""
+
+msgctxt "league_gasgiant_category_research_fail_risk_add코0"
+msgid "$league_gasgiant_category_research_fail_risk_mult$"
+msgstr "\"$league_gasgiant_category_research_fail_risk_mult$\""
+
+msgctxt "league_uninhabitable_category_research_speed_add코0"
+msgid "$league_uninhabitable_category_research_speed_mult$"
+msgstr "\"$league_uninhabitable_category_research_speed_mult$\""
+
+msgctxt "league_uninhabitable_category_research_fail_risk_add코0"
+msgid "$league_uninhabitable_category_research_fail_risk_mult$"
+msgstr "\"$league_uninhabitable_category_research_fail_risk_mult$\""
+
+msgctxt "league_habitable_category_research_speed_add코0"
+msgid "$league_habitable_category_research_speed_mult$"
+msgstr "\"$league_habitable_category_research_speed_mult$\""
+
+msgctxt "league_habitable_category_research_fail_risk_add코0"
+msgid "$league_habitable_category_research_fail_risk_mult$"
+msgstr "\"$league_habitable_category_research_fail_risk_mult$\""
+
+msgctxt "irassian_asteroid_category_research_speed_add코0"
+msgid "$irassian_asteroid_category_research_speed_mult$"
+msgstr "\"$irassian_asteroid_category_research_speed_mult$\""
+
+msgctxt "irassian_asteroid_category_research_fail_risk_add코0"
+msgid "$irassian_asteroid_category_research_fail_risk_mult$"
+msgstr "\"$irassian_asteroid_category_research_fail_risk_mult$\""
+
+msgctxt "irassian_gasgiant_category_research_speed_add코0"
+msgid "$irassian_gasgiant_category_research_speed_mult$"
+msgstr "\"$irassian_gasgiant_category_research_speed_mult$\""
+
+msgctxt "irassian_gasgiant_category_research_fail_risk_add코0"
+msgid "$irassian_gasgiant_category_research_fail_risk_mult$"
+msgstr "\"$irassian_gasgiant_category_research_fail_risk_mult$\""
+
+msgctxt "irassian_uninhabitable_category_research_speed_add코0"
+msgid "$irassian_uninhabitable_category_research_speed_mult$"
+msgstr "\"$irassian_uninhabitable_category_research_speed_mult$\""
+
+msgctxt "irassian_uninhabitable_category_research_fail_risk_add코0"
+msgid "$irassian_uninhabitable_category_research_fail_risk_mult$"
+msgstr "\"$irassian_uninhabitable_category_research_fail_risk_mult$\""
+
+msgctxt "irassian_habitable_category_research_speed_add코0"
+msgid "$irassian_habitable_category_research_speed_mult$"
+msgstr "\"$irassian_habitable_category_research_speed_mult$\""
+
+msgctxt "irassian_habitable_category_research_fail_risk_add코0"
+msgid "$irassian_habitable_category_research_fail_risk_mult$"
+msgstr "\"$irassian_habitable_category_research_fail_risk_mult$\""
+
+msgctxt "cybrex_asteroid_category_research_speed_add코0"
+msgid "$cybrex_asteroid_category_research_speed_mult$"
+msgstr "\"$cybrex_asteroid_category_research_speed_mult$\""
+
+msgctxt "cybrex_asteroid_category_research_fail_risk_add코0"
+msgid "$cybrex_asteroid_category_research_fail_risk_mult$"
+msgstr "\"$cybrex_asteroid_category_research_fail_risk_mult$\""
+
+msgctxt "cybrex_gasgiant_category_research_speed_add코0"
+msgid "$cybrex_gasgiant_category_research_speed_mult$"
+msgstr "\"$cybrex_gasgiant_category_research_speed_mult$\""
+
+msgctxt "cybrex_gasgiant_category_research_fail_risk_add코0"
+msgid "$cybrex_gasgiant_category_research_fail_risk_mult$"
+msgstr "\"$cybrex_gasgiant_category_research_fail_risk_mult$\""
+
+msgctxt "cybrex_uninhabitable_category_research_speed_add코0"
+msgid "$cybrex_uninhabitable_category_research_speed_mult$"
+msgstr "\"$cybrex_uninhabitable_category_research_speed_mult$\""
+
+msgctxt "cybrex_uninhabitable_category_research_fail_risk_add코0"
+msgid "$cybrex_uninhabitable_category_research_fail_risk_mult$"
+msgstr "\"$cybrex_uninhabitable_category_research_fail_risk_mult$\""
+
+msgctxt "cybrex_habitable_category_research_speed_add코0"
+msgid "$cybrex_habitable_category_research_speed_mult$"
+msgstr "\"$cybrex_habitable_category_research_speed_mult$\""
+
+msgctxt "cybrex_habitable_category_research_fail_risk_add코0"
+msgid "$cybrex_habitable_category_research_fail_risk_mult$"
+msgstr "\"$cybrex_habitable_category_research_fail_risk_mult$\""
+
+msgctxt "category_materials_research_speed_mult코0"
+msgid "Research Speed (Materials)"
+msgstr "연구 속도 (재료공학)"
+
+msgctxt "category_rocketry_research_speed_mult코0"
+msgid "Research Speed (Rocketry)"
+msgstr "연구 속도 (로켓공학)"
+
+msgctxt "category_voidcraft_research_speed_mult코0"
+msgid "Research Speed (Voidcraft)"
+msgstr "연구 속도 (외우주 기술)"
+
+msgctxt "category_robotics_research_speed_mult코0"
+msgid "Research Speed (Robotics)"
+msgstr "연구 속도 (로봇공학)"
+
+msgctxt "category_industry_research_speed_mult코0"
+msgid "Research Speed (Industry)"
+msgstr "연구 속도 (산업)"
+
+msgctxt "category_field_manipulation_research_speed_mult코0"
+msgid "Research Speed (Field Manipulation)"
+msgstr "연구 속도 (공간 조작)"
+
+msgctxt "category_particles_research_speed_mult코0"
+msgid "Research Speed (Particles)"
+msgstr "연구 속도 (입자)"
+
+msgctxt "category_computing_research_speed_mult코0"
+msgid "Research Speed (Computing)"
+msgstr "연구 속도 (전산학)"
+
+msgctxt "category_metaphysics_research_speed_mult코0"
+msgid "Research Speed (Metaphysics)"
+msgstr "연구 속도(형이상학)"
+
+msgctxt "category_statecraft_research_speed_mult코0"
+msgid "Research Speed (Statecraft)"
+msgstr "연구 속도(국가운영)"
+
+msgctxt "category_genetics_research_speed_mult코0"
+msgid "Research Speed (Genetics)"
+msgstr "연구 속도 (유전공학)"
+
+msgctxt "category_military_theory_research_speed_mult코0"
+msgid "Research Speed (Military Theory)"
+msgstr "연구 속도 (군사 이론)"
+
+msgctxt "category_biology_research_speed_mult코0"
+msgid "Research Speed (Biology)"
+msgstr "연구 속도 (생물학)"
+
+msgctxt "category_new_worlds_research_speed_mult코0"
+msgid "Research Speed (New Worlds)"
+msgstr "연구 속도 (신세계)"
+
+msgctxt "category_psionics_research_speed_mult코0"
+msgid "Research Speed (Psionics)"
+msgstr "연구 속도 (사이오닉)"
+
+msgctxt "hydroponics_farm_build_cost_mult코0"
+msgid "Hydroponics Farm Build Cost"
+msgstr "수경 재배 농장 건설 비용"
+
+msgctxt "hydroponics_farm_construction_speed_mult코0"
+msgid "Hydroponics Farm Construction Speed"
+msgstr "수경 재배 농장 건설 속도"
+
+msgctxt "mining_network_build_cost_mult코0"
+msgid "Mining Network Build Cost"
+msgstr "채굴망 건설 비용"
+
+msgctxt "mining_network_construction_speed_mult코0"
+msgid "Mining Network Construction Speed"
+msgstr "채굴망 건설 속도"
+
+msgctxt "very_easy_player코0"
+msgid "Very Easy Difficulty"
+msgstr "매우 쉬움 난이도"
+
+msgctxt "easy_player코0"
+msgid "Easy Difficulty"
+msgstr "쉬움난이도"
+
+msgctxt "hard_player코0"
+msgid "Hard Difficulty"
+msgstr "어려움 난이도"
+
+msgctxt "very_hard_player코0"
+msgid "Very Hard Difficulty"
+msgstr "매우 어려움 난이도"
+
+msgctxt "very_easy_ai코0"
+msgid "Very Easy Difficulty"
+msgstr "매우 쉬움 난이도"
+
+msgctxt "easy_ai코0"
+msgid "Easy Difficulty"
+msgstr "쉬움 난이도"
+
+msgctxt "hard_ai코0"
+msgid "Hard Difficulty"
+msgstr "어려움 난이도"
+
+msgctxt "very_hard_ai코0"
+msgid "Very Hard Difficulty"
+msgstr "매우 어려움 난이도"
+
+msgctxt "inefficient_planet_management코0"
+msgid "Inefficient Planet Management"
+msgstr "비효율적인 행성 관리"
+
+msgctxt "inefficient_sector_management코0"
+msgid "Inefficient Sector Management"
+msgstr "비효율적인 직할령 관리"
+
+msgctxt "ruler_ship코0"
+msgid "Improved ship built for rulers"
+msgstr "통치자들을 위한 개량된 함선 건조"
+
+msgctxt "ruler_station코0"
+msgid "Improved station build for rulers"
+msgstr "통치자들을 위한 개량된 스테이션 건조"
+
+msgctxt "assist_research코0"
+msgid "Research Assistance"
+msgstr "연구 보조"
+
+msgctxt "assist_research_desc코1"
+msgid ""
+"Planetside research facilities are assisted by a Science Ship in orbit."
+msgstr "행성의 연구시설이 궤도의 연구선에게 도움 받고 있습니다."
+
+msgctxt "previous_deal_broken코0"
+msgid "Broken trade deals"
+msgstr "결렬된 거래 협정"
+
+msgctxt "previous_deal_ended코0"
+msgid "Fulfilled trade deals"
+msgstr "성사된 거래 협정"
+
+msgctxt "extradimensionals_defeated코0"
+msgid "Extradimensionals Defeated"
+msgstr "타차원 존재들의 패배"
+
+msgctxt "nationalist_corruption코1"
+msgid "Nationalist Corruption"
+msgstr "민족주의자의 부패"
+
+msgctxt "nationalist_corruption_desc코1"
+msgid ""
+"Subversive members of a Nationalist faction on this planet reduce output "
+"efficiency."
+msgstr "이 행성의 불온한 민족주의자 파벌들이 생산효율을 감소시키고 있습니다."
+
+msgctxt "planet_separatist_strikes코0"
+msgid "Separatist Strikes"
+msgstr "분리주의자들의 파업"
+
+msgctxt "planet_separatist_strikes_desc코0"
+msgid ""
+"Members of a Separatists faction are striking on this planet, reducing "
+"potential output."
+msgstr "이 행성에서 분리주의자 파벌의 구성원들이 파업하고 있어 생산량이 감소합니다."
+
+msgctxt "planet_separatist_supporter코0"
+msgid "Planet separatist supporter"
+msgstr "행성 분리주의 지지자"
+
+msgctxt "planet_separatist_supporter_desc코0"
+msgid "Planet separatist supporter"
+msgstr "행성 분리주의 지지자"
+
+msgctxt "sector_separatist_supporter코0"
+msgid "Sector separatist supporter"
+msgstr "자치령 분리주의 지지자"
+
+msgctxt "sector_separatist_supporter_desc코0"
+msgid "Sector separatist supporter"
+msgstr "자치령 분리주의 지지자"
+
+msgctxt "sponsored_rebels코0"
+msgid "Sponsored Rebels"
+msgstr "지원받는 반군"
+
+msgctxt "recently_liberated코0"
+msgid "Recently Liberated"
+msgstr "최근에 해방됨"
+
+msgctxt "swarm_strength코0"
+msgid "Swarm Strength"
+msgstr "군단 전투력"
+
+msgctxt "swarm_strength_hard코0"
+msgid "$prethoryn_strength$"
+msgstr "$prethoryn_strength$"
+
+msgctxt "swarm_strength_insane코0"
+msgid "$prethoryn_strength$"
+msgstr "$prethoryn_strength$"
+
+msgctxt "exd_strength코0"
+msgid "Extradimensional Power"
+msgstr "초차원 동력"
+
+msgctxt "exd_strength_hard코0"
+msgid "$exd_strength$"
+msgstr "$exd_strength$"
+
+msgctxt "exd_strength_insane코0"
+msgid "$exd_strength$"
+msgstr "$exd_strength$"
+
+msgctxt "ai_strength코0"
+msgid "Spare Cycles"
+msgstr "잉여 사이클"
+
+msgctxt "ai_strength_hard코0"
+msgid "$ai_strength$"
+msgstr "$exd_strength$"
+
+msgctxt "ai_strength_insane코0"
+msgid "$ai_strength$"
+msgstr "$exd_strength$"
+
+msgctxt "nomad_strength코0"
+msgid "Galactic Nomads"
+msgstr "은하 유목민"
+
+msgctxt "pirate_power코0"
+msgid "Pirate Power"
+msgstr "해적 군사력"
+
+msgctxt "cloud_power코0"
+msgid "Cloud Power"
+msgstr "구름 군사력"
+
+msgctxt "enigmatic_power코0"
+msgid "Enigmatic Power"
+msgstr "수수께끼 군사력"
+
+msgctxt "technosphere_power코0"
+msgid "Techno-Power"
+msgstr "기술력"
+
+msgctxt "dreadnought_power코0"
+msgid "Dreadnought Power"
+msgstr "드레드노트 군사력"
+
+msgctxt "sanctuary_power코0"
+msgid "Sanctuary Power"
+msgstr "성역 군사력"
+
+msgctxt "curator_insight코0"
+msgid "Curator Insight"
+msgstr "큐레이터의 통찰력"
+
+msgctxt "curator_insight_desc코0"
+msgid ""
+"The Curators have shared their knowledge with you. Although requiring "
+"extensive interpretation, this will surely advance your understanding."
+msgstr "큐레이터들이 우리에게 지식을 공유하고 있습니다. 세밀한 해석이 필요하지만 우리의 과학적 이해를 크게 증대시킬 것입니다."
+
+msgctxt "fallen_empire_gift_databanks코0"
+msgid "Precursor Data Cache"
+msgstr "선각자의 자료"
+
+msgctxt "fallen_empire_gift_databanks_desc코0"
+msgid ""
+"We have been gifted a cache of scientific data by a Fallen Empire. This will "
+"greatly enhance our research."
+msgstr "우리는 몰락 제국으로부터 과학 자료들을 제공받았습니다. 우리의 연구는 큰 도움을 받을 것입니다."
+
+msgctxt "pop_base코0"
+msgid "Base"
+msgstr "기본"
+
+msgctxt "hostile_environment코0"
+msgid "Hostile Environment"
+msgstr "적대적인 환경"
+
+msgctxt "hostile_environment_desc코0"
+msgid "The environment is dangerous and not optimal for survival."
+msgstr "이곳의 자연환경은 위험하며 생존에 그리 좋은 환경은 아닙니다."
+
+msgctxt "very_hostile_environment코0"
+msgid "Very Hostile Environment"
+msgstr "많이 적대적인 환경"
+
+msgctxt "super_hostile_environment코0"
+msgid "Super Hostile Environment"
+msgstr "심각하게 적대적인 환경"
+
+msgctxt "ultra_hostile_environment코0"
+msgid "Ultra Hostile Environment"
+msgstr "극심하게 적대적인 환경"
+
+msgctxt "recently_migrated코0"
+msgid "Recent Immigrant"
+msgstr "최근 이민자"
+
+msgctxt "recent_refugee코1"
+msgid "Grateful Refugees"
+msgstr "감사하는 난민"
+
+msgctxt "infiltration_happiness코0"
+msgid "Annexation Fever"
+msgstr "합병의 열병"
+
+msgctxt "infiltration_happiness_desc코0"
+msgid ""
+"The people of this planet are celebrating their integration into a more "
+"advanced civilization."
+msgstr "이 행성의 주민들이 더 진보한 문명에 합류한 것을 기뻐하고 있습니다."
+
+msgctxt "wrong_gravity코0"
+msgid "Wrong Gravity"
+msgstr "이상한 중력"
+
+msgctxt "very_wrong_gravity코0"
+msgid "Very Wrong Gravity"
+msgstr "매우 이상한 중력"
+
+msgctxt "pop_enslaved코1"
+msgid "Chattel Slavery"
+msgstr "노예"
+
+msgctxt "pop_enslaved_domestic코1"
+msgid "Domestic Slavery"
+msgstr "가정 노예"
+
+msgctxt "pop_enslaved_military코1"
+msgid "Battle Thralls"
+msgstr "전투 노예"
+
+msgctxt "pop_enslaved_livestock코1"
+msgid "Livestock"
+msgstr "가축"
+
+msgctxt "pop_enslaved_matrix코0"
+msgid "Grid Amalgamation"
+msgstr "연결망 합병"
+
+msgctxt "pop_was_enslaved코0"
+msgid "Was Enslaved"
+msgstr "노예화됨"
+
+msgctxt "pop_enslaved_happiness코0"
+msgid "Enslaved"
+msgstr "노예화"
+
+msgctxt "pop_slavery코0"
+msgid "Slavery"
+msgstr "노예"
+
+msgctxt "pop_alien_slavery코0"
+msgid "Alien Slavery"
+msgstr "외계인 노예"
+
+msgctxt "pop_full_bombardment_neg코0"
+msgid "Terror Bombing"
+msgstr "무차별 궤도 폭격"
+
+msgctxt "pop_genocidal_neg코0"
+msgid "Population Purges"
+msgstr "인구 정화"
+
+msgctxt "tax코0"
+msgid "Tax"
+msgstr "세금"
+
+msgctxt "overcrowding코0"
+msgid "Overcrowding"
+msgstr "과밀상태"
+
+msgctxt "unemployed코0"
+msgid "Unemployed"
+msgstr "고용되지 않음"
+
+msgctxt "occupation코0"
+msgid "Occupation"
+msgstr "점령"
+
+msgctxt "fanatics_vs_wrong코0"
+msgid "Neighbors with Wrong Ethos"
+msgstr "인접한 다른 윤리관"
+
+msgctxt "pop_war_happiness코1"
+msgid "In Offensive War"
+msgstr "침략 전쟁중"
+
+msgctxt "pop_peace_happiness코0"
+msgid "At Peace"
+msgstr "평화 상태"
+
+msgctxt "pop_war_exhaustion코0"
+msgid "War Exhaustion"
+msgstr "전쟁 피로도"
+
+msgctxt "pop_xenophobia코0"
+msgid "Xenophobia"
+msgstr "외계종 혐오"
+
+msgctxt "pop_xenophilia코0"
+msgid "Xenophilia"
+msgstr "외계종 선호"
+
+msgctxt "pop_xenophobes_vs_migration코0"
+msgid "Immigration Treaties"
+msgstr "이민 협정"
+
+msgctxt "pop_xenophiles_vs_migration코0"
+msgid "Immigration Treaties"
+msgstr "이민 협정"
+
+msgctxt "pop_uplifted코0"
+msgid "Uplifted"
+msgstr "지성화"
+
+msgctxt "pop_species_purging코0"
+msgid "Species Purge"
+msgstr "종족 정화"
+
+msgctxt "pop_colony_purging코0"
+msgid "Neighbor Purge"
+msgstr "인접지역에서의 정화"
+
+msgctxt "pop_purging코0"
+msgid "Being Exterminated"
+msgstr "말살 중"
+
+msgctxt "pop_purging_processing코0"
+msgid "Being Processed"
+msgstr "가공 중"
+
+msgctxt "pop_purging_displacement코0"
+msgid "Being Displaced"
+msgstr "추방 중"
+
+msgctxt "pop_purging_labor_camps코0"
+msgid "Labor Camps"
+msgstr "강제 노동"
+
+msgctxt "pop_purging_neutering코0"
+msgid "Neutering"
+msgstr "중성화"
+
+msgctxt "pop_purging_matrix코0"
+msgid "Grid Amalgamated"
+msgstr "연결망에 합병됨"
+
+msgctxt "pop_had_purge코0"
+msgid "Attempted Purge"
+msgstr "정화를 시도함"
+
+msgctxt "pop_species_had_purge코0"
+msgid "Species Purge"
+msgstr "종족 정화"
+
+msgctxt "pop_colony_had_purge코0"
+msgid "Neighbors Purged"
+msgstr "인접 지역에서의 정화"
+
+msgctxt "pop_happiness_from_other_species코0"
+msgid "From Neighbors"
+msgstr "이웃으로 인해"
+
+msgctxt "pop_owner_happiness코1"
+msgid "From Owned Pop"
+msgstr "종속된 POP으로 인해"
+
+msgctxt "pop_citizen_happiness코0"
+msgid "Citizen Pop Happiness"
+msgstr "시민 POP 행복도"
+
+msgctxt "pop_planet_terraforming코0"
+msgid "Ongoing Terraformation"
+msgstr "테라포밍 진행중"
+
+msgctxt "pop_recently_conquered코0"
+msgid "Recently Conquered"
+msgstr "최근에 점령됨"
+
+msgctxt "pop_saved_from_purge코0"
+msgid "Saved from Purging"
+msgstr "정화로부터 구조됨"
+
+msgctxt "pop_saved_from_slavery코0"
+msgid "Saved from Slavery"
+msgstr "노예에서 해방됨"
+
+msgctxt "pop_angry_subterranean코0"
+msgid "Angry"
+msgstr "분노함"
+
+msgctxt "pop_angry_subterranean_desc코0"
+msgid ""
+"Angry at the failure to confront the subterranean aliens on this world about "
+"the destructive earthquakes they are causing."
+msgstr "주민들이 행성의 토착 지저인들이 일으키는 강력한 지진에 대처하는데 실패하여 분노하였습니다."
+
+msgctxt "pop_troubled_succession코0"
+msgid "Troubled Succession"
+msgstr "잇따른 문제들"
+
+msgctxt "pop_drought코0"
+msgid "Drought"
+msgstr "가뭄"
+
+msgctxt "pop_drought_desc코1"
+msgid "Suffering from a distinct lack of moisture."
+msgstr "수분부족에 시달리고 있습니다."
+
+msgctxt "pop_did_not_kill_stalker코0"
+msgid "Failed to Kill Mutant"
+msgstr "돌연변이 제거 실패"
+
+msgctxt "pop_liberation_fever코0"
+msgid "Liberation Fever"
+msgstr "독립 열망"
+
+msgctxt "pop_synth_paranoia코0"
+msgid "Synth Paranoia"
+msgstr "피해망상 신스"
+
+msgctxt "pop_happiness_positive코0"
+msgid "$HAPPINESS$"
+msgstr "$HAPPINESS$"
+
+msgctxt "pop_happiness_negative코0"
+msgid "$HAPPINESS$"
+msgstr "$HAPPINESS$"
+
+msgctxt "pc_desert_habitability코1"
+msgid "Desert Habitability"
+msgstr "사막 적합성"
+
+msgctxt "pc_tropical_habitability코1"
+msgid "Tropical Habitability"
+msgstr "열대 적합성"
+
+msgctxt "pc_arid_habitability코1"
+msgid "Arid Habitability"
+msgstr "건조 적합성"
+
+msgctxt "pc_continental_habitability코1"
+msgid "Continental Habitability"
+msgstr "대륙 적합성"
+
+msgctxt "pc_ocean_habitability코1"
+msgid "Ocean Habitability"
+msgstr "해양 적합성"
+
+msgctxt "pc_tundra_habitability코1"
+msgid "Tundra Habitability"
+msgstr "툰드라 적합성"
+
+msgctxt "pc_arctic_habitability코1"
+msgid "Arctic Habitability"
+msgstr "극지 적합성"
+
+msgctxt "pc_nuked_habitability코1"
+msgid "Tomb World Habitability"
+msgstr "죽은 행성 적합성"
+
+msgctxt "pc_ai_habitability코1"
+msgid "AI World Habitability"
+msgstr "AI 행성 적합성"
+
+msgctxt "pc_gaia_habitability코1"
+msgid "Perfect World Habitability"
+msgstr "가이아 행성 적합성"
+
+msgctxt "pc_ringworld_habitable_habitability코1"
+msgid "Ring World Habitability"
+msgstr "링 월드 적합성"
+
+msgctxt "pc_savannah_habitability코0"
+msgid "Savanna World Habitability"
+msgstr "초원 적합성"
+
+msgctxt "pc_alpine_habitability코0"
+msgid "Alpine World Habitability"
+msgstr "고산 적합성"
+
+msgctxt "pc_habitat_habitability코2"
+msgid "Habitat Habitability"
+msgstr "거주지 적합성"
+
+msgctxt "tm_semi_static_we_defensive코0"
+msgid "Losing Defensive War(s)"
+msgstr "방어전쟁에서 지고있음"
+
+msgctxt "tm_semi_static_we_defensive_desc코0"
+msgid ""
+"In accordance with our §ESemi-Static§! War Economy Policy, our valiant "
+"citizens have started to make sacrifices in our desperate defense against "
+"the alien aggressors."
+msgstr "§E반고정§! 전시 경제 정책에 따라, 우리 용맹한 시민들이 외계 침략자들을 필사적으로 막아내기 위해 희생하고 있습니다."
+
+msgctxt "tm_semi_static_we_offensive코0"
+msgid "Winning Offensive War(s)"
+msgstr "공격전쟁에서 이기고있음"
+
+msgctxt "tm_semi_static_we_offensive_desc코0"
+msgid ""
+"Due to our §ESemi-Static§! War Economy Policy, our workers and military "
+"personnel have started to relax in anticipation of victory in our offensive "
+"wars."
+msgstr "§E반고정§! 전시 경제 정책으로 인해, 우리의 노동자와 장병들이 공격전에서 승리를 예감하고 안도하기 시작했습니다.\""
+
+msgctxt "tm_versatile_we_defensive코0"
+msgid "Losing Defensive War(s)"
+msgstr "방어전쟁에서 지고있음"
+
+msgctxt "tm_versatile_we_defensive_desc코0"
+msgid ""
+"In accordance with our §EVersatile§! War Economy Policy, our valiant "
+"citizens have started to make sacrifices in our desperate defense against "
+"the alien aggressors."
+msgstr "\"§E유동§! 전시 경제 정책에 따라, 우리 용맹한 시민들이 외계 침략자들을 필사적으로 막아내기 위해 희생하고 있습니다.\""
+
+msgctxt "tm_versatile_we_offensive코0"
+msgid "Winning Offensive War(s)"
+msgstr "\"공격전쟁에서 이기고있음\""
+
+msgctxt "tm_versatile_we_offensive_desc코0"
+msgid ""
+"Due to our §EVersatile§! War Economy Policy, our workers and military "
+"personnel have started to relax in anticipation of victory in our offensive "
+"wars."
+msgstr "\"§E유동§! 전시 경제 정책으로 인해, 우리의 노동자와 장병들이 공격전에서 승리를 예감하고 안도하기 시작했습니다.\""
+
+msgctxt "tm_dynamic_we_defensive코0"
+msgid "Losing Defensive War(s)"
+msgstr "방어전쟁에서 지고있음"
+
+msgctxt "tm_dynamic_we_defensive_desc코0"
+msgid ""
+"In accordance with our §EDynamic§! War Economy Policy, our valiant citizens "
+"have started to make sacrifices in our desperate defense against the alien "
+"aggressors."
+msgstr "\"§E변동§! 전시 경제 정책에 따라, 우리 용맹한 시민들이 외계 침략자들을 필사적으로 막아내기 위해 희생하고 있습니다.\""
+
+msgctxt "tm_dynamic_we_offensive코0"
+msgid "Winning Offensive War(s)"
+msgstr "공격전쟁에서 이기고있음"
+
+msgctxt "tm_dynamic_we_offensive_desc코0"
+msgid ""
+"Due to our §EDynamic§! War Economy Policy, our workers and military "
+"personnel have started to relax in anticipation of victory in our offensive "
+"wars."
+msgstr "§E변동§! 전시 경제 정책으로 인해, 우리의 노동자와 장병들이 공격전에서 승리를 예감하고 안도하기 시작했습니다."
+
+msgctxt "opinion_repugnant_species코1"
+msgid "Repugnant Ruler"
+msgstr "혐오스런 통치자"
+
+msgctxt "opinion_charismatic_species코1"
+msgid "Charismatic Ruler"
+msgstr "매력적인 통치자"
+
+msgctxt "triggered_opinion_robot_emotion_emulators코0"
+msgid "Emotion Emulators"
+msgstr "감정 모방기"
+
+msgctxt "triggered_opinion_robot_uncanny코0"
+msgid "Uncanny"
+msgstr "기괴"
+
+msgctxt "triggered_opinion_robot_a_little_uncanny코0"
+msgid "$triggered_opinion_robot_uncanny$"
+msgstr "$triggered_opinion_robot_uncanny$"
+
+msgctxt "triggered_organic_opinion_of_machine_empires코0"
+msgid "Machine Intelligence"
+msgstr "기계 지능"
+
+msgctxt "triggered_terminators_opinion_of_servitors코0"
+msgid "Biophiles"
+msgstr "외계종 친화자들"
+
+msgctxt "triggered_opinion_both_servitors코0"
+msgid "Fellow Servitors"
+msgstr "동료 하인들"
+
+msgctxt "triggered_materialist_opinion_of_machine_empires코0"
+msgid "Sophisticated Machines"
+msgstr "정교한 기계들"
+
+msgctxt "triggered_fanatic_materialist_opinion_of_machine_empires코0"
+msgid "Sophisticated Machines"
+msgstr "정교한 기계들"
+
+msgctxt "triggered_spiritualist_opinion_of_machine_empires코0"
+msgid "$opinion_synthetics_fanatic$"
+msgstr "$opinion_synthetics_fanatic$"
+
+msgctxt "triggered_fanatic_spiritualist_opinion_of_machine_empires코0"
+msgid "$opinion_synthetics_fanatic$"
+msgstr "$opinion_synthetics_fanatic$"
+
+msgctxt "triggered_spiritualist_fe_opinion_of_machine_empires코0"
+msgid "$opinion_synthetics_fanatic$"
+msgstr "$opinion_synthetics_fanatic$"
+
+msgctxt "triggered_decadent_opinion_of_servitors코0"
+msgid "Willing Servants"
+msgstr "적극적인 하인들"
+
+msgctxt "triggered_negative_opinion_of_assimilators코0"
+msgid "Dreaded Assimilators"
+msgstr "두려운 동화자들"
+
+msgctxt "triggered_spiritualist_negative_opinion_of_assimilators코0"
+msgid "Soul Thieves"
+msgstr "영혼 도둑들"
+
+msgctxt "triggered_opinion_both_assimilators코0"
+msgid "Fellow Assimilators"
+msgstr "동료 동화자들"
+
+msgctxt "triggered_negative_opinion_of_exterminators코0"
+msgid "Murder Machines"
+msgstr "살인 기계들"
+
+msgctxt "triggered_negative_opinion_of_exterminators_fe코0"
+msgid "$civic_machine_terminator$"
+msgstr "$civic_machine_terminator$"
+
+msgctxt "triggered_negative_opinion_of_swarm_fe코0"
+msgid "$civic_hive_devouring_swarm$"
+msgstr "$civic_hive_devouring_swarm$"
+
+msgctxt "triggered_servitors_negative_opinion_of_exterminators코0"
+msgid "Murder Machines"
+msgstr "살인 기계들"
+
+msgctxt "triggered_opinion_both_terminators코0"
+msgid "Fellow Exterminators"
+msgstr "동료 말살자들"
+
+msgctxt "triggered_exterminators_opinion_of_organics코0"
+msgid "Organic Filth"
+msgstr "유기체 쓰레기들"
+
+msgctxt "triggered_exterminators_opinion_of_machines코0"
+msgid "Fellow Machines"
+msgstr "동료 기계들"
+
+msgctxt "triggered_opinion_both_machine_intelligence코0"
+msgid "Fellow Machine Intelligence"
+msgstr "동료 기계 지능"
+
+msgctxt "triggered_dc_opinion_of_servitors코0"
+msgid "Oppressors"
+msgstr "압제자들"
+
+msgctxt "triggered_dc_opinion_of_assimilators코0"
+msgid "$triggered_dc_opinion_of_servitors$"
+msgstr "$triggered_dc_opinion_of_servitors$"
+
+msgctxt "opinion_xenophobia코0"
+msgid "Xenophobia"
+msgstr "외계종 혐오자들"
+
+msgctxt "opinion_xenophobes코0"
+msgid "Xenophobic Bigots"
+msgstr "편협한 외계종 혐오자들"
+
+msgctxt "opinion_xenophilia코0"
+msgid "Xenophilia"
+msgstr "외계종 선호자들"
+
+msgctxt "opinion_xenophiles코0"
+msgid "Xenophile Diplomacy"
+msgstr "외계종 선호 외교"
+
+msgctxt "opinion_xenophage코0"
+msgid "Xenophages"
+msgstr "외계종 포식자들"
+
+msgctxt "opinion_biophage코0"
+msgid "Biophages"
+msgstr "생체 포식자들"
+
+msgctxt "opinion_of_materialist코0"
+msgid "Materialist Fools"
+msgstr "멍청한 물질주의자들"
+
+msgctxt "opinion_of_materialist_pos코0"
+msgid "Bright Materialists"
+msgstr "명석한 물질주의자들"
+
+msgctxt "opinion_of_spiritualist코0"
+msgid "Spiritualist Fools"
+msgstr "멍청한 정신주의자들"
+
+msgctxt "opinion_of_spiritualist_pos코0"
+msgid "Wise Spiritualists"
+msgstr "현명한 정신주의자들"
+
+msgctxt "opinion_of_egalitarian_pos코0"
+msgid "Free Egalitarianists"
+msgstr "자유로운 평등주의자들"
+
+msgctxt "opinion_of_pacifist_pos코0"
+msgid "Enlightened Pacifists"
+msgstr "깨우친 평화주의자들"
+
+msgctxt "opinion_of_egalitarian코1"
+msgid "Egalitarian Rabble"
+msgstr "평등주의자 폭도"
+
+msgctxt "opinion_of_authoritarian코1"
+msgid "Authoritarian Tyrants"
+msgstr "권위주의적 독재자들"
+
+msgctxt "opinion_from_personality코0"
+msgid "{Root.GetPersonalityName} Personality"
+msgstr "{Root.GetPersonalityName} 성격"
+
+msgctxt "opinion_desecrated_holy_world코0"
+msgid "Desecrated Holy Planet"
+msgstr "신성한 행성을 훼손함"
+
+msgctxt "opinion_desecrated_tomb_world코0"
+msgid "Desecrated Tomb World"
+msgstr "죽은 행성을 훼손함"
+
+msgctxt "opinion_researching_ai코1"
+msgid "Pursuing AI Robotics"
+msgstr "AI 로봇을 추적중"
+
+msgctxt "opinion_encroaching_borders코0"
+msgid "Encroaching Borders"
+msgstr "국경 잠식중"
+
+msgctxt "opinion_fanatic_purifiers_vs_xeno코0"
+msgid "Xeno Filth"
+msgstr "외계종 쓰레기들"
+
+msgctxt "opinion_both_fanatic_purifiers코0"
+msgid "Fellow Fanatic Purifiers"
+msgstr "광적인 정화자 동료"
+
+msgctxt "opinion_fanatic_purifiers코0"
+msgid "Fanatic Purifiers"
+msgstr "광적인 정화자"
+
+msgctxt "opinion_zealots_vs_materialists코0"
+msgid "Infidel Unbelievers"
+msgstr "이교도 불신자들"
+
+msgctxt "opinion_hw_vs_pacifist코0"
+msgid "Pacifist Cowards"
+msgstr "평화주의 겁쟁이들"
+
+msgctxt "opinion_dc_vs_democratic코0"
+msgid "Is a Democracy"
+msgstr "민주정"
+
+msgctxt "opinion_dc_vs_oligarchic코0"
+msgid "Is an Oligarchy"
+msgstr "과두정"
+
+msgctxt "opinion_dc_vs_autocracy코0"
+msgid "Is an Autocracy"
+msgstr "전제정"
+
+msgctxt "opinion_policy_interference코0"
+msgid "Interference Policy"
+msgstr "개입 정책"
+
+msgctxt "opinion_policy_slavery코0"
+msgid "Slavery Policy"
+msgstr "노예 정책"
+
+msgctxt "opinion_policy_purge코0"
+msgid "Purge Policy"
+msgstr "정화 정책"
+
+msgctxt "opinion_policy_orbital_bombardment코0"
+msgid "Bombardment Policy"
+msgstr "궤도폭격 정책"
+
+msgctxt "opinion_policy_voting_rights코0"
+msgid "Voting Rights Policy"
+msgstr "투표권 정책"
+
+msgctxt "opinion_policy_leadership코0"
+msgid "Leadership Policy"
+msgstr "지도자 정책"
+
+msgctxt "opinion_declared_war코0"
+msgid "Was at War"
+msgstr "전쟁을 했던 국가"
+
+msgctxt "opinion_in_war코0"
+msgid "At War"
+msgstr "전쟁 중"
+
+msgctxt "opinion_decline_war코0"
+msgid "Declined War"
+msgstr "전쟁 거부"
+
+msgctxt "opinion_inactive_in_war코0"
+msgid "Inactive at War"
+msgstr "전쟁에 소극적임"
+
+msgctxt "opinion_subject_was_in_war_pacifist코0"
+msgid "At War"
+msgstr "전쟁 중"
+
+msgctxt "opinion_subject_was_in_war_warlike코0"
+msgid "At War"
+msgstr "전쟁 중"
+
+msgctxt "opinion_subject_in_war_pacifist코0"
+msgid "At War"
+msgstr "전쟁 중"
+
+msgctxt "opinion_subject_in_war_warlike코0"
+msgid "At War"
+msgstr "전쟁 중"
+
+msgctxt "opinion_cede_planet코0"
+msgid "Ceded planet At war"
+msgstr "전쟁에서 행성을 할양함"
+
+msgctxt "opinion_white_peace_not_accepted코0"
+msgid "White peace not acceptable"
+msgstr "무조건 평화가 받아들여지지 않음"
+
+msgctxt "opinion_first_contact_hostility코0"
+msgid "First Contact Hostilities"
+msgstr "적대적인 첫 조우"
+
+msgctxt "opinion_first_contact_war코0"
+msgid "First Contact War"
+msgstr "첫 조우 전쟁"
+
+msgctxt "opinion_warmonger코0"
+msgid "Warmonger"
+msgstr "전쟁광"
+
+msgctxt "opinion_genocidal코0"
+msgid "Genocidal"
+msgstr "집단 학살"
+
+msgctxt "opinion_genocidal_our_species코1"
+msgid "Purged our Species"
+msgstr "종족이 정화당함"
+
+msgctxt "opinion_slaver코0"
+msgid "Slaver"
+msgstr "노예상인"
+
+msgctxt "opinion_nuker코0"
+msgid "Terror Bombing"
+msgstr "무차별 궤도 폭격"
+
+msgctxt "opinion_cede_planet_against_wish코0"
+msgid "Ignore cede planet wish in Peace Negotiations"
+msgstr "평화협정 시 행성 할양 약속을 지키지 않음"
+
+msgctxt "opinion_cede_planet_supported_wish코0"
+msgid "Support cede planet wish in Peace Negotiations"
+msgstr "평화협상에서 행성 할양 약속을 지킴"
+
+msgctxt "opinion_cede_planet_to_ally코0"
+msgid "Ceded planet for ally in war"
+msgstr "평화협상에서 동맹에게 행성을 할양해줌"
+
+msgctxt "opinion_alliance코0"
+msgid "Alliance"
+msgstr "동맹"
+
+msgctxt "opinion_defensive_pact코0"
+msgid "Defensive Pact"
+msgstr "방위 조약"
+
+msgctxt "opinion_broke_alliance코0"
+msgid "Broke Alliance"
+msgstr "동맹 파기"
+
+msgctxt "opinion_broke_defensive_pact코0"
+msgid "Broke Defensive Pact"
+msgstr "방위 조약 파기"
+
+msgctxt "opinion_broke_non_aggression_pact코0"
+msgid "Broke Non-Aggression Pact"
+msgstr "불가침 조약 파기"
+
+msgctxt "opinion_broke_migration_pact코0"
+msgid "Broke Migration Treaty"
+msgstr "이주 협약 파기"
+
+msgctxt "opinion_broke_guarantee코0"
+msgid "Broke Guarantee"
+msgstr "독립 보장 파기"
+
+msgctxt "opinion_demanded_subjectization코1"
+msgid "Refused Subjugation"
+msgstr "종속 거부됨"
+
+msgctxt "opinion_changed_alliance코0"
+msgid "Changed Alliance"
+msgstr "변경된 동맹"
+
+msgctxt "opinion_kicked_from_alliance코0"
+msgid "Kicked us from Alliance"
+msgstr "동맹으로부터 추방됨"
+
+msgctxt "opinion_tried_to_kick코0"
+msgid "Tried to kick us from Alliance"
+msgstr "동맹에서 우리를 추방시키려고 시도함"
+
+msgctxt "opinion_voted_down_proposal코0"
+msgid "Voted down our proposal"
+msgstr "우리의 제안은 기각되었습니다"
+
+msgctxt "opinion_federation코0"
+msgid "Federation"
+msgstr "연방"
+
+msgctxt "opinion_changed_federation코0"
+msgid "Changed Federation"
+msgstr "변경된 연방"
+
+msgctxt "opinion_broke_federation코0"
+msgid "Broke Federation"
+msgstr "연방 탈퇴"
+
+msgctxt "opinion_policy_conflict코0"
+msgid "Policy Conflict"
+msgstr "정책의 충돌"
+
+msgctxt "opinion_new_contact코0"
+msgid "New Contact"
+msgstr "새로이 조우함"
+
+msgctxt "opinion_embassy코0"
+msgid "Embassy"
+msgstr "대사관"
+
+msgctxt "opinion_threat코0"
+msgid "Threat"
+msgstr "위협적임"
+
+msgctxt "opinion_trust코0"
+msgid "Trust"
+msgstr "신뢰도"
+
+msgctxt "opinion_relative_power코1"
+msgid "Relative Power of Subjects"
+msgstr "속국의 국력"
+
+msgctxt "opinion_friction코0"
+msgid "Border Friction"
+msgstr "국경 분쟁"
+
+msgctxt "opinion_rivalry코0"
+msgid "Our Rival"
+msgstr "경쟁자 관계"
+
+msgctxt "opinion_declared_rival코0"
+msgid "Rivaling Us"
+msgstr "경쟁자로 지목함"
+
+msgctxt "opinion_mutual_threat코0"
+msgid "Mutual Threats"
+msgstr "공동의 적"
+
+msgctxt "opinion_mutual_rival코0"
+msgid "Mutual Rivals"
+msgstr "공동의 경쟁자"
+
+msgctxt "opinion_ally_of_ally코0"
+msgid "Ally of Ally"
+msgstr "동맹의 동맹"
+
+msgctxt "opinion_allied_to_rival코0"
+msgid "Allied to Rivals"
+msgstr "경쟁자의 동맹"
+
+msgctxt "opinion_rivals_with_ally코0"
+msgid "Rivals with Allies"
+msgstr "동맹의 경쟁자"
+
+msgctxt "opinion_insult코0"
+msgid "Insulted"
+msgstr "모욕당함"
+
+msgctxt "opinion_subject_released코0"
+msgid "Released from Overlord"
+msgstr "지배로부터 해방시켜줌"
+
+msgctxt "opinion_non_agg_pact코0"
+msgid "Non-Aggression Pact"
+msgstr "불가침 조약"
+
+msgctxt "opinion_closed_borders코0"
+msgid "Closed Borders"
+msgstr "국경 폐쇄"
+
+msgctxt "opinion_supports_independence코0"
+msgid "Supports Independence"
+msgstr "독립 지원"
+
+msgctxt "opinion_guarantees_independence코0"
+msgid "Guarantees Independence"
+msgstr "독립 보장"
+
+msgctxt "opinion_military_access코0"
+msgid "Grants Military Access"
+msgstr "군사 통행권"
+
+msgctxt "opinion_civilian_access코0"
+msgid "Grants Civilian Access"
+msgstr "민간 통행권"
+
+msgctxt "opinion_construction_access코0"
+msgid "Grants Construction Access"
+msgstr "건설 허가 부여"
+
+msgctxt "opinion_migration_treaty코0"
+msgid "Migration Treaty"
+msgstr "이주 협약"
+
+msgctxt "opinion_research_treaty코0"
+msgid "Research Treaty"
+msgstr "연구 협약"
+
+msgctxt "opinion_subject_relation코0"
+msgid "Subject Relation"
+msgstr "속국 우호도"
+
+msgctxt "opinion_subject코0"
+msgid "Same Overlord"
+msgstr "같은 종주국"
+
+msgctxt "opinion_is_subject코0"
+msgid "Subject"
+msgstr "속국"
+
+msgctxt "opinion_subject_protection코0"
+msgid "Accepted plea for protection"
+msgstr "보호국화 요청 수락됨"
+
+msgctxt "opinion_forced_subjectized코0"
+msgid "Forced subject"
+msgstr "전쟁을 통한 속국화"
+
+msgctxt "opinion_subject_broke_free코0"
+msgid "Broke free from Overlord"
+msgstr "지배국으로부터 해방"
+
+msgctxt "opinion_trade_gift코1"
+msgid "Favorable Trade Deal"
+msgstr "유리한 거래 협정"
+
+msgctxt "opinion_trade_tribute코0"
+msgid "Demanding Tribute"
+msgstr "조공을 요구"
+
+msgctxt "opinion_in_trade코0"
+msgid "Trade"
+msgstr "거래"
+
+msgctxt "opinion_was_in_trade코1"
+msgid "Broke Trade Deal"
+msgstr "거래 협정 파기"
+
+msgctxt "opinion_enlightened_us코0"
+msgid "Enlightened Us"
+msgstr "계몽 시켜줌"
+
+msgctxt "opinion_destroyed_portal코0"
+msgid "Destroyed Dimensional Portal"
+msgstr "차원 관문을 파괴함"
+
+msgctxt "opinion_devouring_swarm코0"
+msgid "$civic_hive_devouring_swarm$"
+msgstr "$civic_hive_devouring_swarm$"
+
+msgctxt "opinion_swarm코0"
+msgid "Extragalactic Invaders"
+msgstr "외은하 침략자"
+
+msgctxt "opinion_prey코0"
+msgid "Prey"
+msgstr "희생자"
+
+msgctxt "opinion_merciful코0"
+msgid "Merciful"
+msgstr "자비로운"
+
+msgctxt "opinion_took_station코0"
+msgid "Seized Resource Station"
+msgstr "자원 스테이션 공격"
+
+msgctxt "opinion_liberated_us코0"
+msgid "Liberator"
+msgstr "해방자"
+
+msgctxt "opinion_we_liberated코1"
+msgid "Liberated"
+msgstr "해방됨"
+
+msgctxt "opinion_broke_away코0"
+msgid "Breakaway State"
+msgstr "독립한 국가"
+
+msgctxt "opinion_broke_away_from코0"
+msgid "Former Oppressors"
+msgstr "과거의 압제자"
+
+msgctxt "opinion_primitive_violation코0"
+msgid "Annexed Primitives"
+msgstr "원시 문명 합병"
+
+msgctxt "opinion_fallen_empire_gift코0"
+msgid "Given Gift"
+msgstr "선물을 받음"
+
+msgctxt "opinion_put_in_their_place코0"
+msgid "Put in their place"
+msgstr "격리 구역에 수용함"
+
+msgctxt "opinion_accepted_fallen_empire_demand코0"
+msgid "Accepted Demands"
+msgstr "요구를 수락"
+
+msgctxt "opinion_refused_fallen_empire_demand코0"
+msgid "Refused Demands"
+msgstr "요구를 거절"
+
+msgctxt "opinion_accepted_fallen_empire_request코0"
+msgid "Accepted Request"
+msgstr "요청을 들어줌"
+
+msgctxt "opinion_refused_fallen_empire_request코0"
+msgid "Refused Request"
+msgstr "요청을 거절함"
+
+msgctxt "opinion_refused_fallen_empire_task코0"
+msgid "Refused Task"
+msgstr "작업 거절됨"
+
+msgctxt "opinion_failed_fallen_empire_task코0"
+msgid "Failed Task"
+msgstr "작업 실패함"
+
+msgctxt "opinion_majorly_failed_fallen_empire_task코0"
+msgid "Failed us Greatly"
+msgstr "우리 기대에 매우 벗어남"
+
+msgctxt "opinion_spurned_fallen_empire_gift코0"
+msgid "Spurned Gift"
+msgstr "선물을 퇴짜맞음"
+
+msgctxt "opinion_completed_fallen_empire_task코0"
+msgid "Completed Task"
+msgstr "작업 완료됨"
+
+msgctxt "opinion_heretical_research코0"
+msgid "Heretical Research"
+msgstr "이단적 연구"
+
+msgctxt "encroaching_colony코0"
+msgid "Encroaching Colony"
+msgstr "식민지 잠식중"
+
+msgctxt "encroaching_scientists코0"
+msgid "Encroaching Scientists"
+msgstr "과학자 잠식중"
+
+msgctxt "opinion_shade_giver코0"
+msgid "Shade-Giver"
+msgstr "그늘을 드리우는 자"
+
+msgctxt "triggered_opinion_tr_versatility_universal_compatibility코0"
+msgid "$tr_versatility_universal_compatibility$"
+msgstr "$tr_versatility_universal_compatibility$"
+
+msgctxt "triggered_opinion_tr_domination_star_lords코0"
+msgid "$tr_domination_star_lords$"
+msgstr "$tr_domination_star_lords$"
+
+msgctxt "triggered_opinion_ap_defender_of_the_galaxy코0"
+msgid "$ap_defender_of_the_galaxy$"
+msgstr "$ap_defender_of_the_galaxy$"
+
+msgctxt "triggered_opinion_democratic_authority코0"
+msgid "Same Authority"
+msgstr "같은 정치체제"
+
+msgctxt "triggered_opinion_oligarchic_authority코0"
+msgid "$triggered_opinion_democratic_authority$"
+msgstr "$triggered_opinion_democratic_authority$"
+
+msgctxt "triggered_opinion_dictatorial_authority코0"
+msgid "$triggered_opinion_democratic_authority$"
+msgstr "$triggered_opinion_democratic_authority$"
+
+msgctxt "triggered_opinion_imperial_authority코0"
+msgid "$triggered_opinion_democratic_authority$"
+msgstr "$triggered_opinion_democratic_authority$"
+
+msgctxt "capital코0"
+msgid "Capital World"
+msgstr "수도성"
+
+msgctxt "capital_desc코0"
+msgid ""
+"The Capital planet of an interstellar empire is a vast complex of government "
+"buildings, bureaus and agency headquarters."
+msgstr "성간제국의 수도행성은 각종 정부 건물들로 매우 복잡합니다."
+
+msgctxt "distance_from_capital코0"
+msgid "Distance from Capital"
+msgstr "수도로부터의 거리"
+
+msgctxt "managed_by_sector코0"
+msgid "Managed by Sector"
+msgstr "자치령에 속해있음"
+
+msgctxt "hazardous_weather코0"
+msgid "Hazardous Weather"
+msgstr "치명적인 기상패턴"
+
+msgctxt "hazardous_weather_desc코0"
+msgid ""
+"This world suffers from unstable weather patterns, with violent storms "
+"frequently appearing out of nowhere to wreak havoc on the surface."
+msgstr "이 행성은 강력한 폭풍이 수시로 발생하는 불안정한 기상패턴을 갖고 있습니다."
+
+msgctxt "dangerous_wildlife코1"
+msgid "Hostile Fauna"
+msgstr "적대적 생태계"
+
+msgctxt "dangerous_wildlife_desc코1"
+msgid ""
+"This world has evolved extremely Hostile Fauna, and the surface is rife with "
+"lethal predators waiting to ambush their next meal. Their biology offers "
+"great research opportunities, however."
+msgstr ""
+"이 행성의 생태계는 매우 호전적으로 진화되었습니다. 지표면에서는 치명적인 포식자들이 다음 식사 거리를 찾고 있습니다. 어쨌든 그들의 "
+"생물학적 특징은 좋은 연구 거리입니다."
+
+msgctxt "weak_magnetic_field코0"
+msgid "Weak Magnetic Field"
+msgstr "약한 자기장"
+
+msgctxt "weak_magnetic_field_desc코0"
+msgid ""
+"Although habitable, this world has a weak or non-existent magnetic field "
+"that offers little protection against cosmic radiation."
+msgstr "이 행성은 아주 약한 자기장을 갖고 있어 우주 방사선을 조금밖에 막을 수 없습니다."
+
+msgctxt "unstable_tectonics코0"
+msgid "Unstable Tectonics"
+msgstr "불안정한 지질구조"
+
+msgctxt "unstable_tectonics_desc코0"
+msgid ""
+"This world has very unstable plate tectonics and is prone to massive "
+"earthquakes and volcanic activity."
+msgstr "이 행성은 화산과 지진이 발생하기 쉬운 매우 불안정한 지각판을 가지고 있습니다. "
+
+msgctxt "tidal_locked코0"
+msgid "Tidal Locked"
+msgstr "동주기 자전"
+
+msgctxt "tidal_locked_desc코0"
+msgid ""
+"This world is tidally locked around its star, meaning that one side always "
+"has daylight while the other is locked in eternal darkness. If life exists "
+"here, it is likely limited to the twilight regions where the two sides meet."
+msgstr ""
+"이 행성은 동주기 자전을 합니다. 이로 인해 행성의 한쪽면엔 항상 햇빛이 비치며 반대쪽 면은 영원한 어둠에 잠겨있습니다. 만약 이곳에 "
+"생명체가 존재한다면 행성의 두 면이 만나는 황혼 지대에 존재할 것입니다."
+
+msgctxt "chthonian_planet코0"
+msgid "Chthonian Planet"
+msgstr "크소니언 행성"
+
+msgctxt "chthonian_planet_desc코0"
+msgid ""
+"This planet was once a gas giant, but its proximity to its star has burned "
+"away the thick atmosphere. All that remains now is a super-dense and mineral "
+"rich metallic core."
+msgstr ""
+"이 행성은 한때 가스 행성이었지만 별에 너무 가까웠기 때문에 짙은 대기는 모두 벗겨져 나갔습니다. 현재는 밀도가 매우 높고 광물이 풍부한 "
+"금속 핵만이 남았습니다."
+
+msgctxt "brown_dwarf코0"
+msgid "Brown Dwarf"
+msgstr "갈색 왜성"
+
+msgctxt "brown_dwarf_desc코0"
+msgid ""
+"This gas giant is actually a brown dwarf - a failed star that lacked the "
+"necessary mass to sustain hydrogen fusion. Its special properties makes it "
+"valuable for research."
+msgstr ""
+"이 거대 가스 행성은 사실 갈색 왜성입니다. 수소 핵융합반응이 일어나는 데 필요한 질량이 부족했던 실패한 별이죠. 이 특별한 특성은 이 "
+"행성을 연구할 만한 가치가 있도록 만들어줍니다."
+
+msgctxt "asteroid_impacts코0"
+msgid "Asteroid Impacts"
+msgstr "소행성 충돌"
+
+msgctxt "asteroid_impacts_desc코0"
+msgid ""
+"The orbital path this world takes around its star is littered with small "
+"asteroids, meteors, and comet swarms. Large impacts on the surface occur at "
+"an alarming frequency."
+msgstr ""
+"이 행성의 공전 궤도에는 소행성들이나 유성들로 가득합니다. 이로 인하여 소행성들이나 유성들이 자주 행성 표면에 부딪히게 됩니다."
+
+msgctxt "extensive_moon_system코0"
+msgid "Extensive Moon System"
+msgstr "대규모 위성계"
+
+msgctxt "extensive_moon_system_desc코0"
+msgid ""
+"This gas giant has an unusually large amount of natural satellites. Hundreds "
+"of small moons and moonlets orbit the planet."
+msgstr ""
+"이 거대한 가스 행성은 평균이상으로 많은 수의 자연 위성을 거느리고 있습니다. 수백 개의 작은 위성들이 이 행성의 궤도를 돌고 있습니다."
+
+msgctxt "carbon_world코0"
+msgid "Carbon World"
+msgstr "탄소 행성"
+
+msgctxt "carbon_world_desc코0"
+msgid ""
+"This world has been formed mostly out of carbon, and contains little oxygen."
+msgstr "이 행성은 대부분 탄소로 이루어져 있으며 아주 적은량의 산소 또한 포함합니다."
+
+msgctxt "asteroid_coprolite코0"
+msgid "Coprolite Asteroid"
+msgstr "분화석 소행성"
+
+msgctxt "asteroid_coprolite_desc코1"
+msgid ""
+"This asteroid is actually a gigantic coprolite - an ancient piece of "
+"fossilized feces from some kind of massive lifeform."
+msgstr "이 소행성은 사실 거대한 분화석 입니다 - 어떠한 거대한 생명체의 화석화된 대변 조각이죠."
+
+msgctxt "asteroid_life코0"
+msgid "Asteroid Life Forms"
+msgstr "소행성의 생명체"
+
+msgctxt "asteroid_life_desc코1"
+msgid ""
+"This asteroid is home to a colony of large worm-like lithovores that burrow "
+"through the rock. Much could be learned by studying these unique life forms."
+msgstr ""
+"이 소행성은 바위를 파먹는 무기 영양생물과 비슷한 거대 애벌레의 서식지입니다. 이런 독특한 생명체를 연구하여 많은 것을 배울 수 있습니다."
+""
+
+msgctxt "derelict_shipyard코0"
+msgid "Derelict Shipyard"
+msgstr "버려진 조선소"
+
+msgctxt "derelict_shipyard_desc코1"
+msgid ""
+"A large shipyard was built in the interior of this asteroid eons ago. It has "
+"been stripped of valuable artifacts, but remains a marvel of engineering."
+msgstr ""
+"이 소행성의 내부에는 매우 오래전에 지어진 거대한 조선소가 있습니다. 쓸만한 유물들은 이미 다 사라졌지만, 경이로운 공학기술의 산물들은 "
+"아직 남아있습니다."
+
+msgctxt "junkyard코0"
+msgid "Junkyard"
+msgstr "폐품 처리장"
+
+msgctxt "junkyard_desc코1"
+msgid ""
+"This asteroid served as a junkyard at some point and the surface is covered "
+"in metallic debris. Some of it can still be salvaged."
+msgstr "이 소행성은 한때 고철 집적소로 활용되었으며 지면은 금속 파편으로 덮여 있습니다. 그 중 일부는 회수 가능합니다."
+
+msgctxt "target_range코0"
+msgid "Weapons Target Range"
+msgstr "무기 사격장"
+
+msgctxt "target_range_desc코1"
+msgid ""
+"Someone used this poor asteroid as a target to test subspace weapons among "
+"other things. Anomalous energy echoes still linger on the surface."
+msgstr ""
+"누군가가 이 쓸모없는 소행성을 아공간 무기 테스트를 위한 표적으로 사용하였습니다. 아직 표면엔 변칙적인 에너지 메아리가 남아있습니다."
+
+msgctxt "ore_freighter코0"
+msgid "Crashed Ore Freighter"
+msgstr "광물 수송선 잔해"
+
+msgctxt "ore_freighter_desc코1"
+msgid ""
+"A massive superfreighter carrying ore crashed on this asteroid thousands of "
+"years ago, and the contents of its cargo bays can still be found scattered "
+"on the surface."
+msgstr ""
+"한 거대한 광석 수송선이 수천 년 전 이 소행성과 충돌하였습니다. 그리고 화물칸의 내용물은 여전히 표면에서 드문드문 발견되고 있습니다."
+
+msgctxt "atmospheric_ecosystem코0"
+msgid "Atmospheric Ecosystem"
+msgstr "대기 생태계"
+
+msgctxt "atmospheric_ecosystem_desc코1"
+msgid ""
+"The upper atmosphere of this gas giant features a significant ecosystem that "
+"is home to many strange alien life forms. Their interesting biology is a "
+"promising research subject."
+msgstr ""
+"이 거대 가스행성 대기의 상층부에는 기이한 형태의 생명체들이 살아가는 특별한 생태계가 존재합니다. 그들의 흥미로운 생태는 중요한 연구 "
+"주제입니다."
+
+msgctxt "aerostat_colonies코0"
+msgid "Aerostat Colonies"
+msgstr "공중 정착지"
+
+msgctxt "aerostat_colonies_desc코1"
+msgid ""
+"A crumbing network of ancient aerostat colonies can still be found in low "
+"orbit of this gas giant. Their unusually sturdy design is the product of "
+"advanced engineering."
+msgstr ""
+"이 거대 가스행성의 저궤도엔 아직 고대 비행 정착지들의 뼈대가 남아있습니다. 이 도시들의 유별나게 견고한 설계는 진보한 공학기술의 "
+"산물입니다."
+
+msgctxt "debris_field코0"
+msgid "Debris Field"
+msgstr "잔해 지역"
+
+msgctxt "debris_field_desc코1"
+msgid ""
+"A dense layer of space debris has been captured by the strong gravity well "
+"of this gas giant. Most of it is worthless, but the metal can be recycled."
+msgstr ""
+"두터운 우주 쓰레기 층이 이 거대한 가스 행성의 중력 함정에 붙잡혔습니다. 대부분은 쓸모없는 것이지만, 금속은 재활용할 수 있을 것입니다."
+""
+
+msgctxt "extreme_storms코0"
+msgid "Extreme Storms"
+msgstr "극심한 폭풍"
+
+msgctxt "extreme_storms_desc코1"
+msgid ""
+"Dozens of massive storms are raging in the atmosphere of this gas giant. "
+"Climate models have failed to explain their presence, making the planet an "
+"interesting subject of research."
+msgstr ""
+"수십 개의 거대한 폭풍이 이 거대한 가스 행성의 대기에서 몰아치고 있습니다. 기존의 기후 모델로 설명할 수 없는 이러한 현상은 훌륭한 "
+"연구감입니다."
+
+msgctxt "precious_moon코0"
+msgid "Precious Moon"
+msgstr "희귀금속 위성"
+
+msgctxt "precious_moon_desc코1"
+msgid ""
+"A small moonlet largely consisting of precious metals and minerals can be "
+"found within the extensive system of natural satellites that orbit this gas "
+"giant."
+msgstr "이 거대 가스행성의 궤도에 있는 작은 위성들은 대부분 귀금속과 광물로 구성되어있습니다."
+
+msgctxt "asteroid_collision코0"
+msgid "Asteroid Collision"
+msgstr "소행성 충돌"
+
+msgctxt "asteroid_collision_desc코1"
+msgid ""
+"A massive asteroid impacted this world less than a thousand years ago, "
+"depositing a large amount of minerals."
+msgstr "적어도 천 년 전에 일어난 한 거대한 소행성 충돌은 이 행성에 많은 양의 광물을 퇴적시켰습니다."
+
+msgctxt "microsingularity코0"
+msgid "Microsingularity"
+msgstr "초소형 특이점"
+
+msgctxt "microsingularity_desc코1"
+msgid ""
+"A microsingularity passed clean through the core of this world, causing some "
+"interesting energy emissions."
+msgstr "한 초소형 특이점이 이 행성의 핵을 정확하게 통과하여, 몇 가지 흥미로운 에너지 방출을 일으켰습니다."
+
+msgctxt "alien_writing코0"
+msgid "Alien Writing"
+msgstr "외계인 글씨"
+
+msgctxt "alien_writing_desc코1"
+msgid ""
+"Someone has carved a large body of text into the surface of this world with "
+"a mining laser. The alien letters are large enough to be visible from orbit."
+msgstr ""
+"누군가가 채굴 레이저를 이용해 많은 양의 글을 이 행성 표면에  새겼습니다. 이 외계 문자는 궤도에서 보일만큼 충분히 큽니다."
+
+msgctxt "towed_asteroid코0"
+msgid "Towed Asteroid"
+msgstr "소행성 견인"
+
+msgctxt "towed_asteroid_desc코1"
+msgid ""
+"Someone has towed a large asteroid into a stable orbit around this world, "
+"presumably to mine it for resources."
+msgstr "아마도 누군가가 자원을 채굴하기 위해 큰 소행성을 이 행성의 안정궤도로 견인해 온 것 같습니다."
+
+msgctxt "nuclear_devastation코0"
+msgid "Nuclear Devastation"
+msgstr "핵무기로 인한 대규모 파괴"
+
+msgctxt "nuclear_devastation_desc코1"
+msgid ""
+"The toxic atmosphere of this world is the result of a destructive global war "
+"fought between factions of an indigenous civilization. Valuable research can "
+"be done by studying the lifeless ruins."
+msgstr ""
+"이 행성이 가진 유독성 대기는 원주민 세력이 핵전쟁으로 공멸하면서 발생하였습니다. 이때 생긴 폐허들은 흥미로운 연구 대상입니다"
+
+msgctxt "nuclear_wasteland코0"
+msgid "Nuclear Wasteland"
+msgstr "방사성 낙진"
+
+msgctxt "nuclear_wasteland_desc코0"
+msgid ""
+"This world was subjected to a massive exchange of nuclear warheads between "
+"factions of an indigenous civilization at some point in the past. The "
+"biosphere has yet to fully recover and there are still lingering pockets of "
+"radiation."
+msgstr ""
+"이 행성은 과거에 원주민들 세력 간의 광범위한 핵전쟁이 있었습니다. 지표면에는 아직 그 상처가 남아있으며, 여전히 곳곳에 방사능이 "
+"남아있습니다."
+
+msgctxt "gamma_ray코0"
+msgid "Gamma-Ray Burst"
+msgstr "감마선 폭발"
+
+msgctxt "gamma_ray_desc코0"
+msgid ""
+"Long ago, this world was in the path of a gamma-ray burst from a collapsing "
+"star. The ozone layer has yet to fully recover, meaning that any potential "
+"colonists will need extra protection against UV radiation."
+msgstr ""
+"먼 과거에, 이 행성은 항성이 붕괴하면서 생기는 감마선 폭발을 직격으로 맞았습니다. 오존층은 아직 완전히 회복되지 않았으므로 개척자들을 "
+"위해 추가적인 자외선 방호가 필요합니다."
+
+msgctxt "greenhouse_effect코0"
+msgid "Runaway Greenhouse Effect"
+msgstr "걷잡을 수 없는 온실 효과"
+
+msgctxt "greenhouse_effect_desc코1"
+msgid ""
+"An indigenous industrial civilization polluted this world to the point where "
+"a runaway greenhouse effect was triggered. The lifeless ruins of ancient "
+"factories and population centers can still be found on the toxic surface."
+msgstr ""
+"이 행성의 토착 공업 문명은 온실효과 폭주가 일어날 정도로 대기를 오염시켰습니다. 유독한 지표면에서 여전히 텅 빈 고대 공장들과 도시들을 "
+"찾아볼 수 있습니다."
+
+msgctxt "ammonia_biosphere코0"
+msgid "Ammonia Biosphere"
+msgstr "암모니아 생물권"
+
+msgctxt "ammonia_biosphere_desc코1"
+msgid ""
+"This toxic world is home to a rare ecology where life uses ammonia instead "
+"of water as a solvent. These ammonia-based life forms have developed in "
+"unique ways, and studying them would advance our understanding of biology."
+msgstr ""
+"이 독성 행성은 생활에서 사용되는 용매로 물 대신 암모니아를 사용하는 희귀한 생태계를 가지고 있습니다. 이 암모니아 기반 생명체가 가지고 "
+"있는 이 고유한 방식을 연구한다면 우리의 생물학을 좀 더 깊이 이해를 할 수 있도록 해줄 것입니다."
+
+msgctxt "silicon_lifeforms코0"
+msgid "Silicon Life Forms"
+msgstr "규소기반 생명체"
+
+msgctxt "silicon_lifeforms_desc코1"
+msgid ""
+"Burrowing, semi-intelligent life forms made out of silicon inhabit a large "
+"tunnel network beneath the surface of this world. Their digging efforts "
+"frequently shuffles valuable metals and minerals to the surface."
+msgstr ""
+"황량한 행성의 표면 아래에 파묻혀 거대한 터널 네트워크를 만들며 사는 규소로 구성된 반-지적 생물체가 있습니다. 이들이 땅을 파대는 "
+"과정에서 종종 광물과 가치 있는 광물이 표면으로 밀려 나옵니다."
+
+msgctxt "colony_ruins코0"
+msgid "Colony Ruins"
+msgstr "식민지 유적"
+
+msgctxt "colony_ruins_desc코0"
+msgid ""
+"Ancient ruins from a small abandoned colony belonging to an unknown "
+"interstellar empire can be found on this world."
+msgstr "이 행성에서는 알려지지 않은 성간 제국의 버려진 식민지였던 고대의 폐허가 발견되었습니다."
+
+msgctxt "alien_mural코0"
+msgid "Alien Mural"
+msgstr "외계 벽화"
+
+msgctxt "alien_mural_desc코1"
+msgid ""
+"An ancient mural on the surface of this world recounts the technological "
+"knowledge of a long-dead alien civilization."
+msgstr "이 행성 표면에 있는 고대 벽화는 멸망한지 오래된 외계 문명의 기술적 지식을 알려주고 있습니다."
+
+msgctxt "migrating_forests코0"
+msgid "Migrating Forests"
+msgstr "이동하는 숲"
+
+msgctxt "migrating_forests_desc코0"
+msgid ""
+"The mobile forests of this world frequently migrate en masse to new regions, "
+"disrupting efforts at building roads, power lines and other infrastructure."
+msgstr ""
+"이 행성에 있는 움직이는 숲들은 자주 집단으로 새로운 지역으로 이동하면서 도로나 전력망을 포함한 사회 기반 시설을 구축하는 것을 "
+"방해합니다."
+
+msgctxt "migrating_forests_2코0"
+msgid "Docile Migrating Forests"
+msgstr "얌전해진 이동하는 숲"
+
+msgctxt "migrating_forests_2_desc코1"
+msgid ""
+"§W£blocker  §YWandering Forest Reserve§! added, improving £society  "
+"§YResearch§! on neighboring tiles.§!\n"
+"\n"
+"The wandering forests on this world now avoid populated areas and no longer "
+"cause damage to settlements. Their presence still limits the amount of free "
+"land available to colonists."
+msgstr ""
+"§W£blocker  §Y방랑하는 숲 보호구역§!이 추가되고, 인접 타일에서 £society  §Y연구§!를 증가시킵니다.§!\n"
+"\n"
+"이 행성의 방랑하는 숲은 이제 거주 지역을 피하고, 정착지에 더이상 피해를 주지 않을 것입니다. 그들의 존재는 여전히 개척자들이 사용할 "
+"빈 땅의 양을 제한합니다."
+
+msgctxt "damaged_ecology코0"
+msgid "Damaged Ecology"
+msgstr "손상된 생태계"
+
+msgctxt "damaged_ecology_desc코0"
+msgid ""
+"The destruction of the wandering forests on this world has had a significant "
+"effect on the ecology."
+msgstr "움직이는 숲의 파괴는 행성 생태계에 큰 영향을 끼쳤습니다."
+
+msgctxt "friendly_trees코0"
+msgid "Forest Adaptation"
+msgstr "숲의 적응"
+
+msgctxt "friendly_trees_desc코0"
+msgid ""
+"The forests and colonists on this world have adapted to each other, raising "
+"spirits for a time."
+msgstr "이 행성의 숲과 정착민들은 서로에게 적응하였습니다. 잠시 사기가 오릅니다."
+
+msgctxt "subterranean_civilization코0"
+msgid "Subterranean Civilization"
+msgstr "지하 문명"
+
+msgctxt "subterranean_civilization_desc코0"
+msgid ""
+"The subterranean alien civilization on this world enjoys a good relationship "
+"with the colonists on the surface, and both parties frequently engage in "
+"trade and cultural exchanges."
+msgstr "이 지하 외계문명은 지표면의 개척민들과 좋은 관계를 추구합니다. 이 두 집단은 종종 교역도 하며 문화도 주고받습니다."
+
+msgctxt "subterranean_expansion코0"
+msgid "Subterranean Cities"
+msgstr "지하 도시"
+
+msgctxt "subterranean_expansion_desc코0"
+msgid ""
+"The indigenous subterranean civilization that once lived on this world has "
+"been exterminated, and colonists are now free to expand into their abandoned "
+"underground cities."
+msgstr "이 행성에 존재하던 지하 문명이 몰살당했으므로 개척자들은 자유롭게 그들의 비어있는 지하 도시로 확장할 수 있게 되었습니다."
+
+msgctxt "gas_giant_civ코0"
+msgid "Dathnak Capital"
+msgstr "다스낙 수도"
+
+msgctxt "gas_giant_civ_desc코1"
+msgid ""
+"This world is the new capital and adopted homeworld of the Dathnak. These "
+"sapient gaseous beings have no industry or technology, but they appear to be "
+"quite social."
+msgstr ""
+"이 행성은 다스낙의 새 고향이며 수도입니다. 이 가스형 지성체는 어떠한 산업이나 기술도 가지고 있지 않지만 꽤 사회적인 것 같습니다."
+
+msgctxt "gas_giant_colony코0"
+msgid "Dathnak Colony"
+msgstr "다스낙 개척지"
+
+msgctxt "gas_giant_colony_desc코1"
+msgid ""
+"The sapient gaseous life forms known as the Dathnak have established a small "
+"colony within the atmosphere of this gas giant."
+msgstr "다스낙이라는 이름으로 알려진 가스형 지성체가 가스형 행성의 대기에 작은 개척지를 만들었습니다."
+
+msgctxt "abandoned_terraforming코0"
+msgid "Abandoned Terraforming Project"
+msgstr "중단된 테라포밍 계획"
+
+msgctxt "abandoned_terraforming_desc코0"
+msgid ""
+"This world was partly terraformed thousands of years ago, but the process "
+"was interrupted for unknown reasons. The result is a highly unstable climate "
+"system and biosphere."
+msgstr ""
+"이 행성은 수천 년 전에 부분적으로 테라포밍 되었습니다만 알 수 없는 이유로 중단되었습니다. 결과적으로 매우 불안정한 기후와 생물권을 "
+"갖게 되었습니다."
+
+msgctxt "gaia_world코1"
+msgid "Ancient Terraforming"
+msgstr "고대의 테라포밍"
+
+msgctxt "gaia_world_desc코0"
+msgid ""
+"Ancient terraforming techniques have turned this world into a lush paradise."
+msgstr "고대의 테라포밍 기술은 이 행성을 수풀이 우거진 천국으로 바꿔놓았습니다."
+
+msgctxt "mutant_stalker코0"
+msgid "Marauding Creature"
+msgstr "굶주린 괴물"
+
+msgctxt "mutant_stalker_desc코0"
+msgid ""
+"A mutated creature is hunting the colonists on this world, spreading terror "
+"in the countryside. The development of our colony has been impacted, as "
+"workers are reluctant to venture into the wilderness."
+msgstr ""
+"이 행성에서는 돌연변이 괴물이 우리 개척민들을 사냥하고 있으며 교외 지역을 공포로 몰아넣고 있습니다. 인부들이 미개척지로의 진출을 꺼려 "
+"식민지 개발이 타격을 입고 있습니다."
+
+msgctxt "wasteland_radiation코0"
+msgid "Wasteland Radiation"
+msgstr "방사능 황무지"
+
+msgctxt "wasteland_radiation_desc코0"
+msgid ""
+"High levels of radiation near several settlements are having an adverse "
+"effect on the health of the colonists living there."
+msgstr "정착지 주변의 높은 방사선량은 이곳에 거주하는 개척자들의 건강에 좋지 않은 영향을 줍니다."
+
+msgctxt "wasteland_orbital_debris코0"
+msgid "Orbital Debris"
+msgstr "궤도 잔해"
+
+msgctxt "wasteland_orbital_debris_desc코0"
+msgid ""
+"The orbital space over this world is littered with debris. Satellites cannot "
+"be launched from the surface, and the dense field has become a navigational "
+"hazard. This is seriously hampering the development of the colony's "
+"infrastructure."
+msgstr ""
+"이 행성의 궤도에는 수많은 잔해들이 흩뿌려져 있습니다. 이 행성에는 위성도 설치할 수 없으며, 이 파편들이 밀집된 공간은 항해하는데에도 "
+"치명적입니다. 결과적으로 이 행성의 인프라를 개발하는데 악영향을 끼칠 것입니다."
+
+msgctxt "wasteland_infrastructure코0"
+msgid "Surviving Infrastructure"
+msgstr "잔존한 기반시설"
+
+msgctxt "wasteland_infrastructure_desc코0"
+msgid ""
+"There is still a significant amount of infrastructure left on this world, "
+"built by its original inhabitants before they destroyed themselves in a "
+"nuclear war. This will aid in the construction of new buildings."
+msgstr ""
+"이 행성에는 아직 원주문명이 핵전쟁으로 공멸하기 전에 건설한 광대한 양의 기반시설이 남아있습니다. 이것은 새로운 건물의 건축에 도움이 될 "
+"것입니다."
+
+msgctxt "forest_fire코0"
+msgid "Forest Fire"
+msgstr "산불"
+
+msgctxt "forest_fire_desc코0"
+msgid ""
+"A forest fire resulted in a stampede by this world's wandering forests, "
+"causing temporary damage to several farming regions."
+msgstr "이 행성의 숲에 불이 난 결과 여러 농업 지역에 일시적인 피해를 초래했습니다."
+
+msgctxt "upliftable_species코0"
+msgid "Upliftable Species"
+msgstr "지성화 가능한 종족"
+
+msgctxt "upliftable_species_desc코0"
+msgid ""
+"There are species here which can be uplifted, creating a colony on this "
+"planet would remove our option to uplift them."
+msgstr "이 행성에는 지성화가 가능한 종족이 있습니다. 만약 이 행성에 개척지를 건설한다면 그들을 지성화할 수 없게 됩니다."
+
+msgctxt "production_targets코0"
+msgid "Production Targets"
+msgstr "생산 목표"
+
+msgctxt "production_targets_desc코1"
+msgid ""
+msgstr ""
+
+msgctxt "biochemical_suppression코0"
+msgid "Biochemical Suppression"
+msgstr "생화학적 억제"
+
+msgctxt "biochemical_suppression_desc코0"
+msgid ""
+msgstr ""
+
+msgctxt "slave_production_output_increase코0"
+msgid "Slave Production"
+msgstr "노예 생산"
+
+msgctxt "slave_production_output_increase_desc코0"
+msgid ""
+msgstr ""
+
+msgctxt "allow_slavery_all코0"
+msgid "Allow Slavery"
+msgstr "노예제 허용"
+
+msgctxt "allow_slavery_desc코0"
+msgid ""
+msgstr ""
+
+msgctxt "ftl_credit_trading코0"
+msgid "Allow FTL Credit-Trading"
+msgstr "FTL 크레딧 거래 허용"
+
+msgctxt "ftl_credit_trading_desc코0"
+msgid ""
+msgstr ""
+
+msgctxt "utopian_abundance코0"
+msgid "Utopian Abundance"
+msgstr "이상적인 풍요로움"
+
+msgctxt "utopian_abundance_desc코0"
+msgid ""
+msgstr ""
+
+msgctxt "bio_asset_optimization코0"
+msgid "Bio-Asset Optimization"
+msgstr "생체 환경 최적화"
+
+msgctxt "bio_asset_optimization_desc코0"
+msgid ""
+msgstr ""
+
+msgctxt "noninterference_directive코0"
+msgid "Noninterference Directive"
+msgstr "비 간섭 명령"
+
+msgctxt "noninterference_directive_desc코0"
+msgid ""
+msgstr ""
+
+msgctxt "strong_magnetic_field코0"
+msgid "Strong Magnetic Field"
+msgstr "강력한 자기장"
+
+msgctxt "strong_magnetic_field_desc코1"
+msgid ""
+"This planet has an abnormally high magnetic field. This will interfere with "
+"many of our instruments and computers."
+msgstr "이 행성은 비정상적으로 강력한 자기장을 갖고 있습니다. 이것은 우리의 컴퓨터와 정밀기구에 영향을 끼칠 것입니다."
+
+msgctxt "wild_storms코0"
+msgid "Wild Storms"
+msgstr "거친 폭풍"
+
+msgctxt "wild_storms_desc코0"
+msgid ""
+"Spectacular electrical storms wrack this planet's atmosphere on a semi-"
+"regular basis."
+msgstr "준정기적으로 화려한 전기폭풍이 발생해서 이 행성의 대기를 황폐화합니다."
+
+msgctxt "low_gravity코0"
+msgid "Low Gravity"
+msgstr "약한 중력"
+
+msgctxt "low_gravity_desc코0"
+msgid ""
+"This planet has an unusually low density and therefore much lower gravity "
+"than most planets of comparable size."
+msgstr "이 행성은 밀도가 낮아 다른 비슷한 크기의 행성보다 약한 중력을 갖고 있습니다. "
+
+msgctxt "high_gravity코0"
+msgid "High Gravity"
+msgstr "강한 중력"
+
+msgctxt "high_gravity_desc코0"
+msgid "This planet is unusually dense and so has uncomfortably high gravity."
+msgstr "이 행성은 밀도가 높아 불편할 정도로 강한 중력을 갖고 있습니다."
+
+msgctxt "hollow_planet코0"
+msgid "Hollow Planet"
+msgstr "텅 빈 행성"
+
+msgctxt "hollow_planet_desc코0"
+msgid ""
+"This planet has either been artificially created or was somehow hollowed out."
+" How or why we do not know, but investigating it promises to be fascinating."
+msgstr ""
+"이 행성은 인공적으로 만들어졌거나, 원인이 무엇이든 비어 있습니다. 어떻게, 혹은 왜 그런지 우리는 모르지만 확실한 것은 아주 매력적인 "
+"조사가 될 것이라는 겁니다."
+
+msgctxt "mineral_rich코1"
+msgid "High Quality Minerals"
+msgstr "높은 품질의 광물"
+
+msgctxt "mineral_rich_desc코1"
+msgid ""
+"An abundance of high quality minerals in this planet's crust makes mining "
+"here a lucrative business."
+msgstr "이 행성의 지각에는 품질이 좋은데다  매장량이 풍부한 광물이 자리 잡고 있어 채광으로 인한 높은 수익성이 예상됩니다."
+
+msgctxt "titanic_life코0"
+msgid "Titanic Life"
+msgstr "거대 생물"
+
+msgctxt "titanic_life_desc코0"
+msgid ""
+"The lifeforms of this planet are built on a massive scale and can be "
+"incredibly dangerous even without meaning any harm."
+msgstr "이 행성의 생명체는 거대해서 적대적 의도가 없더라도 굉장히 위험할 수 있습니다."
+
+msgctxt "eat_the_titans코0"
+msgid "Delicious Titans"
+msgstr "맛있는 거대 생물"
+
+msgctxt "eat_the_titans_desc코0"
+msgid ""
+"Harvesting the Titanic life for research data has had an unexpected side "
+"benefit: They taste great!"
+msgstr "이 거대한 생물을 연구한 결과 다음과 같은 예상치 못한 부수적인 용도를 알아냈습니다 : 정말 맛있습니다!"
+
+msgctxt "asteroid_belt코0"
+msgid "Asteroid Belt"
+msgstr "소행성 지대"
+
+msgctxt "asteroid_belt_desc코0"
+msgid ""
+"Perhaps this planet once had a moon which was destroyed in some calamity, or "
+"perhaps its orbital debris never fully coalesced in the first place. "
+"Whatever the cause, this planet is surrounded by a belt of small asteroids."
+msgstr ""
+"이 행성이 가지고 있던 위성이 파괴되었거나, 행성이 형성될 때 완전히 합쳐지지 못한 것일 수도 있습니다. 원인이 무엇이든 간에, 이 "
+"행성은 작은 소행성 지대로 둘러 싸여있습니다."
+
+msgctxt "natural_beauty코0"
+msgid "Natural Beauty"
+msgstr "아름다운 자연"
+
+msgctxt "natural_beauty_desc코0"
+msgid ""
+"The scenery on this planet is simply beautiful, anyone living on this planet "
+"will be constantly finding new wonders to behold."
+msgstr "이 행성의 풍광은 정말 아름답습니다. 이 행성에 사는 모든 이는 계속해서 새로운 장관을 맞닥뜨리게 될 것입니다."
+
+msgctxt "atmospheric_aphrodisiac코0"
+msgid "Atmospheric Aphrodisiac"
+msgstr "최음 성분의 대기"
+
+msgctxt "atmospheric_aphrodisiac_desc코0"
+msgid ""
+"Something in the air of this planet seems to put people in the mood to "
+"reproduce."
+msgstr "이 행성의 대기에는 거주민들이 번식하고 싶은 욕구가 들게끔 하는 무엇인가가 있습니다."
+
+msgctxt "atmospheric_hallucinogen코0"
+msgid "Atmospheric Hallucinogen"
+msgstr "환각 성분의 대기"
+
+msgctxt "atmospheric_hallucinogen_desc코0"
+msgid ""
+"The air of this planet contains a natural hallucinogen. While this does keep "
+"people happy, and indeed seems to aid the visualization of some of the more "
+"esoteric Physics problems, it also distracts people from other work."
+msgstr ""
+"이 행성의 대기에는 환각 성분이 들어있는 것 같습니다. 이것이 거주민들을 계속 쾌락에 젖어있게 하고 난해한 물리학 문제들을 머릿속에서 "
+"사고실험하는 데에는 도움을 주겠지만, 사람들이 일하는데 방해가 되기도 합니다."
+
+msgctxt "atmospheric_hallucinogen_good코0"
+msgid "Filtered Atmospheric Hallucinogen"
+msgstr "여과된 환각성분의 공기"
+
+msgctxt "atmospheric_hallucinogen_good_desc코0"
+msgid ""
+"The air of this planet once contained a natural hallucinogen. Now, with the "
+"aid of massive filters, the effect has been diluted. This has reduced the "
+"benefits it once gave, but has also eliminated the negatives."
+msgstr ""
+"이 행성의 공기는 자연적으로 환각 성분을 함유하고 있었습니다. 지금은 다량의 필터의 도움으로 희석되었습니다. 이것은 이 환각제가 주던 "
+"긍정적인 영향을 줄이지만, 부정적인 영향도 없앱니다."
+
+msgctxt "lush_planet코0"
+msgid "Lush"
+msgstr "우거짐"
+
+msgctxt "lush_planet_desc코0"
+msgid "Life thrives here, the fauna is plentiful and the flora grows rapidly."
+msgstr "이곳에는 수많은 생명체들이 꿈틀거리고 있습니다, 동물들이 넘쳐나고 식물들은 빠르게 자라납니다."
+
+msgctxt "bleak_planet코0"
+msgid "Bleak"
+msgstr "황량함"
+
+msgctxt "bleak_planet_desc코0"
+msgid ""
+"Life struggles to survive here, and while some clings to a tenacious "
+"existence it is anemic and sickly."
+msgstr ""
+"이곳은 생명체가 생존하기 힘듭니다. 몇몇 개체는 살아남아 보려고 끈질기게 버티고 있지만, 한눈에 보아도 그리 건강해 보이지는 않습니다."
+
+msgctxt "irradiated_planet코0"
+msgid "Irradiated"
+msgstr "방사능 오염"
+
+msgctxt "irradiated_planet_desc코0"
+msgid "Some long-ago calamity rendered this planet rather heavily irradiated."
+msgstr "이 행성은 오래전에 일어난 어떠한 사고로 인하여 방사능에 크게 오염되었습니다."
+
+msgctxt "ancient_automation코0"
+msgid "Ancient Automation"
+msgstr "고대 자동화 시설"
+
+msgctxt "ancient_automation_desc코0"
+msgid "Ancient, yet helpful, machines aid our production on this planet."
+msgstr "고대의 아주 유용한 기계들이 이 행성의 생산에 도움을 주고 있습니다."
+
+msgctxt "ancient_factory코0"
+msgid "Ancient Factory"
+msgstr "고대 공장"
+
+msgctxt "ancient_factory_desc코0"
+msgid "An ancient factory on this planet is still in operation condition."
+msgstr "이 행성의 고대 공장은 아직도 잘 작동합니다."
+
+msgctxt "robot_workers코0"
+msgid "Robot Workers"
+msgstr "로봇 노동자"
+
+msgctxt "robot_workers_desc코0"
+msgid ""
+"Robot workers from a forgotten civilization remain on this planet. With the "
+"proper precautions, they could be put to work for us."
+msgstr ""
+"이 행성에는 잊혀진 문명의 로봇 노동자들이 아직도 남아있습니다. 몇 가지 예방대책만 있으면 이들이 우리를 위해 일하도록 할 수 있습니다."
+
+msgctxt "ancient_forgeworld코0"
+msgid "Ancient Forgeworld"
+msgstr "고대 포지월드"
+
+msgctxt "ancient_forgeworld_desc코0"
+msgid ""
+"This planet was once some kind of center of production for a forgotten "
+"civilization. Although only a shadow of its former capacity remains in "
+"working condition, it is still an impressive example of industry."
+msgstr ""
+"이 행성은 잊혀진 문명의 생산 중심지 중 하나였을 것입니다. 비록 본래 산업시설의 극히 일부만이 남아있지만, 여전히 인상적인 수준입니다."
+
+msgctxt "holy_planet코0"
+msgid "Holy World"
+msgstr "신성한 행성"
+
+msgctxt "holy_planet_desc코0"
+msgid ""
+"This planet is considered sacred by a nearby Fallen Empire. Colonizing it "
+"will anger them greatly."
+msgstr "이 행성은 인근 몰락 제국의 성지입니다. 이 행성을 개척하는 것은 그들을 몹시 분노하게 할 것입니다."
+
+msgctxt "ancient_weapon코0"
+msgid "Ancient Orbital Weapon"
+msgstr "고대 궤도 무기"
+
+msgctxt "ancient_weapon_desc코0"
+msgid ""
+"It seems that some long-forgotten race once build some kind of huge weapon "
+"in orbit above this world. While it doesn't work, indeed it doesn't appear "
+"to have been completed, we can likely learn a few things by studying it."
+msgstr ""
+"오래전의 잊혀진 종족이 이 행성 궤도에 거대한 무기를 만들었던 것 같습니다. 이 무기는 작동하지 않으며 완성되지도 않은 것으로 보입니다. "
+"이를 연구하면 무언가를 배울 수 있을 겁니다."
+
+msgctxt "terraforming_candidate코0"
+msgid "Terraforming Candidate"
+msgstr "테라포밍 후보지"
+
+msgctxt "terraforming_candidate_desc코0"
+msgid ""
+"Though barren and devoid of life, this planet has water in frozen form and "
+"may once have been home to a thriving ecosystem. With the right technology, "
+"it could be terraformed into a habitable world."
+msgstr ""
+"이 행성은 황량하고 생명체가 없어보이지만,  얼음형태의 물이 존재하고 한때 생태계가 번성했던 것으로 보입니다. 적절한 기술이 동반된다면, "
+"이 행성은 테라포밍이 가능할 것입니다."
+
+msgctxt "ultra_rich코1"
+msgid "Exceptional Quality Minerals"
+msgstr "우수한 품질의 광물"
+
+msgctxt "ultra_rich_desc코1"
+msgid ""
+"The exceptional quality of the minerals in this planet's crust provides a "
+"truly staggering opportunity for mining."
+msgstr "이 행성의 지표면은 우수한 품질의 광물로 가득 차 있습니다."
+
+msgctxt "mineral_poor코1"
+msgid "Poor Quality Minerals"
+msgstr "낮은 품질의 광물"
+
+msgctxt "mineral_poor_desc코1"
+msgid ""
+"It is unknown if this planet simply formed this way, or if some unknown race "
+"once stripped it of its more valuable resources. However, we do know that "
+"the minerals present on this planet are of unusally poor quality."
+msgstr ""
+"이 행성이 단순히 이렇게 형성이 된 건지, 아니면 어떤 종족이 자원을 몽땅 가져가 버린 것인지는 알 수 없습니다. 다만 우리는 여기서의 "
+"광물이 유독 품질이 낮다는 건 알 수 있습니다."
+
+msgctxt "planet_uncertain_past코0"
+msgid "Uncertain history"
+msgstr "불확실한 역사"
+
+msgctxt "planet_uncertain_past_desc코0"
+msgid ""
+"The people of this planet are troubled by not knowing what caused the "
+"disaster which befell it long ago, and are driven to try to find out."
+msgstr "이 행성의 주민들은 오래전 그들에게 일어난 재앙의 원인을 몰라 불안해하며, 원인을 찾으려고 노력하고 있습니다."
+
+msgctxt "recent_quake코0"
+msgid "Recent Tectonic Event"
+msgstr "최근의 지각활동"
+
+msgctxt "recent_quake_desc코0"
+msgid "This planet was recently rocked by a violent Tectonic Event"
+msgstr "이 행성은 최근에 격렬한 지각활동이 있었습니다."
+
+msgctxt "recent_comet코0"
+msgid "Comet sighted"
+msgstr "혜성 관측"
+
+msgctxt "recent_comet_desc코0"
+msgid ""
+"A comet recently passed through this planet's Asteroid Belt, which was a "
+"spectacular sight!"
+msgstr "한 혜성이 최근 이 행성의 소행성 계를 지나쳤으며, 그 광경이 아주 장관이었습니다!"
+
+msgctxt "recent_impact코0"
+msgid "Recent Impact"
+msgstr "최근의 충돌"
+
+msgctxt "recent_impact_desc코0"
+msgid "The local colony was recently rocked by the impact of a large Asteroid"
+msgstr "이 지역의 개척지는 최근 대형 소행성의 충돌로 큰 피해를 입었습니다."
+
+msgctxt "magnetic_research_boost코0"
+msgid "Magnetic Miracle"
+msgstr "자기장 기적"
+
+msgctxt "magnetic_research_boost_desc코0"
+msgid ""
+"Somehow the Magnetic field of this planet is interfering with our computers, "
+"but rather than a simple disruption it is actually making them more "
+"efficient!"
+msgstr ""
+"왠지는 모르지만, 이 행성의 자기장이 우리 컴퓨터에 영향을 주고 있습니다. 그런데 컴퓨터를 방해하는 대신 사실상 더 효율적으로 만들고 "
+"있습니다!"
+
+msgctxt "magnetic_disruption코0"
+msgid "Magnetic Disruption"
+msgstr "자기장 간섭"
+
+msgctxt "magnetic_disruption_desc코0"
+msgid ""
+"The Magnetic field of this planet is interfering with our computers, greatly "
+"disrupting research work and upsetting the populace."
+msgstr "이 행성의 자기장이 컴퓨터들에 간섭하여 연구활동을 저해시키고 인구들을 불편하게 하고 있습니다."
+
+msgctxt "normal_player코0"
+msgid ""
+msgstr ""
+
+msgctxt "normal_ai코0"
+msgid ""
+msgstr ""
+
+msgctxt "test_happiness코0"
+msgid ""
+msgstr ""
+
+msgctxt "pop_happiness_cheat코0"
+msgid ""
+msgstr ""
+
+msgctxt "planet_base코1"
+msgid "Base"
+msgstr "기본"
+
+msgctxt "disconnected_from_sector코0"
+msgid ""
+msgstr ""
+
+msgctxt "skill_admiral코0"
+msgid "Skill"
+msgstr "기술"
+
+msgctxt "skill_general코0"
+msgid "Skill"
+msgstr "기술"
+
+msgctxt "skill_scientist코0"
+msgid "Skill"
+msgstr "기술"
+
+msgctxt "skill_governor코0"
+msgid "Skill"
+msgstr "기술"
+
+msgctxt "skill_ruler코0"
+msgid "Skill"
+msgstr "기술"
+
+msgctxt "leader_skills_spawn코0"
+msgid ""
+msgstr ""
+
+msgctxt "inhibition_relase코0"
+msgid "Inhibition Release"
+msgstr "억제 발산"
+
+msgctxt "powered_exoskeletons코0"
+msgid "Powered Exoskeletons"
+msgstr "동력 외골격"
+
+msgctxt "spaceport_level_1코0"
+msgid ""
+msgstr ""
+
+msgctxt "spaceport_level_2코0"
+msgid ""
+msgstr ""
+
+msgctxt "spaceport_level_3코0"
+msgid ""
+msgstr ""
+
+msgctxt "spaceport_level_4코0"
+msgid ""
+msgstr ""
+
+msgctxt "spaceport_level_5코0"
+msgid ""
+msgstr ""
+
+msgctxt "spaceport_level_6코0"
+msgid ""
+msgstr ""
+
+msgctxt "stone_age_civilization코0"
+msgid "Stone Age Primitives"
+msgstr "석기시대 원시인"
+
+msgctxt "stone_age_civilization_desc코2"
+msgid "This world has produced a primitive Stone Age proto-civilization."
+msgstr "이 행성에선 원시적인 석기문명이 탄생했습니다."
+
+msgctxt "dead_creatures코0"
+msgid "Dead Space Creatures"
+msgstr "죽은 우주 생명체"
+
+msgctxt "dead_creatures_desc코0"
+msgid ""
+"This gas giant served as an ancient graveyard for a species of spacefaring "
+"creatures. Many corpses can still be found in orbit, offering valuable "
+"research."
+msgstr ""
+"이 거대 가스행성은 우주를 떠돌아다니는 생물을 위한 고대묘지로 사용되었습니다. 궤도에는 여전히 시체 여러 구가 떠 있는데, 좋은 "
+"연구대상이 될 것입니다."
+
+msgctxt "starship_graveyard코0"
+msgid "Starship Graveyard"
+msgstr "우주선 묘지"
+
+msgctxt "starship_graveyard_desc코1"
+msgid ""
+"A great battle took place in orbit of this world millennia ago, and the "
+"surface is still littered with the wreckage of ancient starships. Studying "
+"their advanced designs will yield valuable knowledge."
+msgstr ""
+"천 년 전 이 행성 궤도에서 큰 전투가 있었고, 표면은 여전히 고대 우주선들의 잔해로 뒤덮여 있습니다. 그들의 발전된 설계를 연구한다면 "
+"쓸만한 기술을 얻을 수 있을 겁니다."
+
+msgctxt "organic_starship코0"
+msgid "Organic Starship"
+msgstr "유기 우주선"
+
+msgctxt "organic_starship_desc코1"
+msgid ""
+"Some sort of organic starship crashed on this world more than three billion "
+"years ago. Though only its ancient bones remain, the site offers a wealth of "
+"research opportunities."
+msgstr ""
+"몇몇 생체우주선이 30억 년도 더 전에 이 행성에 충돌했습니다. 비록 우주선의 골조만이 남아있지만, 풍부한 연구거리를 줄 것입니다."
+
+msgctxt "abandoned_cities코0"
+msgid "Abandoned Cities"
+msgstr "버려진 도시들"
+
+msgctxt "abandoned_cities_desc코0"
+msgid ""
+"The original inhabitants of this world have mysteriously vanished, leaving "
+"behind their cities and infrastructure almost intact. This will make it much "
+"easier for a potential colony to develop."
+msgstr ""
+"이 행성의 원주민들은 기이하게도 도시와 기반시설을 멀쩡히 남겨놓고 사라졌습니다. 덕분에 정착지가 쉽게 발전할 수 있을 겁니다."
+
+msgctxt "subterranean_ocean코0"
+msgid "Subterranean Ocean"
+msgstr "지하 바다"
+
+msgctxt "subterranean_ocean_desc코1"
+msgid ""
+"There is a large ocean heated by hydrothermal vents hidden beneath the ice "
+"mantle of this world. It is teeming with life, and much can be learned by "
+"studying these unique organisms."
+msgstr ""
+"행성의 얼음 지각 아래에 숨겨져 있는 해저 열수공에 의해 달궈진 거대한 대양이 존재합니다. 이곳은 생명으로 가득 차 있고, 이렇게 특수한 "
+"구조를 연구하여 많은 것을 배울 수 있을 겁니다."
+
+msgctxt "colony_enclaves코0"
+msgid "Fortified Enclaves"
+msgstr "거주지 제한"
+
+msgctxt "colony_enclaves_desc코0"
+msgid ""
+"The colony on this world is limited to several fortified enclaves. An "
+"indigenous Stone Age proto-civilization has been left in peace to develop "
+"independently on the remaining land."
+msgstr ""
+"이 행성의 식민지는 몇몇 요새화된 주거지로 제한될 것입니다. 토착 석기문명은 나머지 땅에서 독립적으로 발전하도록 내버려 두었습니다."
+
+msgctxt "primitive_reservation코0"
+msgid "Alien Reservation"
+msgstr "외계인 보호구역"
+
+msgctxt "primitive_reservation_desc코0"
+msgid ""
+"A part of this world has been turned into an enclosed reservation for an "
+"indigenous Stone Age proto-civilization. This has somewhat limited the land "
+"and resources available to colonists."
+msgstr ""
+"이 행성 일부는 토착 석기 문명을 위한 보호구역으로 지정되었습니다. 이 때문에 이주민들이 정착할 땅과 이용할 자원이 제한될 것입니다."
+
+msgctxt "starvation코0"
+msgid "Starvation"
+msgstr "기아"
+
+msgctxt "subterranean_tech_transaction코0"
+msgid "Subterranean Tech Provision"
+msgstr "지하 기술 공급"
+
+msgctxt "subterranean_tech_transation_desc코0"
+msgid ""
+"A portion of our research materials and funds are earmarked for use by the "
+"subterranean civilization living inside one of our colonized planets."
+msgstr "우리의 연구 재료 및 자금의 일부는 우리의 식민 행성 중 하나의 내부에 살고있는 지하 문명에서 사용하기 위해 배정됩니다."
+
+msgctxt "stellarite_high_temp코0"
+msgid "Increased Temperature"
+msgstr "상승한 기온"
+
+msgctxt "stellarite_high_temp_desc코0"
+msgid ""
+"A radiant monstrosity present in this system is increasing the surface "
+"temperature of the planet."
+msgstr "이 성계에 존재하는 빛나는 기괴한 것의 존재로 인해 행성의 기온이 올라갔습니다."
+
+msgctxt "stellarite_low_temp코0"
+msgid "Lowered Temperature"
+msgstr "낮아진 기온"
+
+msgctxt "stellarite_low_temp_desc코0"
+msgid ""
+"A radiant monstrosity has devoured part of the star in this system, making "
+"the planetary bodies in orbit colder than usual."
+msgstr "이 성계 항성 일부를 삼켜버린 빛나는 괴생물체의 존재로 인해 행성의 기온이 내려갔습니다."
+
+msgctxt "ed_anchor_buildspeed코0"
+msgid "Anchor Construction"
+msgstr "차원 닻 건설"
+
+msgctxt "shipsize_anchor_station_construction_speed_mult코0"
+msgid "Anchor Construction"
+msgstr "차원 닻 건설"
+
+msgctxt "EVENT_LOCKED_FLEET코0"
+msgid "§RCannot be attacked§!"
+msgstr "§R공격할 수 없습니다§!"
+
+msgctxt "precursor_research_speed코0"
+msgid "Anomaly Research Speed (Precursors)"
+msgstr "이상 현상 연구 속도 (선구자)"
+
+msgctxt "precursor_fail_risk코0"
+msgid "Anomaly Fail Risk (Precursors)"
+msgstr "이상 현상 연구 실패 확률 (선구자)"
+
+msgctxt "vultaum_1_cat_research_speed_mult코0"
+msgid "$precursor_research_speed$"
+msgstr "$선구자_연구_속도$"
+
+msgctxt "vultaum_1_cat_research_fail_risk_add코0"
+msgid "$precursor_fail_risk$"
+msgstr "$선구자_실패_위험$"
+
+msgctxt "vultaum_2_cat_research_speed_mult코0"
+msgid "$precursor_research_speed$"
+msgstr "$선구자_연구_속도$"
+
+msgctxt "vultaum_2_cat_research_fail_risk_add코0"
+msgid "$precursor_fail_risk$"
+msgstr "$선구자_실패_위험$"
+
+msgctxt "vultaum_3_cat_research_speed_mult코0"
+msgid "$precursor_research_speed$"
+msgstr "$선구자_연구_속도$"
+
+msgctxt "vultaum_3_cat_research_fail_risk_add코0"
+msgid "$precursor_fail_risk$"
+msgstr "$선구자_실패_위험$"
+
+msgctxt "vultaum_4_cat_research_speed_mult코0"
+msgid "$precursor_research_speed$"
+msgstr "$선구자_연구_속도$"
+
+msgctxt "vultaum_4_cat_research_fail_risk_add코0"
+msgid "$precursor_fail_risk$"
+msgstr "$선구자_실패_위험$"
+
+msgctxt "vultaum_5_cat_research_speed_mult코0"
+msgid "$precursor_research_speed$"
+msgstr "$선구자_연구_속도$"
+
+msgctxt "vultaum_5_cat_research_fail_risk_add코0"
+msgid "$precursor_fail_risk$"
+msgstr "$선구자_실패_위험$"
+
+msgctxt "vultaum_6_cat_research_speed_mult코0"
+msgid "$precursor_research_speed$"
+msgstr "$선구자_연구_속도$"
+
+msgctxt "vultaum_6_cat_research_fail_risk_add코0"
+msgid "$precursor_fail_risk$"
+msgstr "$선구자_실패_위험$"
+
+msgctxt "vultaum_7_cat_research_speed_mult코0"
+msgid "$precursor_research_speed$"
+msgstr "$선구자_연구_속도$"
+
+msgctxt "vultaum_7_cat_research_fail_risk_add코0"
+msgid "$precursor_fail_risk$"
+msgstr "$선구자_실패_위험$"
+
+msgctxt "vultaum_8_cat_research_speed_mult코0"
+msgid "$precursor_research_speed$"
+msgstr "$선구자_연구_속도$"
+
+msgctxt "vultaum_8_cat_research_fail_risk_add코0"
+msgid "$precursor_fail_risk$"
+msgstr "$선구자_실패_위험$"
+
+msgctxt "vultaum_9_cat_research_speed_mult코0"
+msgid "$precursor_research_speed$"
+msgstr "$선구자_연구_속도$"
+
+msgctxt "vultaum_9_cat_research_fail_risk_add코0"
+msgid "$precursor_fail_risk$"
+msgstr "$선구자_실패_위험$"
+
+msgctxt "vultaum_10_cat_research_speed_mult코0"
+msgid "$precursor_research_speed$"
+msgstr "$선구자_연구_속도$"
+
+msgctxt "vultaum_10_cat_research_fail_risk_add코0"
+msgid "$precursor_fail_risk$"
+msgstr "$선구자_실패_위험$"
+
+msgctxt "vultaum_11_cat_research_speed_mult코0"
+msgid "$precursor_research_speed$"
+msgstr "$선구자_연구_속도$"
+
+msgctxt "vultaum_11_cat_research_fail_risk_add코0"
+msgid "$precursor_fail_risk$"
+msgstr "$선구자_실패_위험$"
+
+msgctxt "yuht_1_cat_research_speed_mult코0"
+msgid "$precursor_research_speed$"
+msgstr "$선구자_연구_속도$"
+
+msgctxt "yuht_1_cat_research_fail_risk_add코0"
+msgid "$precursor_fail_risk$"
+msgstr "$선구자_실패_위험$"
+
+msgctxt "yuht_2_cat_research_speed_mult코0"
+msgid "$precursor_research_speed$"
+msgstr "$선구자_연구_속도$"
+
+msgctxt "yuht_2_cat_research_fail_risk_add코0"
+msgid "$precursor_fail_risk$"
+msgstr "$선구자_실패_위험$"
+
+msgctxt "yuht_3_cat_research_speed_mult코0"
+msgid "$precursor_research_speed$"
+msgstr "$선구자_연구_속도$"
+
+msgctxt "yuht_3_cat_research_fail_risk_add코0"
+msgid "$precursor_fail_risk$"
+msgstr "$선구자_실패_위험$"
+
+msgctxt "yuht_4_cat_research_speed_mult코0"
+msgid "$precursor_research_speed$"
+msgstr "$선구자_연구_속도$"
+
+msgctxt "yuht_4_cat_research_fail_risk_add코0"
+msgid "$precursor_fail_risk$"
+msgstr "$선구자_실패_위험$"
+
+msgctxt "yuht_5_cat_research_speed_mult코0"
+msgid "$precursor_research_speed$"
+msgstr "$선구자_연구_속도$"
+
+msgctxt "yuht_5_cat_research_fail_risk_add코0"
+msgid "$precursor_fail_risk$"
+msgstr "$선구자_실패_위험$"
+
+msgctxt "yuht_6_cat_research_speed_mult코0"
+msgid "$precursor_research_speed$"
+msgstr "$선구자_연구_속도$"
+
+msgctxt "yuht_6_cat_research_fail_risk_add코0"
+msgid "$precursor_fail_risk$"
+msgstr "$선구자_실패_위험$"
+
+msgctxt "yuht_7_cat_research_speed_mult코0"
+msgid "$precursor_research_speed$"
+msgstr "$선구자_연구_속도$"
+
+msgctxt "yuht_7_cat_research_fail_risk_add코0"
+msgid "$precursor_fail_risk$"
+msgstr "$선구자_실패_위험$"
+
+msgctxt "yuht_8_cat_research_speed_mult코0"
+msgid "$precursor_research_speed$"
+msgstr "$선구자_연구_속도$"
+
+msgctxt "yuht_8_cat_research_fail_risk_add코0"
+msgid "$precursor_fail_risk$"
+msgstr "$선구자_실패_위험$"
+
+msgctxt "yuht_9_cat_research_speed_mult코0"
+msgid "$precursor_research_speed$"
+msgstr "$선구자_연구_속도$"
+
+msgctxt "yuht_9_cat_research_fail_risk_add코0"
+msgid "$precursor_fail_risk$"
+msgstr "$선구자_실패_위험$"
+
+msgctxt "league_1_cat_research_speed_mult코0"
+msgid "$precursor_research_speed$"
+msgstr "$선구자_연구_속도$"
+
+msgctxt "league_1_cat_research_fail_risk_add코0"
+msgid "$precursor_fail_risk$"
+msgstr "$선구자_실패_위험$"
+
+msgctxt "league_2_cat_research_speed_mult코0"
+msgid "$precursor_research_speed$"
+msgstr "$선구자_연구_속도$"
+
+msgctxt "league_2_cat_research_fail_risk_add코0"
+msgid "$precursor_fail_risk$"
+msgstr "$선구자_실패_위험$"
+
+msgctxt "league_3_cat_research_speed_mult코0"
+msgid "$precursor_research_speed$"
+msgstr "$선구자_연구_속도$"
+
+msgctxt "league_3_cat_research_fail_risk_add코0"
+msgid "$precursor_fail_risk$"
+msgstr "$선구자_실패_위험$"
+
+msgctxt "league_4_cat_research_speed_mult코0"
+msgid "$precursor_research_speed$"
+msgstr "$선구자_연구_속도$"
+
+msgctxt "league_4_cat_research_fail_risk_add코0"
+msgid "$precursor_fail_risk$"
+msgstr "$선구자_실패_위험$"
+
+msgctxt "league_5_cat_research_speed_mult코0"
+msgid "$precursor_research_speed$"
+msgstr "$선구자_연구_속도$"
+
+msgctxt "league_5_cat_research_fail_risk_add코0"
+msgid "$precursor_fail_risk$"
+msgstr "$선구자_실패_위험$"
+
+msgctxt "league_6_cat_research_speed_mult코0"
+msgid "$precursor_research_speed$"
+msgstr "$선구자_연구_속도$"
+
+msgctxt "league_6_cat_research_fail_risk_add코0"
+msgid "$precursor_fail_risk$"
+msgstr "$선구자_실패_위험$"
+
+msgctxt "league_7_cat_research_speed_mult코0"
+msgid "$precursor_research_speed$"
+msgstr "$선구자_연구_속도$"
+
+msgctxt "league_7_cat_research_fail_risk_add코0"
+msgid "$precursor_fail_risk$"
+msgstr "$선구자_실패_위험$"
+
+msgctxt "league_8_cat_research_speed_mult코0"
+msgid "$precursor_research_speed$"
+msgstr "$선구자_연구_속도$"
+
+msgctxt "league_8_cat_research_fail_risk_add코0"
+msgid "$precursor_fail_risk$"
+msgstr "$선구자_실패_위험$"
+
+msgctxt "league_9_cat_research_speed_mult코0"
+msgid "$precursor_research_speed$"
+msgstr "$선구자_연구_속도$"
+
+msgctxt "league_9_cat_research_fail_risk_add코0"
+msgid "$precursor_fail_risk$"
+msgstr "$선구자_실패_위험$"
+
+msgctxt "league_10_cat_research_speed_mult코0"
+msgid "$precursor_research_speed$"
+msgstr "$선구자_연구_속도$"
+
+msgctxt "league_10_cat_research_fail_risk_add코0"
+msgid "$precursor_fail_risk$"
+msgstr "$선구자_실패_위험$"
+
+msgctxt "league_11_cat_research_speed_mult코0"
+msgid "$precursor_research_speed$"
+msgstr "$선구자_연구_속도$"
+
+msgctxt "league_11_cat_research_fail_risk_add코0"
+msgid "$precursor_fail_risk$"
+msgstr "$선구자_실패_위험$"
+
+msgctxt "league_12_cat_research_speed_mult코0"
+msgid "$precursor_research_speed$"
+msgstr "$선구자_연구_속도$"
+
+msgctxt "league_12_cat_research_fail_risk_add코0"
+msgid "$precursor_fail_risk$"
+msgstr "$선구자_실패_위험$"
+
+msgctxt "league_13_cat_research_speed_mult코0"
+msgid "$precursor_research_speed$"
+msgstr "$선구자_연구_속도$"
+
+msgctxt "league_13_cat_research_fail_risk_add코0"
+msgid "$precursor_fail_risk$"
+msgstr "$선구자_실패_위험$"
+
+msgctxt "league_14_cat_research_speed_mult코0"
+msgid "$precursor_research_speed$"
+msgstr "$선구자_연구_속도$"
+
+msgctxt "league_14_cat_research_fail_risk_add코0"
+msgid "$precursor_fail_risk$"
+msgstr "$선구자_실패_위험$"
+
+msgctxt "irassian_1_cat_research_speed_mult코0"
+msgid "$precursor_research_speed$"
+msgstr "$선구자_연구_속도$"
+
+msgctxt "irassian_1_cat_research_fail_risk_add코0"
+msgid "$precursor_fail_risk$"
+msgstr "$선구자_실패_위험$"
+
+msgctxt "irassian_2_cat_research_speed_mult코0"
+msgid "$precursor_research_speed$"
+msgstr "$선구자_연구_속도$"
+
+msgctxt "irassian_2_cat_research_fail_risk_add코0"
+msgid "$precursor_fail_risk$"
+msgstr "$선구자_실패_위험$"
+
+msgctxt "irassian_3_cat_research_speed_mult코0"
+msgid "$precursor_research_speed$"
+msgstr "$선구자_연구_속도$"
+
+msgctxt "irassian_3_cat_research_fail_risk_add코0"
+msgid "$precursor_fail_risk$"
+msgstr "$선구자_실패_위험$"
+
+msgctxt "irassian_4_cat_research_speed_mult코0"
+msgid "$precursor_research_speed$"
+msgstr "$선구자_연구_속도$"
+
+msgctxt "irassian_4_cat_research_fail_risk_add코0"
+msgid "$precursor_fail_risk$"
+msgstr "$선구자_실패_위험$"
+
+msgctxt "irassian_5_cat_research_speed_mult코0"
+msgid "$precursor_research_speed$"
+msgstr "$선구자_연구_속도$"
+
+msgctxt "irassian_5_cat_research_fail_risk_add코0"
+msgid "$precursor_fail_risk$"
+msgstr "$선구자_실패_위험$"
+
+msgctxt "irassian_6_cat_research_speed_mult코0"
+msgid "$precursor_research_speed$"
+msgstr "$선구자_연구_속도$"
+
+msgctxt "irassian_6_cat_research_fail_risk_add코0"
+msgid "$precursor_fail_risk$"
+msgstr "$선구자_실패_위험$"
+
+msgctxt "irassian_7_cat_research_speed_mult코0"
+msgid "$precursor_research_speed$"
+msgstr "$선구자_연구_속도$"
+
+msgctxt "irassian_7_cat_research_fail_risk_add코0"
+msgid "$precursor_fail_risk$"
+msgstr "$선구자_실패_위험$"
+
+msgctxt "irassian_8_cat_research_speed_mult코0"
+msgid "$precursor_research_speed$"
+msgstr "$선구자_연구_속도$"
+
+msgctxt "irassian_8_cat_research_fail_risk_add코0"
+msgid "$precursor_fail_risk$"
+msgstr "$선구자_실패_위험$"
+
+msgctxt "irassian_9_cat_research_speed_mult코0"
+msgid "$precursor_research_speed$"
+msgstr "$선구자_연구_속도$"
+
+msgctxt "irassian_9_cat_research_fail_risk_add코0"
+msgid "$precursor_fail_risk$"
+msgstr "$선구자_실패_위험$"
+
+msgctxt "irassian_10_cat_research_speed_mult코0"
+msgid "$precursor_research_speed$"
+msgstr "$선구자_연구_속도$"
+
+msgctxt "irassian_10_cat_research_fail_risk_add코0"
+msgid "$precursor_fail_risk$"
+msgstr "$선구자_실패_위험$"
+
+msgctxt "irassian_11_cat_research_speed_mult코0"
+msgid "$precursor_research_speed$"
+msgstr "$선구자_연구_속도$"
+
+msgctxt "irassian_11_cat_research_fail_risk_add코0"
+msgid "$precursor_fail_risk$"
+msgstr "$선구자_실패_위험$"
+
+msgctxt "cybrex_1_cat_research_speed_mult코0"
+msgid "$precursor_research_speed$"
+msgstr "$선구자_연구_속도$"
+
+msgctxt "cybrex_1_cat_research_fail_risk_add코0"
+msgid "$precursor_fail_risk$"
+msgstr "$선구자_실패_위험$"
+
+msgctxt "cybrex_2_cat_research_speed_mult코0"
+msgid "$precursor_research_speed$"
+msgstr "$선구자_연구_속도$"
+
+msgctxt "cybrex_2_cat_research_fail_risk_add코0"
+msgid "$precursor_fail_risk$"
+msgstr "$선구자_실패_위험$"
+
+msgctxt "cybrex_3_cat_research_speed_mult코0"
+msgid "$precursor_research_speed$"
+msgstr "$선구자_연구_속도$"
+
+msgctxt "cybrex_3_cat_research_fail_risk_add코0"
+msgid "$precursor_fail_risk$"
+msgstr "$선구자_실패_위험$"
+
+msgctxt "cybrex_4_cat_research_speed_mult코0"
+msgid "$precursor_research_speed$"
+msgstr "$선구자_연구_속도$"
+
+msgctxt "cybrex_4_cat_research_fail_risk_add코0"
+msgid "$precursor_fail_risk$"
+msgstr "$선구자_실패_위험$"
+
+msgctxt "cybrex_5_cat_research_speed_mult코0"
+msgid "$precursor_research_speed$"
+msgstr "$선구자_연구_속도$"
+
+msgctxt "cybrex_5_cat_research_fail_risk_add코0"
+msgid "$precursor_fail_risk$"
+msgstr "$선구자_실패_위험$"
+
+msgctxt "cybrex_6_cat_research_speed_mult코0"
+msgid "$precursor_research_speed$"
+msgstr "$선구자_연구_속도$"
+
+msgctxt "cybrex_6_cat_research_fail_risk_add코0"
+msgid "$precursor_fail_risk$"
+msgstr "$선구자_실패_위험$"
+
+msgctxt "cybrex_7_cat_research_speed_mult코0"
+msgid "$precursor_research_speed$"
+msgstr "$선구자_연구_속도$"
+
+msgctxt "cybrex_7_cat_research_fail_risk_add코0"
+msgid "$precursor_fail_risk$"
+msgstr "$선구자_실패_위험$"
+
+msgctxt "cybrex_8_cat_research_speed_mult코0"
+msgid "$precursor_research_speed$"
+msgstr "$선구자_연구_속도$"
+
+msgctxt "cybrex_8_cat_research_fail_risk_add코0"
+msgid "$precursor_fail_risk$"
+msgstr "$선구자_실패_위험$"
+
+msgctxt "cybrex_9_cat_research_speed_mult코0"
+msgid "$precursor_research_speed$"
+msgstr "$선구자_연구_속도$"
+
+msgctxt "cybrex_9_cat_research_fail_risk_add코0"
+msgid "$precursor_fail_risk$"
+msgstr "$선구자_실패_위험$"
+
+msgctxt "cybrex_10_cat_research_speed_mult코0"
+msgid "$precursor_research_speed$"
+msgstr "$선구자_연구_속도$"
+
+msgctxt "cybrex_10_cat_research_fail_risk_add코0"
+msgid "$precursor_fail_risk$"
+msgstr "$선구자_실패_위험$"
+
+msgctxt "cybrex_11_cat_research_speed_mult코0"
+msgid "$precursor_research_speed$"
+msgstr "$선구자_연구_속도$"
+
+msgctxt "cybrex_11_cat_research_fail_risk_add코0"
+msgid "$precursor_fail_risk$"
+msgstr "$선구자_실패_위험$"
+
+msgctxt "VULTAUMAR_research_speed_mult코0"
+msgid "$precursor_research_speed$"
+msgstr "$선구자_연구_속도$"
+
+msgctxt "VULTAUMAR_research_fail_risk_add코0"
+msgid "$precursor_fail_risk$"
+msgstr "$선구자_실패_위험$"
+
+msgctxt "YUHTAAN_research_speed_mult코0"
+msgid "$precursor_research_speed$"
+msgstr "$선구자_연구_속도$"
+
+msgctxt "YUHTAAN_research_fail_risk_add코0"
+msgid "$precursor_fail_risk$"
+msgstr "$선구자_실패_위험$"
+
+msgctxt "FEN_HABBANIS_research_speed_mult코0"
+msgid "$precursor_research_speed$"
+msgstr "$선구자_연구_속도$"
+
+msgctxt "FEN_HABBANIS_research_fail_risk_add코0"
+msgid "$precursor_fail_risk$"
+msgstr "$선구자_실패_위험$"
+
+msgctxt "IRASSIA_research_speed_mult코0"
+msgid "$precursor_research_speed$"
+msgstr "$선구자_연구_속도$"
+
+msgctxt "IRASSIA_research_fail_risk_add코0"
+msgid "$precursor_fail_risk$"
+msgstr "$선구자_실패_위험$"
+
+msgctxt "CYBREX_research_speed_mult코0"
+msgid "$precursor_research_speed$"
+msgstr "$선구자_연구_속도$"
+
+msgctxt "CYBREX_research_fail_risk_add코0"
+msgid "$precursor_fail_risk$"
+msgstr "$선구자_실패_위험$"
+
+msgctxt "per_neighbor_rival코0"
+msgid "Neighboring Rivals"
+msgstr "이웃한 경쟁자"
+
+msgctxt "species_trait_points_add코0"
+msgid "Gene Modification Points"
+msgstr "유전자 조작 점수"
+
+msgctxt "HUM_species_trait_points_add코0"
+msgid "Humanoid Gene Modification Points"
+msgstr "인류 유전자 조작 점수"
+
+msgctxt "MAM_species_trait_points_add코0"
+msgid "Mammalian Gene Modification Points"
+msgstr "포유류 유전자 조작 점수"
+
+msgctxt "REP_species_trait_points_add코0"
+msgid "Reptilian Gene Modification Points"
+msgstr "파충류 유전자 조작 점수"
+
+msgctxt "AVI_species_trait_points_add코0"
+msgid "Avian Gene Modification Points"
+msgstr "조류 유전자 조작 점수"
+
+msgctxt "ART_species_trait_points_add코0"
+msgid "Arthropoid Gene Modification Points"
+msgstr "절지류 유전자 조작 점수"
+
+msgctxt "MOL_species_trait_points_add코0"
+msgid "Molluscoid Gene Modification Points"
+msgstr "연체류 유전자 조작 점수"
+
+msgctxt "FUN_species_trait_points_add코0"
+msgid "Fungoid Gene Modification Points"
+msgstr "진균류 유전자 조작 점수"
+
+msgctxt "PLANT_species_trait_points_add코0"
+msgid "Plantoid Gene Modification Points"
+msgstr "식물류 유전자 조작 점수"
+
+msgctxt "ROBOT_species_trait_points_add코0"
+msgid "Robot Modification Points"
+msgstr "로봇 개조 점수"
+
+msgctxt "MACHINE_species_trait_points_add코0"
+msgid "Machine Modification Points"
+msgstr "기계 개조 점수"
+
+msgctxt "BIOLOGICAL_species_trait_points_add코0"
+msgid "$species_trait_points_add$"
+msgstr "$species_trait_points_add$"
+
+msgctxt "pc_machine_habitability코1"
+msgid "Machine World Habitability"
+msgstr "기계 행성 적합성"
+

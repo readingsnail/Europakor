@@ -1,0 +1,33 @@
+# badaim <imbada@outlook.com>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2017-04-11 12:11-0400\n"
+"Last-Translator: Copied by Zanata <copied-by-zanata@zanata.org>\n"
+"Language-Team: Korean (South Korea)\n"
+"Language: ko\n"
+"X-Generator: Zanata 3.9.6\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgctxt "sow_castles코0"
+msgid "Castles"
+msgstr "성채(Castles)"
+
+msgctxt "sow_distress코0"
+msgid "Distress"
+msgstr "고통(Distress)"
+
+msgctxt "sow_george_whitehead코0"
+msgid "M. George Whitehead and his Almand (reprise)"
+msgstr "미스터 조지 화이트헤드와 그의 알망드 (M. George Whitehead and his Almand (reprise)"
+
+msgctxt "sow_lautunno코0"
+msgid "L'autunno"
+msgstr "가을(L'autunno)"
+
+msgctxt "sow_the_siege코0"
+msgid "The Siege"
+msgstr "공성전(The Siege)"
+

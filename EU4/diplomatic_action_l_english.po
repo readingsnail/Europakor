@@ -1,0 +1,45 @@
+# bjrj <asap1993@naver.com>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2017-05-04 04:23-0400\n"
+"Last-Translator: bjrj <asap1993@naver.com>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"X-Generator: Zanata 3.9.6\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgctxt "demand_dummy_title코0"
+msgid "Demand Dummy"
+msgstr "Demand Dummy"
+
+msgctxt "demand_dummy_desc코0"
+msgid ""
+"Demand that [From.Monarch.GetName] of [From.GetName] becomes our Dummy. This "
+"will benefit our mutual Trust!"
+msgstr ""
+"Demand that [From.Monarch.GetName] of [From.GetName] becomes our Dummy. This "
+"will benefit our mutual Trust!"
+
+msgctxt "demand_dummy_tooltip코0"
+msgid "Demand that they become our Dummy."
+msgstr "Demand that they become our Dummy."
+
+msgctxt "demand_dummy_dialog코0"
+msgid ""
+"[This.GetName] demands that you become their Dummy. This would benefit our "
+"mutual Trust!"
+msgstr ""
+"[This.GetName] demands that you become their Dummy. This would benefit our "
+"mutual Trust!"
+
+msgctxt "demand_dummy_alert_tooltip코0"
+msgid "A demand that we become a Dummy"
+msgstr "A demand that we become a Dummy"
+
+msgctxt "HAS_MORE_MANPOWER코0"
+msgid "[This.GetName] has more manpower than [From.GetName].\n"
+msgstr "[This.GetName] has more manpower than [From.GetName].\n"
+

@@ -1,0 +1,1995 @@
+# badaim <imbada@outlook.com>, 2017. #zanata
+# bjrj <asap1993@naver.com>, 2017. #zanata
+# snowfall <deluxe2k2@naver.com>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2017-12-13 02:02-0500\n"
+"Last-Translator: bjrj <asap1993@naver.com>\n"
+"Language-Team: Korean (South Korea)\n"
+"Language: ko\n"
+"X-Generator: Zanata 3.9.6\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgctxt "EARLDOM코0"
+msgid "Earldom"
+msgstr "백국"
+
+msgctxt "DUCHY코0"
+msgid "Duchy"
+msgstr "공국"
+
+msgctxt "KINGDOM코0"
+msgid "Kingdom"
+msgstr "왕국"
+
+msgctxt "EMPIRE코0"
+msgid "Empire"
+msgstr "제국"
+
+msgctxt "EARL코0"
+msgid "Earl"
+msgstr "백작"
+
+msgctxt "COUNTESS코0"
+msgid "Countess"
+msgstr "백작부인"
+
+msgctxt "DUKE코0"
+msgid "Duke"
+msgstr "공작"
+
+msgctxt "DUCHESS코0"
+msgid "Duchess"
+msgstr "공작부인"
+
+msgctxt "KING코0"
+msgid "King"
+msgstr "왕"
+
+msgctxt "HIGH_KING코0"
+msgid "High King"
+msgstr "대왕"
+
+msgctxt "QUEEN코0"
+msgid "Queen"
+msgstr "여왕"
+
+msgctxt "HIGH_QUEEN코0"
+msgid "High Queen"
+msgstr "대왕"
+
+msgctxt "EMPRESS코0"
+msgid "Empress"
+msgstr "여제"
+
+msgctxt "FEDERATION코0"
+msgid "Federation"
+msgstr "연맹"
+
+msgctxt "BISHOPRIC코0"
+msgid "Bishopric"
+msgstr "주교령"
+
+msgctxt "ARCHBISHOPRIC코0"
+msgid "Archbishopric"
+msgstr "대주교령"
+
+msgctxt "PATRIARCHATE코0"
+msgid "Patriarchate"
+msgstr "총대주교령"
+
+msgctxt "BISHOP코0"
+msgid "Bishop"
+msgstr "주교"
+
+msgctxt "DESPOTISM코0"
+msgid "Despotism"
+msgstr "전제 군주정"
+
+msgctxt "PRESIDENTIAL_DICTATORSHIP코0"
+msgid "Presidential Dictatorship"
+msgstr "대통령 독재정"
+
+msgctxt "ARCHBISHOP코0"
+msgid "Archbishop"
+msgstr "대주교"
+
+msgctxt "PATRIARCH코0"
+msgid "Patriarch"
+msgstr "총대주교"
+
+msgctxt "MATRIARCH코0"
+msgid "Matriarch"
+msgstr "총대주교"
+
+msgctxt "HORDE코0"
+msgid "Horde"
+msgstr "유목정"
+
+msgctxt "KHANATE코0"
+msgid "Khanate"
+msgstr "칸국"
+
+msgctxt "GREAT_KHANATE코0"
+msgid "Great Khanate"
+msgstr "대칸국"
+
+msgctxt "CHIEF코0"
+msgid "Chief"
+msgstr "추장"
+
+msgctxt "CHIEFTESS코0"
+msgid "Chieftess"
+msgstr "추장"
+
+msgctxt "JINONG코0"
+msgid "Jinong"
+msgstr "지농"
+
+msgctxt "KHAN코0"
+msgid "Khan"
+msgstr "칸"
+
+msgctxt "KHATUN코0"
+msgid "Khatun"
+msgstr "카툰"
+
+msgctxt "KHANUM코0"
+msgid "Khanum"
+msgstr "카넘"
+
+msgctxt "KHANZADEH코0"
+msgid "Khanzadeh"
+msgstr "칸자데흐"
+
+msgctxt "GREAT_KHAN코0"
+msgid "Great Khan"
+msgstr "대칸"
+
+msgctxt "GREAT_KHATUN코0"
+msgid "Great Khatun"
+msgstr "대카툰"
+
+msgctxt "KHAGANATE코0"
+msgid "Khaganate"
+msgstr "카간국"
+
+msgctxt "KHAGAN코0"
+msgid "Khagan"
+msgstr "카간"
+
+msgctxt "YEKHE_KHAGAN코0"
+msgid "Yekhe Khagan"
+msgstr "예키 카간"
+
+msgctxt "YEKHE_KHANUM코0"
+msgid "Yekhe Khanum"
+msgstr "예키 카눔"
+
+msgctxt "KHEDIVATE코0"
+msgid "Khedivate"
+msgstr "케디브국"
+
+msgctxt "PESHWA코0"
+msgid "Peshwa"
+msgstr "페슈와"
+
+msgctxt "PESHWIN코0"
+msgid "Peshwin"
+msgstr "페시윈"
+
+msgctxt "DIRECTOR코0"
+msgid "Director"
+msgstr "집정관"
+
+msgctxt "DIRECTORESS코0"
+msgid "Directoress"
+msgstr "집정관"
+
+msgctxt "UNITED_PROVINCES코0"
+msgid "United Provinces"
+msgstr "연합주"
+
+msgctxt "PROTECTOR코0"
+msgid "Protector"
+msgstr "호민관"
+
+msgctxt "LORD_PROTECTOR코0"
+msgid "Lord Protector"
+msgstr "호국경"
+
+msgctxt "HIGH_LORD_PROTECTOR코0"
+msgid "High Lord Protector"
+msgstr "고위 호국경"
+
+msgctxt "LADY_PROTECTOR코0"
+msgid "Lady Protector"
+msgstr "호국경"
+
+msgctxt "HIGH_LADY_PROTECTOR코0"
+msgid "High Lady Protector"
+msgstr "고위 호국경"
+
+msgctxt "CHIEFDOM코0"
+msgid "Chiefdom"
+msgstr "소 추장국"
+
+msgctxt "GRAND_CHIEFDOM코0"
+msgid "Grand Chiefdom"
+msgstr "추장국"
+
+msgctxt "GREAT_CHIEFDOM코0"
+msgid "Great Chiefdom"
+msgstr "대 추장국"
+
+msgctxt "TRIBAL_KINGDOM코0"
+msgid "Tribal Kingdom"
+msgstr "부족 왕국"
+
+msgctxt "TRIBAL_EMPIRE코0"
+msgid "Tribal Empire"
+msgstr "부족 제국"
+
+msgctxt "HIGH_CHIEF코0"
+msgid "High Chief"
+msgstr "고위 추장"
+
+msgctxt "HIGH_CHIEFTESS코0"
+msgid "High Chieftess"
+msgstr "고위 추장"
+
+msgctxt "PARAMOUNT_CHIEF코0"
+msgid "Paramount Chief"
+msgstr "대 추장"
+
+msgctxt "PARAMOUNT_CHIEFTESS코0"
+msgid "Paramount Chief"
+msgstr "대 추장"
+
+msgctxt "MALIKATE코0"
+msgid "Malikate"
+msgstr "말릭국"
+
+msgctxt "SHEIKHDOM코0"
+msgid "Sheikhdom"
+msgstr "토후국"
+
+msgctxt "GREAT_SHEIKHDOM코0"
+msgid "Great Sheikhdom"
+msgstr "대토후국"
+
+msgctxt "SHAHDOM코0"
+msgid "Shahdom"
+msgstr "왕국"
+
+msgctxt "SHAH_CONSORT코0"
+msgid "Shah-Consort"
+msgstr "샤-배우자"
+
+msgctxt "SHAH코0"
+msgid "Shah"
+msgstr "샤"
+
+msgctxt "SHAHANSHAH코0"
+msgid "Shahanshah"
+msgstr "샤한샤"
+
+msgctxt "SHAHZADE코0"
+msgid "Shahzade"
+msgstr "사흐자데"
+
+msgctxt "MALIK코0"
+msgid "Malik"
+msgstr "말릭"
+
+msgctxt "MALIKAH코0"
+msgid "Malikah"
+msgstr "말리카"
+
+msgctxt "SHEIKH코0"
+msgid "Sheikh"
+msgstr "셰이크"
+
+msgctxt "SHEIKHA코0"
+msgid "Sheika"
+msgstr "셰이카"
+
+msgctxt "GREAT_SHEIKH코0"
+msgid "Great Sheik"
+msgstr "대 셰이크"
+
+msgctxt "GREAT_SHEIKHA코0"
+msgid "Great Sheika"
+msgstr "대 셰이카"
+
+msgctxt "AYATOLLAH코0"
+msgid "Ayatollah"
+msgstr "아야톨라"
+
+msgctxt "KHOJA코0"
+msgid "Khoja"
+msgstr "코자"
+
+msgctxt "GREAT_KHOJA코0"
+msgid "Great Khoja"
+msgstr "대 코자"
+
+msgctxt "EMIRATE코0"
+msgid "Emirate"
+msgstr "에미르국"
+
+msgctxt "GREAT_EMIRATE코0"
+msgid "Great Emirate"
+msgstr "대 에미르국"
+
+msgctxt "SULTANATE코0"
+msgid "Sultanate"
+msgstr "술탄국"
+
+msgctxt "EMIR코0"
+msgid "Emir"
+msgstr "에미르"
+
+msgctxt "EMIRA코0"
+msgid "Emira"
+msgstr "에미라"
+
+msgctxt "AMIRZADE코0"
+msgid "Amirzade"
+msgstr "아미르자데"
+
+msgctxt "GREAT_EMIR코0"
+msgid "Great Emir"
+msgstr "대 에미르"
+
+msgctxt "GREAT_EMIRA코0"
+msgid "Great Emira"
+msgstr "대 에미라"
+
+msgctxt "EMIR_CONSORT코0"
+msgid "Emir-Consort"
+msgstr "에미르-배우자"
+
+msgctxt "SULTAN코0"
+msgid "Sultan"
+msgstr "술탄"
+
+msgctxt "SULTANA코0"
+msgid "Sultana"
+msgstr "술타나"
+
+msgctxt "GREAT_SULTAN코0"
+msgid "Great Sultan"
+msgstr "대 술탄"
+
+msgctxt "GREAT_SULTANA코0"
+msgid "Great Sultana"
+msgstr "대 술타나"
+
+msgctxt "BOQORAD코0"
+msgid "Boqorad"
+msgstr "보쿠어라드"
+
+msgctxt "BOQOR코0"
+msgid "Boqor"
+msgstr "보쿠어"
+
+msgctxt "AMIR코0"
+msgid "Amir"
+msgstr "아미르"
+
+msgctxt "AMIRAD코0"
+msgid "Amirad"
+msgstr "아미라드"
+
+msgctxt "PASHALIK코0"
+msgid "Pashalik"
+msgstr "파샤국"
+
+msgctxt "PASHA코0"
+msgid "Pasha"
+msgstr "파샤"
+
+msgctxt "PASHAZADE코0"
+msgid "Pashazade"
+msgstr "파샤자드"
+
+msgctxt "BEYLIK코0"
+msgid "Beylik"
+msgstr "베이국"
+
+msgctxt "BEY코0"
+msgid "Bey"
+msgstr "베이"
+
+msgctxt "BEYSADE코0"
+msgid "Beysade"
+msgstr "베이사드"
+
+msgctxt "BEYSADI코0"
+msgid "Beysadi"
+msgstr "베이사디"
+
+msgctxt "PADISHAH코0"
+msgid "Padishah"
+msgstr "파디샤"
+
+msgctxt "SOGN코0"
+msgid "Sogn"
+msgstr "송노"
+
+msgctxt "HERRED코0"
+msgid "Herred"
+msgstr "헤리드"
+
+msgctxt "BONDEVALDE코0"
+msgid "Bondevälde"
+msgstr "본더발데"
+
+msgctxt "OLDERMAND코0"
+msgid "Oldermand"
+msgstr "올더만트"
+
+msgctxt "STORBONDE코0"
+msgid "Storbonde"
+msgstr "스토르본데"
+
+msgctxt "LANDSBONDE코0"
+msgid "Landsbonde"
+msgstr "랜즈본데"
+
+msgctxt "OLDERMAND_fem코0"
+msgid "Olderkvinde"
+msgstr "올더빈데"
+
+msgctxt "STORBONDE_fem코0"
+msgid "Storbonde"
+msgstr "스토르본데"
+
+msgctxt "LANDSBONDE_fem코0"
+msgid "Landsbonde"
+msgstr "랜즈본데"
+
+msgctxt "HATUN코0"
+msgid "Hatun"
+msgstr "하툰"
+
+msgctxt "VALI_AHAD코0"
+msgid "Vali Ahad"
+msgstr "발리 아하드"
+
+msgctxt "HASEKI_SULTAN코0"
+msgid "Haseki Sultan"
+msgstr "하세키 술탄"
+
+msgctxt "THIKANA코0"
+msgid "Thikana"
+msgstr "티카나"
+
+msgctxt "THAKUR코0"
+msgid "Thakur"
+msgstr "타쿠르"
+
+msgctxt "THAKURANI코0"
+msgid "Thakurani"
+msgstr "타쿠라니"
+
+msgctxt "RANA코0"
+msgid "Rana"
+msgstr "라나"
+
+msgctxt "RAJA코0"
+msgid "Raja"
+msgstr "라자"
+
+msgctxt "RANI코0"
+msgid "Rani"
+msgstr "라니"
+
+msgctxt "RAJKUMAR코0"
+msgid "Rajkumar"
+msgstr "라즈쿠마르"
+
+msgctxt "RAJKUMARI코0"
+msgid "Rajkumari"
+msgstr "라즈쿠마리"
+
+msgctxt "MAHARANA코0"
+msgid "Maharana"
+msgstr "마하라나"
+
+msgctxt "MAHARAJA코0"
+msgid "Maharaja"
+msgstr "마하라자"
+
+msgctxt "MAHARANI코0"
+msgid "Maharani"
+msgstr "마하라니"
+
+msgctxt "CHHATRAPATI코0"
+msgid "Chhatrapati"
+msgstr "차트라파티"
+
+msgctxt "PRATINIDHI코0"
+msgid "Pratinidhi"
+msgstr "프라티니드히"
+
+msgctxt "SADR코0"
+msgid "Sadr"
+msgstr "사드르"
+
+msgctxt "CONFEDERATION코0"
+msgid "Confederation"
+msgstr "연합"
+
+msgctxt "TRIBE코0"
+msgid "Tribe"
+msgstr "부족"
+
+msgctxt "NATION코0"
+msgid "Nation"
+msgstr "국가"
+
+msgctxt "CONFEDERACY코0"
+msgid "Confederacy"
+msgstr "연합"
+
+msgctxt "SACHEM코0"
+msgid "Sachem"
+msgstr "족장"
+
+msgctxt "CLAN_MOTHER코0"
+msgid "Clan Mother"
+msgstr "부족 어머니"
+
+msgctxt "GREAT_PROPHET코0"
+msgid "Great Prophet"
+msgstr "대 예언자"
+
+msgctxt "PRINCIPALITY코0"
+msgid "Principality"
+msgstr "공국"
+
+msgctxt "GRAND_PRINCIPALITY코0"
+msgid "Grand Principality"
+msgstr "대공국"
+
+msgctxt "TSARDOM코0"
+msgid "Tsardom"
+msgstr "차르국"
+
+msgctxt "KNIAZ코0"
+msgid "Kniaz"
+msgstr "크냐지"
+
+msgctxt "KNIAGINIA코0"
+msgid "Kniaginia"
+msgstr "크냐지냐"
+
+msgctxt "GREAT_KNIAZ코0"
+msgid "Grand Kniaz"
+msgstr "대 크냐지"
+
+msgctxt "GREAT_KNIAGINIA코0"
+msgid "Grand Kniaginia"
+msgstr "대 크냐지냐"
+
+msgctxt "GRAND_KNIAZ코0"
+msgid "Grand Kniaz"
+msgstr "대 크냐지"
+
+msgctxt "GRAND_KNIAGINIA코0"
+msgid "Grand Kniginia"
+msgstr "대 크냐지냐"
+
+msgctxt "TSAR코0"
+msgid "Tsar"
+msgstr "차르"
+
+msgctxt "TSARITSA코0"
+msgid "Tsaritsa"
+msgstr "차리차"
+
+msgctxt "DUHZD코0"
+msgid "Duhzd"
+msgstr "도제"
+
+msgctxt "POSADNIK코0"
+msgid "Posadnik"
+msgstr "포사드니크"
+
+msgctxt "HOLY_PRINCIPALITY코0"
+msgid "Holy Principality"
+msgstr "신성 공국"
+
+msgctxt "HOLY_STATE코0"
+msgid "Holy State"
+msgstr "신성 국가"
+
+msgctxt "HOLY_EMPIRE코0"
+msgid "Theocratic Empire"
+msgstr "신정 제국"
+
+msgctxt "METROPOLIS코0"
+msgid "Metropolis"
+msgstr "주교구"
+
+msgctxt "GREAT_METROPOLIS코0"
+msgid "Great Metropolis"
+msgstr "대주교구"
+
+msgctxt "LORD_BISHOP코0"
+msgid "Lord Bishop"
+msgstr "주교"
+
+msgctxt "LORD_ARCHBISHOP코0"
+msgid "Lord Arcbishop"
+msgstr "대주교"
+
+msgctxt "LAMA코0"
+msgid "Lama"
+msgstr "라마"
+
+msgctxt "TULKU코0"
+msgid "Tulku"
+msgstr "툴쿠"
+
+msgctxt "GREAT_TULKU코0"
+msgid "Great Tulku"
+msgstr "대 툴쿠"
+
+msgctxt "ELDER코0"
+msgid "Elder"
+msgstr "원로"
+
+msgctxt "HIGH_ELDER코0"
+msgid "High Elder"
+msgstr "고위 원로"
+
+msgctxt "PARAMOUNT_ELDER코0"
+msgid "Paramount Elder"
+msgstr "최고 원로"
+
+msgctxt "SON_OF_HEAVEN코0"
+msgid "Son of Heaven"
+msgstr "천자"
+
+msgctxt "DAUGHTER_OF_HEAVEN코0"
+msgid "Daughter of Heaven"
+msgstr "천자"
+
+msgctxt "MISL코0"
+msgid "Misl"
+msgstr "미슬"
+
+msgctxt "JATHEDAR코0"
+msgid "Jathedar"
+msgstr "자테다르"
+
+msgctxt "MISLDAR코0"
+msgid "Misldar"
+msgstr "미슬다르"
+
+msgctxt "GREAT_MISLDAR코0"
+msgid "Great Misldar"
+msgstr "대 미슬다르"
+
+msgctxt "HERBAD코0"
+msgid "Herbad"
+msgstr "헐바드"
+
+msgctxt "MOBED코0"
+msgid "Mobed"
+msgstr "모베드"
+
+msgctxt "MOBEDYAR코0"
+msgid "Mobedyar"
+msgstr "모베디아"
+
+msgctxt "MOABADAN_MOABAD코0"
+msgid "Moabadan-Moabad"
+msgstr "모아바단-모아바드"
+
+msgctxt "PANDIT코0"
+msgid "Pandit"
+msgstr "팬디트"
+
+msgctxt "PANDITRAO코0"
+msgid "Panditrao"
+msgstr "팬디트라오"
+
+msgctxt "HIGH_GURU코0"
+msgid "High Guru"
+msgstr "고위 구루"
+
+msgctxt "O_KANNUSHI코0"
+msgid "O-Kannushi"
+msgstr "신관"
+
+msgctxt "RABBI코0"
+msgid "Rabbi"
+msgstr "랍비"
+
+msgctxt "GREAT_RABBI코0"
+msgid "Great Rabbi"
+msgstr "대 랍비"
+
+msgctxt "GRAND_RABBI코0"
+msgid "Grand Rabbi"
+msgstr "위대한 랍비"
+
+msgctxt "KOHEN_GADOL코0"
+msgid "Kohen Gadol"
+msgstr "코헨 가돌"
+
+msgctxt "IMAMATE코0"
+msgid "Imamate"
+msgstr "이맘국"
+
+msgctxt "GREAT_IMAMATE코0"
+msgid "Great Imamate"
+msgstr "대 이맘국"
+
+msgctxt "HIGH_IMAMATE코0"
+msgid "High Imamate"
+msgstr "고위 이맘국"
+
+msgctxt "IMAM코0"
+msgid "Imam"
+msgstr "이맘"
+
+msgctxt "GREAT_IMAM코0"
+msgid "Great Imam"
+msgstr "대 이맘"
+
+msgctxt "HIGH_IMAM코0"
+msgid "High Imam"
+msgstr "고위 이맘"
+
+msgctxt "PRIEST코0"
+msgid "Priest"
+msgstr "사제"
+
+msgctxt "PRIESTESS코0"
+msgid "Priestess"
+msgstr "여사제"
+
+msgctxt "HIGH_PRIEST코0"
+msgid "High Priest"
+msgstr "고위 사제"
+
+msgctxt "HIGH_PRIESTESS코0"
+msgid "High Priestess"
+msgstr "고위 여사제"
+
+msgctxt "PRINCEDOM코0"
+msgid "Princedom"
+msgstr "공국"
+
+msgctxt "GRAND_PRINCEDOM코0"
+msgid "Grand Princedom"
+msgstr "대 공국"
+
+msgctxt "GREAT_PRINCEDOM코0"
+msgid "Great Princedom"
+msgstr "최고 공국"
+
+msgctxt "DOGE코0"
+msgid "Doge"
+msgstr "도제"
+
+msgctxt "DOGARESSA코0"
+msgid "Dogaressa"
+msgstr "도가레사"
+
+msgctxt "GREAT_DOGE코0"
+msgid "Great Doge"
+msgstr "대 도제"
+
+msgctxt "GREAT_DOGARESSA코0"
+msgid "Great Dogaressa"
+msgstr "대 도가레사"
+
+msgctxt "GONFALONIERE코0"
+msgid "Gonfaloniere"
+msgstr "곤팔로니에레"
+
+msgctxt "WILLAQ_UMU코0"
+msgid "Willaq Umu"
+msgstr "윌라크 유무"
+
+msgctxt "MICHOQ코0"
+msgid "Michoq"
+msgstr "미초크"
+
+msgctxt "SARPAY코0"
+msgid "Sarpay"
+msgstr "사르페이"
+
+msgctxt "PARAMOUNT_PRIEST코0"
+msgid "Paramount Priest"
+msgstr "최고 사제"
+
+msgctxt "PARAMOUNT_PRIESTESS코0"
+msgid "Paramount Priestess"
+msgstr "최고 여사제"
+
+msgctxt "MONASTIC_ORDER코0"
+msgid "Monastic Order"
+msgstr "수도회"
+
+msgctxt "SOVREIGN_MONASTIC_ORDER코0"
+msgid "Sovereign Monastic Order"
+msgstr "독립 수도회"
+
+msgctxt "SOVREIGN_MONASTIC_CONFEDERATION코0"
+msgid "Sovereign Monastic Confederation"
+msgstr "독립 수도회 연방"
+
+msgctxt "MASTER코0"
+msgid "Master"
+msgstr "기사단장"
+
+msgctxt "MISTRESS코0"
+msgid "Mistress"
+msgstr "기사단장"
+
+msgctxt "GRAND_MASTER코0"
+msgid "Grandmaster"
+msgstr "기사단장"
+
+msgctxt "GRAND_MISTRESS코0"
+msgid "Grandmistress"
+msgstr "기사단장"
+
+msgctxt "SUPREME_GRAND_MASTER코0"
+msgid "Supreme Grandmaster"
+msgstr "최고 기사단장"
+
+msgctxt "SUPREME_GRAND_MISTRESS코0"
+msgid "Supreme Grandmistress"
+msgstr "최고 기사단장"
+
+msgctxt "LANDMEISTER코0"
+msgid "Landmeister"
+msgstr "란트마이스터"
+
+msgctxt "HOCHMEISTER코0"
+msgid "Hochmeister"
+msgstr "호흐마이스터"
+
+msgctxt "SERENE_DOGE코0"
+msgid "Serene Doge"
+msgstr "세레네 도제"
+
+msgctxt "SERENE_DOGARESSA코0"
+msgid "Serene Dogaressa"
+msgstr "세레네 도가레사"
+
+msgctxt "SERENE_REPUBLIC코0"
+msgid "Serene Republic"
+msgstr "세레네 공화국"
+
+msgctxt "GRAND_REPUBLIC코0"
+msgid "Grand Republic"
+msgstr "대 공화국"
+
+msgctxt "GREAT_REPUBLIC코0"
+msgid "Great Republic"
+msgstr "최고 공화국"
+
+msgctxt "CONSUL코0"
+msgid "Consul"
+msgstr "집정관"
+
+msgctxt "CONSULESS코0"
+msgid "Consuless"
+msgstr "집정관"
+
+msgctxt "GRAND_CONSUL코0"
+msgid "Grand Consul"
+msgstr "대 집정관"
+
+msgctxt "GRAND_CONSULESS코0"
+msgid "Grand Consuless"
+msgstr "대 집정관"
+
+msgctxt "GREAT_CONSUL코0"
+msgid "Great Consul"
+msgstr "최고 집정관"
+
+msgctxt "GREAT_CONSULESS코0"
+msgid "Great Consuless"
+msgstr "최고 집정관"
+
+msgctxt "ALTEPETL코0"
+msgid "Altepetl"
+msgstr "알테페틀"
+
+msgctxt "ALTEPETL_FEDERATION코0"
+msgid "Altepetl Federation"
+msgstr "알테페틀 연맹"
+
+msgctxt "CUAUHTLAHTOANI코0"
+msgid "Cuauhtlahtoani"
+msgstr "쿠아우틀라토아니"
+
+msgctxt "CIHUATLAHTOANI코0"
+msgid "Cihuatlahtani"
+msgstr "시와틀라토아니"
+
+msgctxt "TLATOANI코0"
+msgid "Tlatoani"
+msgstr "틀라토아니"
+
+msgctxt "HUEHUETLATOANI코0"
+msgid "Huehuetlatoani"
+msgstr "휴휴틀라토아니"
+
+msgctxt "CAH코0"
+msgid "Cah"
+msgstr "카"
+
+msgctxt "KUCHKABAL코0"
+msgid "Kuchkabal"
+msgstr "쿠카발"
+
+msgctxt "GREAT_LEAGUE코0"
+msgid "Great League"
+msgstr "대 연맹"
+
+msgctxt "NACOM코0"
+msgid "Nacom"
+msgstr "나콤"
+
+msgctxt "HALACH_UINIK코0"
+msgid "Halach Uinik"
+msgstr "알라치 우이닉"
+
+msgctxt "K_UHUL_AJAW코0"
+msgid "K'uhul Ajaw"
+msgstr "큐훌 아자"
+
+msgctxt "KURAKA코0"
+msgid "Kuraka"
+msgstr "쿠라카"
+
+msgctxt "APU코0"
+msgid "Apu"
+msgstr "아푸"
+
+msgctxt "SAPA_INKA코0"
+msgid "Sapa Inka"
+msgstr "사파 잉카"
+
+msgctxt "ARCHDUCHY코0"
+msgid "Archduchy"
+msgstr "대공국"
+
+msgctxt "ARCHDUKE코0"
+msgid "Archduke"
+msgstr "대공"
+
+msgctxt "ARCHDUCHESS코0"
+msgid "Archduchess"
+msgstr "대공비"
+
+msgctxt "ARCHKING코0"
+msgid "Arch-King"
+msgstr "대왕"
+
+msgctxt "VIZIER코0"
+msgid "Vizier"
+msgstr "비지어"
+
+msgctxt "GRANDVIZIER코0"
+msgid "Grand Vizier"
+msgstr "대 비지어"
+
+msgctxt "GRANDVIZIER_fem코0"
+msgid "Grand Vizier"
+msgstr "대 비지어"
+
+msgctxt "PAPACY코0"
+msgid "Papacy"
+msgstr "교황령"
+
+msgctxt "POPE코0"
+msgid "Pope"
+msgstr "교황"
+
+msgctxt "POPETTE코0"
+msgid "Popette"
+msgstr "교황"
+
+msgctxt "GRAND_PENSIONARY코0"
+msgid "Grand Pensionary"
+msgstr "수석 행정관"
+
+msgctxt "STADTHOLDER코0"
+msgid "Stadtholder"
+msgstr "총독"
+
+msgctxt "STADTHOLDERESS코0"
+msgid "Stadtholderess"
+msgstr "총독"
+
+msgctxt "GREAT_STADTHOLDER코0"
+msgid "Great Stadtholder"
+msgstr "대 총독"
+
+msgctxt "GREAT_STADTHOLDERESS코0"
+msgid "Great Stadtholderess"
+msgstr "대 총독"
+
+msgctxt "COLONIAL_PROVINCE코0"
+msgid "Colonial Province"
+msgstr "식민 지방"
+
+msgctxt "COLONY코0"
+msgid "Colony"
+msgstr "식민지"
+
+msgctxt "DOMINION코0"
+msgid "Dominion"
+msgstr "자치령"
+
+msgctxt "LIEUTENANT_GOVERNOR코0"
+msgid "Lieutenant-Governor"
+msgstr "부총독"
+
+msgctxt "LIEUTENANT_GOVERNESS코0"
+msgid "Lieutenant-Governess"
+msgstr "부총독"
+
+msgctxt "GOVERNOR코0"
+msgid "Governor"
+msgstr "총독"
+
+msgctxt "GOVERNESS코0"
+msgid "Governess"
+msgstr "총독"
+
+msgctxt "GOVERNOR_GENERAL코0"
+msgid "Governor-General"
+msgstr "식민지총독"
+
+msgctxt "GOVERNESS_GENERAL코0"
+msgid "Governess-General"
+msgstr "식민지총독"
+
+msgctxt "CAPTAINCY코0"
+msgid "Captaincy"
+msgstr "제독령"
+
+msgctxt "VICEROYALTY코0"
+msgid "Viceroyalty"
+msgstr "총독령"
+
+msgctxt "CAPTAIN_GENERAL코0"
+msgid "Captain-General"
+msgstr "도독령"
+
+msgctxt "VICEROY코0"
+msgid "Viceroy"
+msgstr "총독"
+
+msgctxt "VICEREINE코0"
+msgid "Vicereine"
+msgstr "총독"
+
+msgctxt "NAWABATE코0"
+msgid "Nawabate"
+msgstr "나와브국"
+
+msgctxt "NIZAMATE코0"
+msgid "Nizamate"
+msgstr "니잠국"
+
+msgctxt "NAWAB코0"
+msgid "Nawab"
+msgstr "나와브"
+
+msgctxt "NAWAB_BEGUM코0"
+msgid "Nawab Begum"
+msgstr "나와브 베굼"
+
+msgctxt "NIZAM코0"
+msgid "Nizam"
+msgstr "니잠"
+
+msgctxt "NIZAM_BEGUM코0"
+msgid "Nizam Begum"
+msgstr "니잠 베굼"
+
+msgctxt "SULTANA_BEGUM코0"
+msgid "Sultana Begum"
+msgstr "술타나 베굼"
+
+msgctxt "PADISHAH_BEGUM코0"
+msgid "Padishah Begum"
+msgstr "파디샤 베굼"
+
+msgctxt "SULTAN_CONSORT코0"
+msgid "Sultan-Consort"
+msgstr "술탄-배우자"
+
+msgctxt "PADISHAH_CONSORT코0"
+msgid "Padishah-Consort"
+msgstr "파디샤-배우자"
+
+msgctxt "MIRZA코0"
+msgid "Mirza"
+msgstr "미르자"
+
+msgctxt "NIZAMZADA코0"
+msgid "Nizamzada"
+msgstr "니잠자다"
+
+msgctxt "NAWABZADA코0"
+msgid "Nawabzada"
+msgstr "나와브자다"
+
+msgctxt "SHAHDOKHT코0"
+msgid "Shahdokht"
+msgstr "샤도흐트"
+
+msgctxt "CHANCELOR코0"
+msgid "Chancellor"
+msgstr "수상"
+
+msgctxt "SPEAKER코0"
+msgid "Speaker"
+msgstr "의장"
+
+msgctxt "PRESIDENT코0"
+msgid "President"
+msgstr "대통령"
+
+msgctxt "BURGMEISTER코0"
+msgid "Bürgermeister"
+msgstr "시장"
+
+msgctxt "SYNDIC코0"
+msgid "Syndic"
+msgstr "평의원"
+
+msgctxt "GRAND_SYNDIC코0"
+msgid "Grand Syndic"
+msgstr "대 평의원"
+
+msgctxt "LORD코0"
+msgid "Lord"
+msgstr "영주"
+
+msgctxt "LADY코0"
+msgid "Lady"
+msgstr "귀부인"
+
+msgctxt "PRINCE코0"
+msgid "Prince"
+msgstr "공작"
+
+msgctxt "CONSORT코0"
+msgid "Consort"
+msgstr "배우자"
+
+msgctxt "PRINCESS코0"
+msgid "Princess"
+msgstr "여공"
+
+msgctxt "GREAT_PRINCE코0"
+msgid "Great Prince"
+msgstr "대공"
+
+msgctxt "GREAT_PRINCESS코0"
+msgid "Great Princess"
+msgstr "여대공"
+
+msgctxt "GRAND_PRINCE코0"
+msgid "Grand Prince"
+msgstr "대공"
+
+msgctxt "GRAND_PRINCESS코0"
+msgid "Grand Princess"
+msgstr "여대공"
+
+msgctxt "GREAT_PRINCIPALITY코0"
+msgid "Great Principality"
+msgstr "대공국"
+
+msgctxt "COUNCILOR코0"
+msgid "Councilor"
+msgstr "의원"
+
+msgctxt "GRAND_COUNCILOR코0"
+msgid "Grand Councilor"
+msgstr "대의원"
+
+msgctxt "HIGH_COUNCILOR코0"
+msgid "High Councilor"
+msgstr "최고의원"
+
+msgctxt "MARCH코0"
+msgid "March"
+msgstr "변경국"
+
+msgctxt "MARGRAVE코0"
+msgid "Margrave"
+msgstr "후작"
+
+msgctxt "MARGRAVINE코0"
+msgid "Margravine"
+msgstr "여후작"
+
+msgctxt "MARGRAVE_CONSORT코0"
+msgid "Margrave-Consort"
+msgstr "후작-배우자"
+
+msgctxt "VICEROY_CONSORT코0"
+msgid "Viceroy-Consort"
+msgstr "총독-배우자"
+
+msgctxt "ARCHDUKE_CONSORT코0"
+msgid "Archduke-Consort"
+msgstr "대공-배우자"
+
+msgctxt "GRAND_DUKE_CONSORT코0"
+msgid "Grand Duke-Consort"
+msgstr "대공-배우자"
+
+msgctxt "KING_CONSORT코0"
+msgid "King-Consort"
+msgstr "왕-배우자"
+
+msgctxt "EMPEROR_CONSORT코0"
+msgid "Emperor-Consort"
+msgstr "황제-배우자"
+
+msgctxt "RECTOR코0"
+msgid "Rector"
+msgstr "원수"
+
+msgctxt "RECTORA코0"
+msgid "Rectora"
+msgstr "원수"
+
+msgctxt "GRAND_RECTOR코0"
+msgid "Grand Rector"
+msgstr "대원수"
+
+msgctxt "GRAND_RECTORA코0"
+msgid "Grand Rectora"
+msgstr "대원수"
+
+msgctxt "GREAT_RECTOR코0"
+msgid "Great Rector"
+msgstr "최고 원수"
+
+msgctxt "GREAT_RECTORA코0"
+msgid "Great Rectora"
+msgstr "최고 원수"
+
+msgctxt "KEFALIJA코0"
+msgid "Kefalija"
+msgstr "케팔리자"
+
+msgctxt "DUZHD코0"
+msgid "Duzhd"
+msgstr "도제"
+
+msgctxt "PRINC코0"
+msgid "Princ"
+msgstr "공작"
+
+msgctxt "PRINCEZA코0"
+msgid "Princeza"
+msgstr "여공"
+
+msgctxt "VOJVODA코0"
+msgid "Vojvoda"
+msgstr "보이보드"
+
+msgctxt "VOJVODKINJA코0"
+msgid "Vojvodkinja"
+msgstr "보이보드킨야"
+
+msgctxt "KRALJ코0"
+msgid "Kralj"
+msgstr "크랄"
+
+msgctxt "KRALJICA코0"
+msgid "Kraljica"
+msgstr "크랄리차"
+
+msgctxt "CAR코0"
+msgid "Car"
+msgstr "차르"
+
+msgctxt "CARICA코0"
+msgid "Carica"
+msgstr "차리차"
+
+msgctxt "SHOGUNATE코0"
+msgid "Shogunate"
+msgstr "막부"
+
+msgctxt "SHOGUN코0"
+msgid "Shogun"
+msgstr "쇼군"
+
+msgctxt "SHOGUNESS코0"
+msgid "Shoguness"
+msgstr "쇼군"
+
+msgctxt "DOMAIN코0"
+msgid "Domain"
+msgstr "영지"
+
+msgctxt "GRAND_DOMAIN코0"
+msgid "Grand Domain"
+msgstr "대 영지"
+
+msgctxt "GREAT_DOMAIN코0"
+msgid "Great Domain"
+msgstr "최고 영지"
+
+msgctxt "DAIMYO코0"
+msgid "Daimyo"
+msgstr "다이묘"
+
+msgctxt "GRAND_DAIMYO코0"
+msgid "Grand Daimyo"
+msgstr "대 다이묘"
+
+msgctxt "GREAT_DAIMYO코0"
+msgid "Great Daimyo"
+msgstr "최고 다이묘"
+
+msgctxt "INDEP_DAIMYO코0"
+msgid "Independent Daimyo"
+msgstr "독립 다이묘"
+
+msgctxt "GRAND_INDEP_DAIMYO코0"
+msgid "Grand Daimyo"
+msgstr "대 다이묘"
+
+msgctxt "GREAT_INDEP_DAIMYO코0"
+msgid "Great Daimyo"
+msgstr "최고 다이묘"
+
+msgctxt "NAYAK코0"
+msgid "Nayak"
+msgstr "나약"
+
+msgctxt "NAYAKA코0"
+msgid "Nayaka"
+msgstr "나야카"
+
+msgctxt "BEILE코0"
+msgid "Beile"
+msgstr "버일러"
+
+msgctxt "GEGE코0"
+msgid "Gege"
+msgstr "거거"
+
+msgctxt "JUNWANG코0"
+msgid "Junwang"
+msgstr "준왕"
+
+msgctxt "HETMANATE코0"
+msgid "Hetmanate"
+msgstr "헤트만국"
+
+msgctxt "GRAND_HETMANATE코0"
+msgid "Grand Hetmanate"
+msgstr "대 헤트만국"
+
+msgctxt "GREAT_HETMANATE코0"
+msgid "Great Hetmanate"
+msgstr "최고 헤트만국"
+
+msgctxt "ATAMAN코0"
+msgid "Ataman"
+msgstr "아타만"
+
+msgctxt "HETMAN코0"
+msgid "Hetman"
+msgstr "헤트만"
+
+msgctxt "GREAT_HETMAN코0"
+msgid "Great Hetman"
+msgstr "최고 헤트만"
+
+msgctxt "GROSSMEISTER코0"
+msgid "Großmeister"
+msgstr "그로스마이스터"
+
+msgctxt "VOIVODE코0"
+msgid "Voivode"
+msgstr "보이보드"
+
+msgctxt "DESPOT코0"
+msgid "Despot"
+msgstr "데스포트"
+
+msgctxt "BAN_TITLE코0"
+msgid "Ban"
+msgstr "반"
+
+msgctxt "AUTOKRATOR코0"
+msgid "Autokrator"
+msgstr "아우토크라토르"
+
+msgctxt "AUTOKRATEIRA코0"
+msgid "Autokrateira"
+msgstr "아우토크라티아라"
+
+msgctxt "DESPOTATE코0"
+msgid "Despotate"
+msgstr "전제공국"
+
+msgctxt "DESPOTISSA코0"
+msgid "Despotissa"
+msgstr "데스포티사"
+
+msgctxt "BASILEUS코0"
+msgid "Basileus"
+msgstr "바실레우스"
+
+msgctxt "BASILISSA코0"
+msgid "Basilissa"
+msgstr "바실리사"
+
+msgctxt "MBRET코0"
+msgid "Mbret"
+msgstr "음브렛"
+
+msgctxt "GRAND_DUKE코0"
+msgid "Grand Duke"
+msgstr "대공"
+
+msgctxt "GRAND_DUCHESS코0"
+msgid "Grand Duchess"
+msgstr "여대공"
+
+msgctxt "GRAND_DUCHY코0"
+msgid "Grand Duchy"
+msgstr "대공국"
+
+msgctxt "JAM코0"
+msgid "Jam"
+msgstr "잼"
+
+msgctxt "GRAND_JAM코0"
+msgid "Grand Jam"
+msgstr "대 잼"
+
+msgctxt "GREAT_JAM코0"
+msgid "Great Jam"
+msgstr "최고 잼"
+
+msgctxt "GERAD코0"
+msgid "Gerad"
+msgstr "제라드"
+
+msgctxt "DAI_male코0"
+msgid "Dai"
+msgstr "다이"
+
+msgctxt "DAI_female코0"
+msgid "Dai"
+msgstr "다이"
+
+msgctxt "RAS_title코0"
+msgid "Ras"
+msgstr "라스"
+
+msgctxt "LE_ELT코0"
+msgid "Le'elt"
+msgstr "러얼트"
+
+msgctxt "ABETO코0"
+msgid "Abeto"
+msgstr "아베토"
+
+msgctxt "JANHOY코0"
+msgid "Janhoy"
+msgstr "잰호이"
+
+msgctxt "NEGUS코0"
+msgid "Negus"
+msgstr "네구스"
+
+msgctxt "NIGIST코0"
+msgid "Nigist"
+msgstr "나이지스트"
+
+msgctxt "NEGUSA_NEGAST코0"
+msgid "Negusa Nagast"
+msgstr "네구사 네게스트"
+
+msgctxt "NIGISTE_NIGIST코0"
+msgid "Nigiste Nigist"
+msgstr "나이즈스트 나이즈스트"
+
+msgctxt "ITEGE코0"
+msgid "Itege"
+msgstr "이테지"
+
+msgctxt "NOMARCH코0"
+msgid "Nomarch"
+msgstr "태수"
+
+msgctxt "PHARAOH코0"
+msgid "Pharaoh"
+msgstr "파라오"
+
+msgctxt "GREAT_PHARAOH코0"
+msgid "Great Pharaoh"
+msgstr "대 파라오"
+
+msgctxt "HEGEMON코0"
+msgid "Hegemon"
+msgstr "헤게몬"
+
+msgctxt "TYRANT코0"
+msgid "Tyrant"
+msgstr "참주"
+
+msgctxt "REX코0"
+msgid "Rex"
+msgstr "렉스"
+
+msgctxt "REGINA코0"
+msgid "Regina"
+msgstr "레지나"
+
+msgctxt "IMPERATOR코0"
+msgid "Imperator"
+msgstr "임페라토르"
+
+msgctxt "IMPERATRIX코0"
+msgid "Imperatrix"
+msgstr "임페라트릭스"
+
+msgctxt "FAAMA코0"
+msgid "Faama"
+msgstr "파마"
+
+msgctxt "GRAND_FAAMA코0"
+msgid "Grand Faama"
+msgstr "대 파마"
+
+msgctxt "MANSA코0"
+msgid "Mansa"
+msgstr "만사"
+
+msgctxt "GREAT_MANSA코0"
+msgid "Great Mansa"
+msgstr "위대한 만사"
+
+msgctxt "KHEDIVE코0"
+msgid "Khedive"
+msgstr "케디브"
+
+msgctxt "SHARIFATE코0"
+msgid "Sharifate"
+msgstr "샤리프국"
+
+msgctxt "GRAND_SHARIFATE코0"
+msgid "Sharifate"
+msgstr "샤리프국"
+
+msgctxt "GREAT_SHARIFATE코0"
+msgid "Sharifate"
+msgstr "샤리프국"
+
+msgctxt "SHARIF코0"
+msgid "Sharif"
+msgstr "샤리프"
+
+msgctxt "GRAND_SHARIF코0"
+msgid "Grand Sharif"
+msgstr "대 샤리프"
+
+msgctxt "GREAT_SHARIF코0"
+msgid "Great Sharif"
+msgstr "최고 샤리프"
+
+msgctxt "MAYOR코0"
+msgid "Mayor"
+msgstr "시장"
+
+msgctxt "MAYORESS코0"
+msgid "Mayoress"
+msgstr "시장"
+
+msgctxt "BISHOP_ELECTOR코0"
+msgid "Bishop-Elector"
+msgstr "주교-선제후"
+
+msgctxt "ARCHBISHOP_ELECTOR코0"
+msgid "Archbishop-Elector"
+msgstr "대주교-선제후"
+
+msgctxt "PATRIARCH_ELECTOR코0"
+msgid "Patriarch-Elector"
+msgstr "총대주교-선제후"
+
+msgctxt "MATRIARCH_ELECTOR코0"
+msgid "Matriarch-Elector"
+msgstr "총대주교-선제후"
+
+msgctxt "PRINCE_ELECTOR코0"
+msgid "Prince-Elector"
+msgstr "공작-선제후"
+
+msgctxt "PRINCESS_ELECTOR코0"
+msgid "Princess-Elector"
+msgstr "여공-선제후"
+
+msgctxt "KING_ELECTOR코0"
+msgid "King-Elector"
+msgstr "왕-선제후"
+
+msgctxt "QUEEN_ELECTOR코0"
+msgid "Queen-Elector"
+msgstr "여왕-선제후"
+
+msgctxt "ARCHBISHOP_ELECTOR_fem코0"
+msgid "Archbishop-Elector"
+msgstr "대주교-선제후"
+
+msgctxt "BISHOP_fem코0"
+msgid "Bishop"
+msgstr "주교"
+
+msgctxt "ARCHBISHOP_fem코0"
+msgid "Archbishop"
+msgstr "대주교"
+
+msgctxt "ATAMAN_fem코0"
+msgid "Ataman"
+msgstr "아타만"
+
+msgctxt "ELDER_fem코0"
+msgid "Elder"
+msgstr "장로"
+
+msgctxt "HIGH_ELDER_fem코0"
+msgid "High Elder"
+msgstr "고위 장로"
+
+msgctxt "PARAMOUNT_ELDER_fem코0"
+msgid "Paramount Elder"
+msgstr "최고 장로"
+
+msgctxt "BISHOP_ELECTOR_fem코0"
+msgid "Bishop-Elector"
+msgstr "주교-선제후"
+
+msgctxt "CHANCELOR_fem코0"
+msgid "Chancellor"
+msgstr "수상"
+
+msgctxt "COUNCILOR_fem코0"
+msgid "Councilor"
+msgstr "의원"
+
+msgctxt "GRAND_COUNCILOR_fem코0"
+msgid "Grand Councilor"
+msgstr "대의원"
+
+msgctxt "HIGH_COUNCILOR_fem코0"
+msgid "High Councilor"
+msgstr "고위 의원"
+
+msgctxt "GONFALONIERE_fem코0"
+msgid "Gonfaloniere"
+msgstr "곤팔로니에레"
+
+msgctxt "HEGEMON_fem코0"
+msgid "Hegemon"
+msgstr "헤게몬"
+
+msgctxt "HETMAN_fem코0"
+msgid "Hetman"
+msgstr "헤트만"
+
+msgctxt "GREAT_HETMAN_fem코0"
+msgid "Great Hetmanate"
+msgstr "위대한 헤트만"
+
+msgctxt "JAM_fem코0"
+msgid "Jam"
+msgstr "잼"
+
+msgctxt "GRAND_JAM_fem코0"
+msgid "Grand Jam"
+msgstr "대 잼"
+
+msgctxt "GREAT_JAM_fem코0"
+msgid "Great Jam"
+msgstr "최고 잼"
+
+msgctxt "SHARIFA코0"
+msgid "Sharifa"
+msgstr "샤리파"
+
+msgctxt "GRAND_SHARIFA코0"
+msgid "Grand Sharifa"
+msgstr "대 샤리파"
+
+msgctxt "GREAT_SHARIFA코0"
+msgid "Great Sharifa"
+msgstr "최고 샤리파"
+
+msgctxt "GREAT_MANSA_fem코0"
+msgid "Great Mansa"
+msgstr "최고 만사"
+
+msgctxt "GRAND_PENSIONARY_fem코0"
+msgid "Grand Pensionary"
+msgstr "수석 행정관"
+
+msgctxt "PHARAOH_fem코0"
+msgid "Pharaoh"
+msgstr "파라오"
+
+msgctxt "GREAT_PHARAOH_fem코0"
+msgid "Great Pharaoh"
+msgstr "대 파라오"
+
+msgctxt "PRESIDENT_fem코0"
+msgid "President"
+msgstr "대통령"
+
+msgctxt "PROTECTOR_fem코0"
+msgid "Protector"
+msgstr "호민관"
+
+msgctxt "SYNDIC_fem코0"
+msgid "Syndic"
+msgstr "평의원"
+
+msgctxt "GRAND_SYNDIC_fem코0"
+msgid "Grand Syndic"
+msgstr "대 평의원"
+
+msgctxt "TYRANT_fem코0"
+msgid "Tyrant"
+msgstr "참주"
+
+msgctxt "CAPTAIN_DEFENDER코0"
+msgid "Captain & Defender"
+msgstr "지도자 & 수호자"
+
+msgctxt "CAPTAIN_DEFENDER_fem코0"
+msgid "Captain & Defender"
+msgstr "지도자 & 수호자"
+
+msgctxt "MUGO코0"
+msgid "Mugo"
+msgstr "무고"
+
+msgctxt "GREAT_MUGO코0"
+msgid "Great Mugo"
+msgstr "대 무고"
+
+msgctxt "MUGABE코0"
+msgid "Mugabe"
+msgstr "무가베"
+
+msgctxt "GREAT_MUGABE코0"
+msgid "Great Mugabe"
+msgstr "대 무가베"
+
+msgctxt "MWAMI코0"
+msgid "Mwami"
+msgstr "므와미"
+
+msgctxt "UMUGABEKAZI코0"
+msgid "Umugabekazi"
+msgstr "우무가베카지"
+
+msgctxt "OMUKAMA코0"
+msgid "Omukama"
+msgstr "오무카마"
+
+msgctxt "GREAT_OMUKAMA코0"
+msgid "Great Omukama"
+msgstr "대 오무카마"
+
+msgctxt "MULOPWE코0"
+msgid "Mulopwe"
+msgstr "물로프웨"
+
+msgctxt "MULOPWE_fem코0"
+msgid "Mulopwe"
+msgstr "물로프웨"
+
+msgctxt "GREAT_MULOPWE코0"
+msgid "Great Mulopwe"
+msgstr "대 물로프웨"
+
+msgctxt "GREAT_MULOPWE_fem코0"
+msgid "Great Mulopwe"
+msgstr "대 물로프웨"
+
+msgctxt "MWENEMUTAPA코0"
+msgid "Mwenemutapa"
+msgstr "므웬무타파"
+
+msgctxt "MWENEMUTAPA_fem코0"
+msgid "Mwenemutapa"
+msgstr "므웬무타파"
+
+msgctxt "GREAT_MWENEMUTAPA코0"
+msgid "Great Mwenemutapa"
+msgstr "대 므웬무타파"
+
+msgctxt "GREAT_MWENEMUTAPA_fem코0"
+msgid "Great Mwenemutapa"
+msgstr "대 므웬무타파"
+
+msgctxt "MAMBO코0"
+msgid "Mambo"
+msgstr "주술사"
+
+msgctxt "GRAND_MAMBO코0"
+msgid "Grand Mambo"
+msgstr "대 주술사"
+
+msgctxt "GREAT_MAMBO코0"
+msgid "Great Mambo"
+msgstr "최고 주술사"
+
+msgctxt "KABAKA코0"
+msgid "Kabaka"
+msgstr "카바카"
+
+msgctxt "GREAT_KABAKA코0"
+msgid "Great Kabaka"
+msgstr "대 카바카"
+
+msgctxt "NNABAGEREKA코0"
+msgid "Nnabagereka"
+msgstr "나바제레카"
+
+msgctxt "GREAT_NNABAGEREKA코0"
+msgid "Great Nnabagereka"
+msgstr "대 나바제레카"
+
+msgctxt "BALOPWE코0"
+msgid "Balopwe"
+msgstr "발로프웨"
+
+msgctxt "BALOPWE_fem코0"
+msgid "Balopwe"
+msgstr "발로프웨"
+
+msgctxt "BAKUNGU코0"
+msgid "Bakungu"
+msgstr "바쿵구"
+
+msgctxt "ANDRIANONI코0"
+msgid "Andrianoni"
+msgstr "안드리아노니"
+
+msgctxt "GRAND_ANDRIANONI코0"
+msgid "Grand Andrianoni"
+msgstr "대 안드리아노니"
+
+msgctxt "GREAT_ANDRIANONI코0"
+msgid "Great Andrianoni"
+msgstr "최고 안드리아노니"
+
+msgctxt "FILOHANY코0"
+msgid "Filohany"
+msgstr "파일로하니"
+
+msgctxt "MPANJAKE_BE코0"
+msgid "Mpanjake-be"
+msgstr "음펜제이크-베"
+
+msgctxt "ATIO코0"
+msgid "Atio"
+msgstr "아티오"
+
+msgctxt "ATIO_FEM코0"
+msgid "Atio"
+msgstr "아티오"
+
+msgctxt "TATKISHO코0"
+msgid "Tatkisho"
+msgstr "탓키쇼"
+
+msgctxt "TATKISHO_FEM코0"
+msgid "Tatkisho"
+msgstr "탓키쇼"
+
+msgctxt "TATO코0"
+msgid "Tato"
+msgstr "타토"
+
+msgctxt "TATO_FEM코0"
+msgid "Tato"
+msgstr "타토"
+
+msgctxt "PRINCE_CONSORT코0"
+msgid "Prince-Consort"
+msgstr "공작-배우자"
+
+msgctxt "QUEEN_CONSORT코0"
+msgid "Queen-Consort"
+msgstr "여왕-배우자"
+
+msgctxt "EMPRESS_CONSORT코0"
+msgid "Empress-Consort"
+msgstr "여제-배우자"
+
+msgctxt "ELECTRESS코0"
+msgid "Electress"
+msgstr "여선제후"
+
+msgctxt "ELECTOR코0"
+msgid "Elector"
+msgstr "선제후"
+
+msgctxt "NUTSAL코0"
+msgid "Nutsal"
+msgstr "누트살"
+
+msgctxt "NUTSAL_fem코0"
+msgid "Nutsal"
+msgstr "누트살"
+
+msgctxt "ATABEG코0"
+msgid "Atabeg"
+msgstr "아타베그"
+
+msgctxt "ATABEG_fem코0"
+msgid "Atabeg"
+msgstr "아타베그"
+
+msgctxt "DAUPHIN코0"
+msgid "Dauphin"
+msgstr "도핀"
+
+msgctxt "DAUPHINE코0"
+msgid "Dauphine"
+msgstr "도피네"
+
+msgctxt "BARANGAY코0"
+msgid "Barangay"
+msgstr "바랑가이"
+
+msgctxt "GRAND_BARANGAY코0"
+msgid "Grand Barangay"
+msgstr "대 바랑가이"
+
+msgctxt "GREAT_BARANGAY코0"
+msgid "Great Barangay"
+msgstr "최고 바랑가이"
+
+msgctxt "DATU코0"
+msgid "Datu"
+msgstr "다투"
+
+msgctxt "GREAT_LAKAN코0"
+msgid "Great Lakan"
+msgstr "대 라칸"
+
+msgctxt "LAKAN코0"
+msgid "Lakan"
+msgstr "라칸"
+
+msgctxt "WANG코0"
+msgid "Wang"
+msgstr "왕"
+
