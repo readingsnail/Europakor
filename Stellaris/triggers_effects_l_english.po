@@ -329,7 +329,7 @@ msgstr "아무 전쟁 공격자"
 
 msgctxt "ANY_WAR코0"
 msgid "Any War"
-msgstr "아무  전쟁"
+msgstr "아무 전쟁"
 
 msgctxt "ANY_DEFENDER코0"
 msgid "Any Defender"
@@ -2852,10 +2852,6 @@ msgctxt "REMOVE_ARMIES_EFFECT코0"
 msgid "Remove All Armies"
 msgstr "모든 육군들 제거"
 
-msgctxt "DEFAULT_SENDEVENT_EVENTOPTION_TOOLTIP코0"
-msgid ""
-msgstr "\"\""
-
 msgctxt "ALL_PLANETS코0"
 msgid "All System Planets"
 msgstr "\"행성계 내의 모든 행성\""
@@ -3711,10 +3707,6 @@ msgstr "보다 적은"
 msgctxt "VALUE_GREATER_THAN코0"
 msgid "more than "
 msgstr "보다 많은"
-
-msgctxt "VALUE_EQUAL_TO코0"
-msgid ""
-msgstr ""
 
 msgctxt "CREATE_SECTOR_EFFECT_DESC코0"
 msgid "$SYSTEM|Y$ will become a new Sector"

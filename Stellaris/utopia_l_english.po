@@ -1148,10 +1148,6 @@ msgstr ""
 "망가진 다이슨 스피어입니다. 시간이 오래 흘렀음에도, 이 구조물의 기초 프레임은 대부분 온전합니다. 적당한 기술과 자원만 있으면 다이슨 "
 "스피어를 고칠수 있을 것입니다."
 
-msgctxt "dyson_sphere_ruined_MEGASTRUCTURE_DETAILS코0"
-msgid ""
-msgstr ""
-
 msgctxt "dyson_sphere_restored코0"
 msgid "$dyson_sphere_5$"
 msgstr "$dyson_sphere_5$"
@@ -1173,10 +1169,6 @@ msgid ""
 msgstr ""
 "망가진 과학 연결체 입니다. 시간이 오래 흘렀음에도, 이 구조물의 기초 프레임은 대부분 온전합니다. 적당한 기술과 자원만 있으면 이를 "
 "고칠 수 있을 것입니다."
-
-msgctxt "think_tank_ruined_MEGASTRUCTURE_DETAILS코0"
-msgid ""
-msgstr ""
 
 msgctxt "think_tank_restored코0"
 msgid "$think_tank_3$"
@@ -1200,10 +1192,6 @@ msgstr ""
 "한때 대단히 강력했던 우주 감시망이었던 부서진 잔해물들의 그 무엇. 그 세월에도 불구하고, 거대 구조물의 안테나들은 거의 대부분 손상되지 "
 "않았습니다. 적절한 기술과 많은 양의 자원들로 작동할 가능성이 있게 배열을 재배치 했습니다."
 
-msgctxt "spy_orb_ruined_MEGASTRUCTURE_DETAILS코0"
-msgid ""
-msgstr ""
-
 msgctxt "spy_orb_restored코0"
 msgid "$spy_orb_4$"
 msgstr "$spy_orb_4$"
@@ -1224,10 +1212,6 @@ msgid ""
 msgstr ""
 "지금은 아닙니다만, 한때 링 월드 안에 있는 이 구역의 생태계가 유지되었습니다. 이론적으로는 복구가 가능하지만, 더 진보된 기술과 더 "
 "많은 양의 자원을 필요로 합니다."
-
-msgctxt "ring_world_ruined_MEGASTRUCTURE_DETAILS코0"
-msgid ""
-msgstr ""
 
 msgctxt "ring_world_restored코0"
 msgid "$ring_world_3_intermediate$"

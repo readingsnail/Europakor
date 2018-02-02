@@ -1644,10 +1644,6 @@ msgctxt "FACTION_ACTION_SUPPRESS_FOLLOWERS_DESC코0"
 msgid "Making life difficult for sympathizers can be an effective deterrent."
 msgstr "동조자들의 삶을 어렵게 하는것은 효과적인 억제력을 가집니다."
 
-msgctxt "FACTION_ACTION_SUPPRESS_FOLLOWERS_VALID코0"
-msgid ""
-msgstr ""
-
 msgctxt "FACTION_ACTION_ASSASSINATE_LEADER코0"
 msgid "Assassinate Leader"
 msgstr "지도자 암살"

@@ -222,41 +222,21 @@ msgctxt "civic_awakened_machine코0"
 msgid "Reactivated Custodian Matrix"
 msgstr "재작동된 관리자 매트릭스"
 
-msgctxt "civic_awakened_machine_desc코0"
-msgid ""
-msgstr " "
-
 msgctxt "civic_malfunctioning_custodian코0"
 msgid "Corrupted Defense Directives"
 msgstr "망가진 방어 지침"
-
-msgctxt "civic_malfunctioning_custodian_desc코0"
-msgid ""
-msgstr " "
 
 msgctxt "civic_final_defense_protocols코0"
 msgid "Final Defense Directives"
 msgstr "최종 방어 지침"
 
-msgctxt "civic_final_defense_protocols_desc코0"
-msgid ""
-msgstr " "
-
 msgctxt "civic_machine_remnants코0"
 msgid "Fallen Machine Intelligence"
 msgstr "몰락 기계 지능"
 
-msgctxt "civic_machine_remnants_desc코0"
-msgid ""
-msgstr " "
-
 msgctxt "civic_custodian_directives코0"
 msgid "Custodian Matrix"
 msgstr "관리자 매트릭스"
-
-msgctxt "civic_custodian_directives_desc코0"
-msgid ""
-msgstr " "
 
 msgctxt "FALLEN_EMPIRE_LETHARGY_1코0"
 msgid "§EUnable to construct new ships.§!"
@@ -29015,10 +28995,6 @@ msgctxt "auth_ancient_machine_intelligence코0"
 msgid "Ancient Machine Intelligence"
 msgstr "고대의 기계 지능"
 
-msgctxt "auth_ancient_machine_intelligence_desc코0"
-msgid ""
-msgstr ""
-
 msgctxt "military_dictatorship코0"
 msgid "Military Dictatorship"
 msgstr "군사 독재정"
@@ -31010,129 +30986,65 @@ msgctxt "civic_lethargic_leadership코0"
 msgid "Lethargic Leadership"
 msgstr "무기력한 지도력"
 
-msgctxt "civic_lethargic_leadership_desc코0"
-msgid ""
-msgstr ""
-
 msgctxt "civic_empire_in_decline코0"
 msgid "Empire In Decline"
 msgstr "쇠퇴하는 제국"
-
-msgctxt "civic_empire_in_decline_desc코0"
-msgid ""
-msgstr ""
 
 msgctxt "civic_revanchist_fervor코0"
 msgid "Revanchist Fervor"
 msgstr "보복 열정"
 
-msgctxt "civic_revanchist_fervor_desc코0"
-msgid ""
-msgstr ""
-
 msgctxt "civic_ancient_caches_of_technology코0"
 msgid "Ancient Caches of Technology"
 msgstr "고대 기술 저장고"
-
-msgctxt "civic_ancient_caches_of_technology_desc코0"
-msgid ""
-msgstr ""
 
 msgctxt "civic_secret_of_fire코0"
 msgid "Secret of Fire"
 msgstr "불의 비밀"
 
-msgctxt "civic_secret_of_fire_desc코0"
-msgid ""
-msgstr ""
-
 msgctxt "civic_the_wheel코0"
 msgid "The Wheel"
 msgstr "수레바퀴"
-
-msgctxt "civic_the_wheel_desc코0"
-msgid ""
-msgstr ""
 
 msgctxt "civic_landed_nobility코0"
 msgid "Landed Nobility"
 msgstr "영주들"
 
-msgctxt "civic_landed_nobility_desc코0"
-msgid ""
-msgstr ""
-
 msgctxt "civic_flat_world_theory코0"
 msgid "Flat World Theory"
 msgstr "평면 세계 이론"
-
-msgctxt "civic_flat_world_theory_desc코0"
-msgid ""
-msgstr ""
 
 msgctxt "civic_increasing_urbanization코0"
 msgid "Increasing Urbanization"
 msgstr "도시화 증가"
 
-msgctxt "civic_increasing_urbanization_desc코0"
-msgid ""
-msgstr ""
-
 msgctxt "civic_atmospheric_pollution코0"
 msgid "Atmospheric Pollution"
 msgstr "대기 오염"
-
-msgctxt "civic_atmospheric_pollution_desc코0"
-msgid ""
-msgstr ""
 
 msgctxt "civic_ancient_preservers코0"
 msgid "Ancient Preservers"
 msgstr "고대의 수호자들"
 
-msgctxt "civic_ancient_preservers_desc코0"
-msgid ""
-msgstr ""
-
 msgctxt "civic_trading_conglomerate코0"
 msgid "Trading Conglomerate"
 msgstr "무역 복합기업"
-
-msgctxt "civic_trading_conglomerate_desc코0"
-msgid ""
-msgstr ""
 
 msgctxt "civic_artist_collective코0"
 msgid "Artist Collective"
 msgstr "예술가 집단"
 
-msgctxt "civic_artist_collective_desc코0"
-msgid ""
-msgstr ""
-
 msgctxt "civic_military_order코0"
 msgid "Military Order"
 msgstr "기사단"
-
-msgctxt "civic_military_order_desc코0"
-msgid ""
-msgstr ""
 
 msgctxt "civic_machine_intelligence코0"
 msgid "Machine Intelligence"
 msgstr "기계 지능"
 
-msgctxt "civic_machine_intelligence_desc코0"
-msgid ""
-msgstr ""
-
 msgctxt "civic_ancient_machine_intelligence코0"
 msgid "Ancient Machine Intelligence"
 msgstr "고대의 기계 지능"
-
-msgctxt "civic_ancient_machine_intelligence_desc코0"
-msgid ""
-msgstr ""
 
 msgctxt "civic_hive_subspace_ephapse코0"
 msgid "Subspace Ephapse"
@@ -31891,10 +31803,6 @@ msgstr ""
 msgctxt "PSIONIC_BLAST_1코0"
 msgid "Psionic Blast"
 msgstr "사이오닉 폭발"
-
-msgctxt "PSIONIC_BLAST_1_DESC코0"
-msgid ""
-msgstr ""
 
 msgctxt "EXTRADIMENSIONAL_1코0"
 msgid "Matter Disintegrator"
@@ -35159,10 +35067,6 @@ msgstr "$INDEX$: $NAME$ ( $SUPPORT|%$ )"
 msgctxt "alert_research_missing_scientist_title코1"
 msgid "Ongoing research lacks scientist"
 msgstr "\"진행중인 연구에 과학자가 부족합니다\""
-
-msgctxt "alert_research_missing_scientist_instant코1"
-msgid ""
-msgstr " "
 
 msgctxt "alert_research_missing_scientist_entry코1"
 msgid "$TECHAREA|H$ has no scientist present."

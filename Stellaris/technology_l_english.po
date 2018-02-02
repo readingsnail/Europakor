@@ -2967,10 +2967,6 @@ msgctxt "tech_vitality_boosters코0"
 msgid "Vitality Boosters"
 msgstr "활력 증대"
 
-msgctxt "tech_vitality_boosters_desc코0"
-msgid ""
-msgstr ""
-
 msgctxt "tech_doctrine_fleet_size_1코0"
 msgid "Doctrine: Space Combat"
 msgstr "교리 : 우주 전투"
@@ -4003,10 +3999,6 @@ msgstr "화학적으로 최적화된 식단은 고용된 노동자들이 예정�
 msgctxt "tech_pirate_starting코0"
 msgid "Pirate Only Tech"
 msgstr "해적 전용 기술"
-
-msgctxt "tech_pirate_starting_desc코0"
-msgid ""
-msgstr ""
 
 msgctxt "tech_event_crystal_sonar코0"
 msgid "Hidden"
