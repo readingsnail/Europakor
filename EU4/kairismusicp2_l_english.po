@@ -1,0 +1,33 @@
+# badaim <imbada@outlook.com>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2017-04-11 12:08-0400\n"
+"Last-Translator: Copied by Zanata <copied-by-zanata@zanata.org>\n"
+"Language-Team: Korean (South Korea)\n"
+"Language: ko\n"
+"X-Generator: Zanata 3.9.6\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgctxt "Eastern_Fronts코0"
+msgid "Eastern Fronts"
+msgstr "동부 전선(Eastern Fronts)"
+
+msgctxt "Peace_For_Generations코0"
+msgid "Peace for Generations"
+msgstr "세대를 위한 평화(Peace for Generations)"
+
+msgctxt "Temple_Ambitions코0"
+msgid "Temple Ambitions"
+msgstr "성만찬(Temple Ambitions)"
+
+msgctxt "The_Grasslands_Call코0"
+msgid "The Grasslands Call"
+msgstr "초원의 부름(The Grasslands Call)"
+
+msgctxt "The_Great_Wall코0"
+msgid "The Great Wall"
+msgstr "만리장성(The Great Wall)"
+

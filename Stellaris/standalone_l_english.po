@@ -1,0 +1,46 @@
+# badaim <imbada@outlook.com>, 2016. #zanata
+# Hyeonseok <hso6112@naver.com>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2017-04-17 04:14-0400\n"
+"Last-Translator: Hyeonseok <hso6112@naver.com>\n"
+"Language-Team: Korean (South Korea)\n"
+"Language: ko\n"
+"X-Generator: Zanata 3.9.6\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgctxt "ENTERING_GAME_LOBBY코0"
+msgid "Entering Game Setup"
+msgstr "\"게임 설정 들어가는 중\""
+
+msgctxt "SERVER_LAUNCHING_MP코0"
+msgid "Launching Multiplayer"
+msgstr "\"여럿이 하기 실행 중\""
+
+msgctxt "SERVER_NAME코0"
+msgid "Server Name: $NAME$"
+msgstr "\"서버 이름 : $NAME$\""
+
+msgctxt "SERVER_PASSWORD코0"
+msgid "Server Password: $PASSWORD$"
+msgstr "\"서버 비밀번호 : $PASSWORD$\""
+
+msgctxt "LAUNCHING_GAME코0"
+msgid "Launching Game"
+msgstr "\"게임 실행중\""
+
+msgctxt "STANDALONE_WAITING_FOR_PLAYERS코0"
+msgid "Waiting for $NUM$ Players"
+msgstr "\"$NUM$ 플레이어를 기다리는 중\""
+
+msgctxt "RECEIVED_GAMESERVER_ID코0"
+msgid "Received Server ID: $SERVERID$"
+msgstr "\"서버 ID 받음 : $SERVERID$\""
+
+msgctxt "RECEIVED_LOBBY_SERVER코0"
+msgid "Received Lobby Server"
+msgstr "\"로비 서버 받음\""
+

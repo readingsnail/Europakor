@@ -1,0 +1,4127 @@
+# badaim <imbada@outlook.com>, 2016. #zanata
+# DrawnA <klaus18@naver.com>, 2017. #zanata
+# Hyeonseok <hso6112@naver.com>, 2017. #zanata
+# astrey <astrey@daum.net>, 2017. #zanata
+# badaim <imbada@outlook.com>, 2017. #zanata
+# bjrj <asap1993@naver.com>, 2017. #zanata
+# dhdltlfj <theonaute@naver.com>, 2017. #zanata
+# kmkim <mkyung85@gmail.com>, 2017. #zanata
+# readingsnail <bjh13579@gmail.com>, 2017. #zanata
+# tyranny01 <tyranny01@naver.com>, 2017. #zanata
+# woomoo <shniceman@naver.com>, 2017. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2017-11-23 09:48-0500\n"
+"Last-Translator: dhdltlfj <theonaute@naver.com>\n"
+"Language-Team: Korean (South Korea)\n"
+"Language: ko\n"
+"X-Generator: Zanata 3.9.6\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgctxt "TRIGGER_IS_IN_COMBAT코0"
+msgid "Is in Combat"
+msgstr "전투 중"
+
+msgctxt "TRIGGER_IS_NOT_IN_COMBAT코0"
+msgid "Is NOT in Combat"
+msgstr "전투 중이 아님"
+
+msgctxt "HAS_OWNER코0"
+msgid "Is Colonized"
+msgstr "개척됨"
+
+msgctxt "HAS_NO_OWNER코0"
+msgid "Uninhabited"
+msgstr "개척되지 않음"
+
+msgctxt "HAS_ORIGINAL_OWNER코0"
+msgid "Is owned by original owner"
+msgstr "원래 소유자가 소유하고 있음"
+
+msgctxt "NOT_HAS_ORIGINAL_OWNER코0"
+msgid "Is not owned by original owner"
+msgstr "원래 소유자가 소유하고 있지 않음"
+
+msgctxt "IS_PLAYER_CONTROLLED코0"
+msgid "Is Player controlled"
+msgstr "플레이어가 통제중임"
+
+msgctxt "IS_AI_CONTROLLED코0"
+msgid "Is AI controlled"
+msgstr "AI가 통제중임"
+
+msgctxt "TRIGGER_CAPITAL코0"
+msgid "Capital"
+msgstr "수도"
+
+msgctxt "TRIGGER_OWNER코0"
+msgid "Planet Owner"
+msgstr "행성의 소유자"
+
+msgctxt "TRIGGER_CONTROLLER코0"
+msgid "Planet Controller"
+msgstr "행성의 통제자"
+
+msgctxt "TRIGGER_FROM코0"
+msgid "From"
+msgstr "로부터"
+
+msgctxt "TRIGGER_FROMFROM코0"
+msgid "FromFrom"
+msgstr "로부터"
+
+msgctxt "TRIGGER_ROOT코0"
+msgid "Root"
+msgstr "뿌리"
+
+msgctxt "TRIGGER_PREV코0"
+msgid "Prev"
+msgstr "이전"
+
+msgctxt "ANY_OWNED_PLANET코0"
+msgid "Any Owned Planet"
+msgstr "소유한 아무 행성"
+
+msgctxt "ANY_CONTROLLED_PLANET코0"
+msgid "Any Owned Planet"
+msgstr "소유한 아무 행성"
+
+msgctxt "ANY_NEIGHBOR_SYSTEM코0"
+msgid "Any Neighbor System"
+msgstr "아무 이웃 성계"
+
+msgctxt "ANY_RELATION코0"
+msgid "Any relation"
+msgstr "어떤 관계"
+
+msgctxt "EVERY_NEIGHBORING_SYSTEM_EFFECT코0"
+msgid "Every Neighbor System"
+msgstr "모든 이웃 성계"
+
+msgctxt "ANY_POP코0"
+msgid "Any Pop"
+msgstr "아무 POP"
+
+msgctxt "ALL_POPS코0"
+msgid "\n"
+"All Pops:"
+msgstr "\n"
+"모든 POP :"
+
+msgctxt "ANY_PLANET코0"
+msgid "Any Planet"
+msgstr "아무 행성"
+
+msgctxt "ANY_MEMBER코0"
+msgid "Any Member"
+msgstr "아무 소속원"
+
+msgctxt "NEVER코0"
+msgid "Never"
+msgstr "절대 불가능함"
+
+msgctxt "ALWAYS코0"
+msgid "Always"
+msgstr "항상 가능함"
+
+msgctxt "IS_NOT_UNDER_COLONIZATION코0"
+msgid "Is NOT under colonization"
+msgstr "식민화되지 않음"
+
+msgctxt "IS_UNDER_COLONIZATION코0"
+msgid "Is under colonization"
+msgstr "식민화됨"
+
+msgctxt "HAS_SAME_ETHOS코0"
+msgid "Has the same Ethos as $COUNTRY|Y$"
+msgstr "$COUNTRY|Y$와(과) 같은 가치관을 가지고 있음"
+
+msgctxt "DOES_NOT_HAVE_SAME_ETHOS코0"
+msgid "Does NOT have the same Ethos as $COUNTRY|Y$"
+msgstr "$COUNTRY|Y$와(과) 같은 가치관을 가지고 있지 않음"
+
+msgctxt "HAS_ETHIC코0"
+msgid "Has §Y$ETHIC$§! Ethic"
+msgstr "§Y$ETHIC$§! 윤리관을 가지고 있음"
+
+msgctxt "HAS_ETHIC_ICON_TIP코0"
+msgid "This option is available due to $WHO|H$ having the $ETHIC|Y$ Ethic"
+msgstr "이 옵션은 $WHO|H$이(가) $ETHIC|Y$ 윤리관을 가졌을 때 가능함"
+
+msgctxt "HAS_CIVIC_ICON_TIP코0"
+msgid ""
+"This option is available due to $WHO|H$ having the $CIVIC|Y$ Government "
+"Civic"
+msgstr "이 선택은 $WHO|H$이(가) $CIVIC|Y$ 정부 사회 제도를 갖고 있기에 가능합니다."
+
+msgctxt "HAS_AUTHORITY_ICON_TIP코0"
+msgid ""
+"This option is available due to $WHO|H$ having the $AUTHORITY|Y$ Government "
+"Authority"
+msgstr "이 선택은 $WHO|H$이(가) $AUTHORITY|Y$ 정치체제를 갖고 있기에 가능합니다."
+
+msgctxt "DOES_NOT_HAVE_ETHIC코0"
+msgid "Does NOT have §Y$ETHIC$§! Ethic"
+msgstr "§Y$ETHIC$§! 윤리관을 가지고 있지 않음"
+
+msgctxt "IS_CONTROLLED_BY코0"
+msgid "Is Controlled by §Y$EMPIRE$§!"
+msgstr "§Y$EMPIRE$§!이(가) 통제하고 있음"
+
+msgctxt "IS_NOT_CONTROLLED_BY코0"
+msgid "Is NOT controlled by §Y$EMPIRE$§!"
+msgstr "§Y$EMPIRE$§!이(가) 통제하고 있지 않음"
+
+msgctxt "IS_OWNED_BY코0"
+msgid "Is Owned by §Y$EMPIRE$§!"
+msgstr "§Y$EMPIRE$§!이(가) 소유하고 있음"
+
+msgctxt "IS_NOT_OWNED_BY코0"
+msgid "Is NOT Owned by §Y$EMPIRE$§!"
+msgstr "§Y$EMPIRE$§!이(가) 소유하고 있지 않음"
+
+msgctxt "IS_WITHIN_BORDERS_OF코0"
+msgid "Is inside borders of §Y$EMPIRE$§!"
+msgstr "§Y$EMPIRE$§! 국경 안에 존재함"
+
+msgctxt "IS_NOT_WITHIN_BORDERS_OF코0"
+msgid "Is NOT inside borders of §Y$EMPIRE$§!"
+msgstr "§Y$EMPIRE$§! 국경 안에 존재하지 않음"
+
+msgctxt "IS_SAME_SPECIES코0"
+msgid "Is same Species as §Y$OTHER$§!"
+msgstr "§Y$OTHER$§!와(과) 같은 종족임"
+
+msgctxt "IS_NOT_SAME_SPECIES코0"
+msgid "Is NOT same Species as §Y$OTHER$§!"
+msgstr "§Y$OTHER$§!와(과) 다른 종족임"
+
+msgctxt "IS_MAJORITY_SPECIES코0"
+msgid "Dominant Species is §Y$OTHER$§!"
+msgstr "지배 종족이 §Y$OTHER$§!임"
+
+msgctxt "IS_NOT_MAJORITY_SPECIES코0"
+msgid "Dominant Species is NOT §Y$OTHER$§!"
+msgstr "지배 종족이 §Y$OTHER$§!이(가) 아님"
+
+msgctxt "IS_EXACT_SAME_SPECIES코0"
+msgid "$IS_SAME_SPECIES$"
+msgstr "$IS_SAME_SPECIES$"
+
+msgctxt "IS_NOT_EXACT_SAME_SPECIES코0"
+msgid "$IS_NOT_SAME_SPECIES$"
+msgstr "$IS_NOT_SAME_SPECIES$"
+
+msgctxt "IS_SAME_SPECIES_CLASS코0"
+msgid "Is same Species Class as §Y$OTHER$§!"
+msgstr " §Y$OTHER$§!와(과) 같은 계열 종족임"
+
+msgctxt "IS_NOT_SAME_SPECIES_CLASS코0"
+msgid "Is NOT same Species Class as §Y$OTHER$§!"
+msgstr " §Y$OTHER$§!와(과) 다른 계열 종족임"
+
+msgctxt "IS_SUBSPECIES코0"
+msgid "Is Subspecies of §Y$OTHER$§!"
+msgstr "§Y$OTHER$§!의 하위 계통의 종족임"
+
+msgctxt "IS_NOT_SUBSPECIES코0"
+msgid "Is NOT Subspecies of §Y$OTHER$§!"
+msgstr "§Y$OTHER$§!의 하위 계통의 종족이 아님"
+
+msgctxt "IS_NOT_AT_WAR_WITH코0"
+msgid "Is NOT at war with §Y$OTHER$§!"
+msgstr "§Y$OTHER$§!와(과) 전쟁 중이지 않음"
+
+msgctxt "IS_AT_WAR_WITH코0"
+msgid "Is at war with §Y$OTHER$§!"
+msgstr "§Y$OTHER$§!와(과) 전쟁 중임"
+
+msgctxt "DID_NOT_RECENTLY_LOSE_WAR코0"
+msgid "Did NOT lose a war recently"
+msgstr "최근 전쟁에서 패배하지 않음"
+
+msgctxt "RECENTLY_LOST_WAR코0"
+msgid "Lost a war recently"
+msgstr "최근 전쟁에서 패배함"
+
+msgctxt "DOES_NOT_HAVE_AI_PERSONALITY코0"
+msgid "Does NOT have the $PERSONALITY|Y$ personality."
+msgstr "$PERSONALITY|Y$ 성격을 가지고 있지 않음"
+
+msgctxt "HAS_AI_PERSONALITY코0"
+msgid "Has the $PERSONALITY|Y$ personality."
+msgstr "$PERSONALITY|Y$ 성격을 가지고 있음"
+
+msgctxt "DOES_NOT_HAVE_AI_PERSONALITY_TYPE코0"
+msgid "Does NOT have the $PERSONALITY|Y$ personality type."
+msgstr "$PERSONALITY|Y$ 성격 종류를 가지고 있지 않음"
+
+msgctxt "HAS_AI_PERSONALITY_TYPE코0"
+msgid "Has the $PERSONALITY|Y$ personality type."
+msgstr "$PERSONALITY|Y$ 성격 종류를 가지고 있음"
+
+msgctxt "DOES_NOT_HAVE_AI_PERSONALITY_BEHAVIOUR코0"
+msgid "Does NOT have the $PERSONALITY|Y$ behavior."
+msgstr "$PERSONALITY|Y$ 행동을 가지고 있지 않음"
+
+msgctxt "HAS_AI_PERSONALITY_BEHAVIOUR코0"
+msgid "Has the $PERSONALITY|Y$ behavior."
+msgstr "$PERSONALITY|Y$ 행동을 가지고 있음"
+
+msgctxt "HAS_NOT_RIGHTS코0"
+msgid "Does NOT have $TYPE|H$ species policy"
+msgstr "$TYPE|H$ 종족 정책을 펴고 있지 않음"
+
+msgctxt "HAS_RIGHTS코0"
+msgid "Has $TYPE|H$ species policy"
+msgstr "$TYPE|H$ 종족 정책을 펴고 있음"
+
+msgctxt "ALLOWS_ALIEN_LEADERS코0"
+msgid "Allows Xeno Leadership"
+msgstr "외계종 지도자를 허가함"
+
+msgctxt "ALLOWS_NOT_ALIEN_LEADERS코0"
+msgid "Does NOT allow Xeno Leadership"
+msgstr "외계종 지도자를 허가하지 않음"
+
+msgctxt "ALLOWS_NOT_PURGE코0"
+msgid "Does NOT allow Purging"
+msgstr "정화를 허가하지 않음"
+
+msgctxt "ALLOWS_PURGE코0"
+msgid "Allows Purging"
+msgstr "정화를 허가함"
+
+msgctxt "ALLOWS_NOT_SLAVERY코0"
+msgid "Does NOT allow Slavery"
+msgstr "노예제를 허가하지 않음"
+
+msgctxt "ALLOWS_SLAVERY코0"
+msgid "Allows Slavery"
+msgstr "노예제를 허가함"
+
+msgctxt "HAS_NOT_VALID_AI코0"
+msgid "Does NOT have a valid AI"
+msgstr "유효한 AI를 가지고 있음"
+
+msgctxt "HAS_VALID_AI코0"
+msgid "Has a valid AI"
+msgstr "유효한 AI를 가지고 있지 않음"
+
+msgctxt "IS_FLEET_NOT_IDLE코0"
+msgid "Fleet is NOT idle"
+msgstr "함대가 대기 중이 아님"
+
+msgctxt "IS_FLEET_IDLE코0"
+msgid "Fleet is idle"
+msgstr "함대 대기 중"
+
+msgctxt "ANY_WAR_DEFENDER코0"
+msgid "Any War Defender"
+msgstr "아무 전쟁 방어자"
+
+msgctxt "ANY_WAR_ATTACKER코0"
+msgid "Any War Attacker"
+msgstr "아무 전쟁 공격자"
+
+msgctxt "ANY_WAR코0"
+msgid "Any War"
+msgstr "아무  전쟁"
+
+msgctxt "ANY_DEFENDER코0"
+msgid "Any Defender"
+msgstr "아무 방어자"
+
+msgctxt "ANY_ATTACKER코0"
+msgid "Any Attacker"
+msgstr "아무 공격자"
+
+msgctxt "IS_SAME_EMPIRE코0"
+msgid "Is §Y$OTHER$§!"
+msgstr "§Y$OTHER$§!임"
+
+msgctxt "IS_NOT_SAME_EMPIRE코0"
+msgid "Is NOT §Y$OTHER$§!"
+msgstr "§Y$OTHER$§!이(가) 아님"
+
+msgctxt "IS_PLANET_CLASS코0"
+msgid "Is §Y$CLASS$§!"
+msgstr "§Y$CLASS$§!임"
+
+msgctxt "IS_NOT_PLANET_CLASS코0"
+msgid "Is NOT §Y$CLASS$§!"
+msgstr "§Y$CLASS$§!이(가) 아님"
+
+msgctxt "IS_STAR_CLASS코0"
+msgid "Is §Y$CLASS$§!"
+msgstr "은(는) §Y$CLASS$§!이다!"
+
+msgctxt "IS_NOT_STAR_CLASS코0"
+msgid "Is NOT §Y$CLASS$§!"
+msgstr "은(는) §Y$CLASS$§!이 아니다!"
+
+msgctxt "PLANET_IS_MOON코0"
+msgid "Is a Moon"
+msgstr "\"은(는) 위성입니다\""
+
+msgctxt "PLANET_IS_NOT_MOON코0"
+msgid "Is NOT a Moon"
+msgstr "\"은(는) 위성이 아닙니다\""
+
+msgctxt "PLANET_IS_STAR코0"
+msgid "Is a Star"
+msgstr "\"은(는) 항성입니다\""
+
+msgctxt "PLANET_IS_NOT_STAR코0"
+msgid "Is NOT a Star"
+msgstr "\"은(는) 항성이 아닙니다\""
+
+msgctxt "PLANET_IS_ASTEROID코0"
+msgid "Is an Asteroid"
+msgstr "은(는) 소행성입니다"
+
+msgctxt "PLANET_IS_NOT_ASTEROID코0"
+msgid "Is NOT an Asteroid"
+msgstr "은(는) 소행성이 아닙니다"
+
+msgctxt "PLANET_IS_RINGWORLD코0"
+msgid "Is a Ringworld"
+msgstr "\"은(는) 링월드입니다\""
+
+msgctxt "PLANET_IS_NOT_RINGWORLD코0"
+msgid "Is NOT a Ringworld"
+msgstr "\"은(는) 링월드가 아닙니다\""
+
+msgctxt "HAS_NOT_STRATEGIC_RESOURCE_BOOL코0"
+msgid "Does NOT have a Strategic Resource"
+msgstr "전략 자원이 없음"
+
+msgctxt "HAS_STRATEGIC_RESOURCE_BOOL코0"
+msgid "Has a Strategic Resource"
+msgstr "전략 자원이 있음"
+
+msgctxt "HAS_NOT_STRATEGIC_RESOURCE코0"
+msgid "Does NOT have §Y$RESOURCE$§!"
+msgstr "§Y$RESOURCE$§!이(가) 없음"
+
+msgctxt "HAS_STRATEGIC_RESOURCE코0"
+msgid "Has §Y$RESOURCE$§!"
+msgstr "§Y$RESOURCE$§!이(가) 있음"
+
+msgctxt "HAS_TECHNOLOGY코0"
+msgid "Has $TECHNAME|Y$"
+msgstr "기술 $TECHNAME|Y$을(를) 가지고 있음"
+
+msgctxt "HAS_NOT_TECHNOLOGY코0"
+msgid "Does NOT have $TECHNAME|Y$"
+msgstr "기술 $TECHNAME|Y$을(를) 가지고 있지 않음"
+
+msgctxt "HAS_TECHNOLOGY_OPTION코0"
+msgid "Has $TECHNAME|Y$ option"
+msgstr "기술 $TECHNAME|Y$ 선택권(option)을 가지고 있음"
+
+msgctxt "HAS_NOT_TECHNOLOGY_OPTION코0"
+msgid "Does NOT have $TECHNAME|Y$ option"
+msgstr "기술 $TECHNAME|Y$ 선택권(option)을 가지고 있지 않음"
+
+msgctxt "HAS_NOT_MODIFIER코0"
+msgid "Does NOT have the $MODNAME|Y$ modifier"
+msgstr " $MODNAME|Y$ 변동치를 가지고 있지 않음"
+
+msgctxt "HAS_FLAG코0"
+msgid "Has the $FLAGNAME|Y$ flag"
+msgstr "플래그 $FLAGNAME|Y$가 있음"
+
+msgctxt "HAS_NOT_FLAG코0"
+msgid "Does NOT have the $FLAGNAME|Y$ flag"
+msgstr "플래그 $FLAGNAME|Y$가 없음"
+
+msgctxt "IS_SHIP_CLASS코0"
+msgid "Is of the class $CLASSNAME|Y$"
+msgstr "$CLASSNAME|Y$ 클래스임"
+
+msgctxt "IS_NOT_SHIP_CLASS코0"
+msgid "Is NOT of the class $CLASSNAME|Y$"
+msgstr "$CLASSNAME|Y$ 클래스가 아님"
+
+msgctxt "IS_SHIP_SIZE코0"
+msgid "Is of the $SHIPSIZE|Y$ size"
+msgstr "$SHIPSIZE|Y$ 크기임"
+
+msgctxt "IS_NOT_SHIP_SIZE코0"
+msgid "Is NOT of the $SHIPSIZE|Y$ size"
+msgstr "$SHIPSIZE|Y$ 크기가 아님"
+
+msgctxt "IS_CAPITAL코0"
+msgid "Is the capital of an Empire"
+msgstr "제국의 수도임"
+
+msgctxt "IS_NOT_CAPITAL코0"
+msgid "Is NOT the capital of an Empire"
+msgstr "제국의 수도가 아님"
+
+msgctxt "IS_HOMEWORLD코0"
+msgid "Is the Homeworld of an Empire"
+msgstr "제국의 모성임"
+
+msgctxt "IS_NOT_HOMEWORLD코0"
+msgid "Is NOT the Homeworld of an Empire"
+msgstr "제국의 모성이 아님"
+
+msgctxt "HAS_GROUND_COMBAT코0"
+msgid "Has ground combat"
+msgstr "지상 전투 중임"
+
+msgctxt "HAS_NOT_GROUND_COMBAT코0"
+msgid "Does NOT have ground combat"
+msgstr "지상 전투 중이지 않음"
+
+msgctxt "IS_AT_WAR코0"
+msgid "Is at war"
+msgstr "전쟁 중임"
+
+msgctxt "IS_NOT_AT_WAR코0"
+msgid "Is NOT at war"
+msgstr "전쟁 중이지 않음"
+
+msgctxt "HAS_NUM_YEARS_PASSED코0"
+msgid "Number of years since game start is $COMPARATOR$ $NUM|Y$"
+msgstr "게임 시작 시점이 $NUM|Y$년 $COMPARATOR$"
+
+msgctxt "HAS_NOT_NUM_YEARS_PASSED코0"
+msgid "Number of years since game start is NOT $COMPARATOR$ $NUM|Y$"
+msgstr "게임 시작 시점이 $NUM|Y$년 $COMPARATOR$이(가) 아님"
+
+msgctxt "HAS_NUM_YEARS_AT_PEACE코0"
+msgid "Number of years at peace is $COMPARATOR$ $NUM|Y$"
+msgstr "평화상태의 기간은 $NUM|Y$ $COMPARATOR$입니다."
+
+msgctxt "HAS_NOT_NUM_YEARS_AT_PEACE코0"
+msgid "Number of years at peace is NOT $COMPARATOR$ $NUM|Y$"
+msgstr "평화상태의 기간은 $NUM|Y$ $COMPARATOR$이 아닙니다."
+
+msgctxt "HAS_NUM_OWNED_PLANETS코0"
+msgid "Number of owned planets is $COMPARATOR$ $NUM|Y$"
+msgstr "소유한 행성이 $NUM|Y$개 $COMPARATOR$"
+
+msgctxt "HAS_NOT_NUM_OWNED_PLANETS코0"
+msgid "Number of owned planets is NOT $COMPARATOR$ $NUM|Y$"
+msgstr "소유한 행성이 $NUM|Y$개 $COMPARATOR$이(가) 아님"
+
+msgctxt "HAS_NUM_POPS코0"
+msgid "Number of Pops is $COMPARATOR$ $NUM|Y$"
+msgstr "POP의 수가 $NUM|Y$ $COMPARATOR$"
+
+msgctxt "HAS_NOT_NUM_POPS코0"
+msgid "Number of Pops is NOT $COMPARATOR$ $NUM|Y$"
+msgstr "POP의 수가 $NUM|Y$ $COMPARATOR$이(가) 아님"
+
+msgctxt "HAS_NUM_STRATEGIC_RESOURCES코0"
+msgid "Has access to $COMPARATOR$ $NUM|Y$ Strategic Resources"
+msgstr "전략자원 $NUM|Y$ $COMPARATOR$ 을 가짐"
+
+msgctxt "HAS_NOT_NUM_STRATEGIC_RESOURCES코0"
+msgid "Does NOT have access to $COMPARATOR$ $NUM|Y$ Strategic Resources"
+msgstr "전략자원 $NUM|Y$ $COMPARATOR$ 을 가지지 못함"
+
+msgctxt "HAS_NUM_POP_FACTIONS코0"
+msgid "Number of Pop Factions is $COMPARATOR$ $NUM|Y$"
+msgstr "파벌의 수가 $NUM|Y$ $COMPARATOR$"
+
+msgctxt "HAS_NOT_NUM_POP_FACTIONS코0"
+msgid "Number of Pop Factions is NOT $COMPARATOR$ $NUM|Y$"
+msgstr "파벌의 수가 $NUM|Y$ $COMPARATOR$이(가) 아님"
+
+msgctxt "HAS_NUM_PLANETS코0"
+msgid "Number of Planets is $COMPARATOR$ $NUM|Y$"
+msgstr "행성의 수는 $NUM|Y$ $COMPARATOR$입니다."
+
+msgctxt "HAS_NOT_NUM_PLANETS코0"
+msgid "Number of Planets is NOT $COMPARATOR$ $NUM|Y$"
+msgstr "행성의 수는 $NUM|Y$ $COMPARATOR$가 아닙니다."
+
+msgctxt "TRIGGER_HAS_GOVERNMENT_AUTHORITY코0"
+msgid "Has $KEY|Y$ Authority"
+msgstr "정치 체제가 $KEY|Y$ 임"
+
+msgctxt "TRIGGER_HAS_NOT_GOVERNMENT_AUTHORITY코1"
+msgid "Does NOT have $KEY|Y$ Authority"
+msgstr "정치 체제가 $KEY|Y$이(가) 아님"
+
+msgctxt "HAS_GOVERNMENT_ICON_TIP코0"
+msgid "This option is available due to $WHO|H$ being a $GOV|Y$"
+msgstr "이 옵션은 $WHO|H$이(가) $GOV|Y$ 때문에 사용 가능함"
+
+msgctxt "IS_PRIMITIVE코0"
+msgid "Is primitive"
+msgstr "원시적임"
+
+msgctxt "IS_NOT_PRIMITIVE코0"
+msgid "Is NOT primitive"
+msgstr "원시적이지 않음"
+
+msgctxt "IS_PIRATE코0"
+msgid "Is Pirate"
+msgstr "해적임"
+
+msgctxt "IS_NOT_PIRATE코0"
+msgid "Is NOT Pirate"
+msgstr "해적이 아님"
+
+msgctxt "IS_INSIDE_NEBULA코0"
+msgid "Is inside a nebula"
+msgstr "성운 안에 있음"
+
+msgctxt "IS_NOT_INSIDE_NEBULA코0"
+msgid "Is NOT inside a nebula"
+msgstr "성운 안에 없음"
+
+msgctxt "IS_INSIDE_BORDER코0"
+msgid "Is inside the border of §Y$OTHER$§!"
+msgstr " §Y$OTHER$§!의 국경 안에 있음"
+
+msgctxt "IS_NOT_INSIDE_BORDER코0"
+msgid "Is NOT inside the border of §Y$OTHER$§!"
+msgstr " §Y$OTHER$§!의 국경 안에 없음"
+
+msgctxt "ANY_COUNTRY코0"
+msgid "Any Country"
+msgstr "아무 나라"
+
+msgctxt "IDEAL_PLANET_CLASS코0"
+msgid "§Y$CLASS$§! is the ideal planet type"
+msgstr "§Y$CLASS$§!은(는) 이상적인 행성 종류임"
+
+msgctxt "NOT_IDEAL_PLANET_CLASS코0"
+msgid "§Y$CLASS$§! is NOT the ideal planet type"
+msgstr "§Y$CLASS$§!은(는) 이상적인 행성 종류가 아님"
+
+msgctxt "OPINION_LOWER_THAN코0"
+msgid "Opinion lower than "
+msgstr "보다 낮은 우호도"
+
+msgctxt "OPINION_AT_LEAST코0"
+msgid "Opinion of at least "
+msgstr "최소한의 우호도"
+
+msgctxt "TRUST_LOWER_THAN코0"
+msgid "Trust lower than "
+msgstr "보다 낮은 믿음"
+
+msgctxt "TRUST_AT_LEAST코0"
+msgid "Trust of at least "
+msgstr "최소한의 믿음"
+
+msgctxt "HAS_ALLIANCE코0"
+msgid "Is in an Alliance"
+msgstr "동맹임"
+
+msgctxt "HAS_NOT_ALLIANCE코0"
+msgid "Is NOT in an Alliance"
+msgstr "동맹이 아님"
+
+msgctxt "HAS_FEDERATION코0"
+msgid "Is in an Federation"
+msgstr "연방 소속임"
+
+msgctxt "HAS_NOT_FEDERATION코0"
+msgid "Is NOT in an Federation"
+msgstr "연방 소속이 아님"
+
+msgctxt "CAN_DECLARE_WAR_TRIGGER코0"
+msgid "Can Declare War On $COUNTRY|Y$"
+msgstr "$COUNTRY|Y$에 전쟁을 선포할 수 있음"
+
+msgctxt "CAN_DECLARE_WAR_NOT_TRIGGER코0"
+msgid "Cannot Declare War On $COUNTRY|Y$"
+msgstr "$COUNTRY|Y$에 전쟁을 선포할 수 없음"
+
+msgctxt "SUBJECT_CAN_DIPLOMACY코0"
+msgid "Overlord does allows this action."
+msgstr "지배자가 이 행동을 허용함"
+
+msgctxt "SUBJECT_CAN_NOT_DIPLOMACY코0"
+msgid "Overlord does not allow this action."
+msgstr "지배자가 이 행동을 금지함"
+
+msgctxt "IS_COLONIZABLE코0"
+msgid "Is Colonizable"
+msgstr "식민화가 가능함"
+
+msgctxt "IS_NOT_COLONIZABLE코0"
+msgid "Is NOT Colonizable"
+msgstr "식민화가 불가능함"
+
+msgctxt "IS_FALLEN_EMPIRE코0"
+msgid "Is a Fallen Empire"
+msgstr "몰락 제국임"
+
+msgctxt "IS_NOT_FALLEN_EMPIRE코0"
+msgid "Is NOT a Fallen Empire"
+msgstr "몰락 제국이 아님"
+
+msgctxt "IS_TERRAFORMED코0"
+msgid "Is Terraformed"
+msgstr "테라포밍됨"
+
+msgctxt "IS_NOT_TERRAFORMED코0"
+msgid "Is NOT Terraformed"
+msgstr "테라포밍되지 않음"
+
+msgctxt "IS_TERRAFORMING코0"
+msgid "Is Terraforming"
+msgstr "테라포밍 중임"
+
+msgctxt "IS_NOT_TERRAFORMING코0"
+msgid "Is NOT Terraforming"
+msgstr "테라포밍 중이지 않음"
+
+msgctxt "HAS_SKILL_NOT_LEVEL코0"
+msgid "Skill level $VAL0|2Y$ is NOT $COMPARE$ $VAL1|2Y$"
+msgstr "스킬 레벨 $VAL0|2Y$이 $VAL1|2Y$ $COMPARE$이 아님"
+
+msgctxt "HAS_SKILL_LEVEL코0"
+msgid "Skill level $VAL0|2Y$ is $COMPARE$ $VAL1|2Y$"
+msgstr "스킬 레벨 $VAL0|2Y$이 $VAL1|2Y$ $COMPARE$"
+
+msgctxt "HAS_NUM_MINERALS코0"
+msgid "Number of Minerals is $COMPARATOR$ $NUM|Y$"
+msgstr "광물량이 $NUM|Y$ $COMPARATOR$ "
+
+msgctxt "HAS_NOT_NUM_MINERALS코0"
+msgid "Number of Minerals is NOT $COMPARATOR$ $NUM|Y$"
+msgstr "광물량이 $NUM|Y$ $COMPARATOR$이(가) 아님"
+
+msgctxt "HAS_NUM_ENERGY코1"
+msgid "Number of Energy is $COMPARATOR$ $NUM|Y$"
+msgstr "에너지 크레딧량이 $NUM|Y$ $COMPARATOR$"
+
+msgctxt "HAS_NOT_NUM_ENERGY코1"
+msgid "Number of Energy is NOT $COMPARATOR$ $NUM|Y$"
+msgstr "에너지 크레딧량이 $NUM|Y$ $COMPARATOR$이(가) 아님"
+
+msgctxt "HAS_NUM_PHYSICS코0"
+msgid "Number of Physics Resources is $COMPARATOR$ $NUM|Y$"
+msgstr "물리학 자원량이 $NUM|Y$ $COMPARATOR$"
+
+msgctxt "HAS_NOT_NUM_PHYSICS코0"
+msgid "Number of Physics Resources is NOT $COMPARATOR$ $NUM|Y$"
+msgstr "물리학 자원량이 $NUM|Y$ $COMPARATOR$이(가) 아님"
+
+msgctxt "HAS_NUM_SOCIETY코0"
+msgid "Number of Life Data is $COMPARATOR$ $NUM|Y$"
+msgstr "생물 자료량이 $NUM|Y$ $COMPARATOR$"
+
+msgctxt "HAS_NOT_NUM_SOCIETY코0"
+msgid "Number of Life Data is NOT $COMPARATOR$ $NUM|Y$"
+msgstr "생물 자료량이 $NUM|Y$ $COMPARATOR$이(가) 아님"
+
+msgctxt "HAS_NUM_ENGINEERING코0"
+msgid "Number of Engineering Resources is $COMPARATOR$ $NUM|Y$"
+msgstr "공학 자원량이 $NUM|Y$ $COMPARATOR$"
+
+msgctxt "HAS_NOT_NUM_ENGINEERING코0"
+msgid "Number of Engineering Resources is NOT $COMPARATOR$ $NUM|Y$"
+msgstr "공학 자원량이 $NUM|Y$ $COMPARATOR$이(가) 아님"
+
+msgctxt "HAS_RING코0"
+msgid "Has A Ring"
+msgstr "링을 가지고 있음"
+
+msgctxt "HAS_NOT_RING코0"
+msgid "Does NOT have a ring"
+msgstr "링을 가지고 있지 않음"
+
+msgctxt "HAS_NUM_MODIFIERS코0"
+msgid "Number of Modifiers is $COMPARATOR$ $NUM|Y$"
+msgstr "변동치 수가 $NUM|Y$ $COMPARATOR$"
+
+msgctxt "HAS_NOT_NUM_MODIFIERS코0"
+msgid "Number of Modifiers is $COMPARATOR$ $NUM|Y$"
+msgstr "변동치 수가 $NUM|Y$ $COMPARATOR$이(가) 아님"
+
+msgctxt "HAS_ANY_STRATEGIC_RESOURCE코0"
+msgid "Has a Strategic Resource"
+msgstr "전략자원을 가지고 있음"
+
+msgctxt "HAS_NOT_ANY_STRATEGIC_RESOURCE코0"
+msgid "Does NOT have a Strategic Resource"
+msgstr "전략자원을 가지고 있지 않음"
+
+msgctxt "IS_FACTION코0"
+msgid "Is a Faction"
+msgstr "파벌임"
+
+msgctxt "IS_NOT_FACTION코0"
+msgid "Is NOT a Faction"
+msgstr "파벌이 아님"
+
+msgctxt "HAS_NUM_FREE_LEADER_SLOTS코0"
+msgid "Number of Free Leader Slots is $COMPARATOR$ $NUM|Y$"
+msgstr "남은 지도자 슬롯 수가 $NUM|Y$ $COMPARATOR$"
+
+msgctxt "HAS_NOT_NUM_FREE_LEADER_SLOTS코0"
+msgid "Number of Free Leader Slots is NOT $COMPARATOR$ $NUM|Y$"
+msgstr "남은 지도자 슬롯 수가 $NUM|Y$ $COMPARATOR$이(가) 아님"
+
+msgctxt "IS_TECHTREE_COMPLETED코0"
+msgid "Has completed the $TREE|Y$ Technology Tree"
+msgstr "$TREE|Y$ 기술 트리를 완료함"
+
+msgctxt "IS_NOT_TECHTREE_COMPLETED코0"
+msgid "Has NOT completed the $TREE|Y$ Technology Tree"
+msgstr "$TREE|Y$ 기술 트리를 완료하지 않음"
+
+msgctxt "IS_DISTANCE코0"
+msgid "Distance is within range $MIN|Y2$ to $MAX|Y2$"
+msgstr "거리 범위가 $MIN|Y2$ 에서 $MAX|Y2$임"
+
+msgctxt "IS_NOT_DISTANCE코0"
+msgid "Distance is NOT within range $MIN|Y2$ to $MAX|Y2$"
+msgstr "거리 범위가 $MIN|Y2$ 에서 $MAX|Y2$이 아님"
+
+msgctxt "IS_DISTANCE_TO_EMPIRE코0"
+msgid "Is within $DISTANCE$ distance units of $WHO$."
+msgstr "$WHO$와의 거리는 $DISTANCE$ 이내입니다."
+
+msgctxt "IS_NOT_DISTANCE_TO_EMPIRE코0"
+msgid "Is NOT within $DISTANCE$ distance units of $WHO$."
+msgstr "$WHO$와의 거리는 $DISTANCE$가 넘습니다."
+
+msgctxt "IS_OCCUPIED코0"
+msgid "Planet is occupied"
+msgstr "행성을 점령함"
+
+msgctxt "IS_NOT_OCCUPIED코0"
+msgid "Planet is NOT occupied"
+msgstr "행성을 점령하지 못함"
+
+msgctxt "IS_DAMAGED코0"
+msgid "Planet is damaged"
+msgstr "행성이 피해를 입음"
+
+msgctxt "IS_NOT_DAMAGED코0"
+msgid "Planet is NOT damaged"
+msgstr "행성이 피해를 입지 않음"
+
+msgctxt "HAS_HIT_POINTS코1"
+msgid "Number of hull points are $COMPARATOR$ $NUM|Y$"
+msgstr "선체 내구도 수가 $NUM|Y$ $COMPARATOR$ "
+
+msgctxt "HAS_NOT_HIT_POINTS코1"
+msgid "Number of hull points are NOT $COMPARATOR$ $NUM|Y$"
+msgstr "선체 내구도 수가 $NUM|Y$ $COMPARATOR$ 이 아님"
+
+msgctxt "IS_PLANET_SURVEYED코0"
+msgid "Planet is surveyed"
+msgstr "행성이 조사됨"
+
+msgctxt "IS_PLANET_NOT_SURVEYED코0"
+msgid "Planet is NOT surveyed"
+msgstr "행성이 조사되지 않음"
+
+msgctxt "IS_SYSTEM_SURVEYED코0"
+msgid "System is surveyed"
+msgstr "성계가 조사됨"
+
+msgctxt "IS_SYSTEM_NOT_SURVEYED코0"
+msgid "System is NOT surveyed"
+msgstr "성계가 조사되지 않음"
+
+msgctxt "HAS_SURVEYED_CLASS코0"
+msgid "Has surveyed $CLASS|H$"
+msgstr "$CLASS|H$을(를) 조사하고 있음"
+
+msgctxt "HAS_NOT_SURVEYED_CLASS코0"
+msgid "Has NOT surveyed $CLASS|H$"
+msgstr "$CLASS|H$을(를) 조사하고 있지 않음"
+
+msgctxt "IS_IDEAL_PLANET_CLASS코0"
+msgid "Planet is ideal class"
+msgstr "행성이 이상적인 등급임"
+
+msgctxt "IS_NOT_IDEAL_PLANET_CLASS코0"
+msgid "Planet is NOT ideal class"
+msgstr "행성이 이상적인 등급이 아님"
+
+msgctxt "VARIABLE_VALUE코0"
+msgid "Value of Variable $VARIABLE|Y$ is $COMPARATOR$ $NUM|Y$"
+msgstr "$VARIABLE|Y$ 변수 값이 $NUM|Y$ $COMPARATOR$"
+
+msgctxt "VARIABLE_NOT_VALUE코0"
+msgid "Value of Variable $VARIABLE|Y$ is NOT $COMPARATOR$ $NUM|Y$"
+msgstr "$VARIABLE|Y$ 변수 값이 $NUM|Y$ $COMPARATOR$이(가) 아님"
+
+msgctxt "ANY_SHIP코0"
+msgid "Any ship"
+msgstr "모든 함선"
+
+msgctxt "ANY_BORDERING_COUNTRY코0"
+msgid "Any bordering country"
+msgstr "모든 국가 국경선"
+
+msgctxt "ANY_SHIP_IN_SYSTEM코0"
+msgid "Any ship in system"
+msgstr "성계 안 모든 함선"
+
+msgctxt "ANY_OWNED_SHIP코0"
+msgid "Any owned ship by a country"
+msgstr "국가에 속하는 모든 함선"
+
+msgctxt "ANY_OWNED_SHIP_FLEET코0"
+msgid "Any ship in Fleet"
+msgstr "함대에 있는 모든 함선"
+
+msgctxt "ANY_OWNED_FLEET코0"
+msgid "Any owned fleet by a country"
+msgstr "국가에 속하는 모든 함대"
+
+msgctxt "IS_COLONY코0"
+msgid "Is a Colony"
+msgstr "식민지임"
+
+msgctxt "ENERGY_NOT_TRIGGER코0"
+msgid "Energy is NOT $COMPARE$ $VAL|2Y$"
+msgstr "에너지가 $VAL|2Y$ $COMPARE$이 아님"
+
+msgctxt "ENERGY_TRIGGER코0"
+msgid "Energy is $COMPARE$ $VAL|2Y$"
+msgstr "에너지가 $VAL|2Y$ $COMPARE$"
+
+msgctxt "MINERALS_NOT_TRIGGER코0"
+msgid "Minerals are NOT $COMPARE$ $VAL|Y$"
+msgstr "광물이 $VAL|Y$ $COMPARE$이(가) 아님"
+
+msgctxt "MINERALS_TRIGGER코0"
+msgid "Minerals are $COMPARE$ $VAL|Y$"
+msgstr "광물이 $VAL|Y$ $COMPARE$"
+
+msgctxt "INFLUENCE_NOT_TRIGGER코0"
+msgid "Influence is NOT $COMPARE$ $VAL|0Y$"
+msgstr "영향력이 $VAL|0Y$ $COMPARE$이 아님"
+
+msgctxt "INFLUENCE_TRIGGER코0"
+msgid "Influence is $COMPARE$ $VAL|0Y$"
+msgstr "영향력이 $VAL|0Y$ $COMPARE$"
+
+msgctxt "UNITY_NOT_TRIGGER코0"
+msgid "Unity is NOT $COMPARE$ $VAL|0Y$"
+msgstr "통합력이 $VAL|0Y$ $COMPARE$이 아님"
+
+msgctxt "UNITY_TRIGGER코0"
+msgid "Unity is $COMPARE$ $VAL|0Y$"
+msgstr "통합력이 $VAL|0Y$ $COMPARE$"
+
+msgctxt "FLEET_POWER_NOT_TRIGGER코1"
+msgid "$FLEET_POWER$ is NOT $COMPARE$ $VAL|0Y$"
+msgstr "$FLEET_POWER$이(가) $VAL|0Y$ $COMPARE$이 아님"
+
+msgctxt "FLEET_POWER_TRIGGER코1"
+msgid "$FLEET_POWER$ is $COMPARE$ $VAL|0Y$"
+msgstr "$FLEET_POWER$이(가) $VAL|0Y$ $COMPARE$"
+
+msgctxt "FLEET_SIZE_NOT_TRIGGER코0"
+msgid "Fleet Size is NOT $COMPARE$ $VAL|0Y$"
+msgstr "함대 크기가 $VAL|0Y$ $COMPARE$이 아님"
+
+msgctxt "FLEET_SIZE_TRIGGER코0"
+msgid "Fleet Size is $COMPARE$ $VAL|0Y$"
+msgstr "함대 크기가 $VAL|0Y$ $COMPARE$"
+
+msgctxt "HABITABILITY_TRIGGER코0"
+msgid "Species $SPECIES|$ Habitability is $COMPARE$ $VAL|2Y$"
+msgstr "$SPECIES|$ 종족 거주 적합도가 $VAL|2Y$ $COMPARE$"
+
+msgctxt "HABITABILITY_NOT_TRIGGER코0"
+msgid "Species $SPECIES|$ Habitability is NOT $COMPARE$ $VAL|2Y$"
+msgstr "$SPECIES|$ 종족 거주 적합도가 $VAL|2Y$ $COMPARE$이 아님"
+
+msgctxt "HAS_BUILDING코0"
+msgid "Has Building: $BUILDING|Y$"
+msgstr "\"건설됨 : $BUILDING|Y$\""
+
+msgctxt "HAS_NOT_BUILDING코0"
+msgid "Does NOT Have Building: $BUILDING|Y$"
+msgstr "\"건설 되지 않음 : $BUILDING|Y$\""
+
+msgctxt "HAS_BUILDING_CONSTRUCTION코0"
+msgid "Has construction of building: $BUILDING|Y$"
+msgstr "\"건설 중인 건물 : $BUILDING|Y$\""
+
+msgctxt "HAS_NOT_BUILDING_CONSTRUCTION코0"
+msgid "Does NOT have a construction of building: $BUILDING|Y$"
+msgstr "\"건설 중이지 않은 건물 : $BUILDING|Y$\""
+
+msgctxt "HAS_PREV_BUILDING코0"
+msgid "Previous building was: $BUILDING|Y$"
+msgstr "\"이전 건물 : $BUILDING|Y$\""
+
+msgctxt "HAS_NOT_PREV_BUILDING코0"
+msgid "Previous building was NOT: $BUILDING|Y$"
+msgstr "\"이전 건물이 아님 : $BUILDING|Y$\""
+
+msgctxt "OR_TRIGGER_STARTS코0"
+msgid "One must be true"
+msgstr "한가지는 사실이어야 함"
+
+msgctxt "AND_TRIGGER_STARTS코0"
+msgid "All must be true"
+msgstr "모든 조건이 참이어야 함"
+
+msgctxt "IS_IN_ALLIANCE코0"
+msgid "$COUNTRY|Y$ is part of an Alliance"
+msgstr "$COUNTRY|Y$는 동맹국에 속함"
+
+msgctxt "IS_NOT_IN_ALLIANCE코0"
+msgid "$COUNTRY|Y$ is NOT part of an Alliance"
+msgstr "$COUNTRY|Y$는 동맹국에 속하지 않음"
+
+msgctxt "IS_IN_FEDERATION코0"
+msgid "$COUNTRY|Y$ is part of a Federation"
+msgstr "$COUNTRY|Y$는 연방국에 속합니다"
+
+msgctxt "IS_NOT_IN_FEDERATION코0"
+msgid "$COUNTRY|Y$ is NOT part of a Federation"
+msgstr "$COUNTRY|Y$는 연방국에 속하지 않습니다"
+
+msgctxt "IS_FEDERATION_LEADER코0"
+msgid "$COUNTRY|Y$ is a Federation Leader"
+msgstr "$COUNTRY|Y$은(는) 연방 지도자임"
+
+msgctxt "IS_NOT_FEDERATION_LEADER코0"
+msgid "$COUNTRY|Y$ is NOT a Federation Leader"
+msgstr "$COUNTRY|Y$은(는) 연방 지도자가 아님"
+
+msgctxt "HAS_MINING_STATION코0"
+msgid "$PLANET|Y$ has a Mining Station"
+msgstr "$PLANET|Y$에 채광 스테이션이 있음"
+
+msgctxt "HAS_NO_MINING_STATION코0"
+msgid "$PLANET|Y$ has no Mining Station"
+msgstr "$PLANET|Y$에 채광 스테이션이 없음"
+
+msgctxt "HAS_RESEARCH_STATION코0"
+msgid "$PLANET|Y$ has a Research Station"
+msgstr "$PLANET|Y$에 연구 스테이션이 있음"
+
+msgctxt "HAS_NO_RESEARCH_STATION코0"
+msgid "$PLANET|Y$ has no Research Station"
+msgstr "$PLANET|Y$에 연구 스테이션이 없음"
+
+msgctxt "HAS_SPACE_STATION코0"
+msgid "$PLANET|Y$ has a Spaceport"
+msgstr "$PLANET|Y$에 우주항이 있음"
+
+msgctxt "HAS_NO_SPACE_STATION코0"
+msgid "$PLANET|Y$ has no Spaceport"
+msgstr "$PLANET|Y$에 우주항이 없음"
+
+msgctxt "ANY_SPACEPORT코0"
+msgid "Any spaceport"
+msgstr "모든 우주항"
+
+msgctxt "ANY_RESEARCH_STATION코0"
+msgid "Any Research Station"
+msgstr "모든 연구 스테이션"
+
+msgctxt "ANY_MINING_STATION코0"
+msgid "Any Mining Station"
+msgstr "모든 채광 스테이션"
+
+msgctxt "ANY_OBSERVATION_OUTPOST코0"
+msgid "Any Observation Post"
+msgstr "모든 관측소"
+
+msgctxt "ANY_SYSTEM코0"
+msgid "Any System"
+msgstr "모든 성계"
+
+msgctxt "ANY_SYSTEM_WITHIN_BORDERS코0"
+msgid "Any System within borders"
+msgstr "국경 안의 모든 행성계"
+
+msgctxt "IS_NOT_ARMY_TYPE코0"
+msgid "Army is not type $TYPE|Y$"
+msgstr "군대가 $TYPE|Y$ 유형이 아님"
+
+msgctxt "IS_ARMY_TYPE코0"
+msgid "Army is type $TYPE|Y$"
+msgstr "군대가 $TYPE|Y$ 유형임"
+
+msgctxt "HAS_ARMY코0"
+msgid "Has army"
+msgstr "군대를 가지고 있음"
+
+msgctxt "HAS_NO_ARMY코0"
+msgid "Has no army"
+msgstr "군대를 가지고 있지 않음"
+
+msgctxt "HAS_DEPOSIT코0"
+msgid "Has deposit"
+msgstr "자원층이 형성되어 있음"
+
+msgctxt "HAS_NO_DEPOSIT코0"
+msgid "Has no deposit"
+msgstr "자원층이 형성되어 있지 않음"
+
+msgctxt "HAS_DEPOSIT_TYPE코0"
+msgid "Has deposit $TYPE|H$"
+msgstr "$TYPE|H$ 자원층이 형성되어 있음"
+
+msgctxt "HAS_NO_DEPOSIT_TYPE코0"
+msgid "Has no deposit $TYPE|H$"
+msgstr "$TYPE|H$ 자원층이 형성되어 있지 않음"
+
+msgctxt "IS_STARTING_SYSTEM코0"
+msgid "Is Starting System"
+msgstr "시작 성계임"
+
+msgctxt "IS_NOT_STARTING_SYSTEM코0"
+msgid "Is not starting System"
+msgstr "시작 성계가 아님"
+
+msgctxt "HAS_ADVISOR코0"
+msgid "$COUNTRY|Y$ Has an Advisor."
+msgstr "$COUNTRY|Y$은(는) 조언자가 있음"
+
+msgctxt "HAS_NOT_ADVISOR코0"
+msgid "$COUNTRY|Y$ Does Not have an Advisor."
+msgstr "$COUNTRY|Y$은(는) 조언자가 없음"
+
+msgctxt "HAS_GLOBAL_FLAG코0"
+msgid "Global Flag: $FLAG|Y$ Is Set"
+msgstr "세계 플래그 :$FLAG|Y$가 설정됨"
+
+msgctxt "HAS_NOT_GLOBAL_FLAG코0"
+msgid "Global Flag: $FLAG|Y$ Is Not Set"
+msgstr "세계 플래그 :$FLAG|Y$이 설정되지 않음"
+
+msgctxt "IS_ENSLAVED코0"
+msgid "Pop is enslaved"
+msgstr "POP이 노예화 됨"
+
+msgctxt "IS_NOT_ENSLAVED코0"
+msgid "Pop is NOT enslaved"
+msgstr "POP이 노예화되지 않음"
+
+msgctxt "IS_UNEMPLOYED코0"
+msgid "Pop is unemployed"
+msgstr "POP이 고용중입니다."
+
+msgctxt "IS_NOT_UNEMPLOYED코0"
+msgid "Pop is NOT unemployed"
+msgstr "POP이 고용중입니다."
+
+msgctxt "IS_BEING_PURGED코0"
+msgid "Pop is being Purged"
+msgstr "POP이 정화되고 있음"
+
+msgctxt "IS_NOT_BEING_PURGED코0"
+msgid "Pop is NOT being Purged"
+msgstr "POP이 정화되지 않고 있음"
+
+msgctxt "POP_HAPPINESS코0"
+msgid "Pop happiness is $COMPARE$ $VALUE|Y$"
+msgstr "POP 행복도가 $VALUE|Y$ $COMPARE$"
+
+msgctxt "POP_NOT_HAPPINESS코0"
+msgid "Pop happiness is NOT $COMPARE$ $VALUE|Y$"
+msgstr "POP 행복도가 $VALUE|Y$ $COMPARE$이 아님"
+
+msgctxt "POP_FERTILITY코0"
+msgid "Pop fertility is $COMPARE$ $VALUE|Y$"
+msgstr "POP 생식력 $VALUE|Y$ $COMPARE$"
+
+msgctxt "POP_NOT_FERTILITY코0"
+msgid "Pop fertility is NOT $COMPARE$ $VALUE|Y$"
+msgstr "POP 생식력 $VALUE|Y$ $COMPARE$이 아님"
+
+msgctxt "POP_JOB_TRIGGER코0"
+msgid "Pop job is $JOB$"
+msgstr "POP의 직업이 $JOB$임"
+
+msgctxt "POP_JOB_NOT_TRIGGER코0"
+msgid "Pop job is NOT $JOB$"
+msgstr "POP의 직업이 $JOB$가 아님"
+
+msgctxt "INCOME_TRIGGER코0"
+msgid "Monthly income is $COMPARE$ $VALUE|Y$"
+msgstr "월간 수입이 $VALUE|Y$ $COMPARE$"
+
+msgctxt "INCOME_NOT_TRIGGER코0"
+msgid "Monthly income is NOT $COMPARE$ $VALUE|Y$"
+msgstr "월간 수입이 $VALUE|Y$ $COMPARE$이 아님"
+
+msgctxt "EXPENSES_TRIGGER코0"
+msgid "Monthly expenses are $COMPARE$ $VALUE|Y$"
+msgstr "월간 지출이 $VALUE|Y$ $COMPARE$"
+
+msgctxt "EXPENSES_NOT_TRIGGER코0"
+msgid "Monthly expenses are NOT $COMPARE$ $VALUE|Y$"
+msgstr "월간 지출이 $VALUE|Y$ $COMPARE$이 아님"
+
+msgctxt "PRODUCED_ENERGY_TRIGGER코0"
+msgid "Monthly Produced energy is $COMPARE$ $VALUE|Y$"
+msgstr "월간 에너지 생산량이 $VALUE|Y$ $COMPARE$"
+
+msgctxt "PRODUCED_ENERGY_NOT_TRIGGER코0"
+msgid "Monthly produced energy is NOT $COMPARE$ $VALUE|Y$"
+msgstr "월간 에너지 생산량이 $VALUE|Y$ $COMPARE$이 아님"
+
+msgctxt "METALS_INCOME_TRIGGER코0"
+msgid "Monthly income from precious metals is $COMPARE$ $VALUE|Y$"
+msgstr "희귀 금속으로부터 월간 수입이 $VALUE|Y$ $COMPARE$"
+
+msgctxt "METALS_INCOME_NOT_TRIGGER코0"
+msgid "Monthly income from precious metals is NOT $COMPARE$ $VALUE|Y$"
+msgstr "희귀 금속으로부터 월간 수입이 $VALUE|Y$ $COMPARE$이 아님"
+
+msgctxt "TRADE_INCOME_TRIGGER코0"
+msgid "Monthly income from trade is $COMPARE$ $VALUE|Y$"
+msgstr "거래로부터 월간 수입이 $VALUE|Y$ $COMPARE$"
+
+msgctxt "TRADE_INCOME_NOT_TRIGGER코0"
+msgid "Monthly income from trade is NOT $COMPARE$ $VALUE|Y$"
+msgstr "거래로부터 월간 수입이 $VALUE|Y$ $COMPARE$이 아님"
+
+msgctxt "TRADE_EXPENSES_TRIGGER코0"
+msgid "Monthly expenses from trade are $COMPARE$ $VALUE|Y$"
+msgstr "거래로부터 월간 지출이 $VALUE|Y$ $COMPARE$"
+
+msgctxt "TRADE_EXPENSES_NOT_TRIGGER코0"
+msgid "Monthly expenses from trade are NOT $COMPARE$ $VALUE|Y$"
+msgstr "거래로부터 월간 지출이 $VALUE|Y$ $COMPARE$이 아님"
+
+msgctxt "SHIP_MAINTENANCE_TRIGGER코0"
+msgid "Monthly maintenance of Ships is $COMPARE$ $VALUE|Y$"
+msgstr "월간 함선 유지비가 $VALUE|Y$ $COMPARE$"
+
+msgctxt "SHIP_MAINTENANCE_NOT_TRIGGER코0"
+msgid "Monthly maintenance of Ships is NOT $COMPARE$ $VALUE|Y$"
+msgstr "월간 함선 유지비가 $VALUE|Y$ $COMPARE$이 아님"
+
+msgctxt "ARMY_MAINTENANCE_TRIGGER코0"
+msgid "Monthly maintenance of Armies is $COMPARE$ $VALUE|Y$"
+msgstr "월간 지상군 유지비가 $VALUE$ $COMPARE$"
+
+msgctxt "ARMY_MAINTENANCE_NOT_TRIGGER코0"
+msgid "Monthly maintenance of Armies is NOT $COMPARE$ $VALUE|Y$"
+msgstr "월간 지상군 유지비가 $VALUE$ $COMPARE$이 아님"
+
+msgctxt "COLONY_MAINTENANCE_TRIGGER코0"
+msgid "Monthly maintenance of colonies is $COMPARE$ $VALUE|Y$"
+msgstr "월간 식민지 유지비가 $VALUE$ $COMPARE$"
+
+msgctxt "COLONY_MAINTENANCE_NOT_TRIGGER코0"
+msgid "Monthly maintenance of colonies is NOT $COMPARE$ $VALUE|Y$"
+msgstr "월간 식민지 유지비가 $VALUE$ $COMPARE$이 아님"
+
+msgctxt "STATION_MAINTENANCE_TRIGGER코0"
+msgid "Monthly maintenance of stations is $COMPARE$ $VALUE|Y$"
+msgstr "월간 스테이션 유지비가 $VALUE$ $COMPARE$"
+
+msgctxt "STATION_MAINTENANCE_NOT_TRIGGER코0"
+msgid "Monthly maintenance of station is NOT $COMPARE$ $VALUE|Y$"
+msgstr "월간 스테이션 유지비가 $VALUE$ $COMPARE$이 아님"
+
+msgctxt "CONSTRUCTION_EXPENSES_TRIGGER코0"
+msgid "Last month's construction expenses are $COMPARE$ $VALUE|Y$"
+msgstr "지난달의 건설 지출이 $VALUE$ $COMPARE$"
+
+msgctxt "CONSTRUCTION_EXPENSES_NOT_TRIGGER코0"
+msgid "Last month's construction expenses are not $COMPARE$ $VALUE|Y$"
+msgstr "지난달의 건설 지출이 $VALUE$ $COMPARE$이 아님"
+
+msgctxt "FEDERATION_EXPENSES_TRIGGER코0"
+msgid "Last month's federation expenses are $COMPARE$ $VALUE|Y$"
+msgstr "지난 달의 연방 지출이 $VALUE$ $COMPARE$"
+
+msgctxt "FEDERATION_EXPENSES_NOT_TRIGGER코0"
+msgid "Last month's federation expenses are not $COMPARE$ $VALUE|Y$"
+msgstr "지난 달의 연방 지출이 $VALUE$ $COMPARE$이 아님"
+
+msgctxt "REPARATION_EXPENSES_TRIGGER코0"
+msgid "Last month's repair expenses are $COMPARE$ $VALUE|Y$"
+msgstr "지난달 월간 수리 지출이 $VALUE|Y$ $COMPARE$"
+
+msgctxt "REPARATION_EXPENSES_NOT_TRIGGER코0"
+msgid "Last month's repair expenses are not $COMPARE$ $VALUE|Y$"
+msgstr "지난달 월간 수리 지출이 $VALUE|Y$ $COMPARE$이 아님"
+
+msgctxt "HAS_ANOMALY코0"
+msgid "Has an Anomaly"
+msgstr "이상 현상을 가지고 있음"
+
+msgctxt "HAS_NOT_ANOMALY코0"
+msgid "Does NOT have an Anomaly"
+msgstr "이상 현상을 가지고 있지 않음"
+
+msgctxt "STORED_TECH_POINTS_TRIGGER코0"
+msgid "The amount of $AREA$ research is $COMPARE$ $VALUE|Y$"
+msgstr " $AREA$연구의 연구량이 $VALUE|Y$ $COMPARE$"
+
+msgctxt "STORED_TECH_POINTS_NOT_TRIGGER코0"
+msgid "The amount of $AREA$ research is NOT $COMPARE$ $VALUE|Y$"
+msgstr " $AREA$연구의 연구량이 $VALUE|Y$ $COMPARE$이 아님"
+
+msgctxt "BALANCE_TRIGGER코0"
+msgid "Country balance is $COMPARE$ $VALUE|Y$"
+msgstr "국가 균형도가 $VALUE|Y$ $COMPARE$"
+
+msgctxt "BALANCE_NOT_TRIGGER코0"
+msgid "Country balance is NOT $COMPARE$ $VALUE|Y$"
+msgstr "국가 균형도가 $VALUE|Y$ $COMPARE$이 아님"
+
+msgctxt "RUNNING_BALANCE_TRIGGER코0"
+msgid "Country running balance is $COMPARE$ $VALUE|Y$"
+msgstr "국가 운영 균형도가 $VALUE|Y$ $COMPARE$"
+
+msgctxt "RUNNING_BALANCE_NOT_TRIGGER코0"
+msgid "Country running balance is NOT $COMPARE$ $VALUE|Y$"
+msgstr "국가 운영 균형도가 $VALUE|Y$ $COMPARE$이 아님"
+
+msgctxt "IS_ORIGINAL_OWNER코0"
+msgid "Is original owner of $PLANET$"
+msgstr "$PLANET$의 원래 소유자임"
+
+msgctxt "IS_NOT_ORIGINAL_OWNER코0"
+msgid "Is NOT original owner of $PLANET$"
+msgstr "$PLANET$의 원래 소유자가 아님"
+
+msgctxt "IS_SAME_PLANET코0"
+msgid "Is same planet as $OTHER$"
+msgstr " $OTHER$와(과) 같은 행성임"
+
+msgctxt "IS_NOT_SAME_PLANET코0"
+msgid "Is NOT same planet as $OTHER$"
+msgstr "$OTHER$와(과) 같은 행성이 아님"
+
+msgctxt "IS_SAME_COUNTRY코0"
+msgid "Is same country as $OTHER$"
+msgstr "$OTHER$와(과) 같은 국가임"
+
+msgctxt "IS_NOT_SAME_COUNTRY코0"
+msgid "Is NOT same country as $OTHER$"
+msgstr "$OTHER$와(과) 같은 국가가 아님"
+
+msgctxt "IS_SAME_ARMY코0"
+msgid "Is same army as $OTHER$"
+msgstr "$OTHER$와(과) 같은 군대임"
+
+msgctxt "IS_NOT_SAME_ARMY코0"
+msgid "Is NOT same army as $OTHER$"
+msgstr "$OTHER$와(과) 같은 군대가 아님"
+
+msgctxt "IS_SAME_SHIP코0"
+msgid "Is same ship as $OTHER$"
+msgstr "$OTHER$와(과) 같은 함선임"
+
+msgctxt "IS_NOT_SAME_SHIP코0"
+msgid "Is NOT same ship as $OTHER$"
+msgstr "$OTHER$와(과) 같은 함선이 아님"
+
+msgctxt "IS_SAME_POP코0"
+msgid "Is same pop as $OTHER$"
+msgstr "$OTHER$와(과) 같은 POP임"
+
+msgctxt "IS_NOT_SAME_POP코0"
+msgid "Is NOT same pop as $OTHER$"
+msgstr "$OTHER$와(과) 같은 POP이 아님"
+
+msgctxt "HAS_EVENT_CHAIN_TRIGGER코0"
+msgid "Has the $NAME|Y$ Event Chain"
+msgstr "$NAME|Y$ 이벤트 연계를 가지고 있음"
+
+msgctxt "HAS_NOT_EVENT_CHAIN_TRIGGER코0"
+msgid "Has the $NAME|Y$ Event Chain"
+msgstr "$NAME|Y$ 이벤트 연계를 가지고 있지 않음"
+
+msgctxt "IS_SPECIES_CLASS코0"
+msgid "Is a $SPECIES$"
+msgstr "$SPECIES$임"
+
+msgctxt "IS_NOT_SPECIES_CLASS코0"
+msgid "Is NOT a $SPECIES|Y$"
+msgstr "$SPECIES$이(가) 아님"
+
+msgctxt "IS_SPECIES코0"
+msgid "Is $SPECIES$"
+msgstr "$SPECIES$임"
+
+msgctxt "IS_NOT_SPECIES코0"
+msgid "Is NOT $SPECIES|Y$"
+msgstr "$SPECIES$이(가) 아님"
+
+msgctxt "HAS_OPINION_MODIFIER코0"
+msgid "Has opinion modifier $MODIFIER|Y$ of $COUNTRY|Y$"
+msgstr "$COUNTRY|Y$에 우호도 변동치  $MODIFIER|Y$을(를) 가지고 있음"
+
+msgctxt "HAS_NOT_OPINION_MODIFIER코0"
+msgid "Has NOT opinion modifier $MODIFIER|Y$ of $COUNTRY|Y$"
+msgstr "$COUNTRY|Y$에 우호도 변동치  $MODIFIER|Y$을(를) 가지고 있지 않음"
+
+msgctxt "HAS_OPINION_MODIFIER_ANY코0"
+msgid "Has opinion modifier $MODIFIER|Y$ of anyone"
+msgstr "다른 누군가에 대해 우호도 변동치 $MODIFIER|Y$을(를) 가지고 있음"
+
+msgctxt "HAS_NOT_OPINION_MODIFIER_ANY코0"
+msgid "Has NOT opinion modifier $MODIFIER|Y$ of anyone"
+msgstr "다른 누군가에 대해 우호도 변동치 $MODIFIER|Y$을(를) 가지고 있지 않음"
+
+msgctxt "HAS_ESTABLISHED_CONTACT_TRIGGER코0"
+msgid "Has established contact with $COUNTRY|Y$"
+msgstr "$COUNTRY|Y$와(과) 통신이 확립됨"
+
+msgctxt "HAS_NOT_ESTABLISHED_CONTACT_TRIGGER코0"
+msgid "Does NOT have contact with $COUNTRY|Y$"
+msgstr "$COUNTRY|Y$와(과) 통신이 확립되지 않음"
+
+msgctxt "SET_HOSTILITY코0"
+msgid "$COUNTRY|Y$ changes hostility to $HOSTILITY|Y$"
+msgstr "$COUNTRY|Y$이(가) 적대감을 $HOSTILITY|Y$로 바꿈"
+
+msgctxt "HAS_COMPLETED_EVENT_CHAIN_COUNTER_TRIGGER코0"
+msgid "Has completed $COUNTER|Y$ for $EVENTCHAIN$ Event Chain"
+msgstr "$EVENTCHAIN$ 연계 이벤트를 위해 $COUNTER|Y$을(를) 완료함"
+
+msgctxt "HAS_NOT_COMPLETED_EVENT_CHAIN_COUNTER_TRIGGER코0"
+msgid "Has NOT completed $COUNTER|Y$ for $EVENTCHAIN$ Event Chain"
+msgstr "$EVENTCHAIN$ 연계 이벤트를 위한 $COUNTER|Y$을(를) 완료하지 못함"
+
+msgctxt "HAS_PLANET_CLASS코0"
+msgid "Has §Y$CLASS$§! planet"
+msgstr "§Y$CLASS$§! 행성을 가지고 있음"
+
+msgctxt "HAS_NOT_PLANET_CLASS코0"
+msgid "Has NOT §Y$CLASS$§! planet"
+msgstr "§Y$CLASS$§! 행성을 가지고 있지 않음"
+
+msgctxt "IS_DISABLED_TRIGGER코0"
+msgid "Is Disabled"
+msgstr "폐쇄됨"
+
+msgctxt "IS_NOT_DISABLED_TRIGGER코0"
+msgid "Is NOT Disabled"
+msgstr "폐쇄되지 않음"
+
+msgctxt "HAS_DESIGN_TRIGGER코0"
+msgid "Has a ship design for $NAME$"
+msgstr "$NAME$을 위한 함선 설계가 있음"
+
+msgctxt "HAS_NOT_DESIGN_TRIGGER코0"
+msgid "Has NOT a ship design for $NAME$"
+msgstr "$NAME$을 위한 함선 설계가 없음"
+
+msgctxt "HAS_GROWN_POP_TRIGGER코0"
+msgid "Has a Grown Pop"
+msgstr "성장한 POP을 가지고 있음"
+
+msgctxt "HAS_NOT_GROWN_POP_TRIGGER코0"
+msgid "Does NOT have a Grown Pop"
+msgstr "성장한 POP을 가지고 있지 않음"
+
+msgctxt "HAS_POP_TRIGGER코0"
+msgid "Has a Pop"
+msgstr "POP을 가지고 있음"
+
+msgctxt "HAS_NOT_POP_TRIGGER코0"
+msgid "Does NOT have a Pop"
+msgstr "POP을 가지고 있지 않음"
+
+msgctxt "HAS_GROWING_POP_TRIGGER코0"
+msgid "Has a Growing Pop"
+msgstr "성장 중인 POP을 가지고 있음"
+
+msgctxt "HAS_NOT_GROWING_POP_TRIGGER코0"
+msgid "Does not have a Growing Pop"
+msgstr "성장 중인 POP을 가지고 있지 않음"
+
+msgctxt "HAS_RESOURCE_TRIGGER코0"
+msgid "Has $COMPARE$ $VALUE|Y$ $NAME|Y$"
+msgstr "$VALUE|Y$ $COMPARE$의 $NAME|Y$을(를) 가지고 있음"
+
+msgctxt "HAS_NOT_RESOURCE_TRIGGER코0"
+msgid "Does not have $COMPARE$ $VALUE|Y$ $NAME|Y$"
+msgstr "$VALUE|Y$ $COMPARE$의 $NAME|Y$을(를) 가지고 있지 않음"
+
+msgctxt "HAS_ANY_RESOURCE_TRIGGER코0"
+msgid "Has $COMPARE$ $VALUE|Y$ resources"
+msgstr "$VALUE|Y$ $COMPARE$의 자원을 가지고 있음"
+
+msgctxt "HAS_NOT_ANY_RESOURCE_TRIGGER코0"
+msgid "Does not have $COMPARE$ $VALUE|Y$ resources"
+msgstr "$VALUE|Y$ $COMPARE$의 자원을 가지고 있지 않음"
+
+msgctxt "ANY_NEIGHBORING_TILE_TRIGGER코0"
+msgid "Any Neighboring Tile"
+msgstr "모든 이웃하는 타일"
+
+msgctxt "ANY_TILE_TRIGGER코0"
+msgid "Any Tile"
+msgstr "\"모든 지역\""
+
+msgctxt "HAS_BLOCKER_TRIGGER코0"
+msgid "Has £blocker  Tile Blocker: $BLOCKER|Y$"
+msgstr "\"£blocker  타일 장애물이 있음 : $BLOCKER|Y$\""
+
+msgctxt "HAS_NOT_BLOCKER_TRIGGER코0"
+msgid "Does NOT have £blocker  Tile Blocker: $BLOCKER|Y$"
+msgstr "\"£blocker  타일 장애물이 없음 : $BLOCKER|Y$\""
+
+msgctxt "FREE_POP_TILES_TRIGGER코0"
+msgid "Number of Tiles for New Pops is $COMPARE$ $VALUE|Y$"
+msgstr "새 POP 위한 타일의 수가 $VALUE|Y$ $COMPARE$"
+
+msgctxt "FREE_POP_TILES_NOT_TRIGGER코0"
+msgid "Number of Tiles for New Pops is NOT $COMPARE$ $VALUE|Y$"
+msgstr "새 POP 위한 타일의 수가 $VALUE|Y$ $COMPARE$이 아님"
+
+msgctxt "FORTIFICATION_HEALTH_TRIGGER코0"
+msgid "Fortification Health is $COMPARE$ $VALUE|%0Y$"
+msgstr "방어시설 상태가 $VALUE|%0Y$ $COMPARE$"
+
+msgctxt "FORTIFICATION_HEALTH_NOT_TRIGGER코0"
+msgid "Fortification Health is NOT $COMPARE$ $VALUE|%0Y$"
+msgstr "방어시설 상태가 $VALUE|%0Y$ $COMPARE$이 아님"
+
+msgctxt "FREE_BUILDING_TILES_TRIGGER코0"
+msgid "Number of Tiles for New Buildings is $COMPARE$ $VALUE|Y$"
+msgstr "새 건물을 짓기 위한 타일이 $VALUE|Y$ $COMPARE$"
+
+msgctxt "FREE_BUILDING_TILES_NOT_TRIGGER코0"
+msgid "Number of Tiles for New Buildings is NOT $COMPARE$ $VALUE|Y$"
+msgstr "새 건물을 짓기 위한 타일이 $VALUE|Y$ $COMPARE$이 아님"
+
+msgctxt "HAS_RELATION_FLAG_TRIGGER코0"
+msgid "The $FLAGNAME$ Relation Flag against $COUNTRY$ is set"
+msgstr "$COUNTRY$에 대하여 $FLAGNAME$ 관계 플래그가 설정됨"
+
+msgctxt "HAS_NOT_RELATION_FLAG_TRIGGER코0"
+msgid "The $FLAGNAME$ Relation Flag against $COUNTRY$ is NOT set"
+msgstr "$COUNTRY$에 대하여 $FLAGNAME$ 관계 플래그가 설정되지 않음"
+
+msgctxt "REVERSE_HAS_RELATION_FLAG_TRIGGER코0"
+msgid "$COUNTRY$ has $FLAGNAME$ Relation Flag against $TARGET$ set"
+msgstr "$COUNTRY$는 $TARGET$에 대하여 $FLAGNAME$ 관계 플래그를 가짐"
+
+msgctxt "REVERSE_HAS_NOT_RELATION_FLAG_TRIGGER코0"
+msgid "$COUNTRY$ has $FLAGNAME$ Relation Flag against $TARGET$ NOT set"
+msgstr "$COUNTRY$는 $TARGET$에 대하여 $FLAGNAME$ 관계 플래그를 갖지 않음"
+
+msgctxt "EXISTS_TRIGGER코0"
+msgid "Exists"
+msgstr "존재함"
+
+msgctxt "EXISTS_NOT_TRIGGER코0"
+msgid "Does NOT Exist"
+msgstr "존재하지 않음"
+
+msgctxt "HAS_EDICT_TRIGGER코0"
+msgid "Has the $EDICT|Y$ Edict activated."
+msgstr "활성화된 $EDICT|Y$ 시행령을 가지고 있음"
+
+msgctxt "HAS_NOT_EDICT_TRIGGER코0"
+msgid "Does NOT have the $EDICT|Y$ Edict activated."
+msgstr "활성화된 $EDICT|Y$ 시행령을 가지고 있지 않음"
+
+msgctxt "PLANET_HAS_MOON코0"
+msgid "Has a Moon"
+msgstr "위성을 가지고 있음"
+
+msgctxt "PLANET_HAS_NOT_MOON코0"
+msgid "Does NOT have A Moon"
+msgstr "위성을 가지고 있지 않음"
+
+msgctxt "NUM_MOONS_TRIGGER코0"
+msgid "Number of moons are $COMPARE$ $VALUE|Y$"
+msgstr "위성의 수가 $VALUE|Y$ $COMPARE$"
+
+msgctxt "NUM_MOONS_NOT_TRIGGER코0"
+msgid "Number of moons are NOT $COMPARE$ $VALUE|Y$"
+msgstr "위성의 수가 $VALUE|Y$ $COMPARE$이 아님"
+
+msgctxt "ANY_MOON코0"
+msgid "Any Moon"
+msgstr "모든 위성"
+
+msgctxt "NUM_ADJACENT_TILES_TRIGGER코0"
+msgid "Num Adjacent Tiles is $COMPARE$ $VALUE|Y$"
+msgstr "인접한 타일 수가 $VALUE$ $COMPARE$"
+
+msgctxt "NUM_ADJACENT_TILES_NOT_TRIGGER코0"
+msgid "Num Adjacent Tiles is NOT $COMPARE$ $VALUE|Y$"
+msgstr "인접한 타일 수가 $VALUE$ $COMPARE$이 아님"
+
+msgctxt "IS_NOT_SAPIENT코0"
+msgid "Is NOT Sapient"
+msgstr "지성체가 아님"
+
+msgctxt "GRAPHICAL_CULTURE_TRIGGER코0"
+msgid "Graphical Culture is $CULTURE$"
+msgstr "그래픽 문화가 $CULTURE$임"
+
+msgctxt "GRAPHICAL_CULTURE_NOT_TRIGGER코0"
+msgid "Graphical Culture is NOT $CULTURE$"
+msgstr "그래픽 문화가 $CULTURE$이(가) 아님"
+
+msgctxt "PREVENTING_DISCOVERIES_TRIGGER코0"
+msgid "Is Preventing Anomalies"
+msgstr "이상 현상을 막고 있음"
+
+msgctxt "PREVENTING_DISCOVERIES_NOT_TRIGGER코0"
+msgid "Is NOT Preventing Anomalies"
+msgstr "이상 현상을 막고 있지 않음"
+
+msgctxt "HAS_DEPOSIT_FOR_TRIGGER코0"
+msgid "Has a deposit collected by $CLASS$"
+msgstr "$CLASS$ 만큼 착수금이 있음"
+
+msgctxt "HAS_NOT_DEPOSIT_FOR_TRIGGER코0"
+msgid "Does NOT have a deposit collected by $CLASS$"
+msgstr "$CLASS$ 만큼 착수금이 없음"
+
+msgctxt "COLONY_AGE_TRIGGER코0"
+msgid "Colony age is $COMPARE$ $VALUE|Y$ months"
+msgstr "식민지의 나이가 $VALUE|Y$달 $COMPARE$ "
+
+msgctxt "COLONY_AGE_NOT_TRIGGER코0"
+msgid "Colony age is NOT $COMPARE$ $VALUE|Y$ months"
+msgstr "식민지의 나이가 $VALUE|Y$달 $COMPARE$이 아님"
+
+msgctxt "IS_NOT_RIM_SYSTEM_TRIGGER코0"
+msgid "Is not on the galactic rim"
+msgstr "은하 가장자리에 속하지 않음"
+
+msgctxt "IS_RIM_SYSTEM_TRIGGER코0"
+msgid "Is on the galactic rim"
+msgstr "은하 가장자리에 속함"
+
+msgctxt "DOES_NOT_HAVE_MISSION코0"
+msgid "Does not have mission $MISSION$"
+msgstr "$MISSION$임무를 가지고 있지 않음"
+
+msgctxt "HAS_MISSION코0"
+msgid "Has mission $MISSION$"
+msgstr "$MISSION$임무를 가지고 있음"
+
+msgctxt "IS_COUNTRY_TYPE코0"
+msgid "Is of country type: $TYPE$"
+msgstr "다음 국가 형태를 띔 : $TYPE$"
+
+msgctxt "IS_NOT_COUNTRY_TYPE코0"
+msgid "Is NOT of country type: $TYPE$"
+msgstr "다음 국가 형태를 띄지 않음 : $TYPE$"
+
+msgctxt "HAS_NOT_PLANET_MODIFIER_TRIGGER코0"
+msgid "Has NOT planet modifier: $MODNAME$"
+msgstr "행성 변동치를 가지고 있지 않음 : $MODNAME$"
+
+msgctxt "HAS_PLANET_MODIFIER_TRIGGER코0"
+msgid "Has planet modifier: $MODNAME$"
+msgstr "행성 변동치를 가지고 있음 : $MODNAME$"
+
+msgctxt "SET_RIGHTS_EFFECT코0"
+msgid "Change $TYPE$ for $SPECIES|Y$ in $COUNTRY$ to $SETTING|Y$."
+msgstr "$COUNTRY$의 $SPECIES|Y$에 대한  $TYPE$을(를) $SETTING|Y$로 변경합니다."
+
+msgctxt "CREATE_SPACEPORT_EFFECT코0"
+msgid "Creates a spaceport with a $MODULE$ module"
+msgstr "$MODULE$ 모듈을 사용하여 우주항을 생성"
+
+msgctxt "SET_SPACEPORT_LEVEL_EFFECT코0"
+msgid "Sets the spaceport level to $LEVEL$"
+msgstr "우주항의 레벨을 $LEVEL$으로 설정"
+
+msgctxt "HAS_NUM_FLEETS코0"
+msgid "No of fleet $VAL0|2Y$ is $COMPARE$ $VAL1|2Y$"
+msgstr "함대의 수 $VAL0|2Y$이(가) $VAL1|2Y$ $COMPARE$"
+
+msgctxt "HAS_NUM_SHIPS코0"
+msgid "No of ships $VAL0|2Y$ is $COMPARE$ $VAL1|2Y$"
+msgstr "함선의 수 $VAL0|2Y$이(가) $VAL1|2Y$ $COMPARE$"
+
+msgctxt "HAS_NOT_NUM_FLEETS코0"
+msgid "No of fleet $VAL0|2Y$ is NOT $COMPARE$ $VAL1|2Y$"
+msgstr "함대의 수 $VAL0|2Y$이(가) $VAL1|2Y$ $COMPARE$이 아님"
+
+msgctxt "HAS_NOT_NUM_SHIPS코0"
+msgid "No of ships $VAL0|2Y$ is NOT $COMPARE$ $VAL1|2Y$"
+msgstr "함선의 수 $VAL0|2Y$이(가) $VAL1|2Y$ $COMPARE$이 아님"
+
+msgctxt "HAS_NUM_ARMIES코0"
+msgid "No of armies $VAL0|Y$ is $COMPARE$ $VAL1|Y$"
+msgstr "군대의 수 $VAL0|2Y$이(가) $VAL1|2Y$ $COMPARE$"
+
+msgctxt "HAS_NOT_NUM_ARMIES코0"
+msgid "No of armies $VAL0|Y$ is NOT $COMPARE$ $VAL1|Y$"
+msgstr "군대의 수 $VAL0|2Y$이(가) $VAL1|2Y$ $COMPARE$이 아님"
+
+msgctxt "HAS_NOT_PROGRESS코0"
+msgid "Mission progress $VAL0|2Y$ is NOT $COMPARE$ $VAL1|2Y$"
+msgstr "임무 진행도 $VAL0|2Y$이(가) $VAL1|2Y$ $COMPARE$이 아님"
+
+msgctxt "HAS_PROGRESS코0"
+msgid "Mission progress $VAL0|2Y$ is $COMPARE$ $VAL1|2Y$"
+msgstr "임무 진행도 $VAL0|2Y$이(가) $VAL1|2Y$ $COMPARE$"
+
+msgctxt "HAS_NOT_TRUCE_TRIGGER코0"
+msgid "$COUNTRY|Y$ does not have truce with $TARGET|Y$"
+msgstr "$COUNTRY|Y$은(는) $TARGET|Y$와(과) 휴전을 체결하지 않음"
+
+msgctxt "HAS_TRUCE_TRIGGER코0"
+msgid "$COUNTRY|Y$ has truce with $TARGET|Y$"
+msgstr "$COUNTRY|Y$은(는) $TARGET|Y$와(과) 휴전을 체결함"
+
+msgctxt "SET_LEADER_AGE_EFFECT코0"
+msgid "Change the age to $AGE|Y$"
+msgstr "\"$AGE|Y$로 나이 변경\""
+
+msgctxt "HAS_ACCESS_MILITARY코0"
+msgid "Has Military Access"
+msgstr "군사 통행권이 있음"
+
+msgctxt "HAS_NOT_ACCESS_MILITARY코0"
+msgid "Has NOT Military Access"
+msgstr "군사 통행권이 없음"
+
+msgctxt "HAS_ACCESS_CIVILIAN코0"
+msgid "Has Civilian Access"
+msgstr "민간 통행권이 있음"
+
+msgctxt "HAS_NOT_ACCESS_CIVILIAN코0"
+msgid "Has NOT Civilian Access"
+msgstr "민간 통행권이 없음"
+
+msgctxt "HAS_ACCESS_CONSTRUCTION코0"
+msgid "Has Construction Rights"
+msgstr "건설 권한이 있음"
+
+msgctxt "HAS_NOT_ACCESS_CONSTRUCTION코0"
+msgid "Has NOT Construction Rights"
+msgstr "건설 권한이 없음"
+
+msgctxt "POP_FACTION_MILITANCY_NOT_TRIGGER코0"
+msgid "Militancy is NOT $COMPARE$ $VAL0|0Y%$"
+msgstr "투쟁성이 $VAL0|0Y%$ $COMPARE$이 아님"
+
+msgctxt "POP_FACTION_MILITANCY_TRIGGER코0"
+msgid "Militancy is $COMPARE$ $VAL0|0Y$%"
+msgstr "투쟁성이 $VAL0|0Y%$ $COMPARE$"
+
+msgctxt "POP_FACTION_SUPPORT_NOT_TRIGGER코0"
+msgid "Support is NOT $COMPARE$ $VAL0|0Y%$"
+msgstr "지지도가 $VAL0|0Y%$ $COMPARE$이 아님"
+
+msgctxt "POP_FACTION_SUPPORT_TRIGGER코0"
+msgid "Support is $COMPARE$ $VAL0|0Y%$"
+msgstr "지지도가 $VAL0|0Y%$ $COMPARE$"
+
+msgctxt "ALLIANCE_NOT_TRIGGER코0"
+msgid "Does not have $COMPARE$ $VAL0|0Y%$ alliance members"
+msgstr "동맹 구성원이 $VAL0|0Y%$ $COMPARE$이 아님"
+
+msgctxt "ALLIANCE_TRIGGER코0"
+msgid "Has $COMPARE$ $VAL0|0Y%$ alliance members"
+msgstr "동맹 구성원이 $VAL0|0Y%$ $COMPARE$"
+
+msgctxt "VASSAL_NOT_TRIGGER코0"
+msgid "Does not have $COMPARE$ $VAL0|0Y%$ vassals"
+msgstr "속국 소유량이 $VAL0|0Y%$ $COMPARE$이 아님"
+
+msgctxt "VASSAL_TRIGGER코0"
+msgid "Has $COMPARE$ $VAL0|0Y%$ vassals"
+msgstr "속국 소유량이 $VAL0|0Y%$ $COMPARE$"
+
+msgctxt "HAS_NOT_OPPOSING_ETHICS_DIVERGENCE_TRIGGER코0"
+msgid "Does not have opposing ethics $COMPARE$ $VAL0|0Y%$ steps"
+msgstr "반대 윤리 단계가 $VAL0|0Y%$ $COMPARE$이 아님"
+
+msgctxt "HAS_OPPOSING_ETHICS_DIVERGENCE_TRIGGER코0"
+msgid "Has opposing ethics $COMPARE$ $VAL0|0Y%$ steps"
+msgstr "반대 윤리 단계가 $VAL0|0Y%$ $COMPARE$"
+
+msgctxt "IS_NOT_WAR_LEADER코0"
+msgid "Is not war leader"
+msgstr "전쟁 지도자가 아님"
+
+msgctxt "IS_WAR_LEADER코0"
+msgid "Is war leader"
+msgstr "전쟁 지도자임"
+
+msgctxt "NUM_COMMUNICATIONS_TRIGGER코0"
+msgid "Number of communications is $COMPARE$ $VALUE$"
+msgstr "외교 관계 수가 $VALUE$ $COMPARE$"
+
+msgctxt "NUM_COMMUNICATIONS_NOT_TRIGGER코0"
+msgid "Number of communications is NOT $COMPARE$ $VALUE$"
+msgstr "외교 관계 수가 $VALUE$ $COMPARE$이 아님"
+
+msgctxt "NUM_FALLEN_EMPIRES_TRIGGER코0"
+msgid "Number of Fallen Empires is $COMPARE$ $VALUE$"
+msgstr "몰락 제국의 수가 $VALUE$ $COMPARE$"
+
+msgctxt "NUM_FALLEN_EMPIRES_NOT_TRIGGER코0"
+msgid "Number of Fallen Empires is NOT $COMPARE$ $VALUE$"
+msgstr "몰락 제국의 수가 $VALUE$ $COMPARE$이 아님"
+
+msgctxt "MONTHLY_INCOME_TRIGGER코0"
+msgid "Monthly $RESOURCE$ Income is $COMPARE$ $VALUE$"
+msgstr "월간 $RESOURCE$ 수입이 $VALUE$ $COMPARE$ "
+
+msgctxt "MONTHLY_INCOME_NOT_TRIGGER코0"
+msgid "Monthly $RESOURCE$ Income is NOT $COMPARE$ $VALUE$"
+msgstr "월간 $RESOURCE$ 수입이 $VALUE$ $COMPARE$이 아님"
+
+msgctxt "COUNT_TECH_OPTIONS_TRIGGER코0"
+msgid "Number of Tech Options is $NOT$$COMPARE$ $VALUE$"
+msgstr "기술 옵션 수가 $NOT$$VALUE$ $COMPARE$"
+
+msgctxt "COUNT_TECH_OPTIONS_AREA_TRIGGER코0"
+msgid "Number of Tech Options in $AREA$ is $NOT$$COMPARE$ $VALUE$"
+msgstr "$AREA$에서 기술 옵션 수가 $NOT$$VALUE$ $COMPARE$"
+
+msgctxt "LAST_INCREASED_TECH_TRIGGER코0"
+msgid "The last increased tech is$NOT$ $TECH$ Level $COMPARE$ $LEVEL$"
+msgstr "마지막으로 발전한 기술이 $NOT$ $TECH$ $LEVEL$ 레벨 $COMPARE$"
+
+msgctxt "WAR_DEMAND_COUNTER_TRIGGER코0"
+msgid "$TYPE$ is$NOT$ $COMPARE$ $VALUE$"
+msgstr "$TYPE$이 $NOT$$VALUE$ $COMPARE$"
+
+msgctxt "IS_GUARANTEEING_TRIGGER코0"
+msgid "Is guaranteeing the independence of $COUNTRY|Y$"
+msgstr "$COUNTRY|Y$의 독립을 보장하고 있음"
+
+msgctxt "IS_NOT_GUARANTEEING_TRIGGER코0"
+msgid "Is NOT guaranteeing the independence of $COUNTRY|Y$"
+msgstr "$COUNTRY|Y$의 독립을 보장하고 있지 않음"
+
+msgctxt "IS_WAR_PARTICIPANT_TRIGGER코0"
+msgid "$COUNTRY|Y$ Is a war participant"
+msgstr "$COUNTRY|Y$은(는) 전쟁 참여자임"
+
+msgctxt "IS_NOT_WAR_PARTICIPANT_TRIGGER코0"
+msgid "$COUNTRY|Y$ Is NOT a war participant"
+msgstr "$COUNTRY|Y$은(는) 전쟁 참여자가 아님"
+
+msgctxt "IS_WAR_PARTICIPANT_SIDE_TRIGGER코0"
+msgid "$COUNTRY|Y$ Is a war participant on the $SIDE$ side"
+msgstr "$COUNTRY|Y$은(는) $SIDE$편 전쟁 참가자임"
+
+msgctxt "IS_NOT_WAR_PARTICIPANT_SIDE_TRIGGER코0"
+msgid "$COUNTRY|Y$ Is NOT a war participant on the $SIDE$ side"
+msgstr "$COUNTRY|Y$은(는) $SIDE$편 전쟁 참가자가 아님"
+
+msgctxt "IS_WAR_PARTICIPANT_SIDE_COUNTRY_TRIGGER코0"
+msgid "$COUNTRY|Y$ Is a war participant on the same side as $TARGET|Y$"
+msgstr "\"$COUNTRY|Y$은(는) 전쟁에 참가한 $TARGET|Y$와(과) 아군임"
+
+msgctxt "IS_NOT_WAR_PARTICIPANT_SIDE_COUNTRY_TRIGGER코0"
+msgid "$COUNTRY|Y$ Is NOT a war participant on the same side as $TARGET|Y$"
+msgstr "\"$COUNTRY|Y$은(는) 전쟁에 참가한 $TARGET|Y$와(과) 아군이 아님"
+
+msgctxt "IS_RUINED_TRIGGER코0"
+msgid "Building is Ruined"
+msgstr "건물이 파괴됨"
+
+msgctxt "IS_RUINED_NOT_TRIGGER코0"
+msgid "Building is NOT Ruined"
+msgstr "건물이 파괴되지 않음"
+
+msgctxt "ORBITAL_BOMBARDMENT_TRIGGER코0"
+msgid "Orbital bombardment is $STANCE|Y$"
+msgstr "궤도 폭격이 $STANCE|Y$임"
+
+msgctxt "ORBITAL_BOMBARDMENT_NOT_TRIGGER코0"
+msgid "Orbital bombardment is not $STANCE|Y$"
+msgstr "궤도 폭격이 $STANCE|Y$이 아님"
+
+msgctxt "HAS_MIGRATION_ACCESS_TRIGGER코0"
+msgid "Has migration access to $COUNTRY|Y$"
+msgstr "$COUNTRY|Y$로의 이주 허가를 가지고 있음"
+
+msgctxt "HAS_NOT_MIGRATION_ACCESS_TRIGGER코0"
+msgid "Has NOT migration access to $COUNTRY|Y$"
+msgstr "$COUNTRY|Y$로의 이주 허가를 가지고 있지 않음"
+
+msgctxt "GRANTS_MIGRATION_ACCESS_TRIGGER코0"
+msgid "Grants migration access"
+msgstr "이주 허가 부여함"
+
+msgctxt "NOT_GRANTS_MIGRATION_ACCESS_TRIGGER코0"
+msgid "Does NOT grant migration access"
+msgstr "이주 허가 부여하지 않음"
+
+msgctxt "TECH_RATIO_TRIGGER코0"
+msgid ""
+"The ratio of tech research between $COUNTRY|Y$ and $|FROMY$ is $COMPARE$ "
+"$VALUE|Y$"
+msgstr "$COUNTRY|Y$와(과) $|FROMY$의 기술 연구 비율이 $VALUE|Y$ $COMPARE$"
+
+msgctxt "TECH_RATIO_NOT_TRIGGER코0"
+msgid ""
+"The ratio of tech research between $COUNTRY|Y$ and $|FROMY$ is NOT $COMPARE$ "
+"$VALUE|Y$"
+msgstr "$COUNTRY|Y$와(과) $|FROMY$의 기술 연구 비율이 $VALUE|Y$ $COMPARE$이 아님"
+
+msgctxt "WOULD_JOIN_WAR_TRIGGER코0"
+msgid ""
+"If $ATTACKER|Y$ declared war on $DEFENDER|Y$, $COUNTRY|Y$ would join on the "
+"side of $SIDE|Y$"
+msgstr ""
+"\"만약 $ATTACKER|Y$가 $DEFENDER|Y$에게 전쟁을 선포한다면, $COUNTRY|Y$가 $SIDE|Y$의 편으로 참전할 "
+"것입니다\""
+
+msgctxt "WOULD_NOT_JOIN_WAR_TRIGGER코0"
+msgid ""
+"If $ATTACKER|Y$ declared war on $DEFENDER|Y$, $COUNTRY|Y$ would NOT join on "
+"the side of $SIDE|Y$"
+msgstr ""
+"\"만약 $ATTACKER|Y$가 $DEFENDER|Y$에게 전쟁을 선포하더라도, $COUNTRY|Y$가 $SIDE|Y$의 편으로 "
+"참전하지 않을 것입니다\""
+
+msgctxt "CAN_BE_SUBJECT코0"
+msgid "$SUBJECT|Y$ can be a $TYPE|Y$ under $OVERLORD|Y$"
+msgstr "\"$SUBJECT|Y$는 $OVERLORD|Y$에 종속된 $TYPE|Y$일 수 있습니다\""
+
+msgctxt "CAN_NOT_BE_SUBJECT코0"
+msgid "$SUBJECT|Y$ can NOT be a $TYPE|Y$ under $OVERLORD|Y$"
+msgstr "\"$SUBJECT|Y$는 $OVERLORD|Y$의 $TYPE|Y$이 아님\""
+
+msgctxt "IS_GROWING_TRIGGER코0"
+msgid "Is Growing"
+msgstr "\"성장 중임\""
+
+msgctxt "IS_NOT_GROWING_TRIGGER코0"
+msgid "Is NOT Growing"
+msgstr "\"성장 중이지 않음\""
+
+msgctxt "IS_COLONY_POP_TRIGGER코0"
+msgid "Is a Colony Pop"
+msgstr "\"개척지 POP임\""
+
+msgctxt "IS_COLONY_POP_NOT_TRIGGER코0"
+msgid "Is NOT a Colony Pop"
+msgstr "\"개척지 POP이 아님\""
+
+msgctxt "IS_ROBOT_POP_TRIGGER코0"
+msgid "Is a Robot Pop"
+msgstr "\"로봇 POP임\""
+
+msgctxt "IS_ROBOT_POP_NOT_TRIGGER코0"
+msgid "Is NOT a Robot Pop"
+msgstr "\"로봇 POP이 아님\""
+
+msgctxt "IS_NOT_OF_SUBJECT_TYPE_TRIGGER코0"
+msgid "Is NOT a $TYPE$"
+msgstr "$TYPE$이 아님"
+
+msgctxt "IS_OF_SUBJECT_TYPE_TRIGGER코0"
+msgid "Is a $TYPE$"
+msgstr "$TYPE$임"
+
+msgctxt "DOES_NOT_HAVE_SKILL코0"
+msgid "Skill is NOT $COMPARE$ $VALUE|Y$"
+msgstr "스킬이 $VALUE$ $COMPARE$이 아님"
+
+msgctxt "HAS_SKILL코0"
+msgid "Skill is $COMPARE$ $VALUE|Y$"
+msgstr "스킬이 $VALUE$ $COMPARE$"
+
+msgctxt "DOES_NOT_HAVE_EXPERIENCE코0"
+msgid "Experience NOT $COMPARE$ $VALUE|2Y$"
+msgstr "경험치가 $VALUE|2Y$ $COMPARE$이 아님"
+
+msgctxt "HAS_EXPERIENCE코0"
+msgid "Experience $COMPARE$ $VALUE|2Y$"
+msgstr "경험치 $VALUE|2Y$ $COMPARE$"
+
+msgctxt "HAS_NOT_COLONY_PROGRESS코0"
+msgid "Colony progress NOT $COMPARE$ $VALUE|Y$"
+msgstr "식민 진행도가 $VALUE$ $COMPARE$이 아님"
+
+msgctxt "HAS_COLONY_PROGRESS코0"
+msgid "Colony progress $COMPARE$ $VALUE|Y$"
+msgstr "식민지 진행도가 $VALUE$ $COMPARE$"
+
+msgctxt "CHECK_POP_FACTION_PARAMETER_NOT_TRIGGER코0"
+msgid "Pop Faction Parameter $KEY$ != $VALUE$"
+msgstr "인구 파벌 한도 $KEY$ != $VALUE$"
+
+msgctxt "CHECK_POP_FACTION_PARAMETER_TRIGGER코0"
+msgid "Pop Faction Parameter $KEY$ == $VALUE$"
+msgstr "인구 파벌 한도 $KEY$ == $VALUE$"
+
+msgctxt "WAR_BEGUN_FLEETS_GONE_MIA_TRIGGER코0"
+msgid ""
+"Number of fleets gone MIA for $COUNTRY$ when war was declared is $COMPARE$ "
+"$VALUE$"
+msgstr "$COUNTRY$이(가) 전쟁을 선포했을때 실종된 함대 수가 $VALUE$ $COMPARE$"
+
+msgctxt "WAR_BEGUN_FLEETS_GONE_MIA_NOT_TRIGGER코0"
+msgid ""
+"Number of fleets gone MIA for $COUNTRY$ when war was declared is NOT "
+"$COMPARE$ $VALUE$"
+msgstr "$COUNTRY$이(가) 전쟁을 선포했을때 실종된 함대 수가 $VALUE$ $COMPARE$이 아님"
+
+msgctxt "WAR_BEGUN_NUM_WORMHOLE_STATIONS_DESTROYED_TRIGGER코0"
+msgid ""
+"Number of wormhole stations belonging to $COUNTRY$ that were destroyed when "
+"when war was declared is $COMPARE$ $VALUE$"
+msgstr "전쟁을 선포했을시 파괴될 $COUNTRY$의 웜홀 스테이션이 $VALUE$ $COMPARE$"
+
+msgctxt "WAR_BEGUN_NUM_WORMHOLE_STATIONS_DESTROYED_NOT_TRIGGER코0"
+msgid ""
+"Number of wormhole stations belonging to $COUNTRY$ that were destroyed when "
+"war was declared is NOT $COMPARE$ $VALUE$"
+msgstr "전쟁을 선포했을시 파괴될 $COUNTRY$의 웜홀 스테이션이 $VALUE$ $COMPARE$이 아님"
+
+msgctxt "HAS_NOT_DEFENSIVE_PACT_TRIGGER코0"
+msgid "Does NOT have a defensive pact with $OTHER$"
+msgstr "$OTHER$와(과) 방위 조약을 체결하지 않음"
+
+msgctxt "HAS_DEFENSIVE_PACT_TRIGGER코0"
+msgid "Has a defensive pact with $OTHER$"
+msgstr "$OTHER$와(과) 방위 조약을 체결함"
+
+msgctxt "CAN_NOT_CONTROL_ACCESS_FOR_TRIGGER코0"
+msgid "Cannot control access towards $TARGET|Y$"
+msgstr "$TARGET|Y$을(를) 통행할 수없음"
+
+msgctxt "CAN_CONTROL_ACCESS_FOR_TRIGGER코0"
+msgid "Can control access towards $TARGET|Y$"
+msgstr "$TARGET|Y$을(를) 통행할 수없음"
+
+msgctxt "HAS_NOT_EMPIRE_UNIQUE_BUILDING코0"
+msgid "Has NOT empire unique building"
+msgstr "제국 특별 건물을 가지고 있지 않음"
+
+msgctxt "HAS_EMPIRE_UNIQUE_BUILDING코0"
+msgid "Has empire unique building"
+msgstr "제국 특별 건물을 가지고 있음"
+
+msgctxt "HAS_FORCED_OPEN_BORDERS코0"
+msgid "Has forced open borders towards $COUNTRY|Y$"
+msgstr "$COUNTRY|Y$에 국경을 개방하도록 강요함"
+
+msgctxt "HAS_FORCED_CLOSED_BORDERS코0"
+msgid "Has forced closed borders towards $COUNTRY|Y$"
+msgstr "$COUNTRY|Y$에 국경을 폐쇄하도록 강요함"
+
+msgctxt "HAS_NON_AGGRESSION_PACT_NOT_TRIGGER코0"
+msgid "Does NOT have a Non-Aggression Pact with $COUNTRY|Y$"
+msgstr "$COUNTRY|Y$와(과) 불가침 조약을 체결하지 않음"
+
+msgctxt "HAS_NON_AGGRESSION_PACT_TRIGGER코0"
+msgid "Has a Non-Aggression Pact with $COUNTRY|Y$"
+msgstr "$COUNTRY|Y$와(과) 불가침 조약을 체결함"
+
+msgctxt "HAS_ASSOCIATION_STATUS_NOT_TRIGGER코0"
+msgid "Does NOT have Federation Association Status with $COUNTRY|Y$"
+msgstr "$COUNTRY|Y$와(과) 연합 협력 중이지 않음\n"
+
+msgctxt "HAS_ASSOCIATION_STATUS_TRIGGER코0"
+msgid "Has Federation Association Status with $COUNTRY|Y$"
+msgstr "$COUNTRY|Y$와(과) 연합 협력 중임\n"
+
+msgctxt "HAS_CLOSED_BORDERS_NOT_TRIGGER코0"
+msgid "Has NOT closed their borders towards $COUNTRY|Y$"
+msgstr "$COUNTRY|Y$에게 국경을 폐쇄하지 않음"
+
+msgctxt "HAS_CLOSED_BORDERS_TRIGGER코0"
+msgid "Has closed their borders towards $COUNTRY|Y$"
+msgstr "$COUNTRY|Y$에게 국경을 폐쇄함"
+
+msgctxt "PLANET_HAPPINESS코0"
+msgid "Average planet happiness $COMPARE$ $VALUE|2Y$"
+msgstr "평균 행성 행복도가 $VALUE|2Y$ $COMPARE$"
+
+msgctxt "PLANET_NOT_HAPPINESS코0"
+msgid "Average planet happiness NOT $COMPARE$ $VALUE|2Y$"
+msgstr "평균 행성 행복도가 $VALUE|2Y$ $COMPARE$이 아님"
+
+msgctxt "PLANET_NOT_ETHOS코0"
+msgid "Average ethos divergence on planet NOT $COMPARE$ $VALUE|2Y$"
+msgstr "평균 행성 윤리관 분리도가 $VALUE|2Y$ $COMPARE$이 아님"
+
+msgctxt "PLANET_ETHOS코0"
+msgid "Average ethos divergence on planet $COMPARE$ $VALUE|2Y$"
+msgstr "평균 행성 윤리관 분리도가 $VALUE|2Y$ $COMPARE$"
+
+msgctxt "HAS_NOT_HP_PERCENTAGE코0"
+msgid "Hitpoints is NOT $COMPARE$ $VALUE|2Y$"
+msgstr "내구도가  $VALUE|2Y$ $COMPARE$이 아님"
+
+msgctxt "HAS_HP_PERCENTAGE코0"
+msgid "Hitpoints is $COMPARE$ $VALUE|2Y$"
+msgstr "내구도가  $VALUE|2Y$ $COMPARE$"
+
+msgctxt "CAN_JOIN_FACTIONS_NOT_TRIGGER코0"
+msgid "Is NOT able to join a faction"
+msgstr "파벌에 참여할 수 없음"
+
+msgctxt "CAN_JOIN_FACTIONS_TRIGGER코0"
+msgid "Is able to join a faction"
+msgstr "파벌에 참여할 수 있음"
+
+msgctxt "IS_CUSTOM_CAPITAL_LOCATION_NOT_TRIGGER코0"
+msgid "Is NOT a custom capital location"
+msgstr "전통적인 수도 지역이 아님"
+
+msgctxt "IS_CUSTOM_CAPITAL_LOCATION_TRIGGER코0"
+msgid "Is a custom capital location"
+msgstr "전통적인 수도 지역임"
+
+msgctxt "NUM_SPECIES_NOT_TRIGGER코0"
+msgid "Number of species is NOT $COMPARATOR$ $NUM|Y$"
+msgstr "종족의 수는 $NUM|Y$ $COMPARATOR$가 아님"
+
+msgctxt "NUM_SPECIES_TRIGGER코0"
+msgid "Number of species is $COMPARATOR$ $NUM|Y$"
+msgstr "종족의 수는 $NUM|Y$ $COMPARATOR$ 임"
+
+msgctxt "NUM_SPECIES_UNIQUE_NOT_TRIGGER코0"
+msgid "Number of unique species is NOT $COMPARATOR$ $NUM|Y$"
+msgstr "특별한 종족의 수는 $NUM|Y$ $COMPARATOR$가 아님"
+
+msgctxt "NUM_SPECIES_UNIQUE_TRIGGER코0"
+msgid "Number of unique species is $COMPARATOR$ $NUM|Y$"
+msgstr "특별한 종족의 수는 $NUM|Y$ $COMPARATOR$ 임"
+
+msgctxt "COUNT_SPECIES_NOT_TRIGGER코0"
+msgid ""
+"Number of species (excluding sub-species) according to the criteria is NOT "
+"$COMPARATOR$ $NUM|Y$"
+msgstr "기준에 따르는 종의 수(하위 종 제외)가 $NUM|Y$ $COMPARATOR$가 아님"
+
+msgctxt "COUNT_SPECIES_TRIGGER코0"
+msgid ""
+"Number of species (excluding sub-species) according to the criteria is "
+"$COMPARATOR$ $NUM|Y$"
+msgstr "기준에 따르는 종의 수(하위 종 제외)가 $NUM|Y$ $COMPARATOR$임"
+
+msgctxt "COUNT_EXACT_SPECIES_NOT_TRIGGER코0"
+msgid ""
+"Number of species (including sub-species) according to the criteria is NOT "
+"$COMPARATOR$ $NUM|Y$"
+msgstr "기준에 따르는 종의 수(하위 종 포함)가 $NUM|Y$ $COMPARATOR$가 아님"
+
+msgctxt "COUNT_EXACT_SPECIES_TRIGGER코0"
+msgid ""
+"Number of species (including sub-species) according to the criteria is "
+"$COMPARATOR$ $NUM|Y$"
+msgstr "기준에 따르는 종의 수(하위 종 포함)가 $NUM|Y$ $COMPARATOR$임"
+
+msgctxt "HAS_NOT_NUM_COUNTRIES코0"
+msgid "Number of Empires is NOT $COMPARATOR$ $NUM|Y$"
+msgstr "제국의 수가 $NUM|Y$ $COMPARATOR$ 가 아님"
+
+msgctxt "HAS_NUM_COUNTRIES코0"
+msgid "Number of Empires is $COMPARATOR$ $NUM|Y$"
+msgstr "제국의 수가 $NUM|Y$ $COMPARATOR$ 임"
+
+msgctxt "HAS_NOT_POP_PERCENTAGE코0"
+msgid "Number of Pops is NOT $COMPARATOR$ $NUM|Y%$"
+msgstr "POP의 수가 $COMPARATOR$ $NUM|Y%$ 가 아님"
+
+msgctxt "HAS_POP_PERCENTAGE코0"
+msgid "Number of Pops is $COMPARATOR$ $NUM|Y%$"
+msgstr "POP의 수가 $COMPARATOR$ $NUM|Y%$ 임"
+
+msgctxt "HAS_NOT_MIGRATION_TREATY코0"
+msgid "Does NOT have a migration treaty with $COUNTRY|Y$"
+msgstr "$COUNTRY|Y$로의 이주 허가를 가지고 있지 않음"
+
+msgctxt "HAS_MIGRATION_TREATY코0"
+msgid "Has a migration treaty with $COUNTRY|Y$"
+msgstr "$COUNTRY|Y$ 로의 이주 허가를 가지고 있음"
+
+msgctxt "HAS_PRESENCE코0"
+msgid "Has any fleets, stations, megastructures or colonized planets"
+msgstr "함선, 스테이션, 거대 구조물 혹은 식민지 행성을 가지고 있음"
+
+msgctxt "HAS_NO_PRESENCE코0"
+msgid ""
+"Does NOT have any fleets, stations, megastructures or colonized planets"
+msgstr "함선, 스테이션, 거대 구조물 혹은 식민지 행성을 가지고 있지 않음"
+
+msgctxt "HAS_MEGASTRUCTURE코0"
+msgid "Has megastructure $TYPE|Y$\""
+msgstr "거대 구조물 $TYPE|Y$을 가지고 있음"
+
+msgctxt "HAS_NOT_MEGASTRUCTURE코0"
+msgid "Does not have megastructure $TYPE|Y$\""
+msgstr "거대 구조물 $TYPE|Y$을 가지고 있지 않음"
+
+msgctxt "NUM_ASCENSION_PERKS_NOT_TRIGGER코0"
+msgid "Number of Ascension Perks is NOT $COMPARATOR$ $NUM|Y$"
+msgstr "승천 특전의 수는 $NUM|Y$ $COMPARATOR$이(가) 아닙니다."
+
+msgctxt "NUM_ASCENSION_PERKS_TRIGGER코0"
+msgid "Number of Ascension Perks is $COMPARATOR$ $NUM|Y$"
+msgstr "승천 특전의 수는 $NUM|Y$ $COMPARATOR$입니다."
+
+msgctxt "NUM_ASCENSION_PERK_SLOTS_NOT_TRIGGER코0"
+msgid "Number of Ascension Perk Slots is NOT $COMPARATOR$ $NUM|Y$"
+msgstr "승천 특전 슬롯의 수는 $NUM|Y$ $COMPARATOR$이(가) 아닙니다."
+
+msgctxt "NUM_ASCENSION_PERK_SLOTS_TRIGGER코0"
+msgid "Number of Ascension Perk Slots is $COMPARATOR$ $NUM|Y$"
+msgstr "승천 특전 슬롯의 수는 $NUM|Y$ $COMPARATOR$입니다."
+
+msgctxt "NUM_SECTORS_TRIGGER코0"
+msgid "Number of Sectors is $COMPARATOR$ $NUM|Y$"
+msgstr "\"자치령의 수는 $NUM|Y$ $COMPARATOR$ 입니다\""
+
+msgctxt "NUM_SECTORS_NOT_TRIGGER코0"
+msgid "Number of Sectors is NOT $COMPARATOR$ $NUM|Y$"
+msgstr "자치령의 수는 $NUM|Y$ $COMPARATOR$이(가) 아님"
+
+msgctxt "NUM_RARE_TECHS_TRIGGER코0"
+msgid "Number of researched rare technologies is $COMPARATOR$ $NUM|Y$"
+msgstr "개발된 희귀 기술 수가 $NUM|Y$ $COMPARATOR$"
+
+msgctxt "NUM_RARE_TECHS_NOT_TRIGGER코0"
+msgid "Number of researched rare technologies is NOT $COMPARATOR$ $NUM|Y$"
+msgstr "개발된 희귀 기술 수가 $NUM|Y$ $COMPARATOR$이(가) 아님"
+
+msgctxt "SECTOR_CONTROLLED_TRIGGER코0"
+msgid "Is controlled by a sector"
+msgstr "자치령에게 통제됨"
+
+msgctxt "SECTOR_CONTROLLED_NOT_TRIGGER코0"
+msgid "Is NOT controlled by a sector"
+msgstr "자치령에게 통제되고 있지 않음"
+
+msgctxt "NUM_SECTORS_OVER_LIMIT_TRIGGER코0"
+msgid "Number of Sectors over limit is $COMPARATOR$ $NUM|Y$"
+msgstr "자치령 제한을 넘는 수가 $NUM|Y$ $COMPARATOR$"
+
+msgctxt "NUM_SECTORS_OVER_LIMIT_NOT_TRIGGER코0"
+msgid "Number of Sectors over limit is NOT $COMPARATOR$ $NUM|Y$"
+msgstr "자치령 제한을 넘는 수가 $NUM|Y$ $COMPARATOR$이(가) 아님"
+
+msgctxt "ORBITAL_TILE_NOT_TRIGGER코0"
+msgid "Is Not Orbital Tile"
+msgstr "궤도 타일이 아님"
+
+msgctxt "ORBITAL_TILE_TRIGGER코0"
+msgid "Is Orbital Tile"
+msgstr "궤도 타일임"
+
+msgctxt "SET_GRAPHICAL_CULTURE코0"
+msgid "Set $COUNTRY|Y$ graphical culture to $CULTURE$"
+msgstr "$CULTURE$에 $COUNTRY|Y$ 그래픽 문화를 설정"
+
+msgctxt "IS_NOT_RESEARCHING_TRIGGER코0"
+msgid "Is NOT Researching $AREA|Y$"
+msgstr "$AREA|Y$은(는) 조사 중이지 않음"
+
+msgctxt "IS_RESEARCHING_TRIGGER코0"
+msgid "Is Researching $AREA|Y$"
+msgstr "$AREA|Y$은(는) 조사 중임"
+
+msgctxt "IS_PREFERRED_WEAPONS_TRIGGER코0"
+msgid "Prefers $TYPE$ weapons."
+msgstr "$TYPE$ 무기를 선호합니다."
+
+msgctxt "IS_NOT_PREFERRED_WEAPONS_TRIGGER코0"
+msgid "Does NOT prefer $TYPE$ weapons."
+msgstr "$TYPE$ 무기를 선호하지 않습니다."
+
+msgctxt "NUM_KILLED_SHIPS_NOT_TRIGGER코0"
+msgid "Has NOT Killed $OPERATOR$$VALUE|Y$ Ships belonging to $TARGET|Y$"
+msgstr "$TARGET|Y$의 함선 $OPERATOR$$VALUE|Y$을 처치하지 않음"
+
+msgctxt "NUM_KILLED_SHIPS_TRIGGER코0"
+msgid "Has Killed $OPERATOR$$VALUE|Y$ Ships belonging to $TARGET|Y$"
+msgstr "$TARGET|Y$의 함선 $OPERATOR$$VALUE|Y$을 처치함"
+
+msgctxt "NUM_TAKEN_PLANETS_NOT_TRIGGER코0"
+msgid "Has NOT Taken $OPERATOR$$VALUE|Y$ Planets from $TARGET|Y$"
+msgstr "$TARGET|Y$의 $OPERATOR$$VALUE|Y$ 행성을 가져가지 않음"
+
+msgctxt "NUM_TAKEN_PLANETS_TRIGGER코0"
+msgid "Has Taken $OPERATOR$$VALUE|Y$ Planets from $TARGET|Y$"
+msgstr "$TARGET|Y$의 $OPERATOR$$VALUE|Y$ 행성을 가져감"
+
+msgctxt "TOOLTIP_OWNED_COUNT_SHIPS코0"
+msgid "Number of owned ships $OPERATOR$ $VALUE|Y$"
+msgstr "함선 수 $OPERATOR$$VALUE|Y$"
+
+msgctxt "TOOLTIP_COUNT_OWNED_SHIPS_WITH_LIMIT코0"
+msgid "Number of owned ships $OPERATOR$ $VALUE|Y$\n"
+"$LIMIT$"
+msgstr "보유한 함선 수$OPERATOR$ $VALUE|Y$\n"
+"$LIMIT$"
+
+msgctxt "TOOLTIP_COUNT_SHIPS코0"
+msgid "Number of ships in Galaxy $OPERATOR$ $VALUE|Y$"
+msgstr "성계에 있는 함선 수$OPERATOR$$VALUE|Y$"
+
+msgctxt "TOOLTIP_COUNT_SHIPS_WITH_LIMIT코0"
+msgid "Number of ships in Galaxy $OPERATOR$ $VALUE|Y$\n"
+"$LIMIT$"
+msgstr "성계에 있는 함선 수 $OPERATOR$ $VALUE|Y$\n"
+"$LIMIT$"
+
+msgctxt "CAN_CREATE_SECTOR_TRIGGER코0"
+msgid "Can create a new Sector with $PLANET|Y$ as Capital"
+msgstr "$PLANET|Y$을(를) 수도로 하여 새로운 자치령을 생성할 수 있음"
+
+msgctxt "CAN_NOT_CREATE_SECTOR_TRIGGER코0"
+msgid "Can NOT create a new Sector with $PLANET|Y$ as Capital"
+msgstr "$PLANET|Y$을(를) 수도로 하여 새로운 자치령을 생성할 수 없음"
+
+msgctxt "CAN_CHANGE_POLICY_TRIGGER코0"
+msgid "Can toggle $POLICY|Y$"
+msgstr "$POLICY|Y$을(를) 전환할 수 있음"
+
+msgctxt "CAN_NOT_CHANGE_POLICY_TRIGGER코0"
+msgid "Can NOT toggle $POLICY|Y$"
+msgstr "$POLICY|Y$을(를) 전환할 수 없음"
+
+msgctxt "IS_NOT_DISMISSIVE_TO_TOOLTIP코0"
+msgid "Is NOT Dismissive towards $TARGET|Y$."
+msgstr "$TARGET|Y$을(를) 무시하는 태도를 보이고 있지 않음"
+
+msgctxt "IS_DISMISSIVE_TO_TOOLTIP코0"
+msgid "Is Dismissive towards $TARGET|Y$."
+msgstr "$TARGET|Y$을(를) 무시하는 태도를 보이고 있음"
+
+msgctxt "IS_NOT_CUSTODIAL_TO_TOOLTIP코0"
+msgid "Is NOT Custodial towards $TARGET|Y$."
+msgstr "$TARGET|Y$을(를) 보호하는 태도를 보이고 있지 않음"
+
+msgctxt "IS_CUSTODIAL_TO_TOOLTIP코0"
+msgid "Is Custodial towards $TARGET|Y$."
+msgstr "$TARGET|Y$을(를) 보호하는 태도를 보이고 있음"
+
+msgctxt "IS_NOT_PATRONIZING_TO_TOOLTIP코0"
+msgid "Is NOT Patronizing towards $TARGET|Y$."
+msgstr "$TARGET|Y$에게 후원하는 태도를 보이고 있지 않음"
+
+msgctxt "IS_PATRONIZING_TO_TOOLTIP코0"
+msgid "Is Patronizing towards $TARGET|Y$."
+msgstr "$TARGET|Y$에게 후원하는 태도를 보이고 있음"
+
+msgctxt "IS_NOT_ENIGMATIC_TO_TOOLTIP코0"
+msgid "Is NOT Enigmatic towards $TARGET|Y$."
+msgstr "$TARGET|Y$에게 불가사의한 태도를 보이고 있지 않음"
+
+msgctxt "IS_ENIGMATIC_TO_TOOLTIP코0"
+msgid "Is Enigmatic towards $TARGET|Y$."
+msgstr "$TARGET|Y$에게 불가사의한 태도를 보이고 있음"
+
+msgctxt "IS_NOT_BERSERKER_TO_TOOLTIP코0"
+msgid "Is NOT Berserk towards $TARGET|Y$."
+msgstr "$TARGET|Y$에게 광포한 태도를 보이고 있지 않음"
+
+msgctxt "IS_BERSERKER_TO_TOOLTIP코0"
+msgid "Is Berserk towards $TARGET|Y$."
+msgstr "$TARGET|Y$에게 광포한 태도를 보이고 있음"
+
+msgctxt "IS_NOT_ANGRY_TO_TOOLTIP코0"
+msgid "Is NOT Angry towards $TARGET|Y$."
+msgstr "$TARGET|Y$에게 분노하는 태도를 보이고 있지 않음"
+
+msgctxt "IS_ANGRY_TO_TOOLTIP코0"
+msgid "Is Angry towards $TARGET|Y$."
+msgstr "$TARGET|Y$에게 분노하는 태도를 보이고 있음"
+
+msgctxt "IS_NOT_HOSTILE_TO_TOOLTIP코0"
+msgid "Is NOT Hostile towards $TARGET|Y$."
+msgstr "$TARGET|Y$에게 적대적인 태도를 보이고 있지 않음"
+
+msgctxt "IS_HOSTILE_TO_TOOLTIP코0"
+msgid "Is Hostile towards $TARGET|Y$."
+msgstr "$TARGET|Y$에게 적대적인 태도를 보이고 있음"
+
+msgctxt "IS_NOT_DOMINEERING_TO_TOOLTIP코0"
+msgid "Is NOT Domineering towards $TARGET|Y$."
+msgstr "$TARGET|Y$에게 지배하려는 태도를 보이고 있지 않음"
+
+msgctxt "IS_DOMINEERING_TO_TOOLTIP코0"
+msgid "Is Domineering towards $TARGET|Y$."
+msgstr "$TARGET|Y$에게 지배하려는 태도를 보이고 있음"
+
+msgctxt "IS_NOT_NEUTRAL_TO코0"
+msgid "Is NOT Neutral towards $TARGET|Y$."
+msgstr "$TARGET|Y$에게 중립적인 태도를 보이고 있지 않음"
+
+msgctxt "IS_NEUTRAL_TO_TOOLTIP코0"
+msgid "Is Neutral towards $TARGET|Y$."
+msgstr "$TARGET|Y$에게 중립적인 태도를 보이고 있음"
+
+msgctxt "IS_NOT_FRIENDLY_TO_TOOLTIP코0"
+msgid "Is NOT Friendly towards $TARGET|Y$."
+msgstr "$TARGET|Y$에게 우호적인 태도를 보이고 있지 않음"
+
+msgctxt "IS_FRIENDLY_TO_TOOLTIP코0"
+msgid "Is Friendly towards $TARGET|Y$."
+msgstr "$TARGET|Y$에게 우호적인 태도를 보이고 있음"
+
+msgctxt "IS_NOT_PROTECTIVE_TO_TOOLTIP코0"
+msgid "Is NOT Protective towards $TARGET|Y$."
+msgstr "$TARGET|Y$에게 보호하려는 태도를 보이고 있지 않음"
+
+msgctxt "IS_PROTECTIVE_TO_TOOLTIP코0"
+msgid "Is Protective towards $TARGET|Y$."
+msgstr "$TARGET|Y$에게 보호하려는 태도를 보이고 있음"
+
+msgctxt "IS_NOT_THREATENED_TO_TOOLTIP코0"
+msgid "Is NOT Threatened by $TARGET|Y$."
+msgstr "$TARGET|Y$에게 위협받는 태도를 보이고 있지 않음"
+
+msgctxt "IS_THREATENED_TO_TOOLTIP코0"
+msgid "Is Threatened by $TARGET|Y$."
+msgstr "$TARGET|Y$에게 위협받는 태도를 보이고 있음"
+
+msgctxt "IS_NOT_UNFRIENDLY_TO_TOOLTIP코0"
+msgid "Is NOT Unfriendly towards $TARGET|Y$."
+msgstr "$TARGET|Y$에게 불친절한 태도를 보이고 있지 않음"
+
+msgctxt "IS_UNFRIENDLY_TO_TOOLTIP코0"
+msgid "Is Unfriendly towards $TARGET|Y$."
+msgstr "$TARGET|Y$에게 불친절한 태도를 보이고 있음"
+
+msgctxt "IS_NOT_CORDIAL_TO_TOOLTIP코0"
+msgid "Is NOT Cordial towards $TARGET|Y$."
+msgstr "$TARGET|Y$에게 다정한 태도를 보이고 있지 않음"
+
+msgctxt "IS_CORDIAL_TO_TOOLTIP코0"
+msgid "Is Cordial towards $TARGET|Y$."
+msgstr "$TARGET|Y$에게 다정한 태도를 보이고 있음"
+
+msgctxt "IS_NOT_LOYAL_TO_TOOLTIP코0"
+msgid "Is NOT Loyal towards $TARGET|Y$."
+msgstr "$TARGET|Y$에게 충성스러운 태도를 보이고 있지 않음"
+
+msgctxt "IS_LOYAL_TO_TOOLTIP코0"
+msgid "Is Loyal towards $TARGET|Y$."
+msgstr "$TARGET|Y$에게 충성스러운 태도를 보이고 있음"
+
+msgctxt "IS_NOT_DISLOYAL_TO_TOOLTIP코0"
+msgid "Is NOT Disloyal towards $TARGET|Y$."
+msgstr "$TARGET|Y$에게 불충한 태도를 보이고 있지 않음"
+
+msgctxt "IS_DISLOYAL_TO_TOOLTIP코0"
+msgid "Is Disloyal towards $TARGET|Y$."
+msgstr "$TARGET|Y$에게 불충한 태도를 보이고 있음"
+
+msgctxt "IS_IN_ALLIANCE_WITH_TOOLTIP코0"
+msgid "Is in an Alliance with $TARGET|Y$"
+msgstr "$TARGET|Y$와(과) 동맹 중임"
+
+msgctxt "IS_NOT_IN_ALLIANCE_WITH_TOOLTIP코0"
+msgid "Is NOT in an Alliance with $TARGET|Y$"
+msgstr "$TARGET|Y$와(과) 동맹 중이지 않음"
+
+msgctxt "IS_RIVAL_TOOLTIP코0"
+msgid "Has declared $TARGET|Y$ as their Rival."
+msgstr "$TARGET|Y$을(를) 경쟁자로 선포함"
+
+msgctxt "IS_NOT_RIVAL_TOOLTIP코0"
+msgid "Has NOT declared $TARGET|Y$ as their Rival."
+msgstr " $TARGET|Y$을(를) 경쟁자로 선포하지 않음"
+
+msgctxt "IS_NEIGHBOR_OF코0"
+msgid "Is bordering $TARGET|Y$"
+msgstr "$TARGET|Y$와(과) 경계를 접하고 있음"
+
+msgctxt "IS_NOT_NEIGHBOR_OF코0"
+msgid "Is NOT bordering $TARGET|Y$"
+msgstr "$TARGET|Y$와(과) 경계를 접하고 있지 않음"
+
+msgctxt "IS_IN_FEDERATION_WITH_TOOLTIP코0"
+msgid "Is in a Federation with $TARGET|Y$"
+msgstr "$TARGET|Y$와(과) 연방 중임"
+
+msgctxt "IS_NOT_IN_FEDERATION_WITH_TOOLTIP코0"
+msgid "Is NOT in a Federation with $TARGET|Y$"
+msgstr "$TARGET|Y$와(과) 연방 중이지 않음"
+
+msgctxt "IS_OVERLORD_TO_TOOLTIP코0"
+msgid "Is Overlord to $TARGET|Y$"
+msgstr "$TARGET|Y$의 지배국임"
+
+msgctxt "IS_NOT_OVERLORD_TO_TOOLTIP코0"
+msgid "Is NOT Overlord to $TARGET|Y$"
+msgstr "$TARGET|Y$의 지배국이 아님"
+
+msgctxt "TRIGGER_IS_IRONMAN코0"
+msgid "Game is in Ironman mode."
+msgstr "철인 모드임"
+
+msgctxt "TRIGGER_IS_NOT_IRONMAN코0"
+msgid "Game is not in Ironman mode."
+msgstr "철인 모드가 아님"
+
+msgctxt "COUNT_DEPOSITS코0"
+msgid "Deposits $OPERATOR$$VALUE|Y$"
+msgstr "착수금 $OPERATOR$$VALUE|Y$"
+
+msgctxt "COUNT_DEPOSITS_OF_TYPE코0"
+msgid "$TYPE|Y$ Deposits $OPERATOR$$VALUE|Y$"
+msgstr "$TYPE|Y$ 착수금 $OPERATOR$$VALUE|Y$"
+
+msgctxt "HAS_GROUND_SUPPORT_STANCE코0"
+msgid "Has ground support stance $STANCE|Y$"
+msgstr "지상 지원이 $STANCE|Y$임"
+
+msgctxt "HAS_NOT_GROUND_SUPPORT_STANCE코0"
+msgid "Does NOT have ground support stance $STANCE|Y$"
+msgstr "지상 지원이 $STANCE|Y$이 아님"
+
+msgctxt "HAS_POLICY코0"
+msgid "Has policy $KEY|H$"
+msgstr "정책 $KEY|H$을 사용 중"
+
+msgctxt "HAS_NOT_POLICY코0"
+msgid "Does NOT have policy $KEY|H$"
+msgstr "정책 $KEY|H$을 사용 중이지 않음"
+
+msgctxt "TRIGGER_IS_BEING_REPAIRED코0"
+msgid "Is being Repaired"
+msgstr "수리중"
+
+msgctxt "TRIGGER_IS_NOT_BEING_REPAIRED코0"
+msgid "Is NOT being Repaired"
+msgstr "수리 중이지 않음"
+
+msgctxt "HAS_TRAIT코0"
+msgid "Has Trait $TRAIT|Y$"
+msgstr "$TRAIT|Y$ 특성을 가지고 있음"
+
+msgctxt "HAS_TRAIT_ICON_TIP코0"
+msgid "This option is available due to $WHO|H$ having the $TRAIT|Y$ Trait"
+msgstr "이 옵션은 $WHO|H$ 가 $TRAIT|Y$ 특성을 갖고 있기 때문에 사용 가능"
+
+msgctxt "ATTACKER_WAR_SCORE_LESS_THAN코0"
+msgid "Attacker War Score $VAL0|2Y$ less than $COMPARE$ $VAL1|2Y$"
+msgstr "공격자 전쟁 점수 $VAL0|2Y$ 는 $VAL1|2Y$ $COMPARE$ 보다 작음"
+
+msgctxt "ATTACKER_WAR_SCORE_AT_LEAST코0"
+msgid "Attacker War Score $VAL0|2Y$ at least $COMPARE$ $VAL1|2Y$"
+msgstr "공격자 전쟁 점수 $VAL0|2Y$는 $VAL1|2Y$ $COMPARE$ 보다 높음"
+
+msgctxt "DEFENDER_WAR_SCORE_LESS_THAN코0"
+msgid "Defender War Score $VAL0|2Y$ less than $COMPARE$ $VAL1|2Y$"
+msgstr "방어자 전쟁 점수 $VAL0|2Y$는 $VAL1|2Y$ $COMPARE$ 보다 작음"
+
+msgctxt "DEFENDER_WAR_SCORE_AT_LEAST코0"
+msgid "Defender War Score $VAL0|2Y$ at least $COMPARE$ $VAL1|2Y$"
+msgstr "방어자 전쟁 점수 $VAL0|2Y$ 는 $VAL1|2Y$ $COMPARE$ 보다 높음"
+
+msgctxt "OFF_WAR_SCORE_SUM_LESS_THAN코0"
+msgid "Offensive War Score Sum $VAL0|2Y$ less than $COMPARE$ $VAL1|2Y$"
+msgstr "공격자 전쟁 점수의 합 $VAL0|2Y$ 는 $VAL1|2Y$ $COMPARE$ 보다 작음"
+
+msgctxt "OFF_WAR_SCORE_SUM_AT_LEAST코0"
+msgid "Offensive War Score Sum $VAL0|2Y$ at least $COMPARE$ $VAL1|2Y$"
+msgstr "공격자 전쟁 점수의 합 $VAL0|2Y$ 는 $VAL1|2Y$ $COMPARE$ 보다 높음"
+
+msgctxt "DEF_WAR_SCORE_SUM_LESS_THAN코0"
+msgid "Defensive War Score Sum $VAL0|2Y$ less than $COMPARE$ $VAL1|2Y$"
+msgstr "방어자 전쟁 점수의 합 $VAL0|2Y$ 는 $VAL1|2Y$ $COMPARE$ 보다 작음"
+
+msgctxt "DEF_WAR_SCORE_SUM_AT_LEAST코0"
+msgid "Defensive War Score Sum $VAL0|2Y$ at least $COMPARE$ $VAL1|2Y$"
+msgstr "방어자 전쟁 점수의 합 $VAL0|2Y$ 는 $VAL1|2Y$ $COMPARE$ 보다 높음"
+
+msgctxt "GALAXY_PERCENTAGE_LESS_THAN코0"
+msgid "Galaxy percentage $VAL0|2Y$ less than $COMPARE$ $VAL1|2Y$"
+msgstr "은하 점령 비율 $VAL0|2Y$는 $VAL1|2Y$ $COMPARE$ 보다 작음"
+
+msgctxt "GALAXY_PERCENTAGE_AT_LEAST코0"
+msgid "Galaxy percentage $VAL0|2Y$ at least $COMPARE$ $VAL1|2Y$"
+msgstr "은하 점령 비율 $VAL0|2Y$는 $VAL1|2Y$ $COMPARE$ 보다 높음"
+
+msgctxt "SPECIES_PLANET_SLAVE_PERCENTAGE_LESS_THAN코0"
+msgid "$SPECIES$ planet slave percentage less than $COMPARE$ $VAL1|2Y$"
+msgstr "$SPECIES$ 행성 노예 비율은 $VAL1|2Y$ $COMPARE$보다 적습니다."
+
+msgctxt "SPECIES_PLANET_SLAVE_PERCENTAGE_AT_LEAST코0"
+msgid "$SPECIES$ planet slave percentage at least $COMPARE$ $VAL1|2Y$"
+msgstr "$SPECIES$ 행성 노예 비율은 $VAL1|2Y$ $COMPARE$보다 높거나 같습니다"
+
+msgctxt "HAS_SPACEPORT_MODULE코0"
+msgid "Spaceport has the $MODULE|Y$ module upgrade.\n"
+msgstr "우주항의 $MODULE|Y$ 모듈이 업그레이드 됨\n"
+
+msgctxt "HAS_NOT_SPACEPORT_MODULE코0"
+msgid "Spaceport does NOT have the $MODULE|Y$ module upgrade.\n"
+msgstr "우주항의 $MODULE|Y$ 모듈이 업그레이드 되지 않음\n"
+
+msgctxt "NOT_USES_PORTRAIT코0"
+msgid "Does not use Portrait '$PORTRAIT|Y$'"
+msgstr "'$PORTRAIT|Y$' 초상화를 사용하지 않음"
+
+msgctxt "USES_PORTRAIT코0"
+msgid "Uses Portrait '$PORTRAIT|Y$'"
+msgstr "'$PORTRAIT|Y$' 초상화를 사용함"
+
+msgctxt "HAS_NOT_FREE_SPACEPORT_MODULE_SLOT코0"
+msgid "Does NOT have a free spaceport module slot.\n"
+msgstr "우주 스테이션에 빈 모듈칸이 없습니다.\n"
+
+msgctxt "HAS_FREE_SPACEPORT_MODULE_SLOT코0"
+msgid "Has a free spaceport module slot.\n"
+msgstr "우주 스테이션에 빈 모듈칸이 있습니다.\n"
+
+msgctxt "IS_NOT_SPACEPORT_MODULE_SLOT_FREE코0"
+msgid "Spaceport module slot $SLOT|Y$ is occupied.\n"
+msgstr "우주항 모듈칸 $SLOT|Y$이 사용중입니다.\n"
+
+msgctxt "IS_SPACEPORT_MODULE_SLOT_FREE코0"
+msgid "Spaceport module slot $SLOT|Y$ is unoccupied.\n"
+msgstr "우주항 모듈칸 $SLOT|Y$은 비어있습니다.\n"
+
+msgctxt "CAN_NOT_BUILD_SPACEPORT_MODULE코0"
+msgid "Spaceport can NOT build the module $MODULE|Y$.\n"
+msgstr "우주 스테이션에  $MODULE|Y$ 모듈을 지을수 없습니다.\n"
+
+msgctxt "CAN_BUILD_SPACEPORT_MODULE코0"
+msgid "Spaceport can build the module $MODULE|Y$.\n"
+msgstr "우주 스테이션에  $MODULE|Y$ 모듈을 지을수 있습니다.\n"
+
+msgctxt "NOT_NUM_FREE_SPACEPORT_MODULE_SLOTS코0"
+msgid "Number of free spaceport module slots is NOT $COMPARATOR$ $NUM|Y$.\n"
+msgstr "우주 스테이션의 빈 모듈 수가 $NUM|Y$ $COMPARATOR$이(가) 아님\n"
+
+msgctxt "NUM_FREE_SPACEPORT_MODULE_SLOTS코0"
+msgid "Number of free spaceport module slots is $COMPARATOR$ $NUM|Y$.\n"
+msgstr "우주 스테이션의 빈 모듈 수가 $NUM|Y$ $COMPARATOR$\n"
+
+msgctxt "NOT_NUM_SPACEPORT_MODULES코0"
+msgid "Number of spaceport modules is NOT $COMPARATOR$ $NUM|Y$.\n"
+msgstr "우주항 모듈의 수가 $NUM|Y$ $COMPARATOR$이(가) 아님\n"
+
+msgctxt "NUM_SPACEPORT_MODULES코0"
+msgid "Number of spaceport modules is $COMPARATOR$ $NUM|Y$.\n"
+msgstr "우주항 모듈의 수가 $NUM|Y$ $COMPARATOR$\n"
+
+msgctxt "MAX_NAVAL_CAPACITY_TRIGGER코0"
+msgid "Naval Capacity is $COMPARATOR$ $NUM|Y$."
+msgstr "총 함대 수용력이 $NUM|Y$ $COMPARATOR$"
+
+msgctxt "MAX_NAVAL_CAPACITY_NOT_TRIGGER코0"
+msgid "Naval Capacity is NOT $COMPARATOR$ $NUM|Y$."
+msgstr "총 함대 수용력이 $NUM|Y$ $COMPARATOR$이(가) 아님"
+
+msgctxt "USED_NAVAL_CAPACITY_PERCENT_TRIGGER코0"
+msgid "Total Fleet Size is $COMPARATOR$ $NUM|Y%0$ of Naval Capacity."
+msgstr "총 함대 규모가 $NUM|Y%0$의 함대 수용력 $COMPARATOR$"
+
+msgctxt "USED_NAVAL_CAPACITY_PERCENT_NOT_TRIGGER코0"
+msgid "Total Fleet Size is NOT $COMPARATOR$ $NUM|Y%0$ of Naval Capacity."
+msgstr "총 함대 규모가 총 함대 수용력이 $NUM|Y%0$ $COMPARATOR$이(가) 아님"
+
+msgctxt "USED_NAVAL_CAPACITY_INTEGER_TRIGGER코0"
+msgid "Total Fleet Size is $COMPARATOR$ $NUM|Y$."
+msgstr "총 함대 크기가 $NUM|Y$ $COMPARATOR$"
+
+msgctxt "USED_NAVAL_CAPACITY_INTEGER_NOT_TRIGGER코0"
+msgid "Total Fleet Size is NOT $COMPARATOR$ $NUM|Y$."
+msgstr "총 함대 크기는 $NUM|Y$ $COMPARATOR$이(가) 아님"
+
+msgctxt "planet코0"
+msgid "Planet"
+msgstr "행성"
+
+msgctxt "HAS_SPACEPORT코0"
+msgid "Has a spaceport"
+msgstr "우주항을 가지고 있음"
+
+msgctxt "HAS_NOT_SPACEPORT코0"
+msgid "Does NOT have a spaceport"
+msgstr "우주항을 가지고 있지 않음"
+
+msgctxt "DOES_NOT_HAVE_TRAIT코0"
+msgid "Does NOT have trait: $TRAIT|Y$"
+msgstr "$TRAIT|Y$ 특성이 없음"
+
+msgctxt "CALC_TRUE_IF코0"
+msgid "If at least $AMOUNT$ of the following are true"
+msgstr "다음 중 적어도 $AMOUNT$는 존재할 경우"
+
+msgctxt "HAS_SPACEPORT_CONSTRUCTION_TRIGGER코0"
+msgid "Has a spaceport currently under construction\n"
+msgstr "우주항이 현재 건설 중\n"
+
+msgctxt "HAS_NOT_SPACEPORT_CONSTRUCTION_TRIGGER코0"
+msgid "Does NOT have a spaceport currently under construction\n"
+msgstr "우주항이 건설 중이지 않음\n"
+
+msgctxt "IS_RESEARCHING_TECHNOLOGY_TRIGGER코0"
+msgid "Is currently researching $TECHNOLOGY|Y$\n"
+msgstr "현재 $TECHNOLOGY|Y$을 연구 중\n"
+
+msgctxt "IS_NOT_RESEARCHING_TECHNOLOGY_TRIGGER코0"
+msgid "Is NOT currently researching $TECHNOLOGY|Y$\n"
+msgstr "현재 $TECHNOLOGY|Y$을 연구 중이지 않음\n"
+
+msgctxt "IS_NOT_SUBJECT_TRIGGER코0"
+msgid "Is NOT a subject of another Empire\n"
+msgstr "다른 제국의 종속국이 아님\n"
+
+msgctxt "IS_SUBJECT_TRIGGER코0"
+msgid "Is a subject of another Empire\n"
+msgstr "다른 제국의 종속국\n"
+
+msgctxt "IS_NOT_OVERLORD_TRIGGER코0"
+msgid "Is NOT an overlord of another Empire\n"
+msgstr "다른 제국의 지배국이 아님\n"
+
+msgctxt "IS_OVERLORD_TRIGGER코0"
+msgid "Is an overlord of another Empire\n"
+msgstr "다른 제국의 지배국\n"
+
+msgctxt "SET_CLOSED_BORDERS_EFFECT_CLOSED코0"
+msgid "Close borders for $TARGET|Y$"
+msgstr "$TARGET|Y$와(과) 국경을 폐쇄함"
+
+msgctxt "SET_CLOSED_BORDERS_EFFECT_OPEN코0"
+msgid "Open borders for $TARGET|Y$"
+msgstr "$TARGET|Y$와(과) 국경을 개방함"
+
+msgctxt "SET_CLOSED_BORDERS_EFFECT_CLOSED_FORCED코0"
+msgid "Force Close borders for $TARGET|Y$ for $TIME$"
+msgstr "$TARGET|Y$에  $TIME$동안 국경 폐쇄"
+
+msgctxt "SET_CLOSED_BORDERS_EFFECT_OPEN_FORCED코0"
+msgid "Forced Open borders for $TARGET|Y$ for $TIME$"
+msgstr "$TARGET|Y$에  $TIME$동안 국경 개방"
+
+msgctxt "ANY_SUBJECT코0"
+msgid "Any Subject"
+msgstr "아무 속국"
+
+msgctxt "ANY_PLAYABLE_COUNTRY코0"
+msgid "Any Playable Country"
+msgstr "플레이 가능한 아무 국가"
+
+msgctxt "IS_MEGASTRUCTURE_TYPE_TOOLTIP코0"
+msgid "Is of type $TYPE|H$"
+msgstr "$TYPE|H$ 유형입니다."
+
+msgctxt "IS_NOT_MEGASTRUCTURE_TYPE_TOOLTIP코0"
+msgid "Is NOT of type $TYPE|H$"
+msgstr "$TYPE|H$ 유형이 아닙니다."
+
+msgctxt "IS_NOT_UPGRADING_TOOLTIP코0"
+msgid "Is NOT Upgrading"
+msgstr "업그레이드 중이 아닙니다"
+
+msgctxt "IS_UPGRADING_TOOLTIP코0"
+msgid "Is Upgrading"
+msgstr "업그레이드 중입니다."
+
+msgctxt "TRIGGER_RELATIVE_FLEET_POWER코0"
+msgid "Relative Fleet Power is $COMPARE$ $VALUE$"
+msgstr "상대적인 함대 전력은 $VALUE$ $COMPARE$입니다."
+
+msgctxt "TRIGGER_RELATIVE_FLEET_CAPACITY코0"
+msgid "Relative Fleet Capacity is $COMPARE$ $VALUE$"
+msgstr "상대적인 함대 수용력이 $VALUE$ $COMPARE$입니다."
+
+msgctxt "TRIGGER_RELATIVE_TECHNOLOGY코0"
+msgid "Relative Technology Level is $COMPARE$ $VALUE$"
+msgstr "상대적인 기술레벨이 $VALUE$ $COMPARE$입니다."
+
+msgctxt "TRIGGER_RELATIVE_POWER코0"
+msgid "Relative Power is $COMPARE$ $VALUE$"
+msgstr "상대적인 전력이 $VALUE$ $COMPARE$입니다."
+
+msgctxt "TRIGGER_RELATIVE_FLEET_POWER_NOT코0"
+msgid "Relative Fleet Power is NOT $COMPARE$ $VALUE$"
+msgstr "상대적인 함대 전력이 $VALUE$ $COMPARE$이(가) 아닙니다."
+
+msgctxt "TRIGGER_RELATIVE_FLEET_CAPACITY_NOT코0"
+msgid "Relative Fleet Capacity is NOT $COMPARE$ $VALUE$"
+msgstr "상대적인 함대수용력이 $VALUE$ $COMPARE$이(가) 아닙니다."
+
+msgctxt "TRIGGER_RELATIVE_TECHNOLOGY_NOT코0"
+msgid "Relative Technology Level is NOT $COMPARE$ $VALUE$"
+msgstr "상대적인 기술레벨이 $VALUE$ $COMPARE$이(가) 아닙니다."
+
+msgctxt "TRIGGER_RELATIVE_POWER_NOT코0"
+msgid "Relative Power is NOT $COMPARE$ $VALUE$"
+msgstr "상대적인 전력이 $VALUE$ $COMPARE$이(가) 아닙니다."
+
+msgctxt "NOR_TRIGGER_STARTS코0"
+msgid "All must be false"
+msgstr "모두 해당되지 않음"
+
+msgctxt "NAND_TRIGGER_STARTS코0"
+msgid "One or more must be false"
+msgstr "하나 이상이 해당되지 않음"
+
+msgctxt "HAS_FORMER_CITIZENSHIP_TYPE코0"
+msgid "Former citizenship type was: $SPECIES_RIGHT|Y$"
+msgstr "이전 시민권 유형은 다음과 같습니다: $SPECIES_RIGHT|Y$"
+
+msgctxt "HAS_NOT_FORMER_CITIZENSHIP_TYPE코0"
+msgid "Former citizenship type was NOT: $SPECIES_RIGHT|Y$"
+msgstr "이전 시민권 유형이 다음이 아닙니다: $SPECIES_RIGHT|Y$"
+
+msgctxt "HAS_FORMER_LIVING_STANDARD_TYPE코0"
+msgid "Former living standard type was: $SPECIES_RIGHT|Y$"
+msgstr "이전 생활 수준 유형 다음과 같습니다: $SPECIES_RIGHT|Y$"
+
+msgctxt "HAS_NOT_FORMER_LIVING_STANDARD_TYPE코0"
+msgid "Former living standard type was NOT: $SPECIES_RIGHT|Y$"
+msgstr "이전 생활 수준 유형은 다음이 아닙니다: $SPECIES_RIGHT|Y$"
+
+msgctxt "HAS_FORMER_MILITARY_SERVICE_TYPE코0"
+msgid "Former military service type was: $SPECIES_RIGHT|Y$"
+msgstr "이전 병역 유형은 다음과 같습니다: $SPECIES_RIGHT|Y$"
+
+msgctxt "HAS_NOT_FORMER_MILITARY_SERVICE_TYPE코0"
+msgid "Former military service type was NOT: $SPECIES_RIGHT|Y$"
+msgstr "이전 병역 유형은 다음이 아닙니다: $SPECIES_RIGHT|Y$"
+
+msgctxt "HAS_FORMER_POPULATION_CONTROL_TYPE코0"
+msgid "Former population control type was: $SPECIES_RIGHT|Y$"
+msgstr "이전 인구 제한 유형은 다음과 같습니다: $SPECIES_RIGHT|Y$"
+
+msgctxt "HAS_NOT_FORMER_POPULATION_CONTROL_TYPE코0"
+msgid "Former population control type was NOT: $SPECIES_RIGHT|Y$"
+msgstr "이전 인구 제한 유형은 다음이 아닙니다: $SPECIES_RIGHT|Y$"
+
+msgctxt "HAS_FORMER_MIGRATION_CONTROL_TYPE코0"
+msgid "Former migration control type was: $SPECIES_RIGHT|Y$"
+msgstr "이전 이민 통제 유형은 다음과 같습니다: $SPECIES_RIGHT|Y$"
+
+msgctxt "HAS_NOT_FORMER_MIGRATION_CONTROL_TYPE코0"
+msgid "Former migration control type was NOT: $SPECIES_RIGHT|Y$"
+msgstr "이전 이민 통제 유형은 다음이 아닙니다: $SPECIES_RIGHT|Y$"
+
+msgctxt "HAS_FORMER_SLAVERY_TYPE코0"
+msgid "Former slavery type was: $SPECIES_RIGHT|Y$"
+msgstr "이전 노예제 유형은 다음과 같습니다: $SPECIES_RIGHT|Y$"
+
+msgctxt "HAS_NOT_FORMER_SLAVERY_TYPE코0"
+msgid "Former slavery type was NOT: $SPECIES_RIGHT|Y$"
+msgstr "이전 노예제 유형은 다음이 아닙니다: $SPECIES_RIGHT|Y$"
+
+msgctxt "HAS_FORMER_PURGE_TYPE코0"
+msgid "Former purge type was: $SPECIES_RIGHT|Y$"
+msgstr "이전 정화 방식은 다음과 같습니다: $SPECIES_RIGHT|Y$"
+
+msgctxt "HAS_NOT_FORMER_PURGE_TYPE코0"
+msgid "Former purge type was NOT: $SPECIES_RIGHT|Y$"
+msgstr "이전 정화 방식은 다음이 아닙니다: $SPECIES_RIGHT|Y$"
+
+msgctxt "TRIGGER_HAS_INVALID_CIVIC코1"
+msgid "Has inactive Government Civic: $CIVIC|Y$"
+msgstr "다음과 같은 비활성화된 정부 사회 제도를 갖고 있습니다: $CIVIC|Y$"
+
+msgctxt "TRIGGER_HAS_NOT_INVALID_CIVIC코0"
+msgid "Does NOT have inactive Government Civic: $CIVIC|Y$"
+msgstr "다음과 같은 비활성화된 정부 사회 제도를 갖고 있지 않습니다: $CIVIC|Y$"
+
+msgctxt "TRIGGER_HAS_VALID_CIVIC코2"
+msgid "Has Government Civic: $CIVIC|Y$"
+msgstr "다음과 같은 정부 사회 제도를 갖고 있습니다: $CIVIC|Y$"
+
+msgctxt "TRIGGER_HAS_NOT_VALID_CIVIC코0"
+msgid "Does NOT have Government Civic: $CIVIC|Y$"
+msgstr "다음과 같은 정부 사회 제도를 갖고 있지 않습니다: $CIVIC|Y$"
+
+msgctxt "SET_ASTEROID_BELT_EFFECT코0"
+msgid "Asteroid belt set in $SYSTEM$ at the distance of $DISTANCE|0$"
+msgstr "소행성대는 $DISTANCE|0$의 거리의 $SYSTEM$에 있습니다."
+
+msgctxt "REMOVED_ASTEROID_BELT_EFFECT코0"
+msgid "Removed asteroid belt in $SYSTEM$"
+msgstr "$SYSTEM$에 있는 소행성대 제거됨"
+
+msgctxt "REMOVE_PLANET코0"
+msgid "Removed planet $PLANET$"
+msgstr "행성 $PLANET$ 제거됨"
+
+msgctxt "REMOVE_ARMY_EFFECT코0"
+msgid "Remove Army"
+msgstr "육군 제거"
+
+msgctxt "REMOVE_ARMIES_EFFECT코0"
+msgid "Remove All Armies"
+msgstr "모든 육군들 제거"
+
+msgctxt "DEFAULT_SENDEVENT_EVENTOPTION_TOOLTIP코0"
+msgid ""
+msgstr "\"\""
+
+msgctxt "ALL_PLANETS코0"
+msgid "All System Planets"
+msgstr "\"행성계 내의 모든 행성\""
+
+msgctxt "ALL_OWNED_PLANETS코0"
+msgid "All Owned Planets"
+msgstr "\"소유한 모든 행성\""
+
+msgctxt "ADD_ENERGY_EFFECT코1"
+msgid "Energy Credits: £energy  $NUM$\n"
+msgstr "에너지 크레딧: £energy  $NUM$\n"
+
+msgctxt "RANDOM_LIST_EFFECT코0"
+msgid "§YOne of $SIZE$ options will happen:§!\n"
+msgstr "§Y$SIZE$ 중 하나의 옵션 발생:§!\n"
+
+msgctxt "RANDOM_EFFECT코0"
+msgid "§Y$CHANCE$%§! chance of "
+msgstr "§Y$CHANCE$%§! 확률의"
+
+msgctxt "NO_EFFECT코0"
+msgid "No Effect"
+msgstr "효과 없음"
+
+msgctxt "CREATE_FLEET_FROM_NAVAL_CAP_EFFECT코0"
+msgid "$COUNTRY|Y$ is given a fleet $PERC|Y%$ the size of its naval capacity."
+msgstr "$COUNTRY|Y$은(는) 그들의 함대 수용력의 $PERC|Y%$에 해당하는 함대를 받습니다."
+
+msgctxt "ADD_MINERALS_EFFECT코2"
+msgid "Minerals: £minerals  $NUM$\n"
+msgstr "광물: £minerals  $NUM$\n"
+
+msgctxt "ADD_FOOD_EFFECT코2"
+msgid "Food: £food  $NUM$\n"
+msgstr "식량: £food  $NUM$\n"
+
+msgctxt "ADD_PHYSICS_EFFECT코2"
+msgid "Physics Resources: £physics  $NUM$\n"
+msgstr "물리학 자원: £physics  $NUM$\n"
+
+msgctxt "ADD_SOCIETY_EFFECT코2"
+msgid "Society Resources: £society  $NUM$\n"
+msgstr "사회학 자원: £society  $NUM$\n"
+
+msgctxt "ADD_ENGINEERING_EFFECT코2"
+msgid "Engineering Resources: £engineering  $NUM$\n"
+msgstr "공학 자원: £engineering  $NUM$\n"
+
+msgctxt "ADD_UNITY_EFFECT코2"
+msgid "Unity: £unity  $NUM$\n"
+msgstr "통합력: £unity  $NUM$\n"
+
+msgctxt "ALL_WAR_DEFENDERS코0"
+msgid "All War Defenders"
+msgstr "\"모든 방어군\""
+
+msgctxt "ALL_WAR_ATTACKERS코0"
+msgid "All War Attackers"
+msgstr "\"모든 공격군\""
+
+msgctxt "GIVE_TECH_EFFECT코0"
+msgid "Technology Gained:\n"
+"$TECH|Y$\n"
+msgstr "기술 획득함:\n"
+"$TECH|Y$\n"
+
+msgctxt "ADD_RESEARCH_OPTION_EFFECT코0"
+msgid "Tech research option gained:\n"
+"$TECH|Y$\n"
+msgstr "기술 연구 옵션 획득:\n"
+"$TECH|Y$\n"
+
+msgctxt "ADD_TECH_PROGRESS_EFFECT코0"
+msgid "Tech progress gained:\n"
+"$TECH|Y$ §G+$VALUE|%1$§!\n"
+"\n"
+msgstr "기술 진행도 획득:\n"
+"$TECH|Y$ §G+$VALUE|%1$§!\n"
+
+msgctxt "ENABLE_SPECIAL_PROJECT코0"
+msgid "Issues Special Project: $PROJECT_NAME|Y$\n"
+msgstr "특별 프로젝트 활성화: $PROJECT_NAME|Y$\n"
+
+msgctxt "SET_OWNER_EFFECT코0"
+msgid "§Y$OWNER$§! becomes the new owner\n"
+msgstr "§Y$OWNER$§!이(가) 새로운 주인이 됨\n"
+
+msgctxt "SET_CONTROLLER_EFFECT코0"
+msgid "§Y$CONTROLLER$§! becomes controller\n"
+msgstr "§Y$CONTROLLER$§!이(가) 지배자가 됨\n"
+
+msgctxt "ADD_RESOURCE_EFFECT코0"
+msgid "$RESOURCE$ Gained: £$KEY$ $NUM$\n"
+msgstr "$RESOURCE$ 획득: £$KEY$ $NUM$\n"
+
+msgctxt "ADD_PHYSICS_RESEARCH_EFFECT코0"
+msgid "$VALUE$ Physics research\n"
+msgstr "$VALUE$ 물리학 연구\n"
+
+msgctxt "ADD_SOCIETY_RESEARCH_EFFECT코0"
+msgid "$VALUE$ Society research\n"
+msgstr "$VALUE$ 사회학 연구\n"
+
+msgctxt "ADD_ENGINEERING_RESEARCH_EFFECT코0"
+msgid "$VALUE$ Engineering research\n"
+msgstr "$VALUE$ 공학 연구\n"
+
+msgctxt "ADD_MODIFIER코0"
+msgid "$MODNAME|Y$ modifier added, giving the following effects: \n"
+"$EFFECT$\n"
+msgstr "$MODNAME|Y$ 변동치가 추가되어 다음과 같은 효과를 부여함:\n"
+"$EFFECT$\n"
+
+msgctxt "ADD_MODIFIER_DAYS코0"
+msgid ""
+"$MODNAME|Y$ modifier added for $TIME|Y$ $PERIOD$, giving the following "
+"effects: \n"
+"$EFFECT$\n"
+msgstr ""
+"$MODNAME|Y$ 변동치가 $TIME|Y$ $PERIOD$ 동안 추가되어, 다음과 같은 효과를 부여함: \n"
+"$EFFECT$\n"
+
+msgctxt "ADD_OPINION_MODIFIER코0"
+msgid "$SCOPE|Y$ adds the $MODNAME|Y$ opinion modifier towards $COUNTRY|Y$"
+msgstr "$SCOPE|Y$은(는) $COUNTRY|Y$에 대한 우호도 변동치 $MODNAME|Y$을(를) 추가함"
+
+msgctxt "REMOVE_OPINION_MODIFIER코0"
+msgid "$SCOPE|Y$ removes the $MODNAME|Y$ opinion modifier towards $COUNTRY|Y$"
+msgstr "$SCOPE|Y$은(는) $COUNTRY|Y$에 대한 우호도 변동치 $MODNAME|Y$을(를) 제거함"
+
+msgctxt "REMOVE_OPINION_MODIFIER_ANY코0"
+msgid "$SCOPE|Y$ removes the $MODNAME|Y$ opinion modifier towards anyone"
+msgstr "$SCOPE|Y$은(는) 모든 이들에 대해 우호도 변동치 $MODNAME|Y$을(를) 제거함"
+
+msgctxt "ADD_TRUST코0"
+msgid "$SCOPE|Y$'s trust towards $COUNTRY|Y$ changes by $AMOUNT$."
+msgstr "$SCOPE|Y$의 $COUNTRY|Y$에 대한 신뢰도가 $AMOUNT$만큼 변동함"
+
+msgctxt "THE_EMPIRE코0"
+msgid "our Empire!"
+msgstr "우리 제국!"
+
+msgctxt "ADD_MONTHLY_RESOURCE_MULT_EFFECT코0"
+msgid "$RESOURCE$ Gained: £$KEY$  $NUM|0Y$\n"
+msgstr "$RESOURCE$ 획득: £$KEY$  $NUM|0Y$\n"
+
+msgctxt "REMOVE_MONTHLY_RESOURCE_MULT_EFFECT코0"
+msgid "$RESOURCE$ Lost: £$KEY$  $NUM|0Y$\n"
+msgstr "$RESOURCE$ 손실: £$KEY$  $NUM|0Y$\n"
+
+msgctxt "DAYS코0"
+msgid "days"
+msgstr "\"일\""
+
+msgctxt "MONTHS코0"
+msgid "months"
+msgstr "\"달\""
+
+msgctxt "REMOVE_MODIFIER코0"
+msgid "$MODNAME|Y$ modifier removed\n"
+msgstr "$MODNAME|Y$ 변동치 제거됨\n"
+
+msgctxt "SET_FLAG코0"
+msgid "Set the $FLAGNAME|Y$ flag\n"
+msgstr "$FLAGNAME|Y$ 플래그 설정함\n"
+
+msgctxt "REMOVE_FLAG코0"
+msgid "Removes the $FLAGNAME|Y$ flag\n"
+msgstr "$FLAGNAME|Y$ 플래그 제거함\n"
+
+msgctxt "ALL_OWNED_SHIPS코0"
+msgid "§YAll Owned Ships:§!\n"
+msgstr "§Y모든 소유 함선:§!\n"
+
+msgctxt "SET_PRIMITIVE_EFFECT_YES코0"
+msgid "Set primitive status\n"
+msgstr "원시적 상태 설정\n"
+
+msgctxt "SET_PRIMITIVE_EFFECT_NO코0"
+msgid "Removes primitive status\n"
+msgstr "원시적 상태 제거\n"
+
+msgctxt "CREATE_POP코0"
+msgid "One Pop is created\n"
+msgstr "하나의 POP이 생성됨\n"
+
+msgctxt "BUILD_POP코0"
+msgid "One buildable Pop is built\n"
+msgstr "제작할 수 있는 POP이 하나 생성됨\n"
+
+msgctxt "MODIFY_DEVELOPMENT_POS코0"
+msgid "Increase infrastructure by $VALUE|Y$\n"
+msgstr "$VALUE|Y$만큼 사회 기반 시설을 증가시킴\n"
+
+msgctxt "MODIFY_DEVELOPMENT_NEG코0"
+msgid "Reduce infrastructure by $VALUE|Y$\n"
+msgstr "$VALUE|Y$만큼 사회 기반 시설을 감소시킴\n"
+
+msgctxt "CREATE_COLONY_EFFECT코0"
+msgid "A colony is created\n"
+msgstr "식민지가 생성됨\n"
+
+msgctxt "START_COLONY_EFFECT코0"
+msgid "Start a new colony\n"
+msgstr "새로운 식민지 하나를 시작함\n"
+
+msgctxt "ADD_COLONY_PROGRESS코0"
+msgid "Colony progress changed by $PROGRESS$\n"
+msgstr "$PROGRESS$만큼 식민화 진행도가 변경됨\n"
+
+msgctxt "SET_CAPITAL_EFFECT코0"
+msgid "Sets planet to capital of owner\n"
+msgstr "행성을 수도로 설정\n"
+
+msgctxt "SET_CAPITAL_REMOVE_EFFECT코0"
+msgid "Removes planet as capital of owner\n"
+msgstr "행성의 수도 기능 제거\n"
+
+msgctxt "CHANGE_PC_EFFECT코0"
+msgid "Change planet class to $CLASS|Y$\n"
+msgstr "행성 종류를 $CLASS|Y$으로 변경\n"
+
+msgctxt "KILL_POP_EFFECT코0"
+msgid "Dies\n"
+msgstr "사망합니다\n"
+
+msgctxt "RESETTLE_POP_EFFECT코0"
+msgid "Is resettled to $PLANET|Y$"
+msgstr " $PLANET|Y$에 재정착 함"
+
+msgctxt "ENSLAVE_POP_EFFECT코0"
+msgid "Enslaved\n"
+msgstr "노예화됨\n"
+
+msgctxt "EMANCIPATE_POP_EFFECT코0"
+msgid "Emancipated\n"
+msgstr "해방됨\n"
+
+msgctxt "DESTROY_COLONY_EFFECT코0"
+msgid "Destroys a colony\n"
+msgstr "식민지 하나를 파괴합니다\n"
+
+msgctxt "REROLL_BLOCKERS_EFFECT코0"
+msgid "Re-roll tile blockers\n"
+msgstr "타일 방해물들이 재구성됩니다\n"
+
+msgctxt "REROLL_DEPOSITS_EFFECT코0"
+msgid "Re-roll tile resources\n"
+msgstr "타일 자원들이 재구성됩니다\n"
+
+msgctxt "REROLL_PLANET_MODIFIERS_EFFECT코0"
+msgid "Re-roll planet modifiers\n"
+msgstr "행성 변동치들이 재구성됩니다\n"
+
+msgctxt "CLEAR_PLANET_MODIFIERS_EFFECT코0"
+msgid "Clear planet modifiers\n"
+msgstr "행성 변도치를 제거합니다\n"
+
+msgctxt "UNLOCKS_NEXT_TECH_TREE코0"
+msgid "Unlocks a technology in §Y$TREE$§!\n"
+msgstr "§Y$TREE$§! 기술 하나를 잠금해제합니다\n"
+
+msgctxt "ADD_EXPERIENCE코0"
+msgid "$LEADER$: Gains $AMOUNT|Y$ experience\n"
+msgstr "$LEADER$: $AMOUNT|Y$의 경험치를 얻습니다\n"
+
+msgctxt "ADD_SKILL코0"
+msgid "Skill level changed by $AMOUNT|Y$\n"
+msgstr "스킬 레벨이 $AMOUNT|Y$만큼 변합니다\n"
+
+msgctxt "SET_SKILL코0"
+msgid "Skill level set to $AMOUNT|Y$\n"
+msgstr "스킬 레벨이 $AMOUNT|Y$으로 변합니다\n"
+
+msgctxt "SET_RING_YES코0"
+msgid "Adds a ring around the planet\n"
+msgstr "행성 주위에 고리를 추가합니다\n"
+
+msgctxt "SET_RING_NO코0"
+msgid "Removes the ring around the planet\n"
+msgstr "행성 주위의 고리를 제거합니다\n"
+
+msgctxt "CREATE_MINING_STATION코0"
+msgid "Create a mining station\n"
+msgstr "채굴 스테이션을 건설합니다\n"
+
+msgctxt "CREATE_RESEARCH_STATION코0"
+msgid "Create a research station\n"
+msgstr "연구 스테이션을 건설합니다\n"
+
+msgctxt "CREATE_WORMHOLE_STATION코0"
+msgid "Create a wormhole station\n"
+msgstr "웜홀 중계기를 건설합니다\n"
+
+msgctxt "UNLOCKS_NEXT_TECH코0"
+msgid "Unlocks technology $TECH|Y$ in the $TREE|Y$ Tree.\n"
+msgstr "$TREE|Y$ 분야의 $TECH|Y$ 기술이 잠금해제됩니다.\n"
+
+msgctxt "ALL_OWNED_POPS코0"
+msgid "All Owned Pops:\n"
+msgstr "소유한 모든 POP:\n"
+
+msgctxt "CHANGE_NAME코0"
+msgid "Sets the name of the $SCOPE|Y$"
+msgstr "$SCOPE|Y$의 이름을 설정합니다"
+
+msgctxt "ADD_TECHNOLOGY코0"
+msgid "Adds a random technology in the $TECHAREA|Y$ tree."
+msgstr "$TECHAREA|Y$ 분야의 무작위 기술 하나가 추가됩니다."
+
+msgctxt "REDUCE_HITPOINTS코1"
+msgid "Reduces the hull points of $SHIP|Y$"
+msgstr "$SHIP|Y$의 선체 내구도를 감소시킵니다"
+
+msgctxt "RESTORE_HITPOINTS코1"
+msgid "Restores $SHIP|Y$ to its full hull points."
+msgstr "$SHIP|Y$의 최대 선체 내구도를 회복합니다."
+
+msgctxt "DO_NOT_RESTORE_HITPOINTS코1"
+msgid "Does not restore $SHIP|Y$ to its full hull points."
+msgstr "$SHIP|Y$을(를) 최대 선체 내구도로 회복시키지 않습니다."
+
+msgctxt "SET_SURVEYED코0"
+msgid "Survey data collected.\n"
+msgstr "탐사 정보를 획득했습니다.\n"
+
+msgctxt "COUNTRY_IS_DESTROYED코0"
+msgid "Country is destroyed"
+msgstr "국가가 파괴됨"
+
+msgctxt "COUNTRY_IS_NOT_DESTROYED코0"
+msgid "Country is not destroyed"
+msgstr "국가가 파괴되지 않음"
+
+msgctxt "SET_VARIABLE코0"
+msgid "Sets the $VAR|Y$ variable to $VALUE|Y$."
+msgstr "$VALUE|Y$에 변하기 쉬운 $VAR|Y$ 설정"
+
+msgctxt "CHANGE_VARIABLE코0"
+msgid "Changes the $VAR|Y$ variable to $VALUE|Y$."
+msgstr "$VALUE|Y$에 변하기 쉬운 $VAR|Y$ 변경"
+
+msgctxt "SUBTRACT_VARIABLE코0"
+msgid "Subtracts $VALUE|Y$ from the $VAR|Y$ variable."
+msgstr "$VAR|Y$에서  $VALUE|Y$ 감소합니다."
+
+msgctxt "MULTIPLY_VARIABLE코0"
+msgid "Multiplies the $VAR|Y$ variable by $VALUE|Y$."
+msgstr "$VALUE|Y$에서 $VAR|Y$ 곱합니다."
+
+msgctxt "DIVIDE_VARIABLE코0"
+msgid "Divides the $VAR|Y$ variable by $VALUE|Y$."
+msgstr "$VALUE|Y$을 $VAR|Y$로 나눕니다."
+
+msgctxt "TYPE_EVENT코0"
+msgid "Event: $SCOPE|Y$ event"
+msgstr "이벤트: $SCOPE|Y$ 이벤트"
+
+msgctxt "SET_HYPERLANES_EFFECT_YES코0"
+msgid "Set hyperlane visibility for a country"
+msgstr "국가에 하이퍼 레인이 보이도록 설정함"
+
+msgctxt "SET_HYPERLANES_EFFECT_NO코0"
+msgid "Removes hyperlane visibility for a country"
+msgstr "국가에 하이퍼 레인이 보이지 않도록 함"
+
+msgctxt "ADD_ETHOS코0"
+msgid "Adds the ethos $ETHOS|Y$ to $SCOPE|Y$"
+msgstr "윤리관 $ETHOS|Y$를 $SCOPE|Y$에 추가함"
+
+msgctxt "REMOVE_ETHOS코0"
+msgid "Removes the ethos $ETHOS|Y$ from $SCOPE|Y$"
+msgstr "윤리관 $ETHOS|Y$를 $SCOPE|Y$에서 제거함"
+
+msgctxt "SET_MIGRATION_SPEED코0"
+msgid "Sets the migration speed of $POP|Y$ to $VALUE|Y$"
+msgstr "$POP|Y$의 이주 속도를 $VALUE|Y$으로 설정함"
+
+msgctxt "ADD_BUILDING코0"
+msgid "Adds building $BUILDING|Y$ to building queue in planet $PLANET|Y$"
+msgstr "건물 $BUILDING|Y$이 행성 $PLANET|Y$의 건물 대기열에 추가됨"
+
+msgctxt "MISSING_PLANET코0"
+msgid "Missing planet for effect"
+msgstr "대상 행성이 없음"
+
+msgctxt "CHANGE_SPECIES_EFFECT코0"
+msgid "Species changed to $SPECIES|Y$"
+msgstr "종족이 $SPECIES|Y$(으)로 바뀜"
+
+msgctxt "CHANGE_SPECIES_EFFECT_NEW코0"
+msgid "Species changed\n"
+msgstr "종족 변경\n"
+
+msgctxt "CANCEL_TERRAFORMATION_DESC코0"
+msgid "Terraforming is Canceled"
+msgstr "테라포밍이 취소됩니다"
+
+msgctxt "SET_EVENT_LOCKED_YES코0"
+msgid "$FLEET|Y$ is locked."
+msgstr "$FLEET|Y$이(가) 잠겼습니다."
+
+msgctxt "SET_EVENT_LOCKED_NO코0"
+msgid "$FLEET|Y$ is unlocked."
+msgstr "$FLEET|Y$이(가) 풀렸습니다."
+
+msgctxt "CLEAR_FLEET_ORDERS코0"
+msgid "Clears orders of $FLEET|Y$."
+msgstr "$FLEET|Y$의 명령을 취소했습니다."
+
+msgctxt "ORDER_FORCED_RETURN코0"
+msgid "Forces $FLEET|Y$ to return to safe space."
+msgstr "$FLEET|Y$이 안전한 지역으로 이동하게 했습니다."
+
+msgctxt "DECLARE_WAR_EFFECT코0"
+msgid "$FIRST|Y$ declares war on $SECOND|Y$."
+msgstr "$FIRST|Y$가 $SECOND|Y$에게 전쟁을 선포했습니다."
+
+msgctxt "DECLARE_WHITE_PEACE_EFFECT코0"
+msgid "$FIRST|Y$ declares white peace with $SECOND|Y$."
+msgstr "$FIRST|Y$은(는) $SECOND|Y$와 무조건 평화를 선언했습니다."
+
+msgctxt "JOIN_WAR_EFFECT코0"
+msgid "$FIRST|Y$ joins $SECOND|Y$ as an ally in their wars."
+msgstr "$FIRST|Y$이(가) 전우로써 $SECOND|Y$ 에 합류했습니다."
+
+msgctxt "JOIN_ALLIANCE_EFFECT코0"
+msgid "$SECOND|Y$ joins the $ALLIANCE|Y$."
+msgstr "$SECOND|Y$이(가) $ALLIANCE|Y$에 합류했습니다."
+
+msgctxt "JOIN_ALLIANCE_EFFECT_2코0"
+msgid "$SECOND|Y$ joins in a Federation together with $FIRST|Y$."
+msgstr "$SECOND|Y$은(는) $FIRST|Y$와 함께 연방에 가입했습니다."
+
+msgctxt "LEAVE_ALLIANCE코0"
+msgid "Leave alliance"
+msgstr "동맹을 탈퇴함"
+
+msgctxt "NOT_LEAVE_ALLIANCE코0"
+msgid "Don't leave alliance"
+msgstr "동맹을 탈퇴하지 않음"
+
+msgctxt "SPAWN_SYSTEM_EFFECT코0"
+msgid "A new system is created!"
+msgstr "새로운 행성계 생성됨!"
+
+msgctxt "DISMANTLE_EFFECT코0"
+msgid "The station is dismantled.\n"
+msgstr "스테이션이 해체됩니다.\n"
+
+msgctxt "ACTIVATE_ADVISOR코0"
+msgid "The advisor for $COUNTRY|Y$ is added"
+msgstr "$COUNTRY|Y$을(를) 위한 조언자가 추가됨"
+
+msgctxt "DEACTIVATE_ADVISOR코0"
+msgid "The advisor for $COUNTRY|Y$ is removed"
+msgstr "$COUNTRY|Y$을(를) 위한 조언자가 제거됨"
+
+msgctxt "BEGIN_EVENT_CHAIN_EFFECT코0"
+msgid "Begins the $NAME$ Event Chain\n"
+"\n"
+msgstr "$NAME$ 이벤트 연계 시작\n"
+"\n"
+
+msgctxt "END_EVENT_CHAIN_EFFECT코0"
+msgid "Ends the $NAME$ Event Chain\n"
+"\n"
+msgstr "$NAME$ 이벤트 연계 종료\n"
+"\n"
+
+msgctxt "SHIFT_ETHIC_EFFECT코0"
+msgid "\n"
+"$COUNTRY|Y$ shifts its ethics towards $ETHIC|Y$\n"
+msgstr "\n"
+"$COUNTRY|Y$이 그들의 윤리관을 $ETHIC|Y$로 변경합니다\n"
+
+msgctxt "ADD_ETHIC_EFFECT코0"
+msgid "\n"
+"$ETHIC|Y$ ethic gained\n"
+msgstr "\n"
+"$ETHIC|Y$ 윤리 획득\n"
+
+msgctxt "CLEAR_ETHOS_EFFECT코0"
+msgid "All Ethics are removed."
+msgstr "모든 윤리관이 제거됩니다."
+
+msgctxt "REMOVE_ETHIC_EFFECT코1"
+msgid "$ETHIC|Y$ ethic lost\n"
+msgstr "$ETHIC|Y$ 윤리를 잃습니다\n"
+
+msgctxt "QUEUE_FLEET_ACTIONS_EFFECT코0"
+msgid "Fleet will do special action"
+msgstr "함대가 특별한 행동을 취할 것입니다"
+
+msgctxt "CLEAR_FLEET_ACTIONS_EFFECT코0"
+msgid "Removes any fleet special actions"
+msgstr "모든 함대의 특별 행동을 제거합니다"
+
+msgctxt "ADD_INFLUENCE코1"
+msgid "Influence: £influence  $VALUE|Y$\n"
+msgstr "영향력: £influence  $VALUE|Y$\n"
+
+msgctxt "MODIFY_SPECIES코0"
+msgid ""
+"Modify pops in $COUNTRY|Y$ by adding the $ADD|Y$ trait and removing the "
+"$REMOVE|Y$ trait"
+msgstr "$COUNTRY|Y$의 POP들을 변형햐여 $ADD|Y$ 특성을 추가하고 $REMOVE|Y$ 특성을 제거합니다"
+
+msgctxt "MODIFY_SPECIES_ADD코0"
+msgid "Modify pops in $COUNTRY|Y$ by adding the $ADD|Y$ trait"
+msgstr "$COUNTRY|Y$의 POP들에게 $ADD|Y$ 특성을 추가하여 변형함"
+
+msgctxt "MODIFY_SPECIES_REMOVE코0"
+msgid "Modify pops in $COUNTRY|Y$ by removing the $REMOVE|Y$ trait"
+msgstr "$COUNTRY|Y$의 POP들에게서 $REMOVE|Y$ 특성을 제거하여 변형함"
+
+msgctxt "ESTABLISH_CONTACT_EFFECT코0"
+msgid "Establishes contact with $COUNTRY|Y$"
+msgstr "$COUNTRY|Y$와(과) 통신을 수립합니다"
+
+msgctxt "ADD_EVENT_CHAIN_COUNTER_EFFECT코0"
+msgid "+$AMOUNT|Y$ $COUNTER$\n"
+msgstr "+$AMOUNT|Y$ $COUNTER$\n"
+
+msgctxt "ADD_ANOMALY_EFFECT코0"
+msgid "Add an Anomaly\n"
+msgstr "이상 현상을 추가합니다\n"
+
+msgctxt "SET_DISABLE_AT_HEALTH_EFFECT코0"
+msgid "Will be disabled upon reaching $VALUE|%Y$ Health"
+msgstr "체력이 $VALUE|%Y$에 도달하면 비활성화됨"
+
+msgctxt "ADD_DEPOSIT_EFFECT코0"
+msgid "§Y$DEPOSIT$§!"
+msgstr "§Y$DEPOSIT$§!"
+
+msgctxt "CLEAR_DEPOSITS_EFFECT코0"
+msgid "Clear deposits"
+msgstr "착수금 지불함"
+
+msgctxt "ORBITAL_DEPOSIT_TILE코0"
+msgid "Orbital Deposit Tile"
+msgstr "궤도 자원층 타일"
+
+msgctxt "ADD_BUILDING_CONSTRUCTION_EFFECT코0"
+msgid "Add construction of $BUILDING|Y$"
+msgstr "$BUILDING|Y$의 건축물을 추가"
+
+msgctxt "SET_BUILDING_EFFECT코0"
+msgid "Set Building to $BUILDING|Y$"
+msgstr "$BUILDING|Y$에 건물을 설정"
+
+msgctxt "REMOVE_BUILDING_EFFECT코0"
+msgid "Remove Building"
+msgstr "건물 제거"
+
+msgctxt "CHANGE_PLANET_SIZE코0"
+msgid "Change the size by $VALUE|Y$"
+msgstr "$VALUE|Y$에 의해 크기가 변경됨"
+
+msgctxt "SET_BLOCKER_EFFECT코0"
+msgid "Set Blocker: $BLOCKER|Y$"
+msgstr "장애물 설정: $BLOCKER|Y$"
+
+msgctxt "SET_BLOCKER_RANDOM_EFFECT코0"
+msgid "Set Random Blocker"
+msgstr "무작위 장애물 설정"
+
+msgctxt "REMOVE_BLOCKER_EFFECT코0"
+msgid "Remove Blocker"
+msgstr "장애물 제거"
+
+msgctxt "EVERY_NEIGHBORING_TILE_EFFECT코0"
+msgid "All Neighboring Tiles"
+msgstr "인접한 모든 타일"
+
+msgctxt "EVERY_PLANET_TRIGGER코0"
+msgid "Every Planet"
+msgstr "모든 행성"
+
+msgctxt "EVERY_SYSTEM_PLANET_EFFECT코0"
+msgid "Every System Planet"
+msgstr "성계의 모든 행성"
+
+msgctxt "EVERY_TILE_EFFECT코0"
+msgid "Every Tile"
+msgstr "모든 타일"
+
+msgctxt "SET_ENABLED_EFFECT코0"
+msgid "Disables Ship"
+msgstr "함선 비활성화"
+
+msgctxt "SET_ENABLED_EFFECT_NOT코0"
+msgid "Enables Ship"
+msgstr "함선 활성화"
+
+msgctxt "CREATE_POINT_OF_INTEREST_EFFECT코0"
+msgid "Point of interest: $NAME|Y$"
+msgstr "관심 포인트: $NAME|Y$"
+
+msgctxt "REMOVE_POINT_OF_INTEREST_EFFECT코0"
+msgid "Removed Point of interest $NAME|Y$"
+msgstr "$NAME|Y$ 관심 포인트 제거"
+
+msgctxt "SET_RELATION_FLAG_EFFECT코0"
+msgid "Set the $FLAGNAME$ relation flag for $COUNTRY$"
+msgstr "$COUNTRY$에 대해 $FLAGNAME$ 관계 플래그 설정함"
+
+msgctxt "REMOVE_RELATION_FLAG_EFFECT코0"
+msgid "Removes the $FLAGNAME$ relation flag for $COUNTRY$"
+msgstr "$COUNTRY$에 대해 $FLAGNAME$ 관계 플래그 제거함"
+
+msgctxt "ALL_PLANET_MOONS코0"
+msgid "All Moons of planet"
+msgstr "행성의 모든 위성"
+
+msgctxt "ALL_SYSTEMS_IN_CLUSTER코0"
+msgid "All Systems in Cluster"
+msgstr "구역 내 모든 성계"
+
+msgctxt "CHANGE_GOVERNMENT_AUTHORITY_EFFECT코0"
+msgid "Change Government Authority to $KEY|Y$"
+msgstr "정치체제를 $KEY|Y$(으)로 변경"
+
+msgctxt "CHANGE_GOVERNMENT_AUTHORITY_EFFECT_RANDOM코0"
+msgid "Change to Random Government Authority"
+msgstr "무작위 정치 체제로 변경"
+
+msgctxt "CHANGE_GOVERNMENT_CIVICS_EFFECT코0"
+msgid "Change Government Civics to $CIVICS$"
+msgstr "정부 사회 제도를 $CIVICS$(으)로 변경"
+
+msgctxt "CHANGE_GOVERNMENT_CIVICS_EFFECT_RANDOM코0"
+msgid "Change to Random Government Civics"
+msgstr "무작위 사회 제도로 변경"
+
+msgctxt "ASSIGN_LEADER_EFFECT코0"
+msgid "$LEADER$ is assigned as leader"
+msgstr "$LEADER$이(가) 지도자로 배정됨"
+
+msgctxt "UNASSIGN_LEADER_EFFECT코0"
+msgid "$LEADER$ is unassigned as leader"
+msgstr "$LEADER$이(가) 지도자에서 해임됨"
+
+msgctxt "EXILE_LEADER_EFFECT코0"
+msgid "$LEADER$ is exiled"
+msgstr "$LEADER$이(가) 추방됨"
+
+msgctxt "SET_LEADER_EFFECT코0"
+msgid "$LEADER$ is set as leader"
+msgstr "$LEADER$이(가) 지도자로 설정됨"
+
+msgctxt "SET_FEDERATION_LEADER_EFFECT코0"
+msgid "$COUNTRY|Y$ becomes leader of $FEDERATION|Y$"
+msgstr "$COUNTRY|Y$이(가) $FEDERATION|Y$의 의장국이 됨"
+
+msgctxt "PREVENT_ANOMALY코0"
+msgid "Prevent Anomalies"
+msgstr "이상 현상 금지"
+
+msgctxt "PREVENT_ANOMALY_NOT코0"
+msgid "Allow Anomalies"
+msgstr "이상 현상 허용"
+
+msgctxt "EVERY_RIM_SYSTEM_EFFECT코0"
+msgid "Every system on the galactic rim"
+msgstr "은하 가장자리에 있는 모든 성계"
+
+msgctxt "RANDOM_RIM_SYSTEM_EFFECT코0"
+msgid "Random system on the galactic rim"
+msgstr "은하 가장자리에 있는 무작위 성계"
+
+msgctxt "SET_PLANET_MAX_HEALTH_EFFECT코0"
+msgid "Set the maximum health to $VALUE|Y$"
+msgstr "체력 최대치 $VALUE|Y$로 설정"
+
+msgctxt "SET_PLANET_HEALTH_EFFECT코0"
+msgid "Set current health to $VALUE|Y$"
+msgstr "현재 체력치 $VALUE|Y$로 설정"
+
+msgctxt "ADD_TRAIT코0"
+msgid "§H$LEADER$§! now has the §H$TRAIT$§! trait\n"
+msgstr "§H$LEADER$§!은(는) 이제 §H$TRAIT$§! 특성을 가짐\n"
+
+msgctxt "REMOVE_TRAIT코0"
+msgid "Removed $TRAIT$ trait from $LEADER$"
+msgstr "$LEADER$은(는) $TRAIT$ 특성을 잃음"
+
+msgctxt "CHANGE_COUNTRY_TYPE_EFFECT코0"
+msgid "Country Type will change to $TYPE|Y$"
+msgstr "국가 유형이 $TYPE|Y$로 바뀜"
+
+msgctxt "ADD_MISSION_PROGRESS코0"
+msgid "Add mission progress: $NUM|Y$"
+msgstr "추가 임무 진행도 : $NUM|Y$"
+
+msgctxt "HAS_NUM_ETHICS코0"
+msgid "Number of Ethics is $COMPARATOR$ $NUM|Y$"
+msgstr "윤리관 수가 $NUM|Y$ $COMPARATOR$"
+
+msgctxt "HAS_NOT_NUM_ETHICS코0"
+msgid "Number of Ethics is NOT $COMPARATOR$ $NUM|Y$"
+msgstr "윤리관 수가 $NUM|Y$ $COMPARATOR$이(가) 아님"
+
+msgctxt "HAS_NUM_TRAITS코0"
+msgid "Number of Traits is $COMPARATOR$ $NUM|Y$"
+msgstr "특성 수가 $NUM|Y$ $COMPARATOR$"
+
+msgctxt "HAS_NOT_NUM_TRAITS코0"
+msgid "Number of Traits is NOT $COMPARATOR$ $NUM|Y$"
+msgstr "특성 수가 $NUM|Y$ $COMPARATOR$이(가) 아님"
+
+msgctxt "HAS_NUM_TRAIT_POINTS코0"
+msgid "Total Trait cost is $COMPARATOR$ $NUM|Y$"
+msgstr "총 특성 비용은 $NUM|Y$ $COMPARATOR$입니다."
+
+msgctxt "HAS_NOT_NUM_TRAIT_POINTS코0"
+msgid "Total Trait cost is NOT $COMPARATOR$ $NUM|Y$"
+msgstr "총 특성 비용은 $NUM|Y$ $COMPARATOR$이 아닙니다."
+
+msgctxt "LEADER_GENDER_TRIGGER코0"
+msgid "$LEADER|Y$ is $GENDER|Y$"
+msgstr "$LEADER|Y$은(는) $GENDER|Y$임"
+
+msgctxt "LEADER_NOT_GENDER_TRIGGER코0"
+msgid "$LEADER|Y$ is NOT $GENDER|Y$"
+msgstr "$LEADER|Y$은(는) $GENDER|Y$이(가) 아님"
+
+msgctxt "POP_NOT_MEMBER_OF_ANY_FACTION_TRIGGER코0"
+msgid "$POP|Y$ is NOT in any Pop Faction"
+msgstr "$POP|Y$ 은(는) 어떤 POP 파벌에도 속하지 않음"
+
+msgctxt "POP_MEMBER_OF_ANY_FACTION_TRIGGER코0"
+msgid "$POP|Y$ is in a Pop Faction"
+msgstr "$POP|Y$ 은(는) POP 파벌에 속함"
+
+msgctxt "POP_NOT_MEMBER_OF_FACTION_TRIGGER코0"
+msgid "$POP|Y$ is NOT a member of $FACTION|Y$"
+msgstr "$POP|Y$ 은(는) $FACTION|Y$ 의 구성원이 아님"
+
+msgctxt "POP_MEMBER_OF_FACTION_TRIGGER코0"
+msgid "$POP|Y$ is a member of $FACTION|Y$"
+msgstr "$POP|Y$ 은(는) $FACTION|Y$ 의 구성원임"
+
+msgctxt "NOT_LEADER_OF_ANY_FACTION_TRIGGER코0"
+msgid "$LEADER|Y$ is NOT leading any Pop Faction"
+msgstr "$LEADER|Y$은(는) 어떤 POP 파벌도 이끌지 않음"
+
+msgctxt "LEADER_OF_ANY_FACTION_TRIGGER코0"
+msgid "$LEADER|Y$ is leading a Pop Faction"
+msgstr "$LEADER|Y$은(는) 파벌을 이끔"
+
+msgctxt "NOT_LEADER_OF_FACTION_TRIGGER코0"
+msgid "$LEADER|Y$ is NOT leading $FACTION|Y$"
+msgstr "$LEADER|Y$은(는) $FACTION|Y$ 을(를) 이끌지 않음"
+
+msgctxt "LEADER_OF_FACTION_TRIGGER코0"
+msgid "$LEADER|Y$ is leading $FACTION|Y$"
+msgstr "$LEADER|Y$은(는) $FACTION|Y$ 을(를) 이끔"
+
+msgctxt "SET_POP_FACTION_EFFECT코0"
+msgid "$POP|Y$ will join $FACTION|Y$"
+msgstr "$POP|Y$이(가) $FACTION|Y$에 가입함"
+
+msgctxt "ADD_MILITANCY_LEVEL_EFFECT코0"
+msgid "§R+§!$VALUE|R%0$ Militancy"
+msgstr "§R+§!$VALUE|R%0$ 투쟁성"
+
+msgctxt "REMOVE_MILITANCY_LEVEL_EFFECT코0"
+msgid "§G-§!$VALUE|G%0$ Militancy"
+msgstr "§G-§!$VALUE|G%0$ 투쟁성"
+
+msgctxt "SET_MILITANCY_LEVEL_EFFECT코0"
+msgid "Set Militancy to $VALUE|Y$"
+msgstr "투쟁성을 $VALUE|Y$ 로 설정"
+
+msgctxt "ADD_SUPPORT_LEVEL_EFFECT코0"
+msgid "§Y+§!$VALUE|Y%0$ Support"
+msgstr "\"§Y+§!$VALUE|Y%0$ 지지도\""
+
+msgctxt "REMOVE_SUPPORT_LEVEL_EFFECT코0"
+msgid "§Y-§!$VALUE|Y%0$ Support"
+msgstr "\"§Y-§!$VALUE|Y%0$ 지지도\""
+
+msgctxt "SET_SUPPORT_LEVEL_EFFECT코0"
+msgid "Sets Support to $VALUE|Y%$"
+msgstr "지지도를 $VALUE|Y%$로 변경"
+
+msgctxt "CREATE_POP_FACTION_EFFECT코0"
+msgid "New faction of $TYPE$ created"
+msgstr "새로운 파벌 $TYPE$이(가) 생겼습니다."
+
+msgctxt "EVERY_OWNED_LEADER_EFFECT코0"
+msgid "\n"
+"All owned Leaders:"
+msgstr "\n"
+"소유한 모든 지도자:"
+
+msgctxt "RANDOM_OWNED_LEADER_EFFECT코0"
+msgid "\n"
+"Random owned Leader:"
+msgstr "\n"
+"소유한 무작위 지도자:"
+
+msgctxt "ANY_OWNED_LEADER코0"
+msgid "Any owned Leader"
+msgstr "소유한 모든 지도자"
+
+msgctxt "RANDOM_OWNED_FLEET_EFFECT코0"
+msgid "\n"
+"Random owned Fleet:"
+msgstr "\n"
+"소유한 무작위 함대:"
+
+msgctxt "EVERY_OWNED_FLEET_EFFECT코0"
+msgid "\n"
+"All owned Fleets:"
+msgstr "\n"
+"소유한 모든 함대:"
+
+msgctxt "RESEARCH_LEADER_TRIGGER코0"
+msgid "Research Leader"
+msgstr "연구 지도자"
+
+msgctxt "START_PURGE_PLANET_EFFECT코0"
+msgid "Purge all Pops on $PLANET|Y$"
+msgstr "$PLANET|Y$의 모든 POP을 정화함"
+
+msgctxt "START_PURGE_POP_EFFECT코0"
+msgid "Purge $POP|Y$ on $PLANET|Y$"
+msgstr "$PLANET|Y$의 $POP|Y$을(를) 정화함"
+
+msgctxt "STOP_PURGE_PLANET_EFFECT코0"
+msgid "Stop purge of Pops on $PLANET|Y$"
+msgstr "$PLANET|Y$의 POP 정화 중지"
+
+msgctxt "STOP_PURGE_POP_EFFECT코0"
+msgid "Stop purge of $POP|Y$ on $PLANET|Y$"
+msgstr "$PLANET|Y$의 $POP|Y$ 정화 중지"
+
+msgctxt "HAS_FACTION코0"
+msgid "Has $TYPE|Y$ faction"
+msgstr "$TYPE|Y$ 파벌을 가지고 있음"
+
+msgctxt "HAS_NOT_FACTION코0"
+msgid "Does NOT have $TYPE|Y$ faction"
+msgstr "$TYPE|Y$ 파벌을 가지고 있지 않은"
+
+msgctxt "VALUE_LESS_THAN코0"
+msgid "less than "
+msgstr "보다 적은"
+
+msgctxt "VALUE_GREATER_THAN코0"
+msgid "more than "
+msgstr "보다 많은"
+
+msgctxt "VALUE_EQUAL_TO코0"
+msgid ""
+msgstr ""
+
+msgctxt "CREATE_SECTOR_EFFECT_DESC코0"
+msgid "$SYSTEM|Y$ will become a new Sector"
+msgstr "$SYSTEM|Y$ 은 새로운 자치령이 될 것입니다"
+
+msgctxt "CREATE_SECTOR_WITH_SYSTEMS_EFFECT_DESC코0"
+msgid "A new Sector will be created with the following systems: $SYSTEMS|Y$"
+msgstr "새로운 자치령이 다음 성계들을 포함하여 만들어질 것입니다: $SYSTEMS|Y$"
+
+msgctxt "SET_RECRUITABLE코0"
+msgid "Sets leader recruitable or not"
+msgstr "지도자를 모집하게 할 수 있도록 혹은 없도록 설정"
+
+msgctxt "EVERY_FLEET_IN_SYSTEM_EFFECT코0"
+msgid "Every fleet in system"
+msgstr "모든 함대가 성계 안에 있음"
+
+msgctxt "RANDOM_FLEET_IN_SYSTEM_EFFECT코0"
+msgid "Random fleet in system"
+msgstr "성계에 있는 무작위 함대"
+
+msgctxt "SET_RUINED_EFFECT코0"
+msgid "Building is Ruined"
+msgstr "건물이 파괴됨"
+
+msgctxt "SET_NOT_RUINED_EFFECT코0"
+msgid "Building is Repaired"
+msgstr "건물이 수리됨"
+
+msgctxt "SET_SUBJECT_OF_EFFECT코0"
+msgid "Becomes a $TYPE$ under $COUNTRY|Y$"
+msgstr "$COUNTRY|Y$의 $TYPE$이(가) 됨"
+
+msgctxt "SET_SUBJECT_OF_EFFECT_NONE코0"
+msgid "Becomes independent"
+msgstr "독립함"
+
+msgctxt "SET_SPACEPORT_MODULE_EFFECT_REPLACE코0"
+msgid "Replaces the $MODULE_REPLACED|Y$ with $MODULE|Y$ on the spaceport.\n"
+msgstr "우주항의 $MODULE_REPLACED|Y$을(를) $MODULE|Y$로 교체합니다.\n"
+
+msgctxt "SET_SPACEPORT_MODULE_EFFECT코0"
+msgid "Adds the $MODULE|Y$ module to the spaceport.\n"
+msgstr "우주항에 $MODULE|Y$ 모듈을 추가합니다.\n"
+
+msgctxt "GUARANTEE_COUNTRY_EFFECT코0"
+msgid "$COUNTRY$ guarantees the independence of $COUNTRYTWO$"
+msgstr "$COUNTRY$는 $COUNTRYTWO$의 독립을 보장함"
+
+msgctxt "GUARANTEE_COUNTRY_EFFECT_FREELY코0"
+msgid ""
+"$COUNTRY$ guarantees the independence of $COUNTRYTWO$ Freely for $AMOUNT$ "
+"Days"
+msgstr "$COUNTRY$는  $COUNTRYTWO$의 독립을 $AMOUNT$일 동안 보장함"
+
+msgctxt "CHANGE_DOMINANT_SPECIES_EFFECT코1"
+msgid "$SPECIES|Y$ becomes the Empire's dominant species."
+msgstr "$SPECIES|Y$ 종족이 제국의 유력 종족이 되었습니다."
+
+msgctxt "EVERY_PLAYABLE_COUNTRY_EFFECT코0"
+msgid "All Playable Empires"
+msgstr "모든 플레이 가능한 제국"
+
+msgctxt "RANDOM_PLAYABLE_COUNTRY_EFFECT코0"
+msgid "Random Playable Empire"
+msgstr "무작위 플레이 가능한 제국"
+
+msgctxt "EVERY_SUBJECT_EFFECT코0"
+msgid "All Subject Empires"
+msgstr "모든 지배 제국"
+
+msgctxt "RANDOM_SUBJECT_EFFECT코0"
+msgid "Random Subject Empire"
+msgstr "무작위 지배 제국"
+
+msgctxt "SET_SPECIES_HOMEWORLD_EFFECT코0"
+msgid "The $SPECIES|Y$ are now considering $PLANET|Y$ their homeworld"
+msgstr "$SPECIES|Y$은(는) 이제 $PLANET|Y$을(를) 그들의 고향으로 생각합니다"
+
+msgctxt "MUTATE_SPECIES_EFFECT코0"
+msgid "The $SPECIES|Y$ are randomly mutated..."
+msgstr "$SPECIES|Y$은(는) 무작위로 변이됩니다..."
+
+msgctxt "CLEAR_RESOURCE_EFFECT코0"
+msgid "The resources in the tile are cleared"
+msgstr "해당 타일의 자원이 제거됨"
+
+msgctxt "TOOLTIP_COUNT_FLEET_SHIPS코0"
+msgid "Number of ships in fleet $OPERATOR$ $VALUE|Y$"
+msgstr "$OPERATOR$ $VALUE|Y$ 함대에 속한 함선들의 수"
+
+msgctxt "TOOLTIP_COUNT_FLEET_SHIPS_WITH_LIMIT코0"
+msgid "Number of ships in fleet $OPERATOR$ $VALUE|Y$\n"
+"$LIMIT$"
+msgstr "$OPERATOR$ $VALUE|Y$ 함대에 속한 함선들의 수\n"
+"$LIMIT$"
+
+msgctxt "REPAIR_PERCENTAGE_EFFECT코0"
+msgid "Repair $VALUE|Y%$ Percent Hitpoints"
+msgstr "$VALUE|Y%$ 퍼센트 내구도 수리"
+
+msgctxt "SET_SPECIES_IDENTITY_EFFECT코0"
+msgid ""
+"$SPECIES|Y$ are now considered to be the same species as the $IDENTITY|Y$"
+msgstr "$SPECIES|Y$은(는) 이제 $IDENTITY|Y$ 와(과) 같은 종족으로 간주됨"
+
+msgctxt "SET_SPECIES_IDENTITY_EFFECT_NEW코0"
+msgid "$SPECIES|Y$ are now considered to be a unique species"
+msgstr "$SPECIES|Y$은(는) 이제 특별한 종족으로 간주됨"
+
+msgctxt "POP_FACTION코0"
+msgid "Faction"
+msgstr "파벌"
+
+msgctxt "SET_EMPIRE_NAME_EFFECT코0"
+msgid "Is now known as $NEW_NAME|Y$"
+msgstr " $NEW_NAME|Y$(으)로 알려짐"
+
+msgctxt "SET_EMPIRE_FLAG_EFFECT코0"
+msgid "A new flag of the Empire is inaugurated."
+msgstr "새로운 제국의 깃발을 꽂았습니다."
+
+msgctxt "SET_PLANET_NAME_EFFECT코0"
+msgid "Is now known as $NEW_NAME|Y$"
+msgstr " $NEW_NAME|Y$(으)로 알려짐"
+
+msgctxt "SET_SECTOR_NAME_EFFECT코0"
+msgid "Is now known as $NEW_NAME|Y$"
+msgstr " $NEW_NAME|Y$(으)로 알려짐"
+
+msgctxt "CLOSEST_SYSTEM코0"
+msgid "§HNearby System§!:"
+msgstr "§H인근 성계§!:"
+
+msgctxt "effect_every_owned_pop코0"
+msgid "All Pops:\n"
+msgstr "모든 POP:\n"
+
+msgctxt "CHANGE_LEADER_PORTRAIT_EFFECT코0"
+msgid "Change leader portrait to $PORTRAIT|Y$"
+msgstr "지도자 초상화를 $PORTRAIT|Y$로 변경합니다."
+
+msgctxt "HAS_MODIFIER코0"
+msgid "Has the $MODNAME|Y$ modifier"
+msgstr " $MODNAME|Y$ 변동치를 가지고 있음"
+
+msgctxt "effect_every_owned_pop_species코0"
+msgid "All Owned Species:\n"
+msgstr "보유한 모든 종:\n"
+
+msgctxt "any_megastructure_trigger코0"
+msgid "Any Megastructure"
+msgstr "어떤 거대 구조물"
+
+msgctxt "effect_random_megastructure코0"
+msgid "Random Megastructure"
+msgstr "무작위 거대 구조물"
+
+msgctxt "effect_every_megastructure코0"
+msgid "Every Megastructure"
+msgstr "모든 거대 구조물"
+
+msgctxt "any_owned_megastructure_trigger코0"
+msgid "Any owned Megastructure"
+msgstr "어떤 소유 중인 거대 구조물"
+
+msgctxt "effect_random_owned_megastructure코0"
+msgid "Random owned Megastructure"
+msgstr "무작위 소유 중인 거대 구조물"
+
+msgctxt "effect_every_owned_megastructure코0"
+msgid "Every owned Megastructure"
+msgstr "모둔 소유 중인 거대 구조물"
+
+msgctxt "any_system_megastructure_trigger코0"
+msgid "Any Megastructure in System"
+msgstr "성계의 어떤 거대 구조물"
+
+msgctxt "effect_random_system_megastructure코0"
+msgid "Random Megastructure in System"
+msgstr "성계의 무작위 거대 구조물"
+
+msgctxt "effect_every_system_megastructure코0"
+msgid "Every Megastructure in System"
+msgstr "성계의 모든 거대 구조물"
+
+msgctxt "any_pool_leader_trigger코0"
+msgid "Any recruitable Leader"
+msgstr "어떤 고용 가능한 지도자"
+
+msgctxt "effect_random_pool_leader코0"
+msgid "Random recruitable Leader"
+msgstr "고용 가능한 무작위 지도자"
+
+msgctxt "effect_every_pool_leader코0"
+msgid "Every recruitable Leader"
+msgstr "모든 고용 가능한 지도자"
+
+msgctxt "set_halted_effect코0"
+msgid "Megastructure halted $DAYS|Y$ days."
+msgstr "거대 구조물이  $DAYS|Y$ 일 동안 중단되었습니다."
+
+msgctxt "TRIGGER_HAS_TRADITION코0"
+msgid "Has $TRADITION|Y$ Tradition"
+msgstr "$TRADITION|Y$ 전통을 가지고 있습니다."
+
+msgctxt "TRIGGER_NOT_HAS_TRADITION코0"
+msgid "Does NOT have $TRADITION|Y$ Tradition"
+msgstr "$TRADITION|Y$ 전통을 가지고 있지 않습니다."
+
+msgctxt "TRIGGER_HAS_ASCENSION_PERK코0"
+msgid "Has $TRADITION|Y$ Ascension Perk"
+msgstr "$TRADITION|Y$ 승천 특전을 가지고 있습니다."
+
+msgctxt "TRIGGER_NOT_HAS_ASCENSION_PERK코0"
+msgid "Does NOT have $TRADITION|Y$ Ascension Perk"
+msgstr "$TRADITION|Y$ 승천 특전을 가지고 있지 않습니다."
+
+msgctxt "TRIGGER_EXCESS_FOOD코0"
+msgid "Has $COMPARE$ $VAL0|0Y%$ excess food"
+msgstr "초과된 식량이 $VAL0|0Y%$ $COMPARE$입니다."
+
+msgctxt "TRIGGER_NOT_EXCESS_FOOD코0"
+msgid "Does not have $COMPARE$ $VAL0|0Y%$ excess food"
+msgstr "초과된 식량이 $VAL0|0Y%$ $COMPARE$이 아닙니다."
+
+msgctxt "any_owned_pop_trigger코0"
+msgid "Any Owned Pop"
+msgstr "어떤 소유 중인 POP"
+
+msgctxt "any_owned_pop_species_trigger코0"
+msgid "Any Empire Species"
+msgstr "제국의 어떤 종"
+
+msgctxt "any_country_trigger코0"
+msgid "Any Empire"
+msgstr "어떤 제국"
+
+msgctxt "any_combatant_fleet_trigger코0"
+msgid "Any Combatant"
+msgstr "어떤 전투원"
+
+msgctxt "effect_random_owned_pop코0"
+msgid "Random Owned Pop"
+msgstr "소유한 무작위 POP"
+
+msgctxt "effect_random_country코0"
+msgid "Random Empire"
+msgstr "무작위 제국"
+
+msgctxt "effect_random_rim_system코0"
+msgid "Random Rim System"
+msgstr "무작위 가장자리 성계"
+
+msgctxt "effect_every_country코0"
+msgid "Every Empire"
+msgstr "모든 제국"
+
+msgctxt "effect_random_combatant_fleet코0"
+msgid "Random Combatant"
+msgstr "무작위 전투원"
+
+msgctxt "effect_every_war_participant코0"
+msgid "Every War Participant"
+msgstr "모든 참전국"
+
+msgctxt "any_neighbor_country_trigger코0"
+msgid "Any Neighbor Country"
+msgstr "어떤 이웃 국가"
+
+msgctxt "effect_random_neighbor_country코0"
+msgid "Random Neighbor Country"
+msgstr "무작위 이웃 국가"
+
+msgctxt "count_country_trigger코0"
+msgid "Count Countries $IS_NOT$ $COMPARATOR$ $NUM|Y$"
+msgstr "국가 수 $IS_NOT$ $NUM|Y$ $COMPARATOR$"
+
+msgctxt "count_neighbor_country_trigger코0"
+msgid "Count Neighbor Countries"
+msgstr "이웃 국가 수"
+
+msgctxt "count_relation_trigger코0"
+msgid "Count Relations"
+msgstr "관계의 수"
+
+msgctxt "any_bordering_country_trigger코0"
+msgid "Any Bordering Country"
+msgstr "어떤 인접한 국가"
+
+msgctxt "effect_random_bordering_country코0"
+msgid "Random Bordering Country"
+msgstr "인접한 무작위 국가"
+
+msgctxt "any_relation_trigger코0"
+msgid "Any Country Relation"
+msgstr "어떤 국가 관계"
+
+msgctxt "effect_every_relation코0"
+msgid "Every Country Relation"
+msgstr "모든 국가 관계"
+
+msgctxt "effect_random_relation코0"
+msgid "Random Country Relation"
+msgstr "무작위 국가 관계"
+
+msgctxt "UNREST_LESS_THAN코0"
+msgid "Unrest $VAL0|2Y$ less than $COMPARE$ $VAL1|2Y$"
+msgstr "불만도 $VAL0|2Y$는 $VAL1|2Y$ $COMPARE$보다 작음"
+
+msgctxt "UNREST_AT_LEAST코0"
+msgid "Unrest $VAL0|2Y$ at least $COMPARE$ $VAL1|2Y$"
+msgstr "불만도 $VAL0|2Y$는 $VAL1|2Y$ $COMPARE$보다 높거나 같음"
+
+msgctxt "TRIGGER_HAS_CIVIC코1"
+msgid "Has Government Civic: $CIVIC|Y$"
+msgstr "다음의 정부 사회 제도 보유: $CIVIC|Y$"
+
+msgctxt "TRIGGER_FANATIC_PURIFIERS코0"
+msgid "Has §Y$civic_fanatic_purifiers$§! Government Civic"
+msgstr "사회 제도 §Y$civic_fanatic_purifiers$§! 채택"
+
+msgctxt "TRIGGER_DEVOURING_SWARM코0"
+msgid "Has §Y$civic_hive_devouring_swarm$§! Government Civic"
+msgstr "사회 제도 §Y$civic_hive_devouring_swarm$§! 채택"
+
+msgctxt "TRIGGER_NOT_HAS_CIVIC코1"
+msgid "Does NOT have Government Civic: $CIVIC|Y$"
+msgstr "다음의 정부 사회 제도를 보유하지 않음: $CIVIC|Y$"
+
+msgctxt "any_owned_army_trigger코0"
+msgid "Any owned Army"
+msgstr "어떤 소유 중인 육군"
+
+msgctxt "effect_random_owned_army코0"
+msgid "Random owned Army"
+msgstr "소유 중인 무작위 육군"
+
+msgctxt "effect_every_owned_army코0"
+msgid "Every owned Army"
+msgstr "모든 소유 중인 육군"
+
+msgctxt "any_planet_army_trigger코0"
+msgid "Any Army on Planet"
+msgstr "행성에 있는 어떤 육군"
+
+msgctxt "effect_random_planet_army코0"
+msgid "Random Army on Planet"
+msgstr "행성에 있는 무작위 육군"
+
+msgctxt "effect_every_planet_army코0"
+msgid "Every Army on Planet"
+msgstr "행성에 있는 모든 육군"
+
+msgctxt "TRIGGER_IS_CONSTRUCTING코0"
+msgid "Is constructing a $KEY|Y$"
+msgstr "$KEY|Y$ 건설 중"
+
+msgctxt "TRIGGER_NOT_IS_CONSTRUCTING코0"
+msgid "Is NOT constructing a $KEY|Y$"
+msgstr "$KEY|Y$ 건설 중이 아님"
+
+msgctxt "TRIGGER_HAS_COMPONENT코0"
+msgid "Has component $KEY|Y$"
+msgstr "부품 $KEY|Y$을(를) 보유"
+
+msgctxt "TRIGGER_NOT_HAS_COMPONENT코0"
+msgid "Does NOT has component $KEY|Y$"
+msgstr "부품 $KEY|Y$을(를) 보유하지 않음"
+
+msgctxt "FOOD_TRIGGER코0"
+msgid "Food is $COMPARE$ $VAL|Y$"
+msgstr "식량이 $VAL|Y$ $COMPARE$ "
+
+msgctxt "FOOD_TRIGGER_NOT코0"
+msgid "Food is NOT $COMPARE$ $VAL|Y$"
+msgstr "식량이 $VAL|Y$ $COMPARE$ 이(가) 아님"
+
+msgctxt "SET_PLAYER_EFFECT코0"
+msgid "$OLD|Y$ will switch to playing $NEW|Y$"
+msgstr "$OLD|Y$은(는) 이제 $NEW|Y$을(를) 플레이할 것입니다."
+
+msgctxt "TRIGGER_POP_CAN_REPRODUCE코0"
+msgid "Pop can reproduce"
+msgstr "POP가 번식할 수 있음"
+
+msgctxt "TRIGGER_POP_CANNOT_REPRODUCE코0"
+msgid "Pop can NOT reproduce"
+msgstr "POP가 번식할 수 없음"
+
+msgctxt "TRIGGER_POP_MAINTENANCE_COST_NOT코0"
+msgid "Pop Maintenance Cost ($VAL0|2Y$) NOT $COMPARE$ $VAL1|2Y$"
+msgstr "POP 유지비($VAL0|2Y$)가 $VAL1|2Y$ $COMPARE$이(가) 아님"
+
+msgctxt "TRIGGER_POP_MAINTENANCE_COST코0"
+msgid "Pop Maintenance Cost ($VAL0|2Y$) $COMPARE$ $VAL1|2Y$"
+msgstr "POP 유지비($VAL0|2Y$)가 $VAL1|2Y$ $COMPARE$임"
+
+msgctxt "count_tile_trigger코0"
+msgid "Number of tiles $IS_NOT$ $COMPARATOR$ $NUM|Y$"
+msgstr "타일의 수가 $IS_NOT$ $NUM|Y$ $COMPARATOR$ "
+
+msgctxt "TRIGGER_NOT_POPS_HAVE_HAPPINESS코0"
+msgid "Does NOT have Happiness"
+msgstr "행복도를 갖지 않음"
+
+msgctxt "TRIGGER_POPS_HAVE_HAPPINESS코0"
+msgid "Has Happiness"
+msgstr "행복도를 가짐"
+

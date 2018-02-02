@@ -1,0 +1,4158 @@
+# badaim <imbada@outlook.com>, 2017. #zanata
+# bjrj <asap1993@naver.com>, 2017. #zanata
+# muelleri2075 <sukjinkim321@naver.com>, 2017. #zanata
+# snowfall <deluxe2k2@naver.com>, 2017. #zanata
+# wrinos <wrinos@naver.com>, 2017. #zanata
+# muelleri2075 <sukjinkim321@naver.com>, 2018. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2018-01-27 10:13-0500\n"
+"Last-Translator: muelleri2075 <sukjinkim321@naver.com>\n"
+"Language-Team: Korean (South Korea)\n"
+"Language: ko\n"
+"X-Generator: Zanata 3.9.6\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgctxt "rival코0"
+msgid "Rival"
+msgstr "경쟁국"
+
+msgctxt "allied_to_rival코0"
+msgid "Allied to Rival"
+msgstr "경쟁국과 동맹 중"
+
+msgctxt "enemy_of_my_enemy코0"
+msgid "Enemy of Enemy"
+msgstr "적의 적"
+
+msgctxt "subsidizing_our_armies코0"
+msgid "They subsidize our armies"
+msgstr "그들이 우리의 군대에 보조금을 지원합니다."
+
+msgctxt "siphoned_income코0"
+msgid "Siphoned income"
+msgstr "빼앗긴 수입"
+
+msgctxt "republic_same_religion코0"
+msgid "Same Religion"
+msgstr "같은 종교"
+
+msgctxt "republic_different_religions_group코0"
+msgid "Different Religion"
+msgstr "다른 종교"
+
+msgctxt "republic_different_religion_same_group코0"
+msgid "Heretic Religion"
+msgstr "이단 종교"
+
+msgctxt "same_religion코0"
+msgid "Same Religion"
+msgstr "같은 종교"
+
+msgctxt "same_secondary_religion코0"
+msgid "Same Syncretic Faith"
+msgstr "같은 혼교 종교"
+
+msgctxt "different_religions_group코0"
+msgid "Different Religion"
+msgstr "다른 종교"
+
+msgctxt "different_religion_same_group코0"
+msgid "Heretic Religion"
+msgstr "이단 종교"
+
+msgctxt "at_war코0"
+msgid "At War"
+msgstr "전쟁 중"
+
+msgctxt "royal_marriage코0"
+msgid "Royal Marriage"
+msgstr "왕실 결혼"
+
+msgctxt "guaranteed코0"
+msgid "Guaranteed"
+msgstr "보증"
+
+msgctxt "alliance코0"
+msgid "Alliance"
+msgstr "동맹"
+
+msgctxt "SPYNETWORKTOOSMALL코0"
+msgid ""
+"Your $ADJ|Y$ Spy Network needs to be of at least size $AMOUNT|Y$ to use this "
+"action."
+msgstr "이 작전을 실행하기 위해서는 당신의 $ADJ|Y$ 첩보망이 최소한 $AMOUNT|Y$이 되어야 합니다."
+
+msgctxt "federation코0"
+msgid "Federation leader"
+msgstr "연맹의 지도자"
+
+msgctxt "in_war_togeather코0"
+msgid "In War Together"
+msgstr "함께 전쟁 중"
+
+msgctxt "converted_our_culture코0"
+msgid "Converted Our Culture"
+msgstr "문화 변경"
+
+msgctxt "same_dynasty코0"
+msgid "Same Dynasty"
+msgstr "같은 가문"
+
+msgctxt "have_claim코0"
+msgid "Have a Claim"
+msgstr "클레임이 있다"
+
+msgctxt "have_core코0"
+msgid "Have a Core"
+msgstr "코어가 있다"
+
+msgctxt "getting_subsidies코0"
+msgid "Receiving Subsidies"
+msgstr "보조금을 받음"
+
+msgctxt "has_cb코0"
+msgid "Have Casus Belli"
+msgstr "전쟁 명분을 가지고 있음"
+
+msgctxt "creating_claim코0"
+msgid "Creating Claim"
+msgstr "클레임을 만드는 중"
+
+msgctxt "is_vassal코0"
+msgid "Vassal"
+msgstr "속국"
+
+msgctxt "in_union코0"
+msgid "Union"
+msgstr "동군연합"
+
+msgctxt "in_protectorate코0"
+msgid "Protectorate"
+msgstr "보호국"
+
+msgctxt "is_tributary코0"
+msgid "Tributary State"
+msgstr "조공국"
+
+msgctxt "they_forced_tributary코0"
+msgid "Forced Tributary"
+msgstr "전쟁을 통한 조공국화"
+
+msgctxt "tributary_state_broke_free코0"
+msgid "Broke our Tributary relation"
+msgstr "조공국 관계 파기"
+
+msgctxt "tributary_state_abandoned코0"
+msgid "Abandoned our Tributary relation"
+msgstr "파기된 조공국 관계"
+
+msgctxt "tributary_refused_tribute코0"
+msgid "Refused Tribute"
+msgstr "거부된 공물"
+
+msgctxt "colonial_relation코0"
+msgid "Colonial Ties"
+msgstr "식민지 속박"
+
+msgctxt "sabotage_reputation코0"
+msgid "Sabotage Reputation"
+msgstr "평판 훼손"
+
+msgctxt "dishonoured_alliance코0"
+msgid "Dishonored Alliance"
+msgstr "동맹조약을 저버리다"
+
+msgctxt "aggressive_expansion코0"
+msgid "Aggressive Expansion"
+msgstr "공격적 확장"
+
+msgctxt "declared_war_on_us코0"
+msgid "Declared War"
+msgstr "전쟁 선포"
+
+msgctxt "had_war_with_us코0"
+msgid "Was at War"
+msgstr "전쟁을 했던 국가"
+
+msgctxt "declared_war_on_neighbor코0"
+msgid "Declared War On Neighbor"
+msgstr "이웃에 전쟁을 선포했다"
+
+msgctxt "violated_truce_us코0"
+msgid "Violated Truce"
+msgstr "협정 위반"
+
+msgctxt "violated_truce_neighbor코0"
+msgid "Violated Truce Against Neighbor"
+msgstr "이웃 국가와의 협정을 위반함"
+
+msgctxt "honored_alliance코0"
+msgid "Honored Alliance"
+msgstr "동맹조약을 준수하다"
+
+msgctxt "separate_peace코0"
+msgid "Separate Peace"
+msgstr "단독 강화"
+
+msgctxt "fought_to_the_end코0"
+msgid "Fought to the end"
+msgstr "최후까지 싸우다"
+
+msgctxt "conquered_province_no_claim코0"
+msgid "Conquered province without claim"
+msgstr "명분 없는 지역 정복"
+
+msgctxt "conquered_province_same_religion_group코0"
+msgid "Conquered province of our religion group"
+msgstr "같은 종교의 지역 정복"
+
+msgctxt "conquered_province_us코0"
+msgid "Conquered our province"
+msgstr "정복된 지역"
+
+msgctxt "conquered_rival_province코0"
+msgid "Conquered Rival Province"
+msgstr "경쟁국의 영토를 정복함"
+
+msgctxt "gave_province_in_peace코0"
+msgid "Gave province in peace"
+msgstr "평화롭게 영토를 할양함"
+
+msgctxt "declared_war_on_enemy코0"
+msgid "Declared War on Enemy"
+msgstr "적에 대해 전쟁을 선포함"
+
+msgctxt "discovery_of_evil코0"
+msgid "Did Covert Actions"
+msgstr "비밀 작전을 수행함"
+
+msgctxt "insulted코0"
+msgid "Insulted"
+msgstr "모욕당함"
+
+msgctxt "warned코0"
+msgid "Warned"
+msgstr "경고받음"
+
+msgctxt "PEACE_DEAL_NO_PROVINCES코0"
+msgid "Is not given cored or claimed provinces in peace deal: §G$VALUE$§!"
+msgstr "코어나 클레임이 있는 지역을 평화협정에서 받지 못했습니다: §G$VALUE$§!"
+
+msgctxt "PEACE_DEAL_PROVINCES코0"
+msgid "Is given provinces in peace deal: §G$VALUE$§!"
+msgstr "평화협정에서 지역을 받았습니다: §G$VALUE$§!"
+
+msgctxt "PEACE_DEAL_PROVINCES_RIVAL코0"
+msgid "Takes provinces from rival: §G$VALUE$§!"
+msgstr "경쟁국에게서 지역을 뺏었습니다: §G$VALUE$§!"
+
+msgctxt "PEACE_DEAL_SUBJECTS코0"
+msgid "Subjects are not eligible for peace deals."
+msgstr "속국과는 평화 협상이 불가능합니다."
+
+msgctxt "PEACE_DEAL_AFFECTED_SHIELD코0"
+msgid "Click to change peace target."
+msgstr "협정 체결 대상을 변경하려면 클릭하세요."
+
+msgctxt "PEACE_DEAL_SEPARATE_PEACE코0"
+msgid "Separate peace: §R$VALUE$§!"
+msgstr "단독 강화 협정: §R$VALUE$§!"
+
+msgctxt "in_war_together코0"
+msgid "In war together"
+msgstr "전쟁에 함께 참여"
+
+msgctxt "transfers_trade_power코0"
+msgid "Transfers trade power to"
+msgstr "다음 대상에게 무역력을 보냄"
+
+msgctxt "getting_trade_power코0"
+msgid "Getting trade power from"
+msgstr "다음 대상으로부터 무역력을 받음"
+
+msgctxt "broke_transfer_trade_power코0"
+msgid "Broke Transfer Trade Power relation"
+msgstr "무역력 이송 관계 파기"
+
+msgctxt "NOALL_WE_DISLIKE코0"
+msgid ""
+"We cannot ask $WHO$ for this as we need to have a positive opinion of them, "
+"currently at $VAL$."
+msgstr "$WHO$에게 이를 요청하려면 그들에 대한 우리의 관계도가 0보다 높아야 합니다. 현재는 $VAL$입니다."
+
+msgctxt "NOALL_THEY_DISLIKE코0"
+msgid ""
+"$WHO$ dislikes us, so we cannot ask them. They need to have a positive "
+"opinion of us, and it is currently $VAL$."
+msgstr "$WHO$에게 이를 요청하려면 우리에 대한 그들의 관계도가 0보다 높아야 합니다. 현재는 $VAL$입니다."
+
+msgctxt "ENFORCEPEACE_TRUCE코0"
+msgid "You cannot enforce peace on someone you have a truce with."
+msgstr "당신은 현재 강화 협정을 맺은 나라에 휴전을 강요할 수 없습니다."
+
+msgctxt "CANNOT_ENFORCEPEACE_OWN_SUBJECT코0"
+msgid "You cannot enforce peace on your own Subjects."
+msgstr "당신은 당신의 속국에 평화를 강요할 수 없습니다."
+
+msgctxt "ENFORCEPEACE_NOT_IN_WAR_YOUR_SUBJECT코1"
+msgid "They are not at war with any of your Subjects."
+msgstr "그들은 당신의 속국들과 전쟁 중이지 않습니다."
+
+msgctxt "FAB_CLAIMS_AT_WAR코0"
+msgid "At war: $VAL$\n"
+msgstr "전쟁 중: $VAL$\n"
+
+msgctxt "FAB_CLAIMS_RELATIONS코0"
+msgid "Bad Relations: $VAL$\n"
+msgstr "불화: $VAL$\n"
+
+msgctxt "JOINED_RECENT_WAR코0"
+msgid ""
+"It is not possible to start a new war within the first month of having "
+"started a previous one."
+msgstr "이전에 시작한 전쟁이 한 달이 지나기 전에 새로운 개전은 불가능합니다."
+
+msgctxt "IS_IN_INDEPENDENCE_WAR코0"
+msgid ""
+"It is not possible to start a new war while fighting an independence war."
+msgstr "독립 전쟁을 진행 중인 동시에 다른 새로운 전쟁을 시작할 수는 없습니다."
+
+msgctxt "NO_SHIP_CAPACITY_NO_BASE코0"
+msgid "They have no shipbuilding capacity so cannot be used for basing."
+msgstr "그들은 더 이상 함대를 건설할 여력이 없어서 그들의 항구는 기지로써 사용될 수 없습니다."
+
+msgctxt "WE_NO_SHIP_CAPACITY_NO_BASE코0"
+msgid "We have no shipbuilding capacity so cannot be used for basing."
+msgstr "우리는 더 이상 함대를 건설할 여력이 없어서 우리 항구는 기지로써 사용될 수 없습니다."
+
+msgctxt "NO_INTEGREATION_PROGRESS_AT_WAR코0"
+msgid "Both countries need to be at peace for an integration to progress."
+msgstr "양국이 통합 절차를 추진하려면 종전 상태가 필요합니다."
+
+msgctxt "NO_ANNEX_PROGRESS_AT_WAR코0"
+msgid "Both countries need to be at peace for an annexation to progress."
+msgstr "양국이 강제 합병 절차를 추진하려면 종전 상태가 필요합니다."
+
+msgctxt "NO_ANNEX_PROGRESS_WHILE_CAPITAL_TAKEN코0"
+msgid "Annexation will not progress while they don't control their capital."
+msgstr "그들이 수도를 통제하지 못한다면 합병을 진행할 수 없을 것입니다."
+
+msgctxt "NO_ANNEX_PROGRESS_LIBERTY코0"
+msgid ""
+"They must have less than §Y$LIMIT$§! Liberty desire for annexation to "
+"progress, but currently have §R$AMOUNT$§!."
+msgstr ""
+"합병을 진행하기 위해서는 그들이 §Y$LIMIT$§!보다 적은 독립 열망을 가져야 하고, 지금 그들의 독립 열망은 "
+"§R$AMOUNT$§!입니다."
+
+msgctxt "ALL_CORES_AND_CLAIMS코0"
+msgid "All Core and Claim Provinces"
+msgstr "모든 코어와 클레임 지역들"
+
+msgctxt "RIVAL_BENEFITS코0"
+msgid ""
+"§Y$WHO$§! is our Rival, and against them we have the following benefits.\n"
+msgstr "§Y$WHO$§!는 우리의 경쟁국입니다. 그리고 그들에 대항해서 우리는 다음과 같은 이득을 가지고 있습니다.\n"
+
+msgctxt "RIVAL_DIPLO_ALLY코0"
+msgid "- More likely to get alliances with their enemies.\n"
+msgstr "- 적의 적에 대해 더 쉽게 동맹을 얻어낼 수 있습니다.\n"
+
+msgctxt "RIVAL_BENEFITS_NONE코0"
+msgid "Against a rival we have the following benefits.\n"
+msgstr "경쟁국에 대항하여 우리는 다음과 같은 이득을 얻습니다.\n"
+
+msgctxt "RIVAL_BENEFITS_TRADE코0"
+msgid "- No Trade Efficiency penalty when embargoing.\n"
+msgstr "- 무역 금지 조치 중일 때 무역 효율 패널티 없음\n"
+
+msgctxt "RIVAL_PRESTIGE코0"
+msgid "$VAL$ prestige from defeating them in battles.\n"
+msgstr "전쟁에서 경쟁국에게 승리할 때 $VAL$만큼의 위신 점수를 얻습니다.\n"
+
+msgctxt "RIVAL_DIP_POWER코0"
+msgid "$VAL$£dip  cost for demanding provinces from them in a peace deal.\n"
+msgstr "평화 협정에서 그들에게 영토를 요구하려면 $VAL$£dip 이(가) 필요합니다.\n"
+
+msgctxt "RIVAL_SPY코0"
+msgid "$VAL$ Spy Network Construction against them.\n"
+msgstr "그들에 대한 $VAL$만큼의 첩보 공격.\n"
+
+msgctxt "BENEFIT_FOR_EMPEROR코0"
+msgid "Emperor gets"
+msgstr "황제가 얻는 이익"
+
+msgctxt "BENEFIT_FOR_MEMBER코0"
+msgid "Members get"
+msgstr "멤버가 얻는 이익"
+
+msgctxt "DIPIRO_SUPPORTING_INDEPENDENCE코0"
+msgid "Supporting the Independence of §Y$NAME$§!."
+msgstr "독립을 지원 중 : §Y$NAME$§!."
+
+msgctxt "DIPIRO_INDEPENDENCE_SUPPORTED코0"
+msgid "Independence Supported by §Y$NAME$§!."
+msgstr "독립 지원국 : §Y$NAME$§!."
+
+msgctxt "DIPIRO_ALLIED_WITH코0"
+msgid "Allied with §Y$NAME$§!."
+msgstr "§Y$NAME$§!와 동맹."
+
+msgctxt "SAME_FEDERATION_AS코0"
+msgid "In same federation as §Y$NAME$§!. (led by $LEADER$)"
+msgstr "연맹 : §Y$NAME$§!. (지도자: $LEADER$)"
+
+msgctxt "SAME_TRADELEAGUE_AS코0"
+msgid "In same trade league as §Y$NAME$§!. (led by $LEADER$)"
+msgstr "무역 연합 §Y$NAME$§!. (led by $LEADER$)"
+
+msgctxt "DIPIRO_RM_WITH코0"
+msgid "Royal Marriage with §Y$NAME$§!."
+msgstr "§Y$NAME$§!와 왕실결혼."
+
+msgctxt "DIPDRO_RM_WITH코0"
+msgid "$NAME$ (§Y$DYNASTY$§W)"
+msgstr "$NAME$ (§Y$DYNASTY$§W)"
+
+msgctxt "DIPIRO_GUARANTEED_BY코0"
+msgid "Guaranteed by §Y$NAME$§!."
+msgstr "§Y$NAME$§!에게 독립 보장을 받았습니다."
+
+msgctxt "DIPIRO_GUARANTEE코0"
+msgid "Guaranteeing independence of §Y$NAME$§!."
+msgstr "§Y$NAME$§!의 독립 보장을 해주고 있습니다."
+
+msgctxt "DIPIRO_WARNED코0"
+msgid ""
+"Warned by §Y$NAME$§!. §Y$NAME$§! may declare war upon $WHO|Y$ if $WHO|Y$ "
+"start a war against a third party.\n"
+"This warning is valid until §Y$DATE$§!."
+msgstr ""
+"§Y$NAME$§!에게 경고를 받았습니다. 만약 §Y$NAME$§!측은 $WHO|Y$측이 다른 국가에 전쟁을 선포할 시, "
+"$WHO|Y$에게 전쟁을 선포 할 것입니다.\n"
+"이 경고는 §Y$DATE$§!까지 유효합니다."
+
+msgctxt "DIPIRO_WARNING코0"
+msgid ""
+"$WHO|Y$ are warning §Y$NAME$§!. If $NAME|Y$ go to war, $WHO|Y$ can attack "
+"them.\n"
+"This warning is valid until §Y$DATE$§!."
+msgstr ""
+"$WHO|Y$측은 §Y$NAME$§! 에게 경고를 주었습니다. 만일  $NAME|Y$가 전쟁에 돌입한다면, $WHO|Y$측은 그들을 공격 "
+"할 것입니다.\n"
+"이 경고는 §Y$DATE$§!까지 유효합니다."
+
+msgctxt "DIPIRO_CLAIMTRHONE코0"
+msgid ""
+"$WHO|Y$ has a claim on the throne of $NAME|Y$.\n"
+"This allows $WHO|Y$ to claim the throne in a peace offer."
+msgstr ""
+"$WHO|Y$측은 $NAME|Y$ 에게 왕위를 요구 했습니다 .\n"
+"그러므로 $WHO|Y$ 에게 평화 협정 시 왕위를 요구 할 수 있습니다."
+
+msgctxt "DIPIRO_WARSUBSIDIES코0"
+msgid ""
+"$WHO|Y$ pay $AMOUNT|Y2$¤ in subsidies to $NAME|Y$ each month.\n"
+"$WHO|Y$ will continue paying until $DATE|Y$."
+msgstr ""
+"$WHO|Y$은(는) $NAME|Y$에게 매월 $AMOUNT|Y2$¤만큼의 전쟁 보조금을 지급하고 있습니다.\n"
+"$WHO|Y$은(는) $DATE|Y$까지 계속 지급할 것입니다."
+
+msgctxt "DIPIRO_MILACCESS코0"
+msgid ""
+"$WHO|Y$ gives military access to $NAME|Y$.\n"
+"This allows $NAME_ADJ|Y$ troops to enter $WHO_ADJ|Y$ provinces."
+msgstr ""
+"$WHO|Y$측은 $NAME|Y$ 에게 군사 통행권을 주었습니다.\n"
+"그러므로 $NAME_ADJ|Y$의 군대는 $WHO_ADJ|Y$의 영토에 주둔할 수 있습니다."
+
+msgctxt "DIPIRO_CONDITIONAL_ACCESS코0"
+msgid ""
+"$TAKER|Y$ has conditional military access through $GIVER|Y$ for the "
+"following reason(s):\n"
+msgstr "다음과 같은 이유 때문에, $TAKER|Y$은(는) $GIVER|Y$에 제한적인 군사 통행권을 가진다:\n"
+"\n"
+
+msgctxt "DIPIRO_FLEETACCESS코0"
+msgid ""
+"$WHO|Y$ gives fleet access to $NAME|Y$.\n"
+"This allows $NAME_ADJ|Y$ ships to enter $WHO_ADJ|Y$ ports and repair."
+msgstr ""
+"$WHO|Y$측은 $NAME|Y$ 에게 해상 통행권을 주었습니다.\n"
+"그러므로 $NAME_ADJ|Y$의 함대는 $WHO_ADJ|Y$의 항구에 정박하고 수리를 받을 수 있습니다."
+
+msgctxt "DIPIRO_CB코0"
+msgid ""
+"$WHO|Y$ has '$CB|Y$' casus belli against $NAME|Y$ ($DESC$).\n"
+"$WHO|Y$ may use this case a reason for declaring war against $NAME|Y$."
+msgstr ""
+"$WHO|Y$측은 '$CB|Y$' 전쟁 명분을 $NAME|Y$에게서 ($DESC$) 얻었습니다.\n"
+"$WHO|Y$측은 이 명분을 이용하여 $NAME|Y$에게 전쟁을 선포할 수 있습니다."
+
+msgctxt "DIPIRO_CB_EXPIRE코0"
+msgid "This casus belli is valid until §Y$DATE$§!."
+msgstr "이 전쟁 명분은 §Y$DATE$§!까지 유효합니다."
+
+msgctxt "NO_WAR_ON_EMPIRE코0"
+msgid ""
+"You cannot declare war on a member of the Empire, if you are allied with the "
+"Emperor in a war."
+msgstr "전쟁 중 제국 황제와 동맹 중이라면 제국 회원국에게 전쟁을 선포할 수 없습니다."
+
+msgctxt "NO_WAR_ON_EMPIRE_FIRST_MONTHS코0"
+msgid ""
+"You cannot declare war on a member of the Empire, if you are allied with the "
+"Emperor and the Emperor has recently gone to war."
+msgstr "만일 당신이 제국의 황제와 동맹을 맺고 최근 전쟁을 떠난상태라면 제국의 일원에게는 전쟁을 선포 하실 수 없습니다."
+
+msgctxt "ALREADY_WAR_EMPIRE코0"
+msgid ""
+"You cannot declare war on a member of the Empire, if you are already at war "
+"with the Emperor."
+msgstr "제국 황제와 전쟁 중이라면, 제국 회원국에게 전쟁을 선포할 수 없습니다."
+
+msgctxt "PEACE_IN_EMPIRE_NO_WAR코0"
+msgid ""
+"After the landfriede has been declared, no member of the Holy Roman Empire "
+"may take hostile actions towards another member."
+msgstr "란트 평화령이 선언되면, 신성 로마 제국의 어떤 가입국도 다른 가입국을 향해 적대적인 행동을 취할 수 없게 됩니다."
+
+msgctxt "DIP_MAINT_RM코0"
+msgid "Royal Marriage: (§Y$COUNTRY$§W): §Y-$VAL$§W."
+msgstr "왕실 결혼: (§Y$COUNTRY$§W): §Y-$VAL$§W."
+
+msgctxt "DIP_MAINT_VASSAL코0"
+msgid "Have Vassal: (§Y$COUNTRY$§W): §Y-$VAL$§W."
+msgstr "종속국: (§Y$COUNTRY$§W): §Y-$VAL$§W."
+
+msgctxt "alert_agreement_fail_instant코0"
+msgid "§YAn agreement will fail due to low power!§W"
+msgstr "§Y협정은 능력 부족으로 협상에 실패 할 것입니다!§W"
+
+msgctxt "alert_agreement_fail_delayed코0"
+msgid "Our agreement with $LIST$ will fail due to low Diplomatic Power."
+msgstr "우리와 $LIST$의 협정은 낮은 외교 능력으로 인해 실패할 것입니다."
+
+msgctxt "UPKEEP_EXPLANATION코0"
+msgid "$CURR$/$ALLOW$ Diplomatic Relations: $COST$\n"
+"$LIST$"
+msgstr "$CURR$/$ALLOW$ 외교 관계: $COST$\n"
+"$LIST$"
+
+msgctxt "UPKEEP_MOD_DESC코0"
+msgid "We can support Diplomatic Relations with $NUM|Y$ nations, due to:"
+msgstr "우리는 $NUM|Y$개의 국가와 외교 관계를 유지할 수 있습니다. 변동치:"
+
+msgctxt "DIP_MAINT코0"
+msgid "$RELATION$: (§Y$COUNTRY$§W): §Y-$VAL$§W."
+msgstr "$RELATION$: (§Y$COUNTRY$§W): §Y-$VAL$§W."
+
+msgctxt "RIVAL_IMPACT_ON_SPY코0"
+msgid "Rivals: $VAL$\n"
+msgstr "경쟁국: $VAL$\n"
+
+msgctxt "MILACCESS_TYPE코0"
+msgid "Military Access"
+msgstr "군사 통행권"
+
+msgctxt "ANNEX_TARGET_CORE코0"
+msgid "Their capital is our claim: "
+msgstr "그 들의 수도는 우리의 클레임에 속해 있습니다: "
+
+msgctxt "ANNEX_INPROGRESS3코0"
+msgid ""
+"Annexation progress §Y$PROGRESS|1$%§! ($VAL|G$/$COST|Y$), estimated to be "
+"done $DATE|Y$.\n"
+"Uses §R$DRAIN$§!£dip  each month.\n"
+msgstr ""
+"현재의 합병 진행도는 §Y$PROGRESS|1$%§! ($VAL|G$/$COST|Y$)이며, $DATE|Y$까지 완료될 것입니다.\n"
+"매월  §R$DRAIN$§!£dip 을 소모합니다.\n"
+
+msgctxt "INTEGRATE_INPROGRESS3코0"
+msgid ""
+"Integration progress §Y$PROGRESS|1$%§! ($VAL|G$/$COST|Y$), estimated to be "
+"done $DATE|Y$.\n"
+"Uses §R$DRAIN$§!£dip  each month.\n"
+msgstr ""
+"현재의 통합 진행도는 §Y$PROGRESS|1$%§! ($VAL|G$/$COST|Y$)이며, $DATE|Y$까지 완료될 것입니다.\n"
+"매월 §R$DRAIN$§!£dip 을 소모합니다.\n"
+
+msgctxt "NO_ANNEX_PROGRESS_LACK_DIP코0"
+msgid "Needs at least $COST$£dip  to progress."
+msgstr "계속 진행하려면 최소한 $COST$£dip 이 필요합니다."
+
+msgctxt "ANNEX_SAME_RELIGION코0"
+msgid "Same Religion"
+msgstr "같은 종교"
+
+msgctxt "ANNEX_SAME_CULTURE코0"
+msgid "Same Culture Group"
+msgstr "같은 문화권"
+
+msgctxt "ANNEX_TARGET_LOW_STAB코0"
+msgid "Target has low stability: "
+msgstr "상대는 낮은 안정도를 가지고 있습니다: "
+
+msgctxt "ANNEX_LONG_TIME_VASSAL코0"
+msgid "Longtime Vassal: "
+msgstr "오랫동안 종속국: "
+
+msgctxt "ANNEX_WAREXHAUSTION코0"
+msgid "War Exhaustion: "
+msgstr "전쟁 피로도: "
+
+msgctxt "ANNEX_OVERSEAS코0"
+msgid "Overseas: "
+msgstr "외국: "
+
+msgctxt "ANNEX_LARGER코0"
+msgid "Their country is larger than ours: "
+msgstr "이 국가는 우리보다 큽니다: "
+
+msgctxt "INTEGRATE_MULTI_UNIONS코0"
+msgid "The country has multiple claimants: "
+msgstr "이 국가는 많은 권리자가 있습니다: "
+
+msgctxt "ANNEXTITLE코0"
+msgid "Annex Vassal"
+msgstr "종속국을 합병하다 "
+
+msgctxt "CANCEL_ANNEXTITLE코0"
+msgid "Cancel Annexation"
+msgstr "합병 취소 "
+
+msgctxt "ANNEXNEWDESC코0"
+msgid ""
+"Do you wish to start the process of absorbing $COUNTRY$ into your country? \n"
+"This will occupy one of your diplomats until the process is done or you "
+"cancel the attempt."
+msgstr ""
+"$COUNTRY$측을 당신의 국가로 합병을 시작하시겠습니까? \n"
+"합병이 끝나거나 취소하기 까지 당신의 외교관을 사용할 것입니다."
+
+msgctxt "CANCEL_ANNEXNEWDESC코0"
+msgid ""
+"Do you wish to abort your annexation attempt and order your diplomat home?"
+msgstr "합병을 취소하고 외교관을 본국에 소환 하겠습니까?"
+
+msgctxt "ANNEXDESC코0"
+msgid "Start the process of annexing your vassal."
+msgstr "종속국의 합병을 시작하다."
+
+msgctxt "ANNEXINVALID코0"
+msgid ""
+"You may only Annex a nation which has been your vassal for at least "
+"§Y$YEARS$§! years."
+msgstr "§Y$YEARS$§!년 이상 당신의 속국이었던 국가만 합병할 수 있습니다."
+
+msgctxt "ANNEXINTEGRATETITLE코0"
+msgid "Annex / Integrate"
+msgstr "합병 / 통합"
+
+msgctxt "ANNEXTOTALAMOUNT코0"
+msgid ""
+"The annexation is estimated to cost a total of §Y$COST$§!£dip . The cost is "
+"based on the development level of your vassal's provinces (excluding "
+"provinces that are your cores), and the cost can change during the process "
+"of annexation."
+msgstr ""
+"합병에는 총 §Y$COST$§!£dip 이 소모될 것으로 추정됩니다. 이 비용은 해당 속국이 가진 지역들(우리가 코어를 갖고 있는 "
+"지역들은 제외하고)의 개발도에 기초하며, 합병기간 중에도 비용은 변동될 수 있습니다."
+
+msgctxt "OUT_IS_ANNEXING코0"
+msgid "Annexing §Y$COUNTRY$§!"
+msgstr "§Y$COUNTRY$§!을 합병 중"
+
+msgctxt "OUT_BEING_ANNEXED코0"
+msgid "Being annexed by §Y$COUNTRY$§!"
+msgstr "§Y$COUNTRY$§!에게 합병당하는 중"
+
+msgctxt "OUT_ANNEX_TOOLTIP코0"
+msgid "$VAL|2+$/month"
+msgstr "$VAL|2+$/월"
+
+msgctxt "ANNEX_TOO_LOW코0"
+msgid ""
+"Your vassal needs to have at least §Y+190§! opinion of you for you to be "
+"able to start an annexation."
+msgstr "속국의 우리에 대한 관계도가 최소한 §Y+190§!이상이여야 합니다."
+
+msgctxt "MAX_ALLIANCE_REACHED코0"
+msgid "We can only have §Y$VAL$§W alliances. We currently have §Y$VAL$§W"
+msgstr "우리는 §Y$VAL$§W개의 동맹을 맺을 수 있습니다. 현재 우리는 §Y$VAL$§W개의 동맹을 맺고 있습니다."
+
+msgctxt "SENDGIFTTITLE코0"
+msgid "Send Gift"
+msgstr "선물하기"
+
+msgctxt "SENDGIFTDESC코0"
+msgid "Gift money to help them along."
+msgstr "그들을 돕고자 돈을 선물합니다."
+
+msgctxt "CANCEL_ANNEXDESC코0"
+msgid "Abort the Annexation Attempt."
+msgstr "합병 시도 무산\""
+
+msgctxt "INTEGRATEDESC코0"
+msgid "Start the process of integrating your union member."
+msgstr "우리와 동군연합 국가를 통합과정을 시작합니다."
+
+msgctxt "CANCEL_INTEGRATEDESC코0"
+msgid "Abort the integration process and return your diplomat."
+msgstr "통합 과정을 중단시키고 외교관을 돌려보내겠습니까?"
+
+msgctxt "CANCEL_INTEGRATENEWDESC코0"
+msgid ""
+"Do you wish to abort your integration attempt and order your diplomat home?"
+msgstr "통합 시도를 무산시키고 외교관을 불러들이겠습니까?"
+
+msgctxt "CANCEL_INTEGRATETITLE코0"
+msgid "Cancel Integration"
+msgstr "통합 중지"
+
+msgctxt "OUT_IS_INTEGRATING코0"
+msgid "Integrating §Y$COUNTRY$§!"
+msgstr "§Y$COUNTRY$§!과 통합 중"
+
+msgctxt "OUT_BEING_INTEGRATING코0"
+msgid "Being integrated by §Y$COUNTRY$§!"
+msgstr "§Y$COUNTRY$§!에게 통합당하는 중\""
+
+msgctxt "CLOSE_RIVALS_SELECTION코0"
+msgid "Close rival selection."
+msgstr "경쟁국 선택창 닫기"
+
+msgctxt "REMOVE_RIVAL코0"
+msgid "Remove"
+msgstr "제외하기"
+
+msgctxt "REMOVE_RIVAL_DESC코0"
+msgid "Remove this Rival."
+msgstr "경쟁국에서 제외합니다."
+
+msgctxt "CLICK_RIVAL_SELECTION코0"
+msgid "Click to select as your rival."
+msgstr "경쟁국으로 선택하려면 클릭하십시오."
+
+msgctxt "CANT_SET_RIVAL_ALREADY코0"
+msgid "This country is already a Rival."
+msgstr "이 국가는 이미 경쟁국입니다."
+
+msgctxt "CANT_SET_RIVAL_OVERLORD코0"
+msgid "You cannot set your Overlord as a Rival."
+msgstr "당신의 종주국을 경쟁국로 지정할 순 없습니다."
+
+msgctxt "CANT_SET_RIVAL_SUBJECT코0"
+msgid "You cannot set your subject as a Rival."
+msgstr "속국을 경쟁국으로 지정할 순 없습니다."
+
+msgctxt "CLICK_RIVAL_SELECTION_REPLACE코0"
+msgid ""
+"Click to replace §Y$COUNTRY$§W as your rival. This will cost §Y$VAL$§W "
+"Diplomatic Points."
+msgstr "경쟁국으로 §Y$COUNTRY$§W측을 대체하려면 클릭하십시오. §Y$VAL$§W의 외교력이 소모될 것 입니다."
+
+msgctxt "NO_RIVAL_SELECTED코0"
+msgid "No Rival selected."
+msgstr "선택된 경쟁국이 없습니다."
+
+msgctxt "CHOOSE_FROM_LIST코0"
+msgid ""
+"§YClick in the list or on the map to choose a new Rival.\n"
+"This will cost you §R$VAL$§!£dip .§!"
+msgstr "§Y새로운 경쟁자를 선택 목록이나 지도에서 선택하세요 \n"
+"§R$VAL$§!£dip 의 외교력이 소모될 것 입니다.§!"
+
+msgctxt "CLICK_TO_REMOVE_RIVAL코0"
+msgid "\n"
+"§YOr click the remove button to\n"
+"remove $RIVAL$ as Rival§!"
+msgstr "\n"
+"§YOr 제외하기 버튼을 누르세요.\n"
+" $RIVAL$을 경쟁국에서 제외하려면§!"
+
+msgctxt "SELECT_RIVAL_COST_DESC코0"
+msgid "\n"
+"Selecting a new Rival will cost you §Y$VAL$§W£dip ."
+msgstr "\n"
+"새로운 경쟁국을 선택하면 §Y$VAL$§W£dip 이 소모될 것입니다."
+
+msgctxt "CLICK_TO_SELECT_RIVAL코0"
+msgid ""
+"\n"
+"Click here and then click on a country in the list to set it as your Rival."
+msgstr "\n"
+"이곳을 클릭하고 경쟁국으로 설정할 국가를 선택하십시오."
+
+msgctxt "CLICK_NO_RIVAL_SELECTED코0"
+msgid "No Rival Selected"
+msgstr "선택된 경쟁국이 없습니다"
+
+msgctxt "CLICK_CHANGE_RIVAL코0"
+msgid "\n"
+"Click to change Rival."
+msgstr "\n"
+"경쟁국을 바꾸려먼 클릭하세요."
+
+msgctxt "CLICK_SET_RIVAL코0"
+msgid "\n"
+"Click to set as Rival."
+msgstr "\n"
+"경쟁국으로 선택하기 위해 클릭하세요."
+
+msgctxt "RIVAL_REMOVE_NOT_ENOUGH_POWER코0"
+msgid "We are lacking the §Y$VAL$§W£dip  required to remove a rival."
+msgstr "경쟁국 지정을 취소하기 위해서 필요한 §Y$VAL$§W£dip 이 없습니다."
+
+msgctxt "ENFORCEPEACETITLE코0"
+msgid "Enforce Peace"
+msgstr "평화협정 강요"
+
+msgctxt "ENFORCEPEACEDESC코0"
+msgid ""
+"Enforce a White Peace between the target country and one of its enemies. You "
+"will join the war on the opposing side if the target refuses to accept the "
+"peace."
+msgstr ""
+"해당 국가와 해당국의 적국 중 하나와 무조건 휴전을 맺도록 합니다. 해당국이 평화협정 제안을 거절한다면, 해당국의 적국 편으로 참전합니다."
+""
+
+msgctxt "ENFORCPEACEDESC_OVERLORD코0"
+msgid "§RTheir overlord will join this war if they decline!§!"
+msgstr "§R그들이 거부한다면 그들의 종주국이 전쟁에 참여할 것입니다!§!"
+
+msgctxt "ENFORCEPEACE_CHOOSE_TARGET코0"
+msgid "Choose the country you want to side with:"
+msgstr "후원하고 싶은 국가를 선택하세요:"
+
+msgctxt "enforced_peace_against코0"
+msgid "Enforced Peace against"
+msgstr "다음 국가에 평화협정 강요"
+
+msgctxt "enforced_peace_for코0"
+msgid "Enforced Peace"
+msgstr "평화협정 강요"
+
+msgctxt "improved_imperial_relations코0"
+msgid "Improved imperial relations"
+msgstr "제국 관계 개선"
+
+msgctxt "IMPROVERELATIONTITLE코0"
+msgid "Improve Relation"
+msgstr "관계 개선"
+
+msgctxt "IMPROVERELATIONDESC코0"
+msgid "Improve relations between yourself and the target."
+msgstr "해당국과 우리의 관계를 개선합니다."
+
+msgctxt "CANCEL_IMPROVERELATIONTITLE코0"
+msgid "Stop Relation Improvement"
+msgstr "관계 개선 중지"
+
+msgctxt "CANCEL_IMPROVERELATIONDESC코0"
+msgid "Recall our diplomat and stop improving relations."
+msgstr "관계 개선을 중지하고 외교관을 불러들입니다."
+
+msgctxt "FABRICATECLAIMSTATEDESC_NOPROV코1"
+msgid ""
+"Country has no neighbouring unclaimed areas with more than one province in "
+"that can be claimed."
+msgstr "나라에 인접한 지방(area) 중 클레임을 날조할 수 있는 지역(province)을 둘 이상 가진 곳이 없습니다."
+
+msgctxt "FABRICATECLAIMTITLE코1"
+msgid "Fabricate Claim"
+msgstr "클레임 조작"
+
+msgctxt "FABRICATECLAIMSTATEDESC코0"
+msgid "Fabricate a claim on a neighboring area."
+msgstr "이웃한 지방(area)의 클레임을 조작합니다."
+
+msgctxt "FABRICATECLAIMDESC코1"
+msgid "Fabricate a claim on a neighboring province."
+msgstr "이웃한 지역(province)의 클레임을 조작합니다."
+
+msgctxt "FABRICATECLAIMDESC_NOPROV코1"
+msgid "Has no possible neighboring province to fabricate a claim on."
+msgstr "인접한 지역 중 클레임 조작이 가능한 지역이 없습니다."
+
+msgctxt "JUSTIFY_TRADE_CONFLICTTITLE코0"
+msgid "Justify Trade Conflict"
+msgstr "무역 분쟁 정당화"
+
+msgctxt "JUSTIFY_TRADE_CONFLICTDESC코0"
+msgid "Justify a trade conflict against someone who threatens your trade."
+msgstr "당신의 무역을 위협하는 국가와의 무역 분쟁을 정당화합니다."
+
+msgctxt "JUSTIFY_TRADE_CONFLICT_NO_POWER코1"
+msgid ""
+"$WHO$ must have trade power in a trade node where you have at least "
+"$OURVAL|0%$ of the total power."
+msgstr "당신이 $OURVAL|0%$ 이상을 점유하고 있는 무역 노드 중 $WHO$이(가) 무역력을 가지고 있는 곳이 없습니다."
+
+msgctxt "JUSTIFY_TRADE_CONFLICT_LOW_POWER코1"
+msgid ""
+"$WHO$ must have at least $VAL|0%$ of the total power in a trade node where "
+"you have at least $OURVAL|0%$ of the total power. They currently have "
+"$MAX|0%$ in $NODE$, where you have $MAXOURS|0%$."
+msgstr ""
+"당신이 $OURVAL|0%$ 이상을 점유하고 있는 무역 노드 중 $WHO$이(가) $VAL|0%$ 이상을 점유하고 있는 곳이 없습니다. "
+"당신이 $MAXOURS|0%$을(를) 점유하고 있는 $NODE$ 무역 노드에서 그들은 $MAX|0%$을(를) 점유하고 있습니다."
+
+msgctxt "TRANSFER_TRADE_POWERTITLE코0"
+msgid "Transfer Trade Power"
+msgstr "무역력 이송"
+
+msgctxt "TRANSFER_TRADE_POWERDESC코0"
+msgid "Ask if $WHO$ want to transfer a part of their trade power to you."
+msgstr "$WHO$이(가) 그들의 무역력 일부를 당신에게 보내고자 하는지 물어봅니다."
+
+msgctxt "TRANSFER_TRADE_POWER_SELECT_DESC코0"
+msgid ""
+"Do you want to ask $WHO$ if they want to transfer a part of their trade "
+"power to you."
+msgstr "$WHO$이(가) 그들의 무역력 일부를 당신에게 보내고자 하는지 물어보겠습니까."
+
+msgctxt "CANCEL_TRANSFER_TRADE_POWER_SELECT_DESC코0"
+msgid "Do you want to cancel your Transfer Trade Power relation with $WHO$?"
+msgstr "$WHO$와(과)의 무역력 이송 관계를 파기하겠습니까?"
+
+msgctxt "CANCEL_TRANSFER_TRADE_POWER_SELECT_DESC_GIVE_CB코0"
+msgid ""
+"We'll lose $PRESTIGEHIT|R$ prestige and $WHOS$ opinion about you will be "
+"hurt for some years. Since this relation was enforced through a peace deal, "
+"$WHO$ will get a Trade Conflict Casus Belli on us."
+msgstr ""
+"우리는 $PRESTIGEHIT|R$만큼의 위신과 몇 년간 당신에 대한 $WHOS$의 관계도를 잃게 됩니다. 이 관계는 평화 협정에 의해 "
+"강요된 것이므로, $WHO$은(는) 우리에 대한 무역 분쟁 전쟁 명분을 가지게 됩니다."
+
+msgctxt "CANCEL_TRANSFER_TRADE_POWERTITLE코0"
+msgid "Cancel Transfer Trade Power"
+msgstr "무역력 이송 취소"
+
+msgctxt "CANCEL_TRANSFER_TRADE_POWERDESC코0"
+msgid "Cancel the Transfer Trade Power relation."
+msgstr "무역력 이송 관계를 파기합니다."
+
+msgctxt "INFILTRATETITLE코0"
+msgid "Infiltrate Administration"
+msgstr "행정부 잠입"
+
+msgctxt "CANCEL_INFILTRATETITLE코0"
+msgid "Cancel Infiltration"
+msgstr "잠입 취소"
+
+msgctxt "SABOTAGETITLE코0"
+msgid "Sabotage Reputation"
+msgstr "평판 훼손"
+
+msgctxt "SABOTAGEDESC코0"
+msgid "Sabotage the target's diplomatic reputation."
+msgstr "해당 국가의 외교적 평판을 훼손합니다."
+
+msgctxt "SABOTAGEDESCDERIVED코0"
+msgid ""
+"Sabotage Reputation will reduce the size of our $ADJ|Y$ Spy Network by "
+"$COST|R$ and have the following effects on them:\n"
+"$DESC$\n"
+"\n"
+"It will last until $DATE|Y$."
+msgstr ""
+"평판 훼손은 우리의 $ADJ|Y$ 첩보망을 $COST|R$만큼 감소시키고, 다음과 같은 효과를 가져올 것입니다:\n"
+"$DESC$\n"
+"\n"
+"이 효과는 $DATE|Y$까지 지속됩니다."
+
+msgctxt "SABOTAGEALREADYPRESENTDESC코0"
+msgid "Their reputation has recently been sabotaged."
+msgstr "그들의 평판이 최근에 훼손되었습니다."
+
+msgctxt "INFILTRATEDESC코0"
+msgid ""
+"Infiltrate Administration lifts the Fog of War from the target country until "
+"$DATE|Y$."
+msgstr "행정부 잠입은 대상 국가에서 전장의 안개를 $DATE|Y$까지 걷어줄 것입니다."
+
+msgctxt "IS_INFILTRATEDESC코0"
+msgid ""
+"Our spies have infiltrated their administration, and will be able to supply "
+"us with information until $DATE|Y$."
+msgstr "우리의 첩자들이 그들의 행정부에 잠입했고, $DATE|Y$까지 우리에게 정보를 전달해줄 수 있습니다."
+
+msgctxt "CONFIRM_CANCEL_INFILTRATE코0"
+msgid ""
+"Are you sure you want to recall our spies from their high positions? We will "
+"no longer be able to see what goes on in §Y$COUNTRY$§!."
+msgstr "정말로 첩자를 철수시키기를 원하십니까? 우리는 더 이상 §Y$COUNTRY$§!에 대한 정보를 받을 수 없을 것입니다."
+
+msgctxt "SABOTAGE_RECRUITMENT코0"
+msgid "Sabotage Recruitment"
+msgstr "모집 방해"
+
+msgctxt "sabotage_recruitment코0"
+msgid "Sabotage Recruitment"
+msgstr "모집 방해"
+
+msgctxt "SABOTAGERECRUITMENTTITLE코0"
+msgid "Sabotage Recruitment"
+msgstr "모집 방해"
+
+msgctxt "SABOTAGERECRUITMENTDESC코0"
+msgid "Sabotage the target's military recruitment."
+msgstr "해당 국가의 군대 모집을 방해합니다."
+
+msgctxt "SABOTAGERECRUITMENTDESCDERIVED코0"
+msgid ""
+"Sabotage Recruitment will reduce the size of our $ADJ|Y$ Spy Network by "
+"$COST|R$ and have the following effects:\n"
+"$DESC$\n"
+"\n"
+"It will last until $DATE|Y$."
+msgstr ""
+"모집 방해는 우리의 $ADJ|Y$ 첩보망을 $COST|R$만큼 감소시키고, 다음과 같은 효과를 가져올 것입니다:\n"
+"$DESC$\n"
+"\n"
+"이 효과는 $DATE|Y$까지 지속됩니다."
+
+msgctxt "SABOTAGERECRUITMENTALREADYPRESENT코0"
+msgid "Their recruitment is already being sabotaged."
+msgstr "그들의 모집은 이미 방해받는 중입니다."
+
+msgctxt "CORRUPT_OFFICIALS코0"
+msgid "Corrupt Officials"
+msgstr "부패 유도"
+
+msgctxt "corrupt_officials코0"
+msgid "Corrupt Officials"
+msgstr "부패 유도"
+
+msgctxt "CORRUPTOFFICIALSALREADYPRESENTDESC코0"
+msgid "Someone is already corrupting officials in $TARGET$."
+msgstr "누군가 이미 $TARGET$의 관료들을 부패시키는 중입니다."
+
+msgctxt "CORRUPTOFFICIALSTITLE코0"
+msgid "Corrupt Officials"
+msgstr "부패 유도"
+
+msgctxt "CORRUPTOFFICIALSDESC코0"
+msgid "Corrupt the target's officials."
+msgstr "해당 국가의 관료들을 부패시킵니다."
+
+msgctxt "CORRUPTOFFICIALSDESCDERIVED코0"
+msgid ""
+"Corrupt Officials will reduce the size of our $ADJ|Y$ Spy Network by "
+"$COST|R$ and have the following effects:\n"
+"$DESC$\n"
+"\n"
+"It will last until $DATE|Y$."
+msgstr ""
+"부패 유도는 우리의 $ADJ|Y$ 첩보망을 $COST|R$만큼 감소시키고, 다음과 같은 효과를 가져올 것입니다:\n"
+"$DESC$\n"
+"\n"
+"이 효과는 $DATE|Y$까지 지속됩니다."
+
+msgctxt "SLANDER_MERCHANTS코0"
+msgid "Slander Merchants"
+msgstr "상인 비방"
+
+msgctxt "slander_merchants코0"
+msgid "Slander Merchants"
+msgstr "상인 비방"
+
+msgctxt "SLANDERMERCHANTSTITLE코0"
+msgid "Slander Merchants"
+msgstr "상인 비방"
+
+msgctxt "SLANDERMERCHANTSDESC코0"
+msgid "Slander the target's merchants."
+msgstr "해당 국가의 상인을 비방합니다."
+
+msgctxt "SLANDERMERCHANTSDESCDERIVED코0"
+msgid ""
+"Slander Merchants will reduce the size of our $ADJ|Y$ Spy Network by "
+"$COST|R$ and have the following effects:\n"
+"$DESC$\n"
+"\n"
+"It will last until $DATE|Y$."
+msgstr ""
+"상인 비방은 우리의 $ADJ|Y$ 첩보망을 $COST|R$만큼 감소시키고, 다음과 같은 효과를 가져올 것입니다:\n"
+"$DESC$\n"
+"\n"
+"이 효과는 $DATE|Y$까지 지속됩니다."
+
+msgctxt "SLANDERMERCHANTSALREADYPRESENTDESC코0"
+msgid "Their merchants are already being slandered."
+msgstr "그들의 상인은 이미 비방당하는 중입니다."
+
+msgctxt "SUPPORTREBELSTITLE코0"
+msgid "Support Rebels"
+msgstr "반군 지원"
+
+msgctxt "SUPPORTREBELSDESC코0"
+msgid "\n"
+"Support rebels in a country."
+msgstr "\n"
+"해당 국가의 반군을 지원합니다."
+
+msgctxt "SUPPORTREBELSDESCDERIVED코0"
+msgid ""
+"Supporting a rebel faction will reduce the size of our $ADJ|Y$ Spy Network "
+"by $COST|R$ and increase their chance of making progress towards an uprising "
+"each month by §Y$AMT$%§! for a period of $YEARS|Y$ years.\n"
+"\n"
+"You will also support them during their uprising. If the rebels gain power "
+"they will become your ally."
+msgstr ""
+"반군 지원은 우리의 $ADJ|Y$ 첩보망을 $COST|R$만큼 감소시키고, 매월 그들의 봉기 진행도가 올라갈 확률을 "
+"§Y$AMT$%§!만큼 올립니다. 이 효과는 $YEARS|Y$ 년만큼 지속됩니다.\n"
+"\n"
+"그들이 봉기 중일 때도 지원은 계속될 것이고, 만약 그들이 성공한다면 당신의 동맹이 될 것입니다."
+
+msgctxt "SUPPORTREBELSDESCALREADYPRESENTDESC코0"
+msgid "Someone is already supporting these rebels in the target country."
+msgstr "누군가가 이미 해당국에서 이 반군을 지원하고 있습니다."
+
+msgctxt "SUPPORTREBELSDESCNOREBELSDESC코0"
+msgid "There are no rebels to support."
+msgstr "지원할 반군이 없습니다."
+
+msgctxt "SUPPORT_REBELS_OVERLORD코0"
+msgid "It is not possible to support rebels in one of your subjects."
+msgstr "당신의 속국의 반군을 지원할 수는 없습니다.\""
+
+msgctxt "SUPPORTREBELSDESC_NEEDTECH코0"
+msgid "Administration Technology level needs to be at least $VAL|Y$."
+msgstr "정부 기술이 최소한 $VAL|Y$이상 필요합니다.\""
+
+msgctxt "CANCEL_SUPPORTREBELSTITLE코0"
+msgid "Stop Supporting Rebels"
+msgstr "반군 지원 중지"
+
+msgctxt "CANCEL_SUPPORTREBELSDESC코0"
+msgid ""
+"\n"
+"The rebels we support in §Y$COUNTRY$§! are $AMOUNT$ towards an uprising. Our "
+"support lasts until §Y$DATE$§!."
+msgstr ""
+"\n"
+"우리가 §Y$COUNTRY$§!에서 지원중인 반군은 봉기까지 $AMOUNT$ 남았습니다. 우리의 지원은 §Y$DATE$§!까지 지속됩니다."
+""
+
+msgctxt "CANCEL_SUPPORTREBELS_WARNING코0"
+msgid ""
+"Are you sure you want to stop supporting their $REBELTYPE$? We would not "
+"regain any of our investments."
+msgstr "그들의 $REBELTYPE$에 대한 지원을 정말로 중단하시겠습니까? 우리는 투자한 어떤 것도 되돌려 받지 못할 것입니다."
+
+msgctxt "SUPPORTREBELS_REBELREVOLTED코0"
+msgid "Revolted"
+msgstr "이미 봉기함"
+
+msgctxt "AGITATEFORLIBERTYTITLE코0"
+msgid "Agitate for Liberty"
+msgstr "독립 선동"
+
+msgctxt "AGITATEFORLIBERTYDESC코1"
+msgid ""
+"Convince the target that they need to get independence from their "
+"oppressors!"
+msgstr "대상국이 압제자로부터 떨쳐일어나 독립하도록 선동하자!"
+
+msgctxt "AGITATEFORLIBERTYDESCDERIVED코0"
+msgid ""
+"Agitating for Liberty increases the target's Liberty Desire by $LD|Y$.\n"
+"\n"
+"It will last until $DATE|Y$."
+msgstr "독립 선동은 대상 국가의 독립 열망을 $LD|Y$만큼 증가시킵니다.\n"
+"\n"
+"이 효과는 $DATE|Y$까지 지속됩니다."
+
+msgctxt "SOW_DISCONTENT_NOIDEA코0"
+msgid "We are lacking the proper ideas to do this."
+msgstr "이를 수행할 수 있는 적절한 이념이 없다."
+
+msgctxt "CANCEL_AGITATEFORLIBERTYTITLE코0"
+msgid "Cancel Agitate for Liberty"
+msgstr "독립 선동 취소"
+
+msgctxt "CANCEL_AGITATEFORLIBERTYDESC코0"
+msgid "Stop agitating for liberty of the target."
+msgstr "목표에 대한 독립 선동을 취소합니다."
+
+msgctxt "SOWDISCONTENTTITLE코0"
+msgid "Sow Discontent"
+msgstr "국가분열 공작"
+
+msgctxt "SOWDISCONTENTDESC코0"
+msgid "Sow discontent among the population of the target."
+msgstr "해당 국가의 국민들 사이에 불안의 씨앗을 퍼뜨립니다."
+
+msgctxt "SOWDISCONTENTDESCDERIVED코0"
+msgid ""
+"Sow Discontent will reduce the size of our $ADJ|Y$ Spy Network by $COST|R$ "
+"and have the following effects on them:\n"
+"$DESC$\n"
+"\n"
+"It will last until $DATE|Y$."
+msgstr ""
+"국가 분열 공작은 우리의 $ADJ|Y$ 첩보망을 $COST|R$만큼 감소시키고, 다음과 같은 효과를 가져올 것입니다:\n"
+"$DESC$\n"
+"\n"
+"이 효과는 $DATE|Y$까지 지속됩니다."
+
+msgctxt "SOWDISCONTENTALREADYPRESENT코0"
+msgid "Their people's discontent has already been stirred."
+msgstr "그 나라의 국민들은 이미 공작에 당한 상태입니다."
+
+msgctxt "UNTIL_DATE_EFFECTS코0"
+msgid "\n"
+"Until §Y$DATE$§!, this has the following effects:\n"
+" $DESC$."
+msgstr "\n"
+"§Y$DATE$§!까지, 이는 다음과 같은 효과를 가져옵니다:\n"
+" $DESC$."
+
+msgctxt "AGITATE_EFFECTS코0"
+msgid "§YLiberty Desire§!: §G+$VAL$%§!"
+msgstr "§Y독립 열망§!: §G+$VAL$%§!"
+
+msgctxt "AGITATEFORLIBERTYALREADYPRESENTDESC코0"
+msgid "Someone is agitating them for liberty."
+msgstr "누군가가 그들에게 독립하도록 선동 중입니다."
+
+msgctxt "CANCEL_SOWDISCONTENTTITLE코0"
+msgid "Cancel Sow Discontent"
+msgstr "국가분열 공작 중지"
+
+msgctxt "IS_SOWDISCONTENT코0"
+msgid "Is Sowing discontent."
+msgstr "국가분열 공작 중입니다."
+
+msgctxt "BUILDSPYNETWORK_NO_SUBJECTS코0"
+msgid ""
+"Cannot build a Spy Network in this subject state. Spy on their overlord "
+"($OVERLORD|Y$) instead."
+msgstr "속국에서 첩보망을 형성할 수 없습니다. 대신 그들의 종주국($OVERLORD|Y$)에 첩자를 보내세요."
+
+msgctxt "IS_NOT_SOWDISCONTENT코0"
+msgid "Is NOT Sowing discontent."
+msgstr "국가분열 공작 중이 아닙니다."
+
+msgctxt "IS_STUDYTECHNOLOGY코0"
+msgid "Is Studying technology."
+msgstr "기술을 연구 중입니다."
+
+msgctxt "IS_NOT_STUDYTECHNOLOGY코0"
+msgid "Is NOT Studying technology."
+msgstr "기술을 연구 중이 아닙니다."
+
+msgctxt "IS_AGITATEFORLIBERTY코0"
+msgid "Is Agitating for liberty."
+msgstr "독립 선동 중입니다."
+
+msgctxt "IS_NOT_AGITATEFORLIBERTY코0"
+msgid "Is NOT Agitating for liberty."
+msgstr "독립 선동 중이 아닙니다."
+
+msgctxt "HAVE_COALITION_WITH코0"
+msgid "You are in the coalition against "
+msgstr "당신은 다음과 같은 반국가동맹의 구성원입니다"
+
+msgctxt "JOIN_COALITIONTITLE코0"
+msgid "Join Coalition"
+msgstr "반국가동맹 가입"
+
+msgctxt "JOIN_COALITIONDESC코0"
+msgid "Join the coalition against them"
+msgstr "그들에 대항하는 반국가동맹에 가입합니다."
+
+msgctxt "JOIN_COALITIONDESC2코0"
+msgid "Join the coalition against $WITH$"
+msgstr "$WITH$에 대항하는 반국가동맹에 가입합니다."
+
+msgctxt "FORMCOALITIONTITLE코0"
+msgid "Form Coalition Against"
+msgstr "반국가동맹 창설"
+
+msgctxt "FORMJOINCOALITIONTITLE코0"
+msgid "Form/Join Coalition Against"
+msgstr "그들에 대항하는 반국가동맹 창설/가입"
+
+msgctxt "FORMCOALITIONDESC코0"
+msgid "Form a coalition against them"
+msgstr "그들에 대항하는 반국가동맹을 창설합니다."
+
+msgctxt "FORMCOALITIONDESC2코0"
+msgid "Form a coalition against $WITH$"
+msgstr "$WITH$에 대항하는 반국가동맹을 창설합니다."
+
+msgctxt "FORM_COALITION_AGAINST코0"
+msgid ""
+"Do you wish to form a coalition against §Y$WHO$§!? If any member of the "
+"coalition goes to war with §Y$WHO$§!, all other members will be called in\n"
+"against them."
+msgstr ""
+"§Y$WHO$§!에 대항하여 반국가동맹을 창설하시겠습니까? 만약 반국가동맹의 어떤 구성원이라도 §Y$WHO$§!와 전쟁상태에 들어간다면, "
+"모든 다른 구성원들도\n"
+"전쟁에 참여할 것입니다."
+
+msgctxt "JOIN_COALITION_AGAINST코0"
+msgid ""
+"Do you wish to join the coalition against §Y$WHO$§!? If any member of the "
+"coalition goes to war with §Y$WHO$§!, all other members will be called in\n"
+"against them."
+msgstr ""
+"§Y$WHO$§!에 대항하는 반국가동맹에 가입하시겠습니까? 만약 반국가동맹의 어떤 구성원이라도 §Y$WHO$§!와 전쟁상태에 들어간다면, "
+"모든 다른 구성원들도\n"
+"전쟁에 참여할 것입니다."
+
+msgctxt "COALITION_WHY_ALREADY코0"
+msgid "We are already in a coalition against §Y$WHO$§!."
+msgstr "우리는 이미 §Y$WHO$§!에 대항하는 반국가동맹에 가입해있습니다."
+
+msgctxt "COALITION_WHY_NOT_LEADER코0"
+msgid ""
+"We are not the leader in the coalition against §Y$WHO$§!, and only "
+"§Y$LEADER$§! can invite new members."
+msgstr ""
+"우리는 §Y$WHO$§!에 대항하는 반국가동맹의 주도국이 아닙니다. 그리고 오직§Y$LEADER$§!만이 새로운 구성원을 초대할 수 "
+"있습니다."
+
+msgctxt "COALITION_WHY_EXISTS코0"
+msgid ""
+"There is already a coalition against §Y$WHO$§!, and only §Y$LEADER$§! can "
+"invite new members."
+msgstr ""
+"이미 §Y$WHO$§!에 대항하는 반국가동맹이 존재합니다. 그리고 오직§Y$LEADER$§!만이 새로운 구성원을 초대할 수 있습니다."
+
+msgctxt "FORMCOALITION_NORIVALS코0"
+msgid "We don't have any rival to start a coalition against."
+msgstr "우리는 그에 대항해 반국가동맹을 창설할 어떤 경쟁국도 없습니다."
+
+msgctxt "FORMCOALITION_INPROGRESS코0"
+msgid "We are already in a coalition!"
+msgstr "우리는 이미 반국가동맹에 가입해 있습니다!"
+
+msgctxt "FORMCOALITION_HASWAR코0"
+msgid "We are at war with them"
+msgstr "우리는 그들과 전쟁에 돌입했습니다."
+
+msgctxt "FORMCOALITION_OTHERALLIANCE코0"
+msgid "You are allied to them."
+msgstr "우리는 그들과 동맹을 맺었습니다."
+
+msgctxt "FORMCOALITION_TARGETINOTHER코0"
+msgid "You are already a member of a different coalition."
+msgstr "우리는 이미 다른 반국가동맹의 구성원입니다."
+
+msgctxt "FORMCOALITION_WETARGET코0"
+msgid "They are in a coalition against us!"
+msgstr "그들은 우리에게 대항하는 반국가동맹에 속해 있습니다!"
+
+msgctxt "FORMCOALITION_CHOOSE_TARGET코0"
+msgid "Choose one of your rivals as the coalition target"
+msgstr "반국가동맹의 목표로 경쟁국을 선택하십시오."
+
+msgctxt "FORMCOALITION_CHOOSE_TARGET_NOTCONTINENT코0"
+msgid ""
+"You can't choose $TARGET$ as the coalition target since you don't have a "
+"capital on the same continent!"
+msgstr ""
+"우리는 $TARGET$를 반국가동맹의 목표로 선택할 수 없습니다. 왜냐하면 그 국가와 같은 대륙에 수도를 갖고 있지 않기 때문입니다!"
+
+msgctxt "FORMCOALITION_CHOOSE_TARGET_NOTRELATION코0"
+msgid ""
+"You can't choose $TARGET$ as the coalition target since you need to have "
+"less than -100 of relations!"
+msgstr ""
+"우리는 $TARGET$를 반국가동맹의 목표로 선택할 수 없습니다. 왜냐하면 그 국가와의 관계가 -100 이하여야 하기 때문입니다!"
+
+msgctxt "FORMCOALITION_CHOOSE_TARGET_NOTNUMRELATION코0"
+msgid ""
+"You need at least $RELATION$ of relations with $TARGET$ to add another "
+"member!"
+msgstr "또다른 구성원을 추가하기 위해서는 $TARGET$과 최소한 $RELATION$만큼의 관계가 필요합니다!"
+
+msgctxt "FORMCOALITION_ANOTHER_COALITION코0"
+msgid "They are already in another coalition."
+msgstr "그들은 이미 다른 반국가동맹의 구성원입니다."
+
+msgctxt "FORMCOALITION_NOTSUBJECTS코0"
+msgid "Only Independent Countries can join coalitions."
+msgstr "독립국만 반국가동맹에 가입할 수 있습니다."
+
+msgctxt "ICON_FORM_COALITION코0"
+msgid "Form Coalition offer"
+msgstr "반국가동맹 창설 제안"
+
+msgctxt "FABRICATECLAIMDESC_AT_WAR코0"
+msgid ""
+"You cannot start to fabricate claims against someone you are at war with."
+msgstr "우리와 전쟁중인 국가에겐 클레임 날조가 불가능합니다."
+
+msgctxt "JUSTIFY_TRADE_CONFLICT_DESC_AT_WAR코0"
+msgid ""
+"You cannot start to justify a trade conflict against someone you are at war "
+"with."
+msgstr "당신은 지금 당신과 전쟁 중인 상대에 대해 무역 분쟁을 정당화할 수 없습니다."
+
+msgctxt "TRANSFER_TRADE_POWER_DESC_AT_WAR코0"
+msgid "You cannot ask for trade power from someone you're in war with."
+msgstr "당신은 지금 당신과 전쟁 중인 상대에게 무역력을 요구할 수 없습니다."
+
+msgctxt "FORMCOALITIONREQ코0"
+msgid "Form a coalition against $TARGET$."
+msgstr "$TARGET$에 대항하여 반국가동맹을 창설합니다."
+
+msgctxt "COALITIONTARGET코0"
+msgid "Target of the Coalition of $LIST$."
+msgstr "$LIST$ 의 반국가 동맹 대상"
+
+msgctxt "COALITIONAGAINST코0"
+msgid "In the Coalition against $LIST$."
+msgstr "$LIST$ 에 대해 반국가 동맹 결성중"
+
+msgctxt "COALITIONWITH코0"
+msgid "Coalition with $LIST$."
+msgstr "$LIST$ 측과 반국가 동맹중"
+
+msgctxt "COALITIONWITHAGAINST코0"
+msgid ""
+"§Y$MEMBER$§! are in a coalition against §Y$TARGET$§!. If one of the "
+"coalition members enters a war against §Y$TARGET$§!, all coalition members "
+"will be called to arms."
+msgstr ""
+"§Y$MEMBER$§! 측은 §Y$TARGET$§! 에 대한 반국가 동맹에 참여했습니다. 반국가 동맹 소속국 중의 하나가 "
+"§Y$TARGET$§! 측과 전쟁을 벌인다면 모든 반국가 동맹 소속국들이 참전할 것입니다."
+
+msgctxt "ANNEX_IN_PROGRESS코0"
+msgid "We are already in the process of annexing them."
+msgstr "우리는 이미 합병 수속을 밟는 중입니다."
+
+msgctxt "ANNEX_NOT_IN_PROGRESS코0"
+msgid "We are not annexing them."
+msgstr "우리는 저들을 합병할 수 없습니다."
+
+msgctxt "INTEGRATE_IN_PROGRESS코0"
+msgid "We are already in the process of annexing them."
+msgstr "우리는 이미 합병 수속을 밟는 중입니다."
+
+msgctxt "RELATION_ACTION_CHANGE코0"
+msgid ""
+"§Y$FIRST$§W is improving §Y$SECOND$§W's opinion of them (§Y$VAL$§W/next "
+"month).\n"
+"The improvement is fastest when opinion is close to §Y0§!.\n"
+msgstr ""
+"§Y$FIRST$§W 측은 §Y$SECOND$§W 측과 관계를 (§Y$VAL$§W/next month) 만큼 증가시키고 있습니다.\n"
+"관계도 증진 속도는 §Y0§!에 가까워질수록 빨라집니다.\n"
+
+msgctxt "IMPROVERELATIONDESC_NEW코0"
+msgid ""
+"Do you wish to send our diplomat to improve our relations with "
+"§Y$COUNTRY$§W?\n"
+"Once he is there he will improve our relations every month, neutral "
+"relations are easier to change."
+msgstr ""
+"§Y$COUNTRY$§W측과 관계를 증진시키기를 원하십니까?\n"
+"그 외교관을 파견하면 관계도를 매월 증가시킬 것이며 관계도가 중립적일수록 쉽게 변화합니다."
+
+msgctxt "CANCEL_IMPROVERELATIONDESC_NEW코0"
+msgid ""
+"Do you wish to recall our diplomat who is improving our relations with "
+"§Y$COUNTRY$§W?\n"
+"When he stops working, over time, his effect will fade."
+msgstr ""
+"§Y$COUNTRY$§W측과 관계도를 증진시키는 것을 중단하기를 원하십니까?\n"
+"외교관의 업무가 중단되면 시간이 흐르며 효과가 감소할 것입니다."
+
+msgctxt "improved_relation코0"
+msgid "Improved Relations"
+msgstr "관계도 증진"
+
+msgctxt "WE_INCREASE_RELATIONS코0"
+msgid "Increasing relations with $LIST$."
+msgstr "$LIST$측과 관계도를 증진."
+
+msgctxt "THEY_INCREASE_RELATIONS코0"
+msgid "The following countries are improving relations: $LIST$."
+msgstr "관계도를 증진시키는 중인 국가: $LIST$."
+
+msgctxt "ICON_ENFORCE_PEACE코0"
+msgid "Enforce Peace"
+msgstr "평화 강요"
+
+msgctxt "ICON_ENFORCE_PEACE_COALITION_LEADER코0"
+msgid "Enforce Peace from Coalition Leader"
+msgstr "반국가 동맹 맹주와의 평화를 요구합니다."
+
+msgctxt "ICON_GRANT_ELECTORATE코0"
+msgid "Grant Electorate"
+msgstr "선제후 자격 부여"
+
+msgctxt "ICON_GRANT_FREECITY코0"
+msgid "Grant Free City Status"
+msgstr "자유시 지위 부여"
+
+msgctxt "ICON_DEMAND_UNLAWFUL_TERRITORY코0"
+msgid "Demand Unlawful Territory"
+msgstr "적법하지 않은 영토 회수"
+
+msgctxt "TRANSFER_TRADE_POWER코0"
+msgid "Transfer Trade Power"
+msgstr "무역력 이송"
+
+msgctxt "THEYNOTATWAR코0"
+msgid "They are not at war with anyone!"
+msgstr "그들은 아무와도 전쟁중이지 않습니다!"
+
+msgctxt "ENFORCEPEACE_CHOOSE_TARGET_NOTSTRONGENOUGH코0"
+msgid "You need to be stronger than the country you are enforcing peace for!"
+msgstr "평화를 강요하려면 자국의 국력이 더 강해야 합니다!"
+
+msgctxt "ENFORCEPEACE_NOINTERESTWHITEPEACE코0"
+msgid ""
+"The target country has no interest to make white peace with this enemy."
+msgstr "이 국가는 적국과의 평화에 관심이 없습니다."
+
+msgctxt "DIP_TO_MUCH_MAINT코0"
+msgid "We can't afford the extra §Y$VAL$§W£dip  per month."
+msgstr "우리는 매월 추가로 §Y$VAL$§W£dip 를 소모할 여유가 없습니다."
+
+msgctxt "CANCEL_FABRICATECLAIMTITLE코0"
+msgid "Cancel Fabricate Claim"
+msgstr "클레임 조작 취소"
+
+msgctxt "CANCEL_FABRICATECLAIMDESC코0"
+msgid "Stop fabricating a claim against them"
+msgstr "그들의 영토에 대한 클레임 조작을 멈춥니다."
+
+msgctxt "CANCEL_JUSTIFY_TRADE_CONFLICTTITLE코0"
+msgid "Cancel justify trade conflict"
+msgstr "무역 분쟁 정당화 취소"
+
+msgctxt "CANCEL_JUSTIFY_TRADE_CONFLICTDESC코0"
+msgid "Stop trying to justify a trade conflict"
+msgstr "무역 분쟁 정당화 시도를 중지합니다"
+
+msgctxt "JUSTIFY_TRADE_CONFLICT_SELECT_DESC코1"
+msgid ""
+"Justify Trade Conflict will reduce the size of our $ADJ|Y$ Spy Network by "
+"$COST|R$ and give us a Trade Conflict Casus Belli."
+msgstr ""
+"무역 분쟁 정당화는 우리의 $ADJ|Y$ 첩보망을 $COST|R$ 만큼 감소시키고, 우리에게 무역 분쟁 전쟁 명분을 줄 것입니다."
+
+msgctxt "FABRICATE_CLAIM_SELECT_DESC코0"
+msgid ""
+"Fabricate Claim will reduce the size of our $ADJ|Y$ Spy Network by $COST|R$ "
+"and give us a claim on §Y$PROV$§W. The claim will last for $YEARS|Y$ years."
+msgstr ""
+"클레임 조작은 우리의 $ADJ|Y$ 첩보망을 $COST|R$ 만큼 감소시키고, 우리에게 §Y$PROV$§W에 대한 클레임을 줄 것입니다. "
+"이 클레임은 $YEARS|Y$년 동안 지속됩니다."
+
+msgctxt "DIP_DISCOVERY_2코0"
+msgid "Risk of discovery per month : §Y$VAL$%§W"
+msgstr "매월 발견 위험 : §Y$VAL$%§W"
+
+msgctxt "DIP_ENVOY_TIME_PROGRESS코0"
+msgid "Progress: §Y$VAL$%§W"
+msgstr "진행도: §Y$VAL$%§W"
+
+msgctxt "MODIFIER_FABRICATE_CLAIMS_TIME코0"
+msgid "Cost to fabricate claims"
+msgstr "클레임 조작 비용"
+
+msgctxt "MODIFIER_JUSTIFY_TRADE_CONFLICT_TIME코0"
+msgid "Cost to justify trade conflict"
+msgstr "무역 분쟁을 정당화하기 위한 비용"
+
+msgctxt "CANCEL_FABRICATE_CLAIM_REQUEST코0"
+msgid ""
+"Do you wish to recall your diplomat fabricating a claim, thereby ending the "
+"attempt?"
+msgstr "클레임 조작을 철회하고 외교관을 귀환시키시겠습니까?"
+
+msgctxt "CANCEL_JUSTIFY_TRADE_CONFLICT_REQUEST코0"
+msgid ""
+"Do you wish to recall your diplomat justifying a trade conflict, thereby "
+"ending the attempt?"
+msgstr "무역 분쟁을 정당화하려는 시도를 중지시키고 외교관을 귀환시키시겠습니까?"
+
+msgctxt "ALREADY_JUSTIFIED_TRADE_CONFLICT코0"
+msgid ""
+"We already have a §YTrade Conflict§! Casus Belli against §Y$TARGET$§!. It is "
+"valid until §Y$DATE$§!."
+msgstr ""
+"우리는 이미 §Y무역 분쟁§! 전쟁 명분을 §Y$TARGET$§! 상대로 갖고 있습니다. 이는 §Y$DATE$§!까지 유효합니다."
+
+msgctxt "IS_FABRICATING_CLAIM코0"
+msgid "Is Fabricating claim."
+msgstr "클레임 조작 중"
+
+msgctxt "IS_NOT_FABRICATING_CLAIM코0"
+msgid "Is NOT Fabricating claim."
+msgstr "클레임 조작 중이 아닙니다."
+
+msgctxt "IS_JUSTIFYING_TRADE_CONFLICT코0"
+msgid "Is justifying trade conflict."
+msgstr "무역 분쟁 정당화 중"
+
+msgctxt "IS_NOT_JUSTIFYING_TRADE_CONFLICT코0"
+msgid "Is NOT justifying trade conflict."
+msgstr "무역 분쟁 정당화 중이 아닙니다."
+
+msgctxt "TRADE_LEAGUE_MUST_TRANSFER_TO_LEADER코0"
+msgid ""
+"A Trade League member has to Transfer Trade Power to the league leader."
+msgstr "무역 연합 구성원은 연합 지도자에게 무역력을 이송해야만 합니다."
+
+msgctxt "TRADE_LEAGUE_WILL_TRANSFER_TO_LEADER코0"
+msgid ""
+"A Trade League member can't already Transfer Trade Power since it must do so "
+"to the league leader."
+msgstr "무역 연합 구성원은 연합 지도자에게 무역력을 이송해야 하기 때문에 타국에 무역력을 이송할 수 없습니다."
+
+msgctxt "SUBJECT_MUST_TRANSFER_TO_OVERLORD코0"
+msgid "A $SUBJECT_TYPE$ has to Transfer Trade Power to its overlord."
+msgstr "$SUBJECT_TYPE$은(는) 그들의 종주국에게 무역력을 보내야 합니다."
+
+msgctxt "COLONY_MOST_TRANSFER_TO_OVERLORD코0"
+msgid "A colony has to Transfer Trade Power to its overlord."
+msgstr "식민지는 본국에게 무역력을 보내야 합니다."
+
+msgctxt "NO_COMMON_TRADE_NODE코0"
+msgid "Doesn't share trade power in any trade node."
+msgstr "무역력을 가지고 있는 무역 노드가 없음."
+
+msgctxt "IS_TRANSFERING_TRADE_POWER코0"
+msgid "They are already transferring Trade Power to us."
+msgstr "그들은 이미 우리에게 무역력을 보내고 있습니다."
+
+msgctxt "IS_NOT_TRANSFERING_TRADE_POWER코0"
+msgid "They aren't transferring Trade Power to us."
+msgstr "그들은 우리에게 무역력을 보내고 있지 않습니다."
+
+msgctxt "TRANSFERING_TO_OTHER코0"
+msgid "They are already transferring Trade Power to $WHO$."
+msgstr "그들은 이미 $WHO$에게 무역력을 보내고 있습니다."
+
+msgctxt "CANT_TRANSFER_TRADE_POWER_SUBJECT_TYPE코0"
+msgid "A $SUBJECTTYPE$ can only Transfer Trade Power to its Overlord."
+msgstr "$SUBJECT_TYPE$은(는) 그들의 종주국에게 무역력을 보내야 합니다."
+
+msgctxt "CANT_TRANSFER_TRADE_POWER_PROTECTORATE코0"
+msgid "A protectorate can only Transfer Trade Power to its overlord."
+msgstr "보호국은 오직 그 종주국에게만 무역력을 보낼 수 있습니다."
+
+msgctxt "DIP_DISCOVERY_TIP코0"
+msgid "Discovery Chance/day: §Y$VAL$§W%"
+msgstr "매일마다 발각될 확률: §Y$VAL$§W%"
+
+msgctxt "DIP_FABRICATE_TIME코0"
+msgid "Days until claim is fabricated: §Y$VAL$§W"
+msgstr "클레임 조작이 완료될 때까지 남은 날짜: §Y$VAL$§W"
+
+msgctxt "DIP_FABRICATE_COMPLETION_DATE코0"
+msgid "The estimated completion date is §Y$DATE$§W"
+msgstr "예상 완료일은 §Y$DATE$§W 입니다."
+
+msgctxt "SPYACTIONSAGAINST코0"
+msgid "Is currently the target of covert actions by $LIST$."
+msgstr "현재 $LIST$에 의한 비밀 공작 활동의 대상입니다."
+
+msgctxt "NO_MODIFIERS코0"
+msgid "No Modifiers."
+msgstr "효과 없음."
+
+msgctxt "FABRICATE_CLAIM코0"
+msgid "Fabricate Claim"
+msgstr "클레임 조작"
+
+msgctxt "BUILD_SPY_NETWORK코0"
+msgid "Build Spy Network"
+msgstr "첩보망 구축"
+
+msgctxt "JUSTIFY_TRADE_CONFLICT코0"
+msgid "Justify Trade Conflict"
+msgstr "무역 분쟁 정당화"
+
+msgctxt "INFILTRATE_ADMINISTRATION코0"
+msgid "Infiltrate Administration"
+msgstr "행정부 잠입"
+
+msgctxt "SOW_DISCONTENT코0"
+msgid "Sow Discontent"
+msgstr "국가 분열 공작"
+
+msgctxt "STUDY_TECHNOLOGY코0"
+msgid "Study Technology"
+msgstr "기술 연구"
+
+msgctxt "AGITATE_FOR_LIBERTY코0"
+msgid "Agitate for Liberty"
+msgstr "독립 선동"
+
+msgctxt "merchants_slandered코0"
+msgid "Merchants Slandered"
+msgstr "상인 비방"
+
+msgctxt "desc_merchants_slandered코0"
+msgid "The good name of our merchants has been slandered by a foreign power."
+msgstr "우리 상인들의 명성이 외국 세력에 의해 비방받았습니다."
+
+msgctxt "recruitment_sabotaged코0"
+msgid "Recruitment Sabotaged"
+msgstr "모집 방해"
+
+msgctxt "desc_recruitment_sabotaged코0"
+msgid ""
+"Our military recruitment efforts have been sabotaged by a foreign power."
+msgstr "우리의 군사적 모집 노력이 외국 세력에 의해 방해받았습니다."
+
+msgctxt "SABOTAGE_REPUTATION코0"
+msgid "Sabotage Reputation"
+msgstr "평판 훼손"
+
+msgctxt "SUPPORT_REBELS코0"
+msgid "Support Rebels"
+msgstr "반군 지원"
+
+msgctxt "IS_SUPPORT_REBELS코0"
+msgid "Is Supporting rebels."
+msgstr "반군 지원 중."
+
+msgctxt "IS_NOT_SUPPORT_REBELS코0"
+msgid "Is NOT Supporting rebels."
+msgstr "반군 지원 중이 아닙니다."
+
+msgctxt "LACKING_IDEA코0"
+msgid "We are lacking the proper ideas to do this."
+msgstr "우리는 이 명령을 수행하기에 적절한 이념이 없습니다."
+
+msgctxt "LACKING_SPECIFIC_IDEA코0"
+msgid "We are lacking the idea $IDEA|Y$."
+msgstr "우리는 $IDEA|Y$ 이념이 없습니다.."
+
+msgctxt "LACKING_SPECIAL_IDEA코0"
+msgid "We are lacking $NAME|Y$."
+msgstr "우리는 $NAME|Y$이(가) 없습니다."
+
+msgctxt "IS_INFILTRATE코0"
+msgid "Is Infiltrating administration."
+msgstr "행정부 잠입 중"
+
+msgctxt "IS_NOT_INFILTRATE코0"
+msgid "Is NOT Infiltrating administration."
+msgstr "행정부 잠입 중이 아닙니다."
+
+msgctxt "SUPPORT_REBELS_NO_MONEY코0"
+msgid "You lack the $COST$¤ needed to support this rebel faction."
+msgstr "반군 지원을 하기 위해서는 $COST$¤ 이 필요합니다."
+
+msgctxt "REBEL_SUPPORT_MONEY코0"
+msgid "Cost:"
+msgstr "비용:"
+
+msgctxt "REBEL_SUPPORT_MONEY_DESC코1"
+msgid ""
+"You will support the rebels with this amount of money. This is a one-time "
+"cost that is calculated from the revolt size and recruitment cost in every "
+"province they may revolt in. Note that the actual revolt size may be "
+"different if the situation in the target country changes."
+msgstr ""
+"반란 지원에 지정한 만큼의 금액을 지원합니다. 이 금액은 이 번 한건에 대한것으로 반란의 규모와 반란이 일어날 모든 지역의 바란군 소집 "
+"비용을 총합하여 결정됩니다. 참고로 실제 반란 규모는 대상 국가의 상태에 따라 변동될 수 있습니다."
+
+msgctxt "war_goal_take_colony코0"
+msgid "Take colony $PROV$ in $CONTINENT$"
+msgstr "$CONTINENT$ 대륙의 $PROV$ 식민지를 점령하기."
+
+msgctxt "war_goal_take_colony_desc코0"
+msgid "War goal is to take the colony $PROV$ in $CONTINENT$."
+msgstr "전쟁 목표는 $CONTINENT$ 대륙의 $PROV$ 식민지를 점령하는 것입니다."
+
+msgctxt "war_goal_take_core코0"
+msgid "Take core $PROV$"
+msgstr "코어 지역 $PROV$을(를) 점령."
+
+msgctxt "war_goal_take_core_desc코0"
+msgid "War goal is to take the core $PROV$."
+msgstr "전쟁 목표는 코어 지역 $PROV$을(를) 점령하는 것입니다."
+
+msgctxt "war_goal_take_border코0"
+msgid "Take border $PROV$"
+msgstr "국경선 $PROV$ 지역 점령."
+
+msgctxt "war_goal_take_border_desc코0"
+msgid "War goal is to take the border province $PROV$."
+msgstr "전쟁 목표는 국경선인 $PROV$ 지역을 점령하는 것입니다."
+
+msgctxt "war_goal_take_province코0"
+msgid "Take $PROV$"
+msgstr "$PROV$ 지역 점령."
+
+msgctxt "war_goal_take_province_desc코0"
+msgid "War goal is to take $PROV$."
+msgstr "전쟁 목표는 $PROV$ 지역을 점령하는 것입니다."
+
+msgctxt "war_goal_take_capital코0"
+msgid "Take capital $CAPITAL$"
+msgstr "수도 $CAPITAL$ 지역 점령"
+
+msgctxt "war_goal_take_capital_desc코0"
+msgid "War goal is to take the capital province of $COUNTRY$."
+msgstr "전쟁 목표는 $COUNTRY$의 수도 지역을 점령하는 것입니다."
+
+msgctxt "war_goal_blockade_ports코0"
+msgid "Blockade ports"
+msgstr "항구 봉쇄"
+
+msgctxt "war_goal_blockade_ports_desc코0"
+msgid ""
+"Your goal is to stop your enemies' trade by blocking as many ports as "
+"possible."
+msgstr "당신의 목표는 가능한 한 많은 항구를 봉쇄함으로써 적의 무역을 중지시키는 것입니다."
+
+msgctxt "defend_capital_independence코0"
+msgid "Defend capital ($CAPITAL$)"
+msgstr "수도 방어 ($CAPITAL$)"
+
+msgctxt "defend_capital_independence_desc코0"
+msgid "War goal is to defend the capital province of $COUNTRY$."
+msgstr "전쟁 목표는 $COUNTRY$의 수도를 방어하는 것입니다."
+
+msgctxt "war_goal_defend_capital코0"
+msgid "Defend capital ($CAPITAL$)"
+msgstr "수도 방어 ($CAPITAL$)"
+
+msgctxt "war_goal_defend_capital_desc코0"
+msgid "War goal is to defend the capital province of $COUNTRY$."
+msgstr "전쟁 목표는 $COUNTRY$의 수도를 방어하는 것입니다."
+
+msgctxt "war_goal_defend_country코0"
+msgid "Defend $COUNTRY$"
+msgstr "$COUNTRY$ 수호"
+
+msgctxt "war_goal_defend_country_desc코0"
+msgid "War goal is to defend $COUNTRY$."
+msgstr "전쟁 목표는 $COUNTRY$을(를) 지키는 것입니다."
+
+msgctxt "war_goal_raid코0"
+msgid "Raid"
+msgstr "약탈"
+
+msgctxt "war_goal_raid_desc코0"
+msgid "War goal is to raid $COUNTRY$."
+msgstr "전쟁 목표는 $COUNTRY$을(를) 약탈하는 것입니다."
+
+msgctxt "war_goal_naval_superiority코0"
+msgid "Show naval superiority"
+msgstr "압도적인 해군력을 증명하기"
+
+msgctxt "war_goal_naval_superiority_desc코0"
+msgid ""
+"War goal is to show naval superiority. Get bonus war score from winning "
+"naval battles. If you blockade a port (and your opponent is not) you will "
+"receive a ticking war score."
+msgstr ""
+"전쟁 목표는 압도적인 해군력을 증명하는 것입니다. 해전에서 이길 때마다 추가 승점을 받습니다. 당신이 적의 항구를 봉쇄중이고 당신의 "
+"항구가 봉쇄당하고 있지 않다면 승점이 조금씩 올라갈 것입니다."
+
+msgctxt "war_goal_superiority코0"
+msgid "Show Superiority"
+msgstr "압도적인 전력을 보이기"
+
+msgctxt "war_goal_superiority_desc코1"
+msgid ""
+"War goal is to show superiority. Get bonus war score from winning battles. "
+"Over §Y$THRESHOLD$%§! of war score from battles will give you a ticking war "
+"score."
+msgstr ""
+"전쟁 목표는 압도적인 전력을 보이는 것입니다. 전투에서 이길 때마다 추가 승점을 받습니다. 전투에서 §Y$THRESHOLD$%§! 이상의 "
+"승점을 획득하면 승점 정보를 보여 것입니다."
+
+msgctxt "war_goal_region코0"
+msgid "Take Region"
+msgstr "지방 점령"
+
+msgctxt "war_goal_region_desc코0"
+msgid "War goal is to take a certain region."
+msgstr "전쟁 목표는 지방을 점령하는 것입니다."
+
+msgctxt "take_core_defection코0"
+msgid "Take a Core Province"
+msgstr "코어 지역 점령"
+
+msgctxt "take_core_defection_desc코0"
+msgid "War goal is to take a core province from the target."
+msgstr "전쟁 목표는 상대국의 코어 지역을 점령하는 것입니다."
+
+msgctxt "superiority_loan코0"
+msgid "Show Superiority"
+msgstr "압도적 전력 보이기"
+
+msgctxt "superiority_loan_desc코0"
+msgid "War goal is to show them superiority by winning battles."
+msgstr "전쟁 목표는, 승리한 전투를 통해 압도적인 전력을 과시하는 것입니다."
+
+msgctxt "superiority_spy코0"
+msgid "Show Superiority"
+msgstr "압도적 전력 보이기"
+
+msgctxt "superiority_spy_desc코0"
+msgid "War goal is to show these spies superiority by winning battles."
+msgstr "전쟁 목표는, 승리한 전투를 통해 첩자들에게 압도적인 전력을 과시하는 것입니다."
+
+msgctxt "superiority_revolution코0"
+msgid "Show Superiority"
+msgstr "압도적 국력 보이기"
+
+msgctxt "superiority_revolution_desc코0"
+msgid ""
+"War goal is to show the superiority that comes with the revolution by "
+"winning battles."
+msgstr "전쟁 목표는, 승리한 전투를 통해 혁명의 위대함을 과시하는 것입니다."
+
+msgctxt "take_capital_disloyal코0"
+msgid "Take their Capital"
+msgstr "수도 점령"
+
+msgctxt "take_capital_disloyal_desc코0"
+msgid "War goal is to take the capital from this disloyal vassal."
+msgstr "전쟁 목표는 이 불충한 속국의 수도를 점령하는 것입니다."
+
+msgctxt "defend_country_faith코0"
+msgid "Defend a friendly country against them"
+msgstr "맹방 수호"
+
+msgctxt "defend_country_faith_desc코0"
+msgid "War goal is defend a country over religion."
+msgstr "전쟁 목표는 종교상의 맹방을 수호하는 것입니다."
+
+msgctxt "take_province_hre코0"
+msgid "Attack the HRE"
+msgstr "신성로마제국령 수복"
+
+msgctxt "take_province_hre_desc코0"
+msgid "War goal is to take a province that is part of the HRE."
+msgstr "전쟁 목표는 대상국의 신성로마제국령인 지역을 점령하는 것입니다."
+
+msgctxt "defend_country코0"
+msgid "Defend a friendly country against them"
+msgstr "맹방 수호"
+
+msgctxt "defend_country_desc코0"
+msgid "War goal is defend a friendly country."
+msgstr "전쟁 목표는 맹방을 수호하는 것입니다."
+
+msgctxt "superiority_insult코0"
+msgid "Show Superiority"
+msgstr "우월함을 보여주기"
+
+msgctxt "superiority_insult_desc코0"
+msgid "War goal is to show them superiority by winning battles."
+msgstr "전쟁 목표는, 승리한 전투를 통해 압도적인 전력을 보이는 것입니다."
+
+msgctxt "superiority_insult_mutual코0"
+msgid "Show these insulting dogs superiority"
+msgstr "쓰레기들에게 압도적인 전력을 보이기"
+
+msgctxt "superiority_insult_mutual_desc코0"
+msgid "War goal is to show them superiority by winning battles."
+msgstr "전쟁 목표는, 승리한 전투를 통해 압도적인 전력을 보이는 것입니다.\""
+
+msgctxt "take_capital_personal_union코0"
+msgid "Take the capital"
+msgstr "수도 점령"
+
+msgctxt "take_capital_personal_union_desc코0"
+msgid "War goal is to take the capital."
+msgstr "전쟁 목표는 수도를 점령하는 것입니다."
+
+msgctxt "defend_country_soi코0"
+msgid "Defend a friendly country against them"
+msgstr "맹방 수호"
+
+msgctxt "defend_country_soi_desc코0"
+msgid "War goal is defend a friendly country."
+msgstr "전쟁 목표는 맹방을 수호하는 것입니다."
+
+msgctxt "take_capital_fabricated_claims코0"
+msgid "Take the Capital"
+msgstr "수도 점령"
+
+msgctxt "take_capital_fabricated_claims_desc코0"
+msgid "War goal is to take the capital."
+msgstr "전쟁 목표는 수도를 점령하는 것입니다."
+
+msgctxt "take_capital_conformance코0"
+msgid "Take the Capital"
+msgstr "수도 점령"
+
+msgctxt "take_capital_conformance_desc코0"
+msgid "War goal is to take the capital."
+msgstr "전쟁 목표는 수도를 점령하는 것입니다."
+
+msgctxt "take_border코0"
+msgid "Take border provinces"
+msgstr "국경 지역 점령"
+
+msgctxt "take_border_desc코0"
+msgid "War goal is to take a border province."
+msgstr "전쟁 목표는 국경 지역을 점령하는 것입니다."
+
+msgctxt "take_capital_independence코0"
+msgid "Take the capital in the search for independence"
+msgstr "도시 탈환 하려는 독립군 발견"
+
+msgctxt "take_capital_independence_desc코0"
+msgid "War goal is to take the capital."
+msgstr "전쟁 목표는 수도 점령."
+
+msgctxt "take_capital_conquest코0"
+msgid "Take the capital"
+msgstr "수도 점령"
+
+msgctxt "take_capital_conquest_desc코0"
+msgid "War goal is to take the capital."
+msgstr "전쟁 목표는 수도 점령."
+
+msgctxt "take_core코0"
+msgid "Take a core province"
+msgstr "코어 지역 점령"
+
+msgctxt "take_core_desc코0"
+msgid "War goal is to take a core province from the target."
+msgstr "전쟁 목표는 대상국으로부터 코어 지역을 점령하는 것이다."
+
+msgctxt "take_claim코0"
+msgid "Take a claim"
+msgstr "관리의 전쟁"
+
+msgctxt "take_claim_desc코0"
+msgid "War goal is to take a province you have claim on from the target."
+msgstr "전쟁 목표는 대상국으로부터 클레임 지역을 점령하는 것이다."
+
+msgctxt "take_capital_claim코0"
+msgid "Take the capital"
+msgstr "수도 점령"
+
+msgctxt "take_capital_claim_desc코0"
+msgid "War goal is to take the capital."
+msgstr "전쟁 목표는 수도 점령."
+
+msgctxt "take_capital_punitive코0"
+msgid "Take the capital"
+msgstr "수도 점령"
+
+msgctxt "take_capital_punitive_desc코0"
+msgid "War goal is to take the capital."
+msgstr "전쟁 목표는 수도 점령."
+
+msgctxt "take_province_nationalist코0"
+msgid "Take a province"
+msgstr "영토를 획득하라"
+
+msgctxt "take_province_nationalist_desc코0"
+msgid "War goal is to take a province."
+msgstr "전쟁 목표는 영토 획득이다."
+
+msgctxt "take_capital_imperial코0"
+msgid "Take the capital"
+msgstr "수도를 점령하라"
+
+msgctxt "take_capital_imperial_desc코0"
+msgid "War goal is to take the capital."
+msgstr "전쟁 목표는 수도 점령이다."
+
+msgctxt "take_capital_mayan코0"
+msgid "Take the capital"
+msgstr "수도를 점령하라"
+
+msgctxt "take_capital_mayan_desc코0"
+msgid "War goal is to take the capital."
+msgstr "전쟁 목표는 수도 점령이다."
+
+msgctxt "take_province_revolutionary코0"
+msgid "Take a province in this revolution"
+msgstr "혁명을 위한 영토를 획득하라"
+
+msgctxt "take_province_revolutionary_desc코0"
+msgid "War goal is to take a province."
+msgstr "전쟁 목표는 영토 획득이다."
+
+msgctxt "take_colony코0"
+msgid "Take a colony"
+msgstr "식민지를 점령하라"
+
+msgctxt "take_colony_desc코0"
+msgid "War goal is to take a province in a colony."
+msgstr "전쟁 목표는 식민지 영토 획득이다."
+
+msgctxt "take_capital_liberation코0"
+msgid "Take the capital"
+msgstr "수도를 점령하라"
+
+msgctxt "take_capital_liberation_desc코0"
+msgid "War goal is to take the capital."
+msgstr "전쟁 목표는 수도 점령이다."
+
+msgctxt "superiority_liberation코0"
+msgid "Show Superiority"
+msgstr "압도적 전력 보이기"
+
+msgctxt "superiority_liberation_desc코0"
+msgid "War goal is to show them superiority by winning battles."
+msgstr "전쟁 목표는, 승리한 전투를 통해 압도적인 전력을 보이는 것입니다."
+
+msgctxt "superiority_crusade코0"
+msgid "Show these infidel dogs superiority"
+msgstr "이교도에게 우수성을 증명"
+
+msgctxt "superiority_crusade_desc코0"
+msgid "War goal is to show them superiority by winning battles."
+msgstr "전쟁 목표는 전투 승리로 인한 우수성 증명."
+
+msgctxt "take_province_religion코0"
+msgid "Take a province"
+msgstr "영토를 획득하라"
+
+msgctxt "take_province_religion_desc코0"
+msgid "War goal is to take a province."
+msgstr "전쟁 목표는 영토를 획득하는 것이다."
+
+msgctxt "superiority_heretic코0"
+msgid "Show them superiority"
+msgstr "우수성 증명"
+
+msgctxt "superiority_heretic_desc코0"
+msgid "War goal is to show them superiority by winning battles."
+msgstr "전쟁 목표는 전투 승리로 인한 우수성 증명."
+
+msgctxt "superiority_trade코0"
+msgid "Show them superiority"
+msgstr "우수성 증명"
+
+msgctxt "superiority_trade_desc코0"
+msgid "War goal is to show them superiority by winning battles."
+msgstr "전쟁 목표는 전투 승리로 인한 우수성 증명."
+
+msgctxt "superiority_trade_mutual코0"
+msgid "Show them superiority"
+msgstr "우수성 증명"
+
+msgctxt "superiority_trade_mutual_desc코0"
+msgid "War goal is to show them superiority by winning battles."
+msgstr "전쟁 목표는 전투 승리로 인한 우수성 증명.\""
+
+msgctxt "take_province_excommunication코0"
+msgid "Take a province"
+msgstr "영토를 획득하라"
+
+msgctxt "take_province_excommunication_desc코0"
+msgid "War goal is to take a province."
+msgstr "전쟁 목표는 영토를 획득하는 것이다."
+
+msgctxt "naval_superiority코0"
+msgid "Show them naval superiority"
+msgstr "해군의 우수성 증명"
+
+msgctxt "naval_superiority_desc코0"
+msgid "War goal is to show them naval superiority by winning naval battles."
+msgstr "전쟁 목표는 전투 승리로 인한 해군의 우수성 증명."
+
+msgctxt "take_province_ban코0"
+msgid "Take a province"
+msgstr "영토를 획득하라"
+
+msgctxt "take_province_ban_desc코0"
+msgid "War goal is to take a province."
+msgstr "전쟁 목표는 영토를 획득하는 것이다."
+
+msgctxt "superiority_punitive코0"
+msgid "Show them superiority"
+msgstr "우수성 증명"
+
+msgctxt "superiority_punitive_desc코0"
+msgid "War goal is to show them superiority by winning battles."
+msgstr "전쟁 목표는 전투 승리로 인한 우수성 증명."
+
+msgctxt "superiority_primitives코0"
+msgid "Show them superiority"
+msgstr "우수성 증명"
+
+msgctxt "superiority_primitives_desc코0"
+msgid "War goal is to show them superiority by winning battles."
+msgstr "전쟁 목표는 전투 승리로 인한 우수성 증명."
+
+msgctxt "superiority_overseas코0"
+msgid "Show them superiority"
+msgstr "압도적인 전력을 보이기"
+
+msgctxt "superiority_overseas_desc코0"
+msgid "War goal is to show them superiority by winning battles."
+msgstr "전쟁 목표는 전투에서 승리함으로써 압도적인 전력을 보이는 것입니다."
+
+msgctxt "take_capital_throne코0"
+msgid "Take the capital and the throne"
+msgstr "왕위를 위한 수도 점령"
+
+msgctxt "take_capital_throne_desc코0"
+msgid "War goal is to take the capital."
+msgstr "전쟁 목표는 수도 점령."
+
+msgctxt "take_capital_vassalize코0"
+msgid "Take the capital and vassalize them"
+msgstr "수도 점령 그리고 속국화"
+
+msgctxt "take_capital_vassalize_desc코0"
+msgid "War goal is to take the capital."
+msgstr "전쟁 목표는 수도 점령."
+
+msgctxt "raid_horde_conquest코0"
+msgid "Raid"
+msgstr "급습"
+
+msgctxt "raid_horde_conquest_desc코0"
+msgid "War goal is to raid them."
+msgstr "전쟁 목표는 급습."
+
+msgctxt "superiority_horde코0"
+msgid "Show the horde superiority"
+msgstr "유목민의 우수성 증명"
+
+msgctxt "superiority_horde_desc코0"
+msgid "War goal is to show them superiority by winning battles."
+msgstr "전쟁 목표는 전투 승리로 인한 우수성 증명."
+
+msgctxt "take_province_tribal_feud코0"
+msgid "Take a province"
+msgstr "영토를 획득하라"
+
+msgctxt "take_province_tribal_feud_desc코0"
+msgid "War goal is to take a province."
+msgstr "전쟁 목표는 영토를 획득하는 것이다."
+
+msgctxt "annex_country코0"
+msgid "Annex the country"
+msgstr "국가를 합병하다"
+
+msgctxt "annex_country_desc코0"
+msgid ""
+"War goal is to take the capital. You will be able to annex the target "
+"country even when other rules don't allow it."
+msgstr "전쟁의 목표는 수도를 함락하는 것입니다. 당신은 다른 규칙이 허가하지 않더라도 대상 국가를 합병할 수 있습니다."
+
+msgctxt "war_goal_change_government코0"
+msgid "Change government form of country"
+msgstr "국가의 정부 체제를 변경하다 "
+
+msgctxt "war_goal_change_government_desc코0"
+msgid ""
+"War goal is to take the capital. You will be able to force them to change "
+"government form to the same as you."
+msgstr "전쟁의 목표는 수도를 함락하는 것입니다. 당신은 강제적으로 그들의 정부 체제를 당신과 같은 것으로 변경할 수 있습니다."
+
+msgctxt "war_goal_change_government_mutual코0"
+msgid "Change government form of country"
+msgstr "국가의 정부 체제를 변경하다 "
+
+msgctxt "war_goal_change_government_mutual_desc코0"
+msgid ""
+"War goal is to take the capital. You will be able to force them to change "
+"government form to the same as you."
+msgstr "전쟁의 목표는 수도를 함락하는 것입니다. 당신은 강제적으로 그들의 정부 체제를 당신과 같은 것으로 변경할 수 있습니다."
+
+msgctxt "CHANGE_GOVERNMENT_WAR_NAME코0"
+msgid "$ORDER$$FIRST$ change government form of $SECOND_NAME$"
+msgstr "$ORDER$$FIRST$측은 $SECOND_NAME$의 정부 체제를 변경 했다"
+
+msgctxt "superiority_chinese_unification코0"
+msgid "Conquer China"
+msgstr "중국 정복"
+
+msgctxt "superiority_chinese_unification_desc코0"
+msgid "War goal is to show our superiority towards other Chinese states."
+msgstr "전쟁 목표는 다른 중국 국가들 상대로 당신의 압도적인 전력을 과시하는 것입니다."
+
+msgctxt "CHINESE_UNIFICATION_WAR_NAME코0"
+msgid "$ORDER$$FIRST$-$SECOND$ war over Chinese Hegemony"
+msgstr "중국의 패권에 대한 $ORDER$$FIRST$-$SECOND$  전쟁"
+
+msgctxt "CELESTIAL_EMPIRE_WAR_NAME코0"
+msgid "$ORDER$$FIRST$-$SECOND$ war for Mandate of Heaven"
+msgstr "$ORDER$$FIRST$-$SECOND$ 천명을 위한 전쟁"
+
+msgctxt "FORCE_MIGRATION_WAR_NAME코0"
+msgid "$ORDER$$FIRST$-$SECOND$ forced migration war"
+msgstr "$ORDER$$FIRST$-$SECOND$ 은 통합전쟁을 강요"
+
+msgctxt "IN_WARGOAL_COST코1"
+msgid ""
+"Part of the war goal and will not result in any extra £dip cost for $WHO|Y$!"
+msgstr "전쟁 목표의 일부이기에, $WHO|Y$!이 추가적인 £dip 을 소모하지 않을 것입니다."
+
+msgctxt "NOT_IN_WARGOAL_COST코0"
+msgid ""
+"Not part of the war goal and will result in an extra cost of §Y$COST$§!£dip  "
+"for $WHO|Y$!"
+msgstr "전쟁 목표의 일부가 아니기 때문에, $WHO|Y$이 §Y$COST$§!£dip 을 추가로 소모해야 할 것입니다."
+
+msgctxt "UNLAWFUL_TERRITORY_WARN코0"
+msgid "§RUnlawful territory, the Emperor may demand you to return it!§!"
+msgstr "§R불법적인 영토, 황제가 당신에게 이 지역반환하라고 요구할 수도 있습니다!§!"
+
+msgctxt "UNLAWFUL_TERRITORY_WARN_DELAY코0"
+msgid ""
+"Since this province is part of the Empire and not your core, it will be "
+"considered unlawful territory if you take it."
+msgstr "이 지역이 제국의 일부분이고 당신의 코어가 없기 때문에, 이 지역을 점령한다면 불법영토로 여겨질것입니다"
+
+msgctxt "RELEASE_NATION_BY_WHOM코0"
+msgid "$NEW_NATION$ will be released by $RELEASER$"
+msgstr "$RELEASER$은 새로운 속국 $NEW_NATION$을 생성했습니다"
+
+msgctxt "PEACEOFFER_LEADER_NO_DEMAND코0"
+msgid "$WHO|Y$ don't want the war leader to demand provinces for them!"
+msgstr "$WHO|Y$측은 전쟁 리더에게 그들 몫의 지역을 요구하지 않습니다!"
+
+msgctxt "PEACEOFFER_IS_ANNEX코0"
+msgid ""
+"You cannot demand annexation and provinces in the same peace deal. This is "
+"because of the 100% War Score when controlling all provinces of a country. "
+"Try a separate peace."
+msgstr ""
+"하나의 평화 협정에서 합병과 지역 할양 요구를 동시에 할 수 없습니다. 한 국가의 모든 지역을 통제할 때만 100% 전쟁 점수가 되기 "
+"때문입니다. 개별적인 평화 협정을 진행해 보세요."
+
+msgctxt "PEACEOFFER_INFLATION코0"
+msgid "Will result in $INFLATION$ inflation for $ACTIVE$."
+msgstr "은(는) $ACTIVE$의 인플레이션을 $INFLATION$ 만큼 증가시킬 것입니다."
+
+msgctxt "SELLPROV_INFLATION코0"
+msgid ""
+"Will cost us §R$AMT$§! prestige and result in $INFLATION$ inflation for "
+"$ACTIVE$."
+msgstr ""
+"은(는) 우리의 위신을 §R$AMT$§! 만큼 소모시키고 $ACTIVE$의 인플레이션을 $INFLATION$ 만큼 증가시킬 것입니다."
+
+msgctxt "SELLPROV_INFLATION_HORDE코0"
+msgid "Will result in $INFLATION$ inflation for $ACTIVE$."
+msgstr "은(는) $ACTIVE$의 인플레이션을 $INFLATION$ 만큼 증가시킬 것입니다."
+
+msgctxt "PEACEOFFER_WARGOAL_COST코0"
+msgid "Will cost §G$COST$§!£dip . "
+msgstr "은(는) §G$COST$§!£dip 이 소모될 것입니다. "
+
+msgctxt "PEACEOFFER_WARGOAL_COST_CANTAFFORD코0"
+msgid "Will cost §R$COST$§!£dip  (not enough Power!). "
+msgstr "은(는) §R$COST$§!£dip 이 소모될 것입니다.  (포인트가 부족합니다!). "
+
+msgctxt "PEACEOFFER_WARGOAL_PROV_COST_DESC코0"
+msgid "Demanding province $PROV$ will cost §Y$COST$§!£dip ."
+msgstr "$PROV$ 지역을 요구하는 것은 §Y$COST$§!£dip 이 필요합니다."
+
+msgctxt "PEACEOFFER_WARGOAL_COST_DESC코0"
+msgid "Total cost: §Y$COST$§!£dip ."
+msgstr "총 비용: §Y$COST$§!£dip ."
+
+msgctxt "PEACEOFFER_WARGOAL_NOCOST_DESC코0"
+msgid "None of the options in this peace offer is against the war goal."
+msgstr "평화 협정에 있는 어느 옵션도 전쟁 목표에 어긋나지 않습니다."
+
+msgctxt "PEACE_RETURN_CORES코0"
+msgid "Return Cores"
+msgstr "코어 반환"
+
+msgctxt "PEACEOFFER_TRANSFER_S코0"
+msgid "Transfer Subject"
+msgstr "속국 이전"
+
+msgctxt "PEACEOFFER_TRANSFER코0"
+msgid "Transfer Subject $COUNTRY$"
+msgstr "$COUNTRY$ 속국 이전"
+
+msgctxt "PEACEOFFER_RELEASE코0"
+msgid "Release $COUNTRY$"
+msgstr "$COUNTRY$ 해방"
+
+msgctxt "PEACEOFFER_RETURN_CORES_TO코0"
+msgid "$PROV$ to $COUNTRY$"
+msgstr "$PROV$측을 $COUNTRY$에게 주다"
+
+msgctxt "PEACEOFFER_REVOKE_CORES_ON코0"
+msgid "Revoke $ADJ$ core on $PROV$"
+msgstr "$ADJ$가 $PROV$에 가진 코어 포기"
+
+msgctxt "PEACEOFFER_TRUCE코0"
+msgid "This deal will establish a truce until §Y$DATE$§W."
+msgstr "이 평화 협정으로 인해 §Y$DATE$§W까지 휴전이 지속될 것입니다."
+
+msgctxt "DEMAND_PROVINCE_TOOLTIP코0"
+msgid "§Y$PROVINCE$§W becomes a part of §Y$COUNTRY$§W."
+msgstr "§Y$PROVINCE$§W 지역은 §Y$COUNTRY$§W의 일부가 됩니다."
+
+msgctxt "REVOKE_CORE_TOOLTIP코0"
+msgid ""
+"§Y$COUNTRY$§W revokes their core on §Y$PROVINCE$§W. Current owner is $OWNER$."
+""
+msgstr ""
+"§Y$COUNTRY$§W측은 §Y$PROVINCE$§W 지역에 대한 코어를 폐지 합니다. 현재 통치국가는 $OWNER$ 입니다."
+
+msgctxt "RELEASE_VASSAL_TOOLTIP코0"
+msgid "§Y$VASSAL$§W will stop being a subject of §Y$OVERLORD$§W."
+msgstr "§Y$VASSAL$§W 는 §Y$OVERLORD$§W의 봉신을 그만둘 것입니다"
+
+msgctxt "TRANSFER_VASSAL_TOOLTIP코0"
+msgid ""
+"§Y$VASSAL$§W will stop being a subject of §Y$OVERLORD$§W and become a "
+"subject of $NEW|Y$."
+msgstr ""
+"§Y$VASSAL$§W은(는) §Y$OVERLORD$§W을(를) 종주국으로 따르는 것을 멈추고 $NEW|Y$의 속국이 될 것이다."
+
+msgctxt "PEACEOFFER_TRANSFER_TXT코0"
+msgid "@$FLAG$ $OVERLORD$ Vassal"
+msgstr "@$FLAG$ $OVERLORD$ 속국"
+
+msgctxt "GIVE_UP_CLAIMS_TOOLTIP코0"
+msgid "$WHO$ and its subjects give up all claims in $TARGET$."
+msgstr "$WHO$ 와 그의 봉신들은 $TARGET$에 대한 모든 클레임을 포기할 것입니다."
+
+msgctxt "RETURN_CORE_TOOLTIP코0"
+msgid "§Y$COUNTRY$§W gives their core §Y$PROVINCE$§! to §Y$TO$§!."
+msgstr "§Y$COUNTRY$§W측은 그들의 코어 §Y$PROVINCE$§! 지역을 §Y$TO$§!에게 반환합니다."
+
+msgctxt "WEHAVEIMPERIALRELATION코0"
+msgid "We already have improved our imperial relations with this country!"
+msgstr "우리는 이 국가와 이미 제국 관계를 증가시켰습니다!"
+
+msgctxt "BREAK_ALLIANCE_WAR코0"
+msgid "You get §R-$VAL$§! stability breaking an alliance during war."
+msgstr "당신은 §R-$VAL$§!의 안정도를 전쟁 중 동맹을 파기할 시 얻게 됩니다."
+
+msgctxt "SUPPORTED_REBEL_FACTION코0"
+msgid ""
+"These rebels have a §Y+$AMT$%§! chance of progress per month due to support "
+"from $WHO|Y$."
+msgstr "이 반란군들은 $WHO|Y$의 지원 덕분에 매월 §Y+$AMT$%§!의 봉기 진행 가능성을 가집니다."
+
+msgctxt "reputation_sabotaged코0"
+msgid "Reputation Sabotaged"
+msgstr "훼손당한 평판"
+
+msgctxt "desc_reputation_sabotaged코0"
+msgid "Spies from another nation have sabotaged our diplomatic reputation."
+msgstr "또다른 국가의 첩자가 우리의 외교적 평판을 훼손하였습니다."
+
+msgctxt "break_marriage코0"
+msgid "Broke Royal Marriage"
+msgstr "왕실 결혼 파기"
+
+msgctxt "break_alliance코0"
+msgid "Broke Alliance"
+msgstr "동맹 파기"
+
+msgctxt "break_alliance_war코0"
+msgid "Broke Alliance in wartime"
+msgstr "전쟁 중 동맹 파기"
+
+msgctxt "FABRICATECLAIMS_TARGET코0"
+msgid "Fabricates a claim on §Y$TARGET$§!."
+msgstr "§Y$TARGET$§!의 클레임을 날조한다."
+
+msgctxt "CV_DIPLOMACY_NOTDISCOVEREDCOUNTRY코0"
+msgid "You have not discovered §Y$COUNTRY$§! yet!"
+msgstr "당신은 아직 §Y$COUNTRY$§!측을 발견하지 않았습니다"
+
+msgctxt "CV_DIPLOMACY_WARSCORE_TITLE코0"
+msgid "$SIDE$ against §Y$WHO$§! in the '§Y$WAR$§!'."
+msgstr "$SIDE$측은 §Y$WHO$§!측의 '§Y$WAR$§!' 전쟁 중에 반대 편에서 싸우고 있습니다."
+
+msgctxt "RM_ACTIVITY코0"
+msgid "conclude a Royal Marriage"
+msgstr "결혼 파기"
+
+msgctxt "WAR_ACTIVITY코0"
+msgid "declare War"
+msgstr "전쟁 선포"
+
+msgctxt "PEACE_ACTIVITY코0"
+msgid "sue for peace."
+msgstr "평화 제의."
+
+msgctxt "ALLIANCE_ACTIVITY코0"
+msgid "uphold an Alliance."
+msgstr "동맹을 유지하다."
+
+msgctxt "CANCELALIANCE_ACTIVITY코0"
+msgid "cancel an Alliance."
+msgstr "동맹 파기."
+
+msgctxt "EMBARGO_ACTIVITY코0"
+msgid "institute an Embargo."
+msgstr "무역 금지령을 내리다."
+
+msgctxt "REVOKEEMBARGO_ACTIVITY코0"
+msgid "revoke an Embargo."
+msgstr "무역 금지령을 폐지하다."
+
+msgctxt "ANNEX_ACTIVITY코0"
+msgid "annex the country."
+msgstr "국가를 합병함."
+
+msgctxt "SUBJUGATION_WAR_NAME코0"
+msgid "$ORDER$$FIRST$-War of $SECOND$s subjugation."
+msgstr "$ORDER$$FIRST$-$SECOND$의 정복 전쟁."
+
+msgctxt "OUR_SPY_VALUES코0"
+msgid ""
+"Our country is defended at $DEF|Y$ efficiency. This determines our chance of "
+"detecting and disrupting foreign agents that are constructing Spy Networks "
+"in our nation.\n"
+"$DEF_MOD$Our spies operate at $OFF|Y$ efficiency. This determines the speed "
+"with which we can build Spy Networks in other nations.\n"
+"$OFF_MOD$"
+msgstr ""
+"우리 국가는 $DEF|Y$의 효율로 방어됩니다. 이는 우리 국가에서 첩보망을 구축 중인 외국 첩보원들을 탐지하고 방해할 가능성을 "
+"결정합니다. \n"
+"$DEF_MOD$우리의 첩보원들은 $OFF|Y$의 효율로 활동합니다. 이는 우리가 다른 국가에서 첩보망을 구축하는 속도를 결정합니다.\n"
+"$OFF_MOD$"
+
+msgctxt "THEIR_SPY_VALUES코0"
+msgid ""
+"Their country is defended at $DEF|Y$ efficiency. This determines their "
+"chance of detecting and disrupting foreign agents that are constructing Spy "
+"Networks in their nation.\n"
+"$DEF_MOD$Their spies operate at $OFF|Y$ efficiency. This determines the "
+"speed with which they can build Spy Networks in other nations.\n"
+"$OFF_MOD$"
+msgstr ""
+"그들 국가는 $DEF|Y$의 효율로 방어됩니다. 이는 그들 국가에서 첩보망을 구축 중인 외국 첩보원들을 탐지하고 방해할 가능성을 "
+"결정합니다.\n"
+"$DEF_MOD$그들의 첩보원들은 $OFF|Y$의 효율로 활동합니다. 이는 그들이 다른 국가에서 첩보망을 구축하는 속도를 결정합니다.\n"
+"$OFF_MOD$"
+
+msgctxt "OUR_ACTIVE_SPYNETWORKS코0"
+msgid "We have the following Spy Networks active:\n"
+"$COUNTRIES$"
+msgstr "우리는 다음과 같은 첩보망을 활성화 했다:\n"
+"$COUNTRIES$"
+
+msgctxt "STATUS_QUO코0"
+msgid "Status Quo"
+msgstr "현상 유지"
+
+msgctxt "SIEGE_DISEASE코0"
+msgid "Disease Outbreak"
+msgstr "질병 발생"
+
+msgctxt "PROVINCES코0"
+msgid "Provinces"
+msgstr "지역들"
+
+msgctxt "GIVE_UP_CORES코0"
+msgid "Cores"
+msgstr "코어"
+
+msgctxt "CANCEL_VASSALS코0"
+msgid "Vassals"
+msgstr "종속국"
+
+msgctxt "RELEASE_NATIONS코0"
+msgid "New Nations"
+msgstr "새로운 국가"
+
+msgctxt "SEND_OFFER코0"
+msgid "Send Offer"
+msgstr "제의 보내기"
+
+msgctxt "SEND_DEMAND코0"
+msgid "Send Demand"
+msgstr "요구 보내기"
+
+msgctxt "CANCEL_OFFER코0"
+msgid "Cancel"
+msgstr "취소"
+
+msgctxt "ANNEX_NATION코0"
+msgid "Annex"
+msgstr "합병"
+
+msgctxt "DEMAND_PEACE코0"
+msgid "Demand Tribute"
+msgstr "조공 요구"
+
+msgctxt "OFFER_WP코0"
+msgid "Offer White Peace"
+msgstr "무조건 평화"
+
+msgctxt "OFFER_PEACE코0"
+msgid "Offer Tribute"
+msgstr "조공 제공"
+
+msgctxt "BACK코0"
+msgid "Back"
+msgstr "뒤로"
+
+msgctxt "BUILDSPYNETWORK_DISCOV코0"
+msgid ""
+"Since our spies have been discovered, we can not send spies again until "
+"$WHEN|Y$."
+msgstr "우리의 첩자들이 발견되었기 때문에, $WHEN|Y$까지 우리는 첩자를 보낼 수 없습니다."
+
+msgctxt "SPYNETWORK_DIPLO코0"
+msgid ""
+"Our $ADJ|Y$ Spy Network is currently at size $SIZE|Y$ out of a maximum of "
+"§Y100§!."
+msgstr "우리의 $ADJ|Y$ 첩보망 규모는 현재 $SIZE|Y$이고, 최대치는 §Y100§!입니다."
+
+msgctxt "SPYNETWORK_BENEFITS코0"
+msgid "This gives us the following benefits:"
+msgstr "이는 우리에게 다음과 같은 이점을 줍니다:"
+
+msgctxt "SPYNETWORK_BENEFITS_SIEGE코0"
+msgid "$AMT$ Siege Ability against $WHO|Y$"
+msgstr "$WHO|Y$을 상대로 $AMT$의 공성 능력"
+
+msgctxt "SPYNETWORK_BENEFITS_AE코0"
+msgid "$AMT$ Aggressive Expansion incurred with $WHO|Y$"
+msgstr " $WHO|Y$에게 $AMT$의 공격적 확장 유발"
+
+msgctxt "SPYNETWORK_BENEFITS_TECH_MIL코0"
+msgid "$AMT$ Military Technology Cost"
+msgstr "$AMT$ 군사 기술 비용"
+
+msgctxt "SPYNETWORK_BENEFITS_TECH_DIP코0"
+msgid "$AMT$ Diplomatic Technology Cost"
+msgstr "$AMT$ 외교 기술 비용"
+
+msgctxt "SPYNETWORK_BENEFITS_TECH_ADM코0"
+msgid "$AMT$ Administrative Technology Cost"
+msgstr "$AMT$ 행정 기술 비용"
+
+msgctxt "SPYNETWORK_BENEFITS_TECH코0"
+msgid ""
+"§YOnly the highest technology cost reduction out of all your Spy Networks is "
+"used when buying technologies.§!"
+msgstr "§Y기술을 올릴 때 각 첩보망에서 얻는 기술 비용 감소 보너스 중 가장 높은 것만 적용됩니다.§!"
+
+msgctxt "SPYNETWORK_OUTLINER코1"
+msgid ""
+"Our $ADJ|Y$ Spy Network is currently at size $SIZE|Y$ out of a maximum of "
+"§Y100§!."
+msgstr "우리의 $ADJ|Y$ 첩보망 규모는 현재 $SIZE|Y$이고, 최대치는 §Y100§!입니다."
+
+msgctxt "SPYNETWORK_OUTLINER_PLUS코0"
+msgid "It will increase in size by $AMT|G$ every month."
+msgstr "이것은 매달 $AMT|G$ 만큼 상승할 것입니다."
+
+msgctxt "SPYNETWORK_OUTLINER_MINUS코0"
+msgid "It will decrease in size by $AMT|R$ every month."
+msgstr "이것은 매달 $AMT|G$ 만큼 감소할 것입니다."
+
+msgctxt "BUILDSPYNETWORKTITLE코0"
+msgid "Build Spy Network"
+msgstr "첩보망 구축"
+
+msgctxt "BUILDSPYNETWORK_DESC코0"
+msgid "Build a network of spies and informers in the target country."
+msgstr "해당 국가에 첩보망를 구축합니다."
+
+msgctxt "CANCEL_BUILDSPYNETWORK_DESC코0"
+msgid "Stop building a network of spies and informers in the target country."
+msgstr "해당 국가에 대한 첩보망 구축을 중단합니다"
+
+msgctxt "CANCEL_BUILDSPYNETWORKTITLE코0"
+msgid "Stop Building Spy Network"
+msgstr "첩보망 구축 중단"
+
+msgctxt "BUILDSPYNETWORK_LONG_DESC_1코0"
+msgid ""
+"Send a diplomat to build up our network of spies and informants in "
+"$COUNTRY|Y$?"
+msgstr "외교관을 보내 $COUNTRY|Y$에 첩보망을 구축하시겠습니까?"
+
+msgctxt "BUILDSPYNETWORK_LONG_DESC_1_SUBJECTS코0"
+msgid ""
+"Send a diplomat to build up our network of spies and informants in "
+"$COUNTRY|Y$ and their subjects ($SUBJECTS$)?"
+msgstr "외교관을 보내 $COUNTRY|Y$와 그들의 속국($SUBJECTS$)에 첩보망을 구축하시겠습니까?"
+
+msgctxt "BUILDSPYNETWORK_LONG_DESC_2코0"
+msgid ""
+"They will increase the size of our Spy Network by $AMT|G$ each month.\n"
+"\n"
+"While our agent is active and the Spy Network is larger than §Y25§!, there "
+"is a §R$RISK$%§! risk of discovery each month. If we are discovered, it will "
+"damage relations with the target country, reduce the size of our network and "
+"prevent us from further growing it for a while."
+msgstr ""
+"그들은 우리의 첩보망 규모를 매월 $AMT|G$ 만큼 확대시킬 것입니다.\n"
+"\n"
+"우리의 요원이 활동 중이고 첩보망 규모가 §Y25§!보다 큰 동안은, 매월 §R$RISK$%§!의 발각당할 가능성이 있습니다. 만약 "
+"발각당하면 목표 국가와의 관계가 악화되고 우리의 첩보망 규모도 축소되며, 한동안 첩보망을 확대하지 못하게 될 것입니다."
+
+msgctxt "CANCEL_BUILDSPYNETWORK_LONG_DESC코0"
+msgid ""
+"Recall the agents building up our network of spies and informants in "
+"$COUNTRY|Y$? Our existing network will slowly decay when not actively being "
+"built up."
+msgstr ""
+"$COUNTRY|Y$에서 첩보망을 구축 중인 요원들을 불러들이겠습니까? 구축을 멈추게 되면 우리의 첩보망이 천천히 축소될 것입니다."
+
+msgctxt "COUNTERESPIONAGE_OUTLINER코0"
+msgid ""
+"$NAME$ is conducting Counterespionage in $PROV|Y$ ($COUNTRY|Y$). This "
+"increases our chance of detecting agents they send at us by $AMT$."
+msgstr ""
+"$NAME$은(는) 현재 $PROV|Y$ ($COUNTRY|Y$)에서 방첩활동을 수행 중입니다. 이는 그들이 보낸 요원을 탐지할 확률을 "
+"$AMT$ 증가시킵니다.."
+
+msgctxt "COUNTERESPIONAGE_NO_SUBJECT코1"
+msgid "As a Subject we cannot conduct counterespionage."
+msgstr "우리는 속국이기때문에 방첩활동을 수행할 수 없습니다."
+
+msgctxt "COUNTERESPIONAGETITLE코0"
+msgid "Counterespionage"
+msgstr "방첩활동 실시"
+
+msgctxt "COUNTERESPIONAGE_DESC코0"
+msgid "Send a diplomat to conduct counterespionage in the target country."
+msgstr "외교관을 통해 해당 국가에 대한 방첩활동을 실시 합니다."
+
+msgctxt "CANCEL_COUNTERESPIONAGE_DESC코0"
+msgid ""
+"Recall your diplomat conducting counterespionage in the target country."
+msgstr "해당 국가에 대한 방첩활동을 중단 합니다."
+
+msgctxt "CANCEL_COUNTERESPIONAGETITLE코0"
+msgid "Stop Counterespionage"
+msgstr "방첩활동 중단"
+
+msgctxt "COUNTERESPIONAGE_LONG_DESC코1"
+msgid ""
+"Send a diplomat to conduct counterespionage in $COUNTRY|Y$? This will "
+"increase our chance of detecting any agents they send to us by $AMT$, and "
+"slow down their network by $SLOW$."
+msgstr ""
+"$COUNTRY|Y$에 방첩 작전을 지휘하도록 외교관을 파견하겠습니까? 이 작전은 $AMT$ 만큼 대상 국가에서 보낸 요원을 색출해낼 "
+"확률을 증가시키고, $SLOW$씩 대상국가의 자국에 대한 첩보능력을 감소시킵니다."
+
+msgctxt "CANCEL_COUNTERESPIONAGE_LONG_DESC코0"
+msgid ""
+"Recall our diplomat that is conducting counterespionage in $COUNTRY|Y$? We "
+"will no longer have an increased chance of detecting their agents."
+msgstr ""
+"$COUNTRY|Y$에서 방첩활동 중인 외교관을 불러들이시겠습니까? 더 이상 그들이 보낸 요원을 탐지할 확률이 증가하지 않을 것입니다."
+
+msgctxt "NEGOTIATE_SEPARATE_PEACE_WITH코0"
+msgid "Negotiate separate peace with $COUNTRY|Y$."
+msgstr "$COUNTRY|Y$ 측과 개별 평화 협상합니다."
+
+msgctxt "NEGOTIATE_PEACE_WITH_WARLEADER코0"
+msgid ""
+"Negotiate peace with the entire alliance by negotiating with $COUNTRY|Y$, "
+"the war leader."
+msgstr "전쟁의 지도자인 $COUNTRY|Y$ 측과 협상하여 전체 동맹과 평화 협상 합니다."
+
+msgctxt "PO_PD_100코0"
+msgid ""
+"Sire, we have won a devastating victory over $ENEMY$ and have the "
+"possibility to annex them. However, this would greatly upset the rest of the "
+"$RELIGION$ world. "
+msgstr ""
+"폐하, 우리는 $ENEMY$ 에게 압도적인 승리를 거뒀으며 합병 할 수 있습니다. 그러나 $RELIGION$ 세계의 나머지 국가들을 크게 "
+"화나게 할 것 입니다."
+
+msgctxt "PO_PD_70코0"
+msgid ""
+"You have won a devastating victory. You could demand several provinces, a "
+"large amount of ducats, or dictate other conditions. "
+msgstr "압도적인 승리를 거뒀습니다. 여러 지역을 요구하거나, 많은 양의 두캇 또는 다른 조건들을 요구할 수 있습니다. "
+
+msgctxt "PO_PD_40코0"
+msgid ""
+"You have won a total victory. A demand of a province would most likely be "
+"accepted."
+msgstr "총체적인 승리를 거뒀습니다. 요구치가 높은 지역들을 인수할 수 있을 것입니다."
+
+msgctxt "PO_PD_10코0"
+msgid ""
+"You have won a victory. The enemy would most likely accept a white peace, or "
+"a minor settlement of ducats in exchange for peace."
+msgstr "승리 했습니다. 적은 무조건 평화 또는 소량의 두캇 같은 타협안을 받아들일 것 입니다."
+
+msgctxt "PO_PD_NEG_5코0"
+msgid ""
+"The war is still undecided. Unless your enemy is eager to fight on, he would "
+"be likely to accept a white peace."
+msgstr "전쟁은 아직 불확실 합니다. 적이 격렬하게 싸우지 않는다면, 무조건 평화를 받아들일 가능성이 있습니다."
+
+msgctxt "PO_PD_NEG_25코0"
+msgid ""
+"The enemy has won. You should offer them a minor sum of ducats or a province "
+"you can live without in return for peace."
+msgstr "적이 승리 했습니다. 평화의 대가로 소량의 두캇과 지역들을 제공해야 합니다."
+
+msgctxt "PO_PD_NEG_60코0"
+msgid ""
+"The enemy has won a total victory. You should offer them at least two "
+"provinces and a large amount of ducats in return for a peace."
+msgstr "적이 총체적인 승리를 거뒀습니다. 평화의 대가로 적어도 두개 이상의 지역들과 다량의 두캇을 제공해야 합니다."
+
+msgctxt "PO_PD_NEG_99코0"
+msgid ""
+"The enemy has won a devastating victory. You should offer them enough "
+"provinces to satisfy them, or this may turn out even worse."
+msgstr ""
+"적이 압도적인 승리를 거뒀습니다. 그들을 만족시키기 위해선 충분한 지역을 제공 하던가, 또는 더 악화된 조건을 받게 될 수 있습니다."
+
+msgctxt "PO_PD_NEG_100코0"
+msgid ""
+"We are utterly defeated, and the enemy can dictate any sort of peace he "
+"would like."
+msgstr "우리는 완벽하게 패배 했으며, 적은 원하는 모든 종류들을 지시 할 수 있습니다."
+
+msgctxt "PEACEBETTER_US코0"
+msgid ""
+"Their people expect them to accept this peace deal, and if they refuse it it "
+"will cause great turmoil in their country."
+msgstr ""
+"\n"
+"(이 거래는 그들이 기대하는 것 보다 더 나은 조건 입니다. 만약 이 조건을 거부한다면, 자신의 나라에 큰 혼란의 원인이 될 것입니다.)"
+
+msgctxt "ANNEX코0"
+msgid "They demand our full Annexation. (Game Over)"
+msgstr "그들은 우리에게 완전한 합병을 요구하고 있습니다. (게임 종료)"
+
+msgctxt "WHITE_PEACE코0"
+msgid "White Peace. Nobody will gain or lose anything."
+msgstr "무조건 평화. 누구도 무엇을 얻거나 잃지 않을 것입니다."
+
+msgctxt "CLEAR_OFFER코0"
+msgid "Clear Offer"
+msgstr "제안 초기화"
+
+msgctxt "CONVERT_RELIGION코0"
+msgid "$WHO$ will convert to $RELIGION$. "
+msgstr "$WHO$측은 $RELIGION$로 개종할것입니다. "
+
+msgctxt "BECOME_VASSAL_2코0"
+msgid "$WHO$ will become a vassal of $BOSS$. "
+msgstr "$WHO$측은 $BOSS$의 속국이 될 것입니다. "
+
+msgctxt "BECOME_PROTECTORATE코0"
+msgid "$WHO$ will become a protectorate of $BOSS$. "
+msgstr "$WHO$ 측은 $BOSS$ 의 보호국이 될 것입니다."
+
+msgctxt "BECOME_TRIBUTARY코0"
+msgid "$WHO$ will become a Tributary State of $BOSS$. "
+msgstr "$WHO$측은 $BOSS$의 조공국이 될 것입니다. "
+
+msgctxt "BECOME_TRIBUTARY_TRADE_LEAGUE코0"
+msgid "$WHO$ will leave their Trade League."
+msgstr "$WHO$이(가) 무역 연합을 주도할 것입니다."
+
+msgctxt "BECOME_UNION코0"
+msgid ""
+"$FIRST$ and $SECOND$ will form a union, with $NAME$ becoming $RULER$ over "
+"both nations."
+msgstr "$FIRST$측과 $SECOND$측은 $NAME$측이 두 국가를 $RULER$하는 연합을 형성할 것입니다."
+
+msgctxt "SECEDE_PROVINCES코0"
+msgid "$WHO$ will cede $WHAT$ to $TO$."
+msgstr "$WHO$측은 $WHAT$을(를) $TO$에게 양도할 것입니다. "
+
+msgctxt "CORE_GIVEUP코0"
+msgid "$WHO$ will renounce their claims on $WHAT$. "
+msgstr "$WHO$측은 $WHAT$에 대한 그들의 클레임을 포기할 것입니다. "
+
+msgctxt "VASSAL_GIVEUP코0"
+msgid "$WHO$ will end their overlordship over $WHAT$. "
+msgstr "$WHO$는 $WHAT$에 대한 종주국으로서의 지위를 끝낼것입니다. "
+
+msgctxt "VASSAL_TRANSFER코0"
+msgid "$WHO$ will transfer their overlordship over $WHAT$. "
+msgstr "$WHO$는 $WHAT$에 대한 종주국으로서의 지위를 이전할 것입니다. "
+
+msgctxt "COUNTRY_RELEASE코0"
+msgid "$WHO$ will release $WHAT$ as a sovereign state. "
+msgstr "$WHO$측은 $WHAT$측을 독립국으로 해방시킬것입니다. "
+
+msgctxt "COUNTRY_CANNOT_RELEASE코0"
+msgid ""
+"$COUNTRY$ cannot be released since all its core provinces are already to be "
+"released to another nation. "
+msgstr "$COUNTRY$ 측은 이미 모든 코어 지역들을 타국에 넘겨주었기 때문에 새 국가를 해방 시킬 수 없습니다. "
+
+msgctxt "PAY_CASH코0"
+msgid "$WHO$ will pay $WHAT$ ducats. "
+msgstr "$WHO$측은 $WHAT$ 두캇을 지불할 것입니다. "
+
+msgctxt "PAY_CASH_TO코0"
+msgid "$WHO$ will pay §Y$WHAT$§! ducats to $WHOM$."
+msgstr "$WHO$은(는) §Y$WHAT$§! 두캇을 $WHOM$에게 지불할 것입니다.."
+
+msgctxt "PAY_CASH_TO_MULTIPLE코0"
+msgid "$WHO$ will pay §Y$WHAT$§! ducats to $WHOM$ and its allies."
+msgstr "$WHO$은(는) §Y$WHAT$§! 두캇을 $WHOM$와 동맹국들에게 지불할 것입니다.."
+
+msgctxt "GET_PART_OF_CASH코0"
+msgid "$WHO$ will get §Y$WHAT$§! of this amount."
+msgstr "$WHO$은(는) 이 양 중 §Y$WHAT$§!을 획득할 것입니다."
+
+msgctxt "CORE_RETURN코0"
+msgid "$WHO$ will give core(s) $WHAT$ to $TO$."
+msgstr "$WHO$ 는 코어 지역 $WHAT$를 $TO$에게 줄 것입니다."
+
+msgctxt "CB_ALLOWED_RETURN_CORE코0"
+msgid "Core return"
+msgstr "코어 반환"
+
+msgctxt "sent_gift코0"
+msgid "Sent Gift"
+msgstr "선물 보내기"
+
+msgctxt "IMPROVING_RELATIONS_WE코0"
+msgid "Improving relations with $LIST$."
+msgstr "해당 국과 관계 개선 중: $LIST$"
+
+msgctxt "IMPROVING_RELATIONS_THEY코0"
+msgid "Improving relations from $LIST$."
+msgstr "해당 국이 관계 개선 중: $LIST$"
+
+msgctxt "ENFORCE_PEACE_DECLARE_WAR코0"
+msgid "You need to be able to declare war on the target!"
+msgstr "대상에 전쟁을 선포 할 수 있어야 합니다!"
+
+msgctxt "DIPLOMACYACTION_CATEGORY_relation코0"
+msgid "Relations actions"
+msgstr "관계"
+
+msgctxt "DIPLOMACYACTION_CATEGORY_influence코0"
+msgid "Influence actions"
+msgstr "영향력"
+
+msgctxt "DIPLOMACYACTION_CATEGORY_great_powers코0"
+msgid "Great Power actions"
+msgstr "열강"
+
+msgctxt "DIPLOMACYACTION_CATEGORY_emperor코0"
+msgid "Emperor actions"
+msgstr "황제"
+
+msgctxt "DIPLOMACYACTION_CATEGORY_papacy코0"
+msgid "Papal actions"
+msgstr "교황"
+
+msgctxt "DIPLOMACYACTION_CATEGORY_alliance코0"
+msgid "Alliance actions"
+msgstr "동맹"
+
+msgctxt "DIPLOMACYACTION_CATEGORY_dynasty코0"
+msgid "Dynastic actions"
+msgstr "왕조"
+
+msgctxt "DIPLOMACYACTION_CATEGORY_covert코0"
+msgid "Covert actions"
+msgstr "첩보"
+
+msgctxt "DIPLOMACYACTION_CATEGORY_access코0"
+msgid "Access actions"
+msgstr "통행권"
+
+msgctxt "DIPLOMACYACTION_CATEGORY_economy코0"
+msgid "Economy actions"
+msgstr "경제"
+
+msgctxt "DIPLOMACYACTION_MAINTAINED_BY_DIPLOMAT코0"
+msgid "Requires a diplomat to maintain the action."
+msgstr "행동을 진행하기 위해 외교관이 필요합니다."
+
+msgctxt "CALL_CHECKBOX_WILL_CALL코0"
+msgid ""
+"Your ally §Y$COUNTRY$§! will be called into your war against §Y$TARGET$§!."
+msgstr "§Y$TARGET$§!에 대항하는 전쟁에 당신의 동맹 §Y$COUNTRY$§!이(가) 참가할 것입니다.\""
+
+msgctxt "CALL_CHECKBOX_WILL_NOT_CALL코0"
+msgid ""
+"Your ally §Y$COUNTRY$§! will NOT be called into your war against "
+"§Y$TARGET$§!."
+msgstr "§Y$TARGET$§!에 대항하는 전쟁에 당신의 동맹 §Y$COUNTRY$§!이(가) 참가하지 않을 것입니다."
+
+msgctxt "CALL_CHECKBOX_DESC코0"
+msgid "§GClick to change whether or not to call this ally.§!"
+msgstr "§G이 동맹에게 참전 요구를 할 지 결정하기 위해 클릭하세요.§!"
+
+msgctxt "CALL_CHECKBOX_AUTOJOIN코0"
+msgid "§GThis ally is forced to join your side.§!"
+msgstr "§G이 동맹은 당신 편에 서도록 강요받을 것입니다.§!"
+
+msgctxt "CALL_CHECKBOX_ALL_DESC코0"
+msgid ""
+"§GClick to change whether or not to call all allies into your war against "
+"§Y$TARGET$§!.§!"
+msgstr "§G이 동맹에게 해당 국가에 대한 전쟁에 참전 요구를 할 지 결정하기 위해 클릭하세요:§Y$TARGET$§!.§!"
+
+msgctxt "CALL_CHECKBOX_PROT_WILL_CALL코0"
+msgid ""
+"Your protectorate §Y$COUNTRY$§! will be called into your war against "
+"§Y$TARGET$§!."
+msgstr "당신의 보호국 §Y$COUNTRY$§!이(가) §Y$TARGET$§!에 대항하는 전쟁에 소환될 것입니다."
+
+msgctxt "CALL_CHECKBOX_PROT_WILL_AUTOJOIN코0"
+msgid ""
+"Your protectorate §Y$COUNTRY$§! will join your war against §Y$TARGET$§!."
+msgstr "당신의 보호국 §Y$COUNTRY$§!이(가) §Y$TARGET$§!에 대항하는 전쟁에 합류할 것입니다."
+
+msgctxt "CALL_CHECKBOX_PROT_WILL_NOT_CALL코0"
+msgid ""
+"Your protectorate §Y$COUNTRY$§! will NOT be called into your war against "
+"§Y$TARGET$§!."
+msgstr "당신의 보호국 §Y$COUNTRY$§!은(는) §Y$TARGET$§!을(를) 향한 당신의 전쟁에 소환되지 않을 것입니다."
+
+msgctxt "want_your_provinces코0"
+msgid "Wants your provinces"
+msgstr "당신의 지역을 원함"
+
+msgctxt "want_subject_provinces코0"
+msgid "Wants your subjects' provinces"
+msgstr "당신 속국의 지역을 원함"
+
+msgctxt "CALL_CHECKBOX_TRUCE코0"
+msgid ""
+"§RYou cannot declare a country you have a truce with as a co-belligerent.§!"
+msgstr "§R공동 참전국으로 휴전을 맺은 국가에게 요구할 수 없습니다.§!"
+
+msgctxt "CALL_CHECKBOX_TRUCE_OFF코0"
+msgid "§RYou cannot call an ally that has a truce with the target.§!"
+msgstr "§R당신은 전쟁을 선포할 국가와 휴전 중인 국가에게 참전을 요청할 수 없습니다.§!"
+
+msgctxt "CALL_CHECKBOX_VOLUNTARY코0"
+msgid ""
+"§RYou cannot call an ally in a voluntary subject relationship against their "
+"overlord."
+msgstr "§R당신은 그들의 종주국과 자발적인 종속 관계를 맺고 있는 동맹에게 참전을 요청할 수 없습니다."
+
+msgctxt "CALL_CHECKBOX_CANNOT_CALL_DESC코0"
+msgid "§RYou cannot call an ally that would refuse your call to arms.§!"
+msgstr "§R당신은 당신의 참전 요청을 거절할 국가에게 참전을 요청할 수 없습니다.§!"
+
+msgctxt "CALL_CHECKBOX_ALLIED_TO_ENEMY코0"
+msgid "§RYou cannot call an ally that will be called by the defender.§!"
+msgstr "§R당신은 방어자 측에서 참전할 국가에게 참전을 요청할 수 없습니다.§!"
+
+msgctxt "CALL_ALLIES코0"
+msgid "Call Allies"
+msgstr "동맹 소집"
+
+msgctxt "ENEMY_ALLIES코0"
+msgid "Enemy Allies"
+msgstr "적의 동맹"
+
+msgctxt "CALL_COLONIAL_ALLIES코0"
+msgid "Call Subjects"
+msgstr "속국 소집"
+
+msgctxt "FULL_ALLY_CHECKBOX_WILL_AUTOJOIN코1"
+msgid ""
+"The enemy $SUBJECTORALLY$ §Y$COUNTRY$§! will be considered a co-belligerent "
+"in this war but will NOT be able to call their own allies."
+msgstr ""
+"적국 $SUBJECTORALLY$ §Y$COUNTRY$§!은(는) 이 전쟁에서 공동 교전국으로 간주되겠지만, 그들 자신의\n"
+" 동맹국들을 소집할 수는 없을 것입니다."
+
+msgctxt "FULL_ALLY_CHECKBOX_WILL_CALL코1"
+msgid ""
+"The enemy $SUBJECTORALLY$ §Y$COUNTRY$§! will be considered a co-belligerent "
+"in this war. They will be able to call their own allies."
+msgstr ""
+"적국 $SUBJECTORALLY$ §Y$COUNTRY$§!은(는) 이 전쟁에서 공동 교전국으로 간주됩니다. 그들은 그들 자신의 동맹국들을 "
+"소집할 수 있을 것입니다."
+
+msgctxt "FULL_ALLY_CHECKBOX_WILL_NOT_CALL코1"
+msgid ""
+"The enemy $SUBJECTORALLY$ §Y$COUNTRY$§! will NOT be considered a co-"
+"belligerent in this war. They will NOT be able to call their own allies, but "
+"it will be twice as expensive to take their provinces."
+msgstr ""
+"적국 $SUBJECTORALLY$ §Y$COUNTRY$§!은(는) 이 전쟁에서 공동 교전국으로 간주되지 않을 것입니다. 그들은 그들 "
+"자신의 동맹국들을 소집할 수 없겠지만, 그들의 영토를 빼앗는 것은 2배의 승점을 요구할 것입니다."
+
+msgctxt "FULL_ALLY_CHECKBOX_DESC코1"
+msgid ""
+"§GClick to change whether or not to consider this enemy $SUBJECTORALLY$ a co-"
+"belligerent.§!"
+msgstr "§G적국 $SUBJECTORALLY$의 공동교전국 간주 여부를 바꾸려면 클릭하십시오.§!"
+
+msgctxt "NOT_COBELLIGERENT_CALL코0"
+msgid ""
+"We would join as a regular ally. It will be twice as expensive for the enemy "
+"to take our provinces, but we will NOT be able to call our own allies."
+msgstr ""
+"우린 이 전쟁에 일반적인 동맹국으로 참가할 것이며 적들이 우리의 지역을 요구하기 위해선 두 배의 비용이 들 것입니다. 그러나 우리는 "
+"우리의 동맹을 호출할 수 없을 것입니다."
+
+msgctxt "COBELLIGERENT_CALL코0"
+msgid ""
+"We would join as co-belligerent and will be able to call our own allies."
+msgstr "우린 공동 참전국으로 참가할 것이며 우리의 동맹을 호출할 수 있을 것입니다."
+
+msgctxt "CALL_PROMISE_LAND코0"
+msgid "§GIf we accept, they promise us territorial gains from this war.§!"
+msgstr "§G우리가 받아들인다면 그들은 이 전쟁으로부터 우리에게 그들이 영토 이익을 약속할 겁니다.§!"
+
+msgctxt "DIPLOMACYACTION_ACCEPT코0"
+msgid "They will most likely accept!"
+msgstr "그들은 대부분 받아들일 것입니다!"
+
+msgctxt "DIPLOMACYACTION_NOACCEPT코0"
+msgid "They will probably not accept."
+msgstr "그들은 아마 수락하지 않을 것입니다."
+
+msgctxt "historical_friend코0"
+msgid "Historical Friend"
+msgstr "역사적 우방"
+
+msgctxt "historical_rival코0"
+msgid "Historical Rival"
+msgstr "역사적 경쟁자"
+
+msgctxt "border_friction코0"
+msgid "Border Friction"
+msgstr "국경 분쟁"
+
+msgctxt "border_friction_from_event코0"
+msgid "Irritated over Claims"
+msgstr "짜증나는 클레임"
+
+msgctxt "broke_free_from_us코0"
+msgid "Broke free from us"
+msgstr "우리로부터 독립하다"
+
+msgctxt "previous_oppressor코0"
+msgid "Previous oppressor"
+msgstr "이전 압제자"
+
+msgctxt "weak_overlord코0"
+msgid "Relative power to liege"
+msgstr "상대적 국력이 더 큰 신하"
+
+msgctxt "competing_superpower코0"
+msgid "Competing Great Power"
+msgstr "강대국과 경쟁중"
+
+msgctxt "religious_friend코0"
+msgid "Brothers in struggle against the infidels"
+msgstr "이교도에 대항하는 투쟁의 형제"
+
+msgctxt "WE_NOTSAME_RELIGIONS_GROUP코0"
+msgid "We are NOT part of the same religious group."
+msgstr "우리는 같은 종교 집단의 일부가 아닙니다."
+
+msgctxt "NO_WAR_FIGHTING_WAR_TOGETHER코0"
+msgid "You may not declare war upon a country you are fighting in a war with."
+msgstr "당신은 지금 당신과 전쟁 중인 상대에게 전쟁을 선포할 수 없습니다."
+
+msgctxt "NO_WAR_TRANSFER_TRADE_POWER코0"
+msgid ""
+"You may not start a war with someone that you have a Transfer Trade Power "
+"relation with."
+msgstr "당신은 무역력 이송 관계에 있는 상대와 전쟁을 시작할 수 없습니다."
+
+msgctxt "WE_GIVING_FLEET_ACCESS코0"
+msgid "We are already giving them fleet access."
+msgstr "이미 항구 통행권을 주었습니다."
+
+msgctxt "WE_NOT_GIVING_FLEET_ACCESS코0"
+msgid "We are NOT giving them fleet access."
+msgstr "항구 통행권을 주지 않았습니다."
+
+msgctxt "SAME_OVERLORD코0"
+msgid "We have the same overlord."
+msgstr "우리는 같은 종주국을 가지고 있습니다."
+
+msgctxt "NOCLAIMISREGENCY코0"
+msgid "While we have a Regency Council, we cannot claim the throne."
+msgstr "우리는 섭정기간 동안은 왕위 주장을 할 수 없습니다."
+
+msgctxt "WEWARSUBSIDIES코0"
+msgid "We give subsidies."
+msgstr "우리는 보조금을 지급."
+
+msgctxt "WENOTWARSUBSIDIES코0"
+msgid "We do NOT give any subsidies!"
+msgstr "우리는 보조금을 지급할 수 없습니다!"
+
+msgctxt "ALREADYINSULT_NOT_POSS코0"
+msgid ""
+"We have already insulted them. We cannot insult them again until $DATE|Y$."
+msgstr "우리는 이미 그들을 모욕 했습니다. $DATE|Y$ 되기 전 까지는 다시 모욕 할 수 없습니다."
+
+msgctxt "WENOTOWNPROV코0"
+msgid "We are not the owner of $PROV|Y$"
+msgstr "우리는 $PROV|Y$의 주인이 아닙니다"
+
+msgctxt "IS_NOT_PAPAL_GOV코0"
+msgid "$WHO$ has government $GOV$, and that is NOT papal."
+msgstr "$WHO$정부는 $GOV$이므로 교황이 아닙니다."
+
+msgctxt "CRUSADES_ENDED코1"
+msgid ""
+"In the Ages of Absolutism or Age of Revolutions, the religious influence on "
+"politics has decreased to such a degree that this action would not be taken "
+"seriously."
+msgstr ""
+"절대주의의 시대나 혁명의 시대에서는, 이러한 행동이 심각하게 받아들여지지 않을 정도로 정치에 대한 종교의 영향력이 줄어들었습니다."
+
+msgctxt "AGGRESSIVE_EXPANSION코0"
+msgid "Aggressive Expansion: §R$VAL$§!"
+msgstr "공격적 확장 : §R$VAL$§!"
+
+msgctxt "AGGRESSIVE_EXPANSION_DESC코0"
+msgid ""
+"Aggressive Expansion will greatly upset those with an interest in "
+"§Y$COUNTRY$§! by §R$VAL$§! opinion as base"
+msgstr ""
+"공격적 확장은 §Y$COUNTRY$§! 에 관심있는 국가들을 매우 화나게 할 것이며, §R$VAL$§! 의견을 보일 것입니다."
+
+msgctxt "HAS_NO_INTEGRATION코0"
+msgid "Has no active integration."
+msgstr "통합 활성화가 되지 않습니다.."
+
+msgctxt "REDUCED_BADBOY코0"
+msgid "Reduced Aggressive Expansion: "
+msgstr "감소된 공격적 확장 : "
+
+msgctxt "AGGRESSIVE_EXPANSION_TITLE코0"
+msgid "Aggressive act will upset other countries by a base of $VAL$."
+msgstr "공격적 확장은 $VAL$기준으로 다른 나라를 화나게 할 것입니다."
+
+msgctxt "AGGRESSIVE_EXPANSION_FACTOR코0"
+msgid "Aggressive expansion modifiers:"
+msgstr "공격적 확장 변동치:"
+
+msgctxt "PEACE_EFFECTS_BADBOY코1"
+msgid ""
+"With $THE$$CASUS$ Casus Belli, $ACTIVE$ suffers a base of $BADBOY$ "
+"Aggressive Expansion relations penalty."
+msgstr "$THE$$CASUS$ 전쟁 명분으로, $ACTIVE$은(는) $BADBOY$의 기본 공격적 확장 관계 패널티를 받습니다."
+
+msgctxt "PEACE_DEFENDER_EFFECTS_BADBOY코1"
+msgid ""
+"As a defender, $ACTIVE$ suffers a base of $BADBOY$ Aggressive Expansion "
+"relations penalty"
+msgstr "방어자로서, $ACTIVE$은(는) $BADBOY$의 기본 공격적 확장 관계 패널티를 받습니다."
+
+msgctxt "ENFORCE_PEACE_INVALID_TARGET코0"
+msgid ""
+"You cannot enforce a peace between two junior partners in a war like $WHO$ "
+"and $TARGET$."
+msgstr "$WHO$ 측과 $TARGET$ 측, 두 하위 동반자 간 전쟁에 끼여들어 평화 조약을 강요 할 수 없습니다."
+
+msgctxt "ENFORCE_PEACE_INVALID_TARGET_NOT_WAR코0"
+msgid "We cannot enforce a peace, as $WHO$ is not at war with $TARGET$!"
+msgstr "평화 조약을 강요 할 수 없습니다. $WHO$ 측은 $TARGET$ 측과 전쟁 중이 아닙니다!"
+
+msgctxt "ENFORCE_PEACE_NOT_WINNING_2코0"
+msgid ""
+"If a country is losing a war, they can't be forced to make a peace. They "
+"need to win by at least $VAL$ War Score."
+msgstr ""
+"어떤 국가가 전쟁에서 지고 있다면, 그들에게 평화를 강요할 수 없습니다. 그들이 최소한 $VAL$ 이상의 승점으로 이기고 있어야 합니다."
+
+msgctxt "ENFORCE_PEACE_NOT_ATTACKER코0"
+msgid ""
+"We cannot enforce a peace on a defender in a war, and $TARGET$ was the "
+"aggressor in the war against $WHO$."
+msgstr "방어전에서 평화 조약을 강요 할 수 없습니다. $TARGET$ 측은 $WHO$ 측을 침공 했습니다."
+
+msgctxt "ENFORCEPEACE_LOW_RELATION코1"
+msgid ""
+"You need to have $WHO$ to have an opinion of at least $NEED$ of you and it "
+"is currently $VAL$."
+msgstr "$WHO$ 에 대한 의견이 적어도 $NEED$ 정도 필요 합니다. 현재 $VAL$ 입니다."
+
+msgctxt "IS_IMPROVE_RELATIONS코0"
+msgid "Is Improving relations with $WHO$."
+msgstr "$WHO$의 관계도 향상."
+
+msgctxt "IS_NOT_IMPROVE_RELATIONS코0"
+msgid "Is NOT Improving relations with $WHO$."
+msgstr "$WHO$의 관계도 향상 중지."
+
+msgctxt "DIP_FREE_IDEA코0"
+msgid "Free idea: §Y$NAME$§!"
+msgstr "자유 이념: §Y$NAME$§!"
+
+msgctxt "DIP_FULL_IDEA코0"
+msgid "Full group: §Y$NAME$§!"
+msgstr "충만한 집단: §Y$NAME$§!"
+
+msgctxt "POWER_COST_OPINION코0"
+msgid "$COUNTRY01|Y$ opinion about $COUNTRY02|Y$: "
+msgstr "$COUNTRY01|Y$ 의 $COUNTRY02|Y$ 측에 대한 의견: "
+
+msgctxt "WAR_SCORE_COST코0"
+msgid "War Score cost: $VAL|Y$\n"
+msgstr "승점 비용: $VAL|Y$\n"
+
+msgctxt "POWER_COST_NOT_IN_WARGOAL코1"
+msgid "Not in war goal cost: $VAL|Y$£dip \n"
+msgstr "전쟁 목표가 아니므로 추가 비용: $VAL|Y$£dip \n"
+
+msgctxt "POWER_COST_RIVAL코0"
+msgid "Taking from rival: $VAL$\n"
+msgstr "경쟁자 선택: $VAL$\n"
+
+msgctxt "VASSAL_CANCEL_CONFIRM코0"
+msgid "Do you wish to cancel our vassalisation with $VASSAL|Y$?"
+msgstr "$VASSAL|Y$에 대한 속국화를 취소하시겠습니까?"
+
+msgctxt "VASSAL_CANCEL_PRESTIGE코0"
+msgid "\n"
+"This will cost us $PRESTIGE|R$ Prestige."
+msgstr "\n"
+"이는 $PRESTIGE|R$의 위신을 소비할 것입니다."
+
+msgctxt "VASSAL_CANCEL_OPINION코0"
+msgid ""
+"\n"
+"Because they are loyal, their opinion of us will decrease by $OPINION|R$."
+msgstr "\n"
+"그들이 충성스럽기 때문에, 우리에 대한 그들의 관계도는 $OPINION|R$만큼 감소할 것 입니다."
+
+msgctxt "VASSAL_CANCEL_CORES코0"
+msgid "\n"
+"We will also lose any cores and claims we have on their provinces."
+msgstr "\n"
+"우리는 그들의 지역들에 있는 우리의 코어와 클레임 또한 모두 잃어버릴 것입니다."
+
+msgctxt "PROTECTORATEBREAKDESC코0"
+msgid ""
+"Do you wish to break our arrangement of protectorate with $COUNTRY$? \n"
+"This will cause our stability to decrease by §Y$STAB$§!, our prestige to be "
+"reduced by $PRESTIGE|R$ and our relations will worsen."
+msgstr ""
+"$COUNTRY$ 측과 맺었던 보호령 협약을 파기 하시겠습니까? \n"
+"이는 §Y$STAB$§! 안정도가 하락할 것이며, $PRESTIGE|R$ 위신을 잃게 되고 관계는 악화될 것입니다."
+
+msgctxt "PEACE_OFFER_POWER_COST코0"
+msgid "This peace will cost $WHO$ $COST|Y$£dip ."
+msgstr "이 평화는 $WHO$에게 $COST|Y$£dip 을 소모시킬 것입니다."
+
+msgctxt "WARN_FAR_TOO_POWERFUL코0"
+msgid ""
+"They are far too rich and powerful for our warnings to be taken seriously."
+msgstr "그들은 우리의 경고를 심각하게 받아들이기엔 너무 강대하고 부유합니다."
+
+msgctxt "GUARANTEE_FAR_TOO_POWERFUL코0"
+msgid ""
+"They are far too rich and powerful for our guarantees to be taken seriously."
+msgstr "그들은 우리의 보호를 받기에는 우리보다 훨씬 더 부유하고 강력합니다."
+
+msgctxt "enemy코0"
+msgid "Hostile relations"
+msgstr "적대 관계"
+
+msgctxt "embargo코0"
+msgid "Embargo"
+msgstr "무역금지"
+
+msgctxt "GRANTFREECITYTITLE코0"
+msgid "Grant Free City Status"
+msgstr "자유시 자격 수여"
+
+msgctxt "GRANTFREECITYDESC코0"
+msgid ""
+"Granting them Free City status will strengthen their economy and increase "
+"their contribution to the Emperor, but we will be required to protect them "
+"from attack."
+msgstr ""
+"자유시 자격 수여는 그들의 경제를 부흥시키고 그들의 제국에 대한 공헌을 증가 시킬 것입니다. 하지만 우리는 그들을 보호해야 할 의무를 "
+"가집니다."
+
+msgctxt "REMOVE_FREECITY_TITLE코0"
+msgid "Revoke Free City Status"
+msgstr "자유시 자격 박탈"
+
+msgctxt "REMOVE_FREECITY_DESC코0"
+msgid ""
+"Revoking their Free City status will weaken their economy and reduce their "
+"contribution to the Emperor, but we will no longer be required to protect "
+"them."
+msgstr ""
+"자유시 자격 박탈은 그들의 경제를 어렵게 하고 그들의 제국에 대한 공헌을 없앨 것입니다. 하지만 우리는 그들을 보호해야 할 의무에서 "
+"벗어납니다."
+
+msgctxt "GRANTELECTORATETITLE코0"
+msgid "Grant Electorate"
+msgstr "선제후 자격 부여"
+
+msgctxt "GRANTELECTORATEDESC코0"
+msgid ""
+"Granting electorate allows them to vote on who should be the emperor in the "
+"Empire."
+msgstr "선제후 자격을 부여하면 그들은 제국황제로 누가 되어야할지 투표할 수 있습니다."
+
+msgctxt "REMOVE_ELECTORATE_TITLE코0"
+msgid "Remove Electorate"
+msgstr "선제후 자격 박탈"
+
+msgctxt "REMOVE_ELECTORATE_DESC코0"
+msgid ""
+"Removing their electorate forbids them from voting who should be the emperor "
+"of the Empire."
+msgstr "그들의 선제후 자격을 박탈하면 그들은 더 이상 황제 선출에 관여할 수 없습니다."
+
+msgctxt "REMOVE_ELECTORATE_ADDITIONAL_EFFECTS코0"
+msgid ""
+"Furthermore, it would change other electors' opinion of us by $SAME$ if same "
+"religion as the removed elector, $OTHER$ if otherwise.\n"
+"\n"
+"It will cost us §Y$IA$§! Imperial Authority."
+msgstr ""
+"또한 이 국가와 종교가 같은 선제후들의 관계도를 $SAME$ 만큼 변화시키고, 같은 종교가 아닌 선제후들의 관계도는 $OTHER$ 만큼 "
+"변화시킵니다.\n"
+"\n"
+"§Y$IA$§!의 제국 권위가 소모됩니다."
+
+msgctxt "OPINION_WOULDCHANGEBY코0"
+msgid "It would change their opinion of us by $AMOUNT$."
+msgstr "우리에 대한 그들의 관계도가 $AMOUNT$ 만큼 변합니다."
+
+msgctxt "DEMANDUNLAWFULTERRITORYTITLE코0"
+msgid "Demand Unlawful Territory"
+msgstr "불법 점거 영토 요구"
+
+msgctxt "DEMANDUNLAWFULTERRITORYDESC코0"
+msgid "Demand the return of an unlawful territory to the Empire."
+msgstr "제국은 불법 점거한 영토를 요구 합니다."
+
+msgctxt "DEMANDUNLAWFULTERRITORY_DERIVEDDESC코0"
+msgid ""
+"Demand the return of the unlawful territory '$PROV|Y$' to the Holy Roman "
+"Empire."
+msgstr "불법 점거된 신성로마제국의 영토인 '$PROV|Y$'의 반환을 요구합니다."
+
+msgctxt "has_unlawful_territory코0"
+msgid "Has Unlawful Territory modifier"
+msgstr "불법 영토 변동치"
+
+msgctxt "HAS_NO_PROV_IN_EMPIRE_OR_LIBERATED코0"
+msgid ""
+"Has no non-core province that is a part of the Empire and that has not been "
+"liberated from a non-imperial country."
+msgstr "제국 일부이면서 코어가 없는 지역이 없기 때문에 비제국국가로 부터 해방될 수 없습니다. "
+
+msgctxt "RETURN_UNLAWFUL_NOT_OWN코0"
+msgid "You can't return a province you don't own!"
+msgstr "당신은 소유하지 않은 지방을 돌려줄 수 없습니다!"
+
+msgctxt "VASSAL_CREATE_DESC코0"
+msgid "$COUNTRY|Y$ will become a vassal with the following provinces: $LIST$."
+msgstr "$COUNTRY|Y$측은 다음 지역들을 가지고 종속국이 될 것입니다: $LIST$."
+
+msgctxt "HAVE_FLEET_BASING코0"
+msgid "We have Fleet Basing Rights to their nation."
+msgstr "우리는 그들 국가에 대한 함대 정박권이 있습니다."
+
+msgctxt "HAVE_NOT_FLEET_BASING코0"
+msgid "We do NOT have Fleet Basing Rights to their nation."
+msgstr "우리는 그들 국가에 대한 함대 정박권이 없습니다."
+
+msgctxt "DIPLOMATIC_REPUTATION코0"
+msgid ""
+"Diplomatic Reputation increases chances of having various diplomatic offers "
+"accepted by other countries, improves chances of inheritance in a personal "
+"union, speeds up progress of diplomatic annexation and integration."
+msgstr ""
+"외교 평판은 다른 국가에서 각종 외교 이벤트를 갖는 기회를 호의적인 답변 증가, 동군연합의 상속 가능성, 외교 합병 및 통합의 진전의 "
+"속도 향상."
+
+msgctxt "released_in_peace코0"
+msgid "Released in Peace"
+msgstr "평화적으로 해방됨"
+
+msgctxt "returned_core_to_me코0"
+msgid "Returned Province"
+msgstr "반환된 지역"
+
+msgctxt "IS_GUARANTEE_NO_WAR코0"
+msgid "You cannot declare war on a country you have guaranteed."
+msgstr "당신은 당신이 독립을 보장해준 국가에 전쟁을 선포할 수 없습니다."
+
+msgctxt "REVOKEGUARANTTITLE코0"
+msgid "Revoke Guarantee"
+msgstr "보증 취소"
+
+msgctxt "HASNOTGUARANT코0"
+msgid "We are NOT guaranteeing them."
+msgstr "우리는 그들을 보장하지 않습니다.\""
+
+msgctxt "REVOKEGUARANTDESC코0"
+msgid ""
+"Revoke guarantee so that we no longer will be called to a war against a "
+"country who attacks them."
+msgstr "그들로부터 전쟁을 거부할 권리를 받았습니다. 이제 어떤 국가가 그들을 공격한다고 해도 우리가 참전해야 할 의무는 없습니다."
+
+msgctxt "REVOKEGUARANTNEWDESC코0"
+msgid ""
+"Do you wish to revoke our guarantee for $COUNTRY$? We will no longer be "
+"called to a war against a country who attacks them."
+msgstr ""
+"$COUNTRY$에 대한 우리의 독립보장을 철회하시겠습니까? 우리는 누가 그들을 공격하더라도 전쟁에 참여하지 않게 될 것입니다."
+
+msgctxt "REVOKEGUARANTDESC2코0"
+msgid ""
+"You will get a truce with them as well, so you cannot just use this to "
+"attack them."
+msgstr "당신은 그들과 평화 협정 상태에 들어가며, 따라서 이를 전쟁 빌미로 삼을 수는 없습니다."
+
+msgctxt "GRANTELECTORATEREQDESC코0"
+msgid ""
+"$ACTOR$ offers us an Electorate position in the Holy Roman Empire. By "
+"accepting we will be able to vote for the next emperor."
+msgstr ""
+"$ACTOR$이(가) 우리에게 신성 로마제국의 선제후가 될 권리를 제안했습니다. 받아들일경우 다음 제국의 황제를 선출할 권리를 가지게 "
+"됩니다."
+
+msgctxt "GRANTFREECITYREQDESC코0"
+msgid ""
+"$ACTOR$ offers us Free City status in the Holy Roman Empire. If we accept, "
+"our government will change to a Free City and the Emperor will defend us "
+"from all aggressors. If we acquire more provinces or leave the Empire we "
+"will lose our Free City status."
+msgstr ""
+"$ACTOR$이(가) 우리에게 자유시가 될 것을 권하였습니다. 만약 우리가 받아들인다면, 우리의 정부체제는 자유시로 바뀌고 황제는 "
+"침략자로부터 우리를 지켜줄 것입니다. 만약 우리가 다른 영토를 얻거나 제국을 떠난다면 자유시 권한은 박탈됩니다."
+
+msgctxt "DEMANDUNLAWFULTERRITORYREQDESC코0"
+msgid ""
+"The Emperor $ACTOR$ demands that we return the province of '$PROV|Y$' to the "
+"Holy Roman Empire. Denying this request will seriously impact our relation "
+"with the HRE."
+msgstr ""
+"황제 $ACTOR$이(가) '$PROV|Y$' 지역을 신성 로마제국으로 반환하라고 요구하고있습니다. 이것을 거부할경우 신성 로마제국과의 "
+"관계에 심각한 타격을 줄 것입니다."
+
+msgctxt "DEMANDUNLAWFULTERRITORYREQDENYEFFECTS코0"
+msgid ""
+"Declining will have the following effects:\n"
+"The emperor will receive a casus belli against you.\n"
+"Province effects:\n"
+"$PROVEFFECT$\n"
+"\n"
+"Opinion modifier from members of the HRE:\n"
+"$OPINIONEFFECT$"
+msgstr ""
+"거부하는것은 이같은 영향을 미칠것입니다:\n"
+"제국은 당신을 향한 전쟁명분을 얻을것입니다.\n"
+"지역에 미치는 결과:\n"
+"$PROVEFFECT$\n"
+"\n"
+"신성 로마제국 제후들의 의견 변화:\n"
+"$OPINIONEFFECT$"
+
+msgctxt "TRANSFERTRADEPOWERDESC코0"
+msgid ""
+"$ACTOR$ would like us to transfer $VAL|0%$ of our trade power in all our "
+"shared trade nodes to them. Do you accept this?"
+msgstr ""
+"$ACTOR$은(는) 우리가 모든 무역 노드에서 $VAL|0%$의 무역력을 그들에게 보내기를 바라고 있습니다. 이를 받아들이시겠습니까?"
+
+msgctxt "revoke_elector_opinion코0"
+msgid "Revoked Electorate"
+msgstr "선제후 자격 박탈"
+
+msgctxt "grant_freecity코0"
+msgid "Granted Free City status"
+msgstr "자유시 자격을 수여"
+
+msgctxt "removed_our_freecity코0"
+msgid "Revoked our Free City status"
+msgstr "우리의 자유시 자격을 박탈"
+
+msgctxt "grant_electorate코0"
+msgid "Granted Electorate"
+msgstr "선제후로 임명"
+
+msgctxt "removed_our_electorate코0"
+msgid "Revoked our Electorate"
+msgstr "우리의 선제후 자격 박탈"
+
+msgctxt "removed_electorate_same_religion코0"
+msgid "Revoked an Electorate"
+msgstr "선제후 자격 박탈"
+
+msgctxt "removed_electorate_other_religion코0"
+msgid "Revoked an Electorate"
+msgstr "선제후 자격 박탈"
+
+msgctxt "defended_allied_territory코0"
+msgid "Defended our provinces"
+msgstr "방어된 우리의 지역"
+
+msgctxt "liberated_province코0"
+msgid "Liberated our province"
+msgstr "해방된 우리의 지역"
+
+msgctxt "elector_voted_for_us코0"
+msgid "They voted for us"
+msgstr "그들이 우리를 위해 투표를 지지해 주었습니다"
+
+msgctxt "elector_stopped_voting_for_us코0"
+msgid "They changed their vote from us"
+msgstr "그들이 우리에게 투표했던 지지를 멈췄습니다"
+
+msgctxt "vassal_broke_free코0"
+msgid "They broke free from us"
+msgstr "그들이 우리로부터 독립했습니다."
+
+msgctxt "vassal_abandoned코0"
+msgid "Our overlord abandoned us"
+msgstr "종주국이 우리를 버렸습니다"
+
+msgctxt "they_force_vassalized_us코0"
+msgid "They Force Vassalized us"
+msgstr "그들이 우리를 강제로 속국화 했습니다"
+
+msgctxt "they_force_unioned_us코0"
+msgid "They Forced us into a Union"
+msgstr "그들이 우리를 강제로 동군연합화 했습니다"
+
+msgctxt "protectorate_broke_free코0"
+msgid "They broke free from us"
+msgstr "그들이 우리로부터 독립했습니다."
+
+msgctxt "protectorate_abandoned코0"
+msgid "Our overlord abandoned us"
+msgstr "종주국이 우리를 버렸습니다"
+
+msgctxt "refused_military_access코0"
+msgid "They refused military access"
+msgstr "군사 통행권이 거부되었습니다"
+
+msgctxt "revoked_military_access코0"
+msgid "They revoked our military access"
+msgstr "군사 통행권이 철회되었습니다"
+
+msgctxt "refused_fleet_access코0"
+msgid "They refused fleet basing rights"
+msgstr "함대 정박권이 거부되었습니다"
+
+msgctxt "revoked_fleet_access코0"
+msgid "They revoked our fleet basing rights"
+msgstr "함대 정박권이 철회되었습니다"
+
+msgctxt "claimed_throne_of_imperial코0"
+msgid "They claimed the throne of another imperial subject"
+msgstr "그들이 제국의 왕권이 자신들에게 합당하다고 주장하고 있습니다"
+
+msgctxt "claimed_throne_other_rm코0"
+msgid "They used their royal marriage as pretext to claim a throne"
+msgstr "그들이 왕실 결혼을 구실로 삼아 왕권을 노리고 있습니다"
+
+msgctxt "claimed_throne_on_us코0"
+msgid "They used their royal marriage as pretext to claim our throne"
+msgstr "그들이 왕실 결혼을 구실로 삼아 우리의 왕권을 노리고 있습니다"
+
+msgctxt "answered_call_to_empire_elector코0"
+msgid "They came to the defense of the empire"
+msgstr "그들이 우리 제국을 보호하기로 결심했습니다"
+
+msgctxt "answered_call_to_empire코0"
+msgid "They came to the defense of the empire"
+msgstr "그들이 우리 제국을 보호하기로 결심했습니다"
+
+msgctxt "refused_to_defend_empire코0"
+msgid "They refused to defend the empire"
+msgstr "그들이 제국을 수호하는것을 거부 했습니다"
+
+msgctxt "refused_join_war코0"
+msgid "They refused to join our war"
+msgstr "그들이 우리의 전쟁에 참전하는것을 거부 했습니다"
+
+msgctxt "refused_join_war_vs_us코0"
+msgid "They refused to join the war against us"
+msgstr "그들이 우리의 적으로써 전쟁에 참여하는것을 거부 했습니다"
+
+msgctxt "refused_religious_unity코0"
+msgid "They refused a call for religious unity"
+msgstr "그들이 종교적 연합에 참여하는것을 거부 했습니다"
+
+msgctxt "refused_crusade코0"
+msgid "They refused a call for crusade"
+msgstr "그들이 십자군에 참여 하는것을 가부 했습니다"
+
+msgctxt "excommunicated_us코0"
+msgid "They excommunicated us"
+msgstr "그들이 우리를 교회에서 파문 당하게 했습니다"
+
+msgctxt "excommunicated코0"
+msgid "They are excommunicated"
+msgstr "그들이 교회에서 파문당했습니다"
+
+msgctxt "excommunicated_theocracy코0"
+msgid "They are excommunicated"
+msgstr "그들이 교회에서 파문당했습니다"
+
+msgctxt "lifted_excommunication코0"
+msgid "They lifted the excommunication against us."
+msgstr "그들이 우리의 파문을 사면하였습니다."
+
+msgctxt "released_vassal코0"
+msgid "They liberated us"
+msgstr "그들이 우리를 해방하였습니다"
+
+msgctxt "helped_support_rebels코0"
+msgid "They supported our rebellion"
+msgstr "우리의 반란을 지원"
+
+msgctxt "opinion_left_empire코0"
+msgid "Left the Holy Roman Empire"
+msgstr "신성 로마 제국을 떠남"
+
+msgctxt "opinion_united_empire코0"
+msgid "United the Holy Roman Empire"
+msgstr "신성 로마 제국 연합"
+
+msgctxt "opinion_military_access코0"
+msgid "They allow us military access"
+msgstr "그들이 우리에게 군사 통행권을 허락하였습니다"
+
+msgctxt "opinion_fleet_access코0"
+msgid "They allow us fleet basing rights"
+msgstr "그들이 우리에게 항대 정박권을 허락하였습니다"
+
+msgctxt "republic_different_religions_group_border코0"
+msgid "Neighboring Different religion"
+msgstr "이웃하는 다른 종교"
+
+msgctxt "republic_different_religion_same_group_border코0"
+msgid "Neighboring Heretic religion"
+msgstr "이웃하는 이단 종교"
+
+msgctxt "different_religions_group_border코0"
+msgid "Neighboring Different Religion"
+msgstr "이웃하는 다른 종교"
+
+msgctxt "different_religion_same_group_border코0"
+msgid "Neighboring Heretic Religion"
+msgstr "이웃하는 이단 종교"
+
+msgctxt "misguided_heretic코0"
+msgid "Tolerated heretics"
+msgstr "이단자에 대한 용인"
+
+msgctxt "misguided_heretic_border코0"
+msgid "Neighboring Tolerated Heretics"
+msgstr "이웃하는 이단자에 대한 용인"
+
+msgctxt "republic_misguided_heretic코0"
+msgid "Tolerated Heretics"
+msgstr "이단자에 대한 용인"
+
+msgctxt "republic_misguided_heretic_border코0"
+msgid "Neighboring Tolerated Heretics"
+msgstr "이웃하는 이단자에 대한 용인"
+
+msgctxt "the_proclamation_of_year코0"
+msgid "Restricted Colonial Wars"
+msgstr "제한된 식민지 전쟁"
+
+msgctxt "non_restricted_colonial_wars코0"
+msgid "Non-restricted Colonial Wars"
+msgstr "제한없는 식민지 전쟁"
+
+msgctxt "restricted_colonial_expansion_opinion코0"
+msgid "Restricted Colonial Expansion"
+msgstr "제한된 식민지 확장"
+
+msgctxt "non_restricted_colonial_expansion_opinion코0"
+msgid "Non-restricted Colonial Expansion"
+msgstr "제한없는 식민지 확장"
+
+msgctxt "POWER_COST_CLAIM코0"
+msgid "We have a legitimate claim: $VAL$\n"
+msgstr "합법적인 클레임을 가짐: $VAL$\n"
+
+msgctxt "CANCEL_DIPLOMAT_DIALOG_TITLE코0"
+msgid "Confirm canceling the diplomatic activity"
+msgstr "확실합니까? 지금 외교적 활동을 중지시키는 명령을 내리시고 있습니다"
+
+msgctxt "CANCEL_DIPLOMAT_DIALOG_DESC코0"
+msgid "$ACTIVITY$\n"
+"\n"
+"Are you sure you want him to return home?"
+msgstr "$ACTIVITY$\n"
+"\n"
+"정말로 그가 본국으로 돌아오길 원하십니까?"
+
+msgctxt "PEACE_EFFECT_PRESTIGE_DISHONORABLE코0"
+msgid ""
+"$WHO$ gets $PRESTIGE$ additional Prestige due to signing a separate peace "
+"while having more than $WS|Y$ War Score in the first $MONTHS$ months of the "
+"war."
+msgstr ""
+"$WHO$은(는) 전쟁의 첫 $MONTHS$개월 동안 $WS|Y$ 이상의 승점을 획득하고 단독 평화 협정에 서명했기 때문에 "
+"$PRESTIGE$의 위신을 추가로 획득합니다."
+
+msgctxt "PEACE_EFFECT_PRESTIGE코0"
+msgid "$WHO$ gains $VALUE$ Prestige."
+msgstr "$WHO$은(는) $VALUE$의 위신을 획득합니다."
+
+msgctxt "PEACE_EFFECT_AGGRESSIVE_EXP코1"
+msgid ""
+"This peace will cause $WHO$ to suffer a base of $VALUE$ Aggressive Expansion "
+"relations penalty."
+msgstr "이 평화는 $WHO$이(가) $VALUE$의 기본 공격적 확장 관계 패널티를 받게 만들 것입니다."
+
+msgctxt "PEACE_EFFECT_OVEREX코0"
+msgid "This peace will cause $WHO$ to suffer $VALUE$ overextension."
+msgstr "이 평화는 $WHO$이(가) $VALUE$의 과잉확장 페널티를 받게 만들 것입니다."
+
+msgctxt "ANNEX_NATION_ACCEPT_EFFECT코0"
+msgid "Annexing them will have the following effects: "
+msgstr "합병으로 인한 효과: "
+
+msgctxt "ANNEX_NATION_ESTIMATED_DONE2코0"
+msgid ""
+"Annexation is estimated to be done $DATE|Y$, and will cost $VAL|Y$£dip  per "
+"month, unless conditions change."
+msgstr "상황이 변하지 않는다면 합병은 $DATE|Y$에 완료될 것이라고 추정되며, 매월 $VAL|Y$£dip 이 소모될 것입니다."
+
+msgctxt "INTEGRATE_NATION_ESTIMATED_DONE코0"
+msgid "Integration is estimated to be done $DATE|Y$ ($VAL|+2$/month) due to: "
+msgstr "통합은 다음과 같은 이유로 $DATE|Y$에 완료될 것이라고 추정됩니다 ($VAL|+2$/월):"
+
+msgctxt "NO_COALITION_AGAINST_RECIPIENT코0"
+msgid "You cannot ask them to join a coalition against themselves."
+msgstr "그들 스스로에게 대항하는 반국가동맹에 참여시킬 수 없습니다."
+
+msgctxt "LEAVE_COALITION코0"
+msgid "Leave Coalition"
+msgstr "반국가동맹 탈퇴"
+
+msgctxt "LEAVE_COALITION_REQ_DESC코0"
+msgid ""
+"Do you wish to leave the coalition against §Y$TARGET$§W? You will no longer "
+"be called in if they go to war with another coalition member."
+msgstr ""
+"§Y$TARGET$§W을 대상으로한 반국가동맹을 탈퇴하시길 원하십니까? 만약 그들이 전쟁에 들어간다해도 당신은 들어갈수 있는 권리를 "
+"가지지 않을것입니다."
+
+msgctxt "LEAVE_COALITION_DESC코0"
+msgid "Leave the coalition."
+msgstr "반국가동맹을 탈퇴하였습니다."
+
+msgctxt "LEAVE_COALITIONTITLE코0"
+msgid "Leave Coalition"
+msgstr "반국가동맹 탈퇴"
+
+msgctxt "HAS_CASUS_BELLI_AGAINST코0"
+msgid "Have the casus belli §Y$NAME$§! against §Y$WHO$§!"
+msgstr "§Y$WHO$§!를 향한 전쟁 명분 §Y$NAME$§!를 가지고 있습니다!"
+
+msgctxt "HAS_NOT_CASUS_BELLI_AGIANST코0"
+msgid "Does not have the casus belli §Y$NAME$§! against §Y$WHO$§!"
+msgstr "§Y$WHO$§!를 향한 전쟁 명분 §Y$NAME$§!를 가지고 있지 않습니다!"
+
+msgctxt "AE_FABRICATE_CLAIM코0"
+msgid "If discovered we will gain §R$VAL$§! Aggressive Expansion"
+msgstr "만약 발견된다면 §R$VAL$§! 공격적 확장을 얻을 것입니다."
+
+msgctxt "SUPPORTING_REBEL_DESC코0"
+msgid "Supporting $REBEL|Y$ with $COST|2Y$¤ each month."
+msgstr "$REBEL|Y$ 을 매월 $COST|2Y$¤ 값으로 지지 합니다."
+
+msgctxt "PEACE_BECOME_SHOGUN코0"
+msgid "§Y$SHOGUN$ will become the new Shogun of Japan!§!"
+msgstr "§Y$SHOGUN$이(가) 새로운 일본의 쇼군이 될 것입니다!§!"
+
+msgctxt "PEACE_GRANT_INDEPENDANCE코0"
+msgid "$DEFENDER$ will Grant Independence to $ATTACKER$."
+msgstr "$DEFENDER$ 가 $ATTACKER$ 의 독립을 약속할것입니다."
+
+msgctxt "PEACE_DONT_GRANT_INDEPENDANCE코0"
+msgid "§R$ATTACKER$ will remain subjects to $DEFENDER$.§!"
+msgstr "§R$ATTACKER$은(는) $DEFENDER$의 속국으로 남을 것입니다.§!"
+
+msgctxt "WHITE_PEACE_INDEPENDANCE코0"
+msgid "White Peace. §R$ATTACKER$ will remain subjects to $DEFENDER$.§!"
+msgstr "무조건 평화. §R$ATTACKER$은(는) $DEFENDER$의 속국으로 남을 것입니다.§!"
+
+msgctxt "PEACEOFFER_DEMANDED_CAPITAL코0"
+msgid ""
+"You have demanded their capital and thus you may not demand any other "
+"provinces."
+msgstr "당신은 그들에게 수도를 넘기라고 요구했고, 따라서 다른 지역들은 요구할 수 없습니다."
+
+msgctxt "PEACEOFFER_CANNOT_TAKE_LAST코0"
+msgid ""
+"Cannot take $TARGET$'s last province and make them a subject at the same "
+"time."
+msgstr "$TARGET$의 모든 영토를 뺏으면서 동시에 그들을 속국으로 만들 수는 없습니다."
+
+msgctxt "PEACEOFFER_CANNOT_RETURN_LAST코0"
+msgid "Cannot force $TARGET$'s to return their last province."
+msgstr "$TARGET$에게 그들의 마지막 지역을 반환하도록 할 수는 없습니다."
+
+msgctxt "PEACEOFFER_WILL_LOSE_ALL_PROVINCES코0"
+msgid "$TARGET$ will no longer exist after the war."
+msgstr "$TARGET$은(는) 전쟁 후에 더 이상 존재하지 않을 것입니다."
+
+msgctxt "PEACEOFFER_LEAGUE_WAR코0"
+msgid ""
+"Cannot vassalize the leader of a League while they are in a League War."
+msgstr "종교 연맹의 리더가 종교 전쟁 중일 때는 속국으로 만들 수 없습니다."
+
+msgctxt "PEACEOFFER_RETURN_CORE_SELECTED코0"
+msgid "Core $NAME$ is already to be returned to $COUNTRY$."
+msgstr "$NAME$ 코어는 이미 $COUNTRY$ 에게 반환되어야 합니다."
+
+msgctxt "PEACEOFFER_CEDE_SELECTED코0"
+msgid "$NAME$ is already demanded."
+msgstr "$NAME$은(는) 이미 요구되었습니다."
+
+msgctxt "PEACEOFFER_REVOKE_CORE_SELECTED코0"
+msgid "Core status for $NAME$ will be revoked."
+msgstr "$NAME$ 코어가 삭제될 것입니다."
+
+msgctxt "PEACEOFFER_WILL_BECOME_SUBJECT코0"
+msgid "$NAME$ will become a subject."
+msgstr "$NAME$은 속국이 될 것입니다."
+
+msgctxt "PEACEOFFER_CANNOT_COMBINE_CONCEDE_DEFEAT코0"
+msgid "Cannot combine Concede Defeat with other options."
+msgstr "패배 인정을 다른 제안과 함께 할 수 없습니다."
+
+msgctxt "PEACEOFFER_SUBJECT_FIGHTING_INDEPENDENCE코0"
+msgid ""
+"§R$SUBJECT$ is fighting for independence against $OVERLORD$, and will become "
+"their $SUBJECTTYPE$ again if they lose.§!"
+msgstr ""
+"§R$SUBJECT$은(는) $OVERLORD$에 대항하여 독립 전쟁을 벌이고 있으며, 패배한다면 다시 그들의 "
+"$SUBJECTTYPE$이(가) 될 것입니다.§!"
+
+msgctxt "PEACEOFFER_CANNOT_COMBINE_CANCEL_SUBJECT코0"
+msgid "Cannot combine with Cancel Subject."
+msgstr "속국 취소와 동시에 요구할 수 없습니다."
+
+msgctxt "PEACEOFFER_WAR_REPARATIONS_SELECTED코0"
+msgid ""
+"Cannot make $NAME$ a subject and demand war reparations at the same time."
+msgstr "$NAME$ 을 종속국으로 만드는 동시에 전쟁 배상금을 청구할 수 없습니다."
+
+msgctxt "PEACEOFFER_CANNOT_COMBINE_WITH코0"
+msgid "Cannot combine this option with $NAME$."
+msgstr "$NAME$와 이 조건은 동시에 요구할 수 없습니다.."
+
+msgctxt "PEACEOFFER_NON_WARLEADER_CANNOT_ANNEX_WARLEADER코0"
+msgid "Only the war leader may annex the other side's war leader."
+msgstr "오직 전쟁 리더만이 상대의 전쟁 리더를 합병할 수 있습니다."
+
+msgctxt "PEACEOFFER_CANNOT_MAKE_CORE코0"
+msgid "Cannot select this province because $TAG$ cannot make it a core."
+msgstr "$TAG$ 가 이 지역에 코어를 생성할 수 없으므로 이 지역은 선택할 수 없습니다."
+
+msgctxt "PEACEOFFER_CANNOT_RELEASE_NATION_TWICE코0"
+msgid ""
+"Cannot release $NEW_NATION|Y$ because it will already be released by "
+"$OTHER_RELEASER|Y$."
+msgstr "$NEW_NATION|Y$는 이미 $OTHER_RELEASER|Y$에 의해 해방되었기 때문에 해방시킬 수 없습니다."
+
+msgctxt "PEACETREATY_REVOKE_CORE코0"
+msgid "Revoke Core"
+msgstr "코어 삭제"
+
+msgctxt "PEACETREATY_RELEASE_VASSAL코0"
+msgid "Cancel Subject"
+msgstr "속국을 해방"
+
+msgctxt "PEACEOFFER_GOLD_DESC코1"
+msgid "$VAL$¤"
+msgstr "$VAL$¤"
+
+msgctxt "INTEGRATE_OWNS_MORE_PROVINCES코0"
+msgid "$BIG$ owns more provinces than $SMALL$."
+msgstr "$BIG$ 은 $SMALL$ 보다 더 많은 지역을 소유하고 있습니다."
+
+msgctxt "PEACEOFFER_DEMANDED_PROVINCE_CANNOT_TAKE_CAPITAL코0"
+msgid ""
+"This is their capital and since we have demanded other provinces we cannot "
+"demand this as well."
+msgstr "이미 다른 지역을 요구했기 때문에 수도는 요구할 수 없습니다."
+
+msgctxt "DIPLO_CHANGE_VASSALS코0"
+msgid "Opinion of other subject changed by: "
+msgstr "속국들의 의견이 변하였습니다: "
+
+msgctxt "DIPLO_CHANGE_EMPIRE코0"
+msgid "Opinion change of other HRE members: "
+msgstr "신성 로마제국 선제후들의 의견이 변하었습니다: "
+
+msgctxt "SUBJECT_NEW_WAR코0"
+msgid "$SUBJECT$ will drag $OVERLORD$ into war with $LIST$."
+msgstr "$SUBJECT$은(는) 그 종주국인 $OVERLORD$을(를) $LIST$와(과)의 전쟁에 끌어들일 것입니다."
+
+msgctxt "SUBJECT_NOT_NEW_VAR코0"
+msgid ""
+"$OVERLORD$ will not join the war between $SUBJECT$ and $SUBJECT_ENEMY$: "
+"$REASON$"
+msgstr ""
+"$OVERLORD$ 는 $SUBJECT$ 와(과) $SUBJECT_ENEMY$사이의 전쟁에 참여하지 않을 것 입니다. : $REASON$"
+
+msgctxt "PART_OF_HRE코0"
+msgid "$COUNTRY|Y$ is part of the Holy Roman Empire."
+msgstr "$COUNTRY|Y$측은 신성로마제국의 일원 입니다."
+
+msgctxt "POWER_PROJ_IRO코0"
+msgid "§YPower Projection§!\n"
+"Due to the following factors:"
+msgstr "§Y세력 투사§!\n"
+"다음 요소들에 영향 받음:"
+
+msgctxt "POWER_PROJ_DRO코0"
+msgid "With the following effects:"
+msgstr "다음 효과들을 가져옴:"
+
+msgctxt "power_projection코0"
+msgid "Power Projection"
+msgstr "세력 투사"
+
+msgctxt "is_great_power코0"
+msgid "Great Power"
+msgstr "열강"
+
+msgctxt "lacking_rival코0"
+msgid "Not Enough Rivals"
+msgstr "적대국이 부족함"
+
+msgctxt "has_rival코0"
+msgid "Has Longtime Rivals"
+msgstr "오랜 적대국을 가짐"
+
+msgctxt "warned_rival코0"
+msgid "Warned $TARGET$"
+msgstr "$TARGET$에 경고함"
+
+msgctxt "subsidies_to_enemy_of_rival코0"
+msgid "Subsidizing $TARGET$"
+msgstr "$TARGET$에 전쟁 보조금 지급"
+
+msgctxt "embargoing_rival코0"
+msgid "Embargoing $TARGET$"
+msgstr "$TARGET$에 무역금지"
+
+msgctxt "guarantee_neighbour_of_rival코0"
+msgid "Guarantees $TARGET$"
+msgstr "$TARGET$의 독립 보장"
+
+msgctxt "took_province_from_rival코0"
+msgid "Conquered provinces from $TARGET$"
+msgstr "$TARGET$의 영토를 정복"
+
+msgctxt "vassalized_rival코0"
+msgid "Vassalized $TARGET$"
+msgstr "$TARGET$을(를) 속국화"
+
+msgctxt "rival_lost_province코0"
+msgid "$TARGET$ lost provinces in our war"
+msgstr "$TARGET$이(가) 우리와의 전쟁에서 영토를 잃음"
+
+msgctxt "lost_province_to_rival코0"
+msgid "$TARGET$ conquered our provinces"
+msgstr "$TARGET$이(가) 우리의 영토를 정복"
+
+msgctxt "eclipsed_rival코0"
+msgid "Eclipsed $TARGET$"
+msgstr "$TARGET$을(를) 능가하다"
+
+msgctxt "declared_war_at_rival코0"
+msgid "Declared War on $TARGET$"
+msgstr "$TARGET$에 전쟁 선포"
+
+msgctxt "joined_war_against_rival코0"
+msgid "Honored Call to Arms against $TARGET$"
+msgstr "$TARGET$에 대항하는 전쟁에서 동맹의 참전 요청에 응함"
+
+msgctxt "refused_war_against_rival코0"
+msgid "Dishonored Call to Arms against $TARGET$"
+msgstr "$TARGET$에 대항하는 전쟁에서 동맹의 참전 요청에 응하지 않음"
+
+msgctxt "privateering_rival코0"
+msgid "Sending Privateers against $TARGET$"
+msgstr "$TARGET$에 대항하여 사략선 파견"
+
+msgctxt "supporting_rebels_in_rival코0"
+msgid "Supporting Rebels in $TARGET$"
+msgstr "$TARGET$에 대항하는 반란 지원"
+
+msgctxt "WARN_LOW_ARMY_MAINTENANCE코1"
+msgid "§YYou are not at 100% Army Maintenance!§!"
+msgstr "§Y당신은 100%의 육군 유지비 상태가 아닙니다!§!"
+
+msgctxt "WARN_LOW_NAVY_MAINTENANCE코0"
+msgid "§YYou are not at 100% Fleet Maintenance!§!"
+msgstr "§Y당신의 해군 유지비가 100%가 아닙니다!§!"
+
+msgctxt "SUBSIDY_OPINION_EFFECT코1"
+msgid ""
+"This is estimated to improve $COUNTRY$'s opinion of us by $YEARLY$ each "
+"year, up to a maximum of $MAX$. The yearly improvement depends on "
+"$COUNTRY$'s income."
+msgstr ""
+"이것은 $COUNTRY$의 우리에 대한 의견을 매년 $YEARLY$씩, 최대 $MAX$까지 증대시킵니다. 연간 개선량은 "
+"$COUNTRY$의 연간 수익에 의해 변동됩니다."
+
+msgctxt "SUBSIDY_POWERPROJ_EFFECT코0"
+msgid ""
+"Due to subsidizing an enemy of one or more rivals ($RIVALS$), you would gain "
+"a total of $TOTAL$ power projection."
+msgstr "하나 이상의 경쟁국의($RIVALS$) 적국에 보조금을 지원해주고 있기 때문에, 총 $TOTAL$의 세력 투사를 얻습니다."
+
+msgctxt "MUST_WAIT_UNTIL_NEXT_ALLIANCE_OFFER코0"
+msgid "You must wait a day until you can send another offer."
+msgstr "당신은 다시 동맹 제안을 보낼 수 있을 때까지 기다려야 합니다."
+
+msgctxt "GUARANTEEING_THEIR_INDEPENDENCE코0"
+msgid "Guaranteeing their independence."
+msgstr "독립 보장."
+
+msgctxt "PEACE_PROVINCE_CORING_COST코0"
+msgid ""
+"It will cost $COUNTRY$ §Y$ADM$§! £adm to make all ceded provinces Cores."
+msgstr "획득한 모든 영토를 코어로 만들기 위해서는 $COUNTRY$의 §Y$ADM$§! £adm 이 필요합니다."
+
+msgctxt "PEACE_OPTION_REQUIRES_DEMANDING_INDPENDENCE코1"
+msgid "Cannot demand this without also demanding Independence."
+msgstr "독립을 요구하지 않으면서 이를 요구할 수 없습니다."
+
+msgctxt "MUST_WAIT_UNTIL_NEXT_PEACE_OFFER코0"
+msgid "You must wait a day until you can send another peace offer."
+msgstr "당신은 다시 평화제안을 보낼 수 있을 때까지 기다려야 합니다."
+
+msgctxt "PEACE_SUBJECT_WILL_CALL코0"
+msgid "§RIf selected, you will be called to join their other war(s).§!"
+msgstr "§R선택한다면, 당신은 그들의 다른 전쟁(들)에도 참여하게 될 것입니다.§!"
+
+msgctxt "CLAIMSTATETITLE코0"
+msgid "Fabricate Claim on Area"
+msgstr "지방에 대한 클레임 조작"
+
+msgctxt "CLAIMSTATETITLEDESC코0"
+msgid "Fabricate a claim on all provinces in an area."
+msgstr "한 지방에 속한 모든 지역에 클레임을 조작합니다."
+
+msgctxt "CLAIM_STATE_SELECT_DESC코1"
+msgid ""
+"Fabricate Claim on Area will reduce the size of our $ADJ|Y$ Spy Network by "
+"$COST|R$ and give us claims on all $ADJ$ provinces in §Y$AREA$§W. The claims "
+"will last for $YEARS|Y$ years."
+msgstr ""
+"지방에 대한 클레임 조작은 우리의 $ADJ|Y$ 첩보망을 $COST|R$만큼 축소시키고, 우리에게 §Y$AREA$§W의 모든 $ADJ$ "
+"지역들에 대한 클레임을 제공합니다. 이 클레임들은 $YEARS|Y$ 년 동안 지속될 것입니다."
+
