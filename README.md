@@ -10,4 +10,4 @@ Copyright (c) @ruby3141(prop2yml.py), @WovNyx(StellarisProperties2psudoYaml) - p
 * prop2yml.py
 > python3 prop2yml.py 변환하고자 하는 파일
 * StellarisProperties2psudoYaml.py
-> python3 StellarisProperties2psudoYaml.py (동일 경로에 저장폴더인 path.txt가 있어야 함)
+> python3 StellarisProperties2psudoYaml.py (동일 경로에 저장폴더를 지정한 path.txt가 있어야 함)
