@@ -33,4 +33,4 @@ Copyright (C) @WovNyx(StellarisTranstaleSupporter.py) - properity - Paradox's ps
 -------------------
 * Github Pull Request 이용 - 스크립트를 고치고자 하시는 분들은 이걸 사용해주세요. Pull Reuqest를 거치지 않은 내용은 되돌려질수 있습니다.
 * 까페 한글화 게시판 이용 - Transifex에 대한 설명 / 번역 관련 도움말은 여기에서 이용해주세요
-* 저작권에 대한 사항 - [https://olis.or.kr/license/Detailselect.do?lId=1088&mapCode=010092](MPL 라이선스 소개 & 한글 번역) - 참고로 한글번역은 참고용이고, 영문이 선행입니다.
+* 저작권에 대한 사항 - [MPL 라이선스의 소개 및 한글번역](https://olis.or.kr/license/Detailselect.do?lId=1088&mapCode=010092) - 참고로 한글번역은 참고용이고, 영문이 선행입니다.
