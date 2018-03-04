@@ -69,27 +69,19 @@ _config_default = """
     [JavaProperties]
         suffix = '.properties'
         valdelim = '='
-        chaindelim = ':'
+        chaindelim = '|'
         ref = '#'
         wletter = '"'
-        deheadlne = ''
-        indent = 0
-    [JavaPropertiesNewType]
-        suffix = 'properties'
-        valdelim = '='
-        chaindelim = ':'
-        ref = '#'
-        wletter = '"'
-        deheadlne = ''
+        headline = ''
         indent = 0
     [JavaPropertiesOldType]
         ## suffix of file, used for searching file in directory.
         suffix = '.properties'
-        dvaldelim = '='
+        valdelim = '='
         chaindelim = '코'
         ref = '#'
-        wletter = '"'
-        headlne = ''
+        wletter = ''
+        headline = ''
         indent = 0
 
 ## error handling and print setting for line parse.
@@ -151,6 +143,7 @@ class StellarisTranslateSupporter(object) :
       
         for ii in self.orn_fmtdata :
             self.orn_fmtdata[ii] = self.unwrap(self.orn_fmtdata[ii], "'" )
+            print(ii, self.orn_fmtdata[ii])
         for ii in self.dest_fmtdata :
             self.dest_fmtdata[ii] = self.unwrap(self.dest_fmtdata[ii], "'" )
             
@@ -224,9 +217,10 @@ class StellarisTranslateSupporter(object) :
         ## status is result of data and key, chain, value is parsed outcome data
         ## don't parse chain if no chaindelim recieved
         ## if valdelim is ' '(space) or '\t'(tab), it might return nodelim status even if actual data has delim but has no key or value
-        line = line.strip()
+        line = line.lstrip()
+        if wletter != '' :
+            line = line.rstrip()
         print(line)
-        print(line==self.orn_fmtdata['headline'])
         if not line :
             return {'status' : 'nodata', 'key' : '', 'chain' : '', 'value' : ''}
         
@@ -244,7 +238,6 @@ class StellarisTranslateSupporter(object) :
                 if (not chain.isdecimal() ) or (kname == '') :
                     return {'status' :'badkey', 'key' : key, 'chain' : '', 'value' : value}
                 else :
-                    
                     if value != '' :
                         return {'status' : 'clean', 'key' :kname, 'chain' : chain, 'value' : value}
                     else :
@@ -271,14 +264,14 @@ class StellarisTranslateSupporter(object) :
                     
             if map['status'] in ['clean', 'novalue', 'nokey'] :
                 if map.get('chain') : ## if map['chain'] is '' or not exist
-                    return {'status' : map['status'], 'line' : (map['key'] + chaindelim + map['chain'] + valdelim + map['value'] ) }
+                    return {'status' : map['status'], 'line' : (map['key'] + chaindelim + map['chain'] + valdelim + self.wrap(map['value'], wletter) ) }
                 else :
                     return {'status' : map['status'], 'line' : (map['key'] + valdelim + map['value']) }
             elif map['status'] == 'badkey' :
                 return {'status' : map['status'], 'line' :  map['key'] + valdelim + map['value'] }
             elif map['status'] == 'novalue':
                 if map.get('chain') : ## if map['chain'] is '' or not exist
-                    return {'status' : map['status'], 'line' :  map['key'] + chaindelim + map['chain'] + valdelim }
+                    return {'status' : map['status'], 'line' :  map['key'] + chaindelim + map['chain'] + valdelim + self.wrap(map['value'], wletter) }
                 else :
                     return {'status' : map['status'], 'line' : map['key'] + valdelim }
             elif map['status'] in ['nodata', 'headline'] :
@@ -345,6 +338,7 @@ class StellarisTranslateSupporter(object) :
                 proc.append(rdata)
                 self._debugprint("clean convertion\n", rdata)
             elif rstatus == "ref" :
+                proc.append(rdata)
                 self._debugprint("reference found\n", rdata)
                 continue
             elif rstatus == "headline" :
@@ -455,7 +449,11 @@ class StellarisTranslateSupporter(object) :
                     print("didin't write on ", file)
                     final['baddata'][os.path.join(orient,file)] = result
             except :
-                final['unknownerror'][os.path.join(orient,file)] = result
+                raise error
+                if result :
+                    final['unknownerror'][os.path.join(orient,file)] = result
+                else :
+                    final['unknownerror'][os.path.join(orient,file)] = "{} failed to convert".format(os.path.join(orient,file) )
                     
                     ##
         print("!!!!!!\n")
@@ -467,9 +465,11 @@ class StellarisTranslateSupporter(object) :
             print(ii)
             for jj in final[ii] :
                 print("\t" + jj)
-                for kk in final[ii][jj] :
-                    print("\t\t",kk,  final[ii][jj][kk]  )
-                    
+                if type(final[ii][jj]) == type({} ) :
+                    for kk in final[ii][jj] :
+                        print("\t\t",kk,  final[ii][jj][kk]  )
+                else :
+                    print("\t\t", final[ii][jj])
                     
         
         

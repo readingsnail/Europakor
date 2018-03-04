@@ -1,4 +1,4 @@
-다음 유로파 까페의 한글 모드 변환기 / 모드 관련 파일 Git 저장소입니다.
+다음 유로파 까페 한글 모드 변환기 / 모드 관련 파일 Git 저장소입니다.
 
 Copyright (c) 2001~2018 Contributors & Daum Europa Cafe. Under & Distribute by MPL 2.0 Licenses.
 
@@ -21,14 +21,12 @@ Copyright (C) @WovNyx(StellarisTranstaleSupporter.py) - properity - Paradox's ps
   * <https://www.transifex.com/europa/public/> - Transifex 번역 사이트
   * <https://docs.transifex.com/client/pull> - Transifex CLI 클라이언트로 전 리소스를 다운 받는 법 (Python3 설치 필요 - 난이도 중)
 
-파이썬 스크립트 사용법 (스텔라리스)
+파이선 스크립트 사용법 (스텔라리스)
 -------------------
-* 파이썬 스크립트는 Python3을 사용하고 있습니다. Python3은 <https://www.python.org/downloads/> 에서 받으실수 있습니다.
-* StellarisTranstaleSupporter.py - 현행 컨버터
-
+* 파이선 스크립트는 파이선 최신버전인 Python3을 사용하고 있습니다. Python3은 <https://www.python.org/downloads/> 에서 받으실수 있습니다.
+* StellarisTranstaleSupporter.py - 현 컨버터
 
 > 설정파일 수정 - File Format 항목 두개를 고치면 작동하도록 되어 있습니다. 기타 디렉토리를 변경하실수 있습니다.
-
 
 > python3(혹은 python) StellarisTranstaleSupporter.py
 
