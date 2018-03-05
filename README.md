@@ -15,6 +15,10 @@ Copyright (C) @WovNyx(StellarisTranstaleSupporter.py) - properity - Paradox's ps
 * 한글패치용 컨버터 공개
   * 컨버터를 공개함으로써 다른 이들이 컨버터에 대해 접근하여 더 나은 내용으로 교체할 수 있습니다.
   * Headless 번역이 가능해집니다.
+  * **까페 회원들의 것은 까페 회원들에게.** 컨버터 공개로 인해 설정된 MPL(모질라 퍼블릭 라이선스) 2.0 라이선스는 한글패치에 기여하신 까페회원분들의 저작권을 보호합니다.
+
+* 기타 프로젝트 / 저작권
+  * Transifex에 올라오는 까페 외 다른 곳에서 주도하는 작업들의 프로젝트 메인테이너는 자신의 모드가 Transifex에는 올라오지만 까페 회칙의 미적용 및 서브 라이선스를 가질수 있음을 알려드립니다. 까페 내의 패치의 경우 까페 회칙을 따라야 합니다.
 
 번역 사이트
 -------------------
@@ -27,7 +31,6 @@ Copyright (C) @WovNyx(StellarisTranstaleSupporter.py) - properity - Paradox's ps
 * StellarisTranstaleSupporter.py - 현 컨버터
 
 > 설정파일 수정 - File Format 항목 두개를 고치면 작동하도록 되어 있습니다. 기타 디렉토리를 변경하실수 있습니다.
-
 > python3(혹은 python) StellarisTranstaleSupporter.py
 
 기타
