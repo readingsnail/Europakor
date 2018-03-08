@@ -92,7 +92,7 @@ _config_default = """
 [LINEPARSE]
     NoKey = warnpass
     NoValue = warnwrite
-    BadKey = nowrite
+    BadKey = warnwrite
     NoDelim = nowrite
     NoData = ignore
 
