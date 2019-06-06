@@ -7,6 +7,7 @@ Copyright (C) @WovNyx(StellarisTranstaleSupporter.py) - properity <-> Paradox's 
 Copyright (C) KJH(STLtranslateV2.py) - properity <-> Paradox's Pseudo yaml converter (Stellaris & HOI 가능)
 <<<<<<< refs/remotes/origin/master
 <<<<<<< refs/remotes/origin/master
+<<<<<<< refs/remotes/origin/master
 
 =======
 >>>>>>> 업데이트
@@ -14,14 +15,16 @@ Copyright (C) KJH(STLtranslateV2.py) - properity <-> Paradox's Pseudo yaml conve
 
 >>>>>>> Update README.md
 스텔라리스 변환기의 저작권은 이 분에게 있습니다. 이 자리를 빌러서 감사 말씀을 전합니다.
+=======
+
+스텔라리스 변환기의 저작권은 이 분들에게 있습니다. 이 자리를 빌러서 감사 말씀을 전합니다.
+>>>>>>> Update README.md
 
 파이선 스크립트 사용법
 -------------------
 * 파이선 스크립트는 파이선 최신버전인 Python3을 사용하고 있습니다. Python3은 <https://www.python.org/downloads/> 에서 받으실수 있습니다.
 * StellarisTranstaleSupporter.py - 현 컨버터
-
-> 설정파일 수정 - File Format 항목 두개를 고치면 작동하도록 되어 있습니다. 기타 디렉토리를 변경하실수 있습니다.
-> python3(혹은 python) StellarisTranstaleSupporter.py
+* STLtranslateV2.py - 개량 컨버터
 
 기타
 -------------------
