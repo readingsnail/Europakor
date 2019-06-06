@@ -4,7 +4,7 @@ Copyright (c) 2001~2019 Contributors & Daum Europa Cafe. Under & Distribute by M
 
 Copyright (C) @WovNyx(StellarisTranstaleSupporter.py) - properity <-> Paradox's Pseudo yaml converter (Stellaris & HOI 가능)
 
-Copyright (C) KJH(STLtranslateV2.py) - properity <-> Paradox's Pseudo yaml converter (Stellaris & HOI 가능)
+Copyright (C) KJH(STLtranslateV2.py) - properity <-> Paradox's Pseudo yaml converter (Stellaris & HOI 가능), numpy 필요
 <<<<<<< refs/remotes/origin/master
 <<<<<<< refs/remotes/origin/master
 <<<<<<< refs/remotes/origin/master
