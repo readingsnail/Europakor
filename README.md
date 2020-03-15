@@ -1,6 +1,8 @@
 다음 유로파 까페 한글 모드 변환기 / 모드 관련 파일 Git 저장소입니다.
 
-Copyright (c) 2001~2020 Contributors & Daum Europa Cafe. Under & Distribute by MPL 2.0 Licenses.
+Copyright (C) 2001~2020 Contributors & Daum Europa Cafe. Under & Distribute by MPL 2.0 Licenses.
+
+Copyright (C) 미리칸(Im bada) - Original Stellaris converter
 
 Copyright (C) @WovNyx(StellarisTranstaleSupporter.py) - properity <-> Paradox's Pseudo yaml converter (Stellaris & HOI 가능)
 
