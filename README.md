@@ -5,20 +5,8 @@ Copyright (c) 2001~2019 Contributors & Daum Europa Cafe. Under & Distribute by M
 Copyright (C) @WovNyx(StellarisTranstaleSupporter.py) - properity <-> Paradox's Pseudo yaml converter (Stellaris & HOI 가능)
 
 Copyright (C) KJH(STLtranslateV2.py) - properity <-> Paradox's Pseudo yaml converter (Stellaris & HOI 가능), numpy 필요
-<<<<<<< refs/remotes/origin/master
-<<<<<<< refs/remotes/origin/master
-<<<<<<< refs/remotes/origin/master
 
-=======
->>>>>>> 업데이트
-=======
-
->>>>>>> Update README.md
 스텔라리스 변환기의 저작권은 이 분에게 있습니다. 이 자리를 빌러서 감사 말씀을 전합니다.
-=======
-
-스텔라리스 변환기의 저작권은 이 분들에게 있습니다. 이 자리를 빌러서 감사 말씀을 전합니다.
->>>>>>> Update README.md
 
 파이선 스크립트 사용법
 -------------------
