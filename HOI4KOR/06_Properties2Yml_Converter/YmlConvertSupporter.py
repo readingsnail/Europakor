@@ -184,6 +184,11 @@ class YmlConvertSupporter(object) :
         ## if force = True, wraps line whenever it's first and/or last
         ## maybe it won't work letter has 2 or more charactors
         result = line
+        result = result.replace("\\+", "+")
+        result = result.replace("\\#", "#")
+        result = result.replace("\\!", "!")
+        result = result.replace("\\=", "=")
+        result = result.replace("\\:", ":")
         if result == '' or result == letter :
             result = letter*2
         elif result[0] != result[-1] :
